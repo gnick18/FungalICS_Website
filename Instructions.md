@@ -88,3 +88,10 @@ Probably best for us to go through the repo together. I know the program and wha
 
 https://github.com/gamcil/clinker/blob/392613f5f6ac74e2a16035fb6a0c27858b50d898/clinker/plot/clinker.js
 
+Option #2: Create the html gene views ourselves using this package
+https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer
+- the bokeh feature is what you want
+- reads in biological files and autogenerates the plots, you can specify the color and look of everything
+
+
+
