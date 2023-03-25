@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<title>ICS Species/Accession</title>
+<link rel="shortcut icon" href="a198cd0c_e2f0_4c99_ba51_342624a24db9_WP4_icon.ico" type="image/x-icon"/>
+<link href = "https://fonts.googleapis.com/css?family=Nunito+Sans:400,900&display=swap" rel="stylesheet">
+<style>
+* {
+  box-sizing: border-box;
+}
+body,#icsinput{text-align: center;}
+#icsInput {
+  background-image: 
+url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/221px-Vector_search_icon.svg.png');
+  background-position: 10px 10px;;
+  background-repeat: no-repeat;
+  background-size: 25px;
+  width: 60%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  border-radius: 25px;
+}
+#icsInput:focus {
+  outline:none
+}
+#icsTable {
+  border-collapse: collapse;
+  width: 85%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  margin-bottom:40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#icsTable th, #artTable td {
+  text-align: left;
+  padding: 12px;
+  text-align: center;
+
+}
+#icsTable tr {
+  border-bottom: 1px solid #ddd;
+
+}
+#icsTable tr.header, #artTable tr:hover {
+  background-color: #f1f1f1;
+
+}
+
+a {
+  color: #295135;
+}
+
+h2, h1, p {
+  font-family: 'Nunito Sans', sans-serif;
+}
+h1:hover {
+  animation-name: artshadow;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: both;
+  animation-duration: 0.5s;
+  animation-delay: 0.1s;
+}
+
+@keyframes artshadow {
+  from {}
+  to {text-shadow: 2px 2px 5px black;}
+}
+h1 {
+  color: #295135;
+  transition: 0.3s;
+}
+</style>
+</head>
+<body>
+<h1><a href="index.html"><b>ICS BGCs</b></a></h1>
+<h2>Search by Species or Accession</h2>
+<div class="centerenter">
+<input type="text" id="icsInput" onkeyup="icsFunction()" placeholder="Species or Accession" title="ICS search">
+</div>
+<div class="tablesearch">
+<script>
+
+
+
+fetch("Data/SupTable3.json").then(function (response) {
+    return response.json();
+}).then(function (data) {
+    appendData(data);
+}).catch(function (err) {
+    console.log('error ' + err);
+});
+
+
+function appendData(data) {
+    var mainContainer = document.getElementById("icsTable");
+    data.sort(function (a, b) {
+      if (a.Species < b.Species) {
+        return -1;
+      }
+      if (a.Species > b.Species) {
+        return 1;
+      }
+      return 0;
+    });
+
+    for (var i = 0; i < data.length; i ++) {
+        var div = document.createElement("tr");
+        div.innerHTML = '<td>' + data[i].Species.replace('_', ' ') + '</td>'
+            + '<td>' + data[i].Accession + '</td>'
+                + '<td>' + data[i].Number_of_ICS_BGCs + '</td>';
+        mainContainer.appendChild(div);
+    }
+}
+
+</script>
+<table id="icsTable">
+    <tr class="header">
+        <th style="width:33%">Species</th>
+        <th style="width:33%">Accession</th>
+        <th style="width:33%">ICS BGCs</th>
+    </tr>
+</table>
+<script>function icsFunction() {
+  // Declare starting variables
+  var input = document.getElementById("icsInput");
+  var filter = input.value.toUpperCase();
+  var table = document.getElementById("icsTable");
+  var trs = table.getElementsByTagName("tr");
+  // Loop through rows
+  for (var i = 0; i < trs.length; i++) {
+    // Define the cells
+    var tds = trs[i].getElementsByTagName("td");
+    // show the row
+    trs[i].style.display = "";
+    // loop through row cells
+    var match = false
+    for (var i2 = 0; i2 < tds.length; i2++) {
+      if (tds[i2].innerHTML.toUpperCase().indexOf(filter) > -1) {
+        match = true
+      }
+    }
+    // if there's no match hide the row
+    if (!match && i > 0) {
+      trs[i].style.display = "none";
+    }
+  }
+}
+</script>
+</body>
+</html>
