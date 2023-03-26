@@ -83,31 +83,54 @@ h1 {
 <div class="centerenter">
 <input type="text" id="icsInput" onkeyup="icsFunction()" placeholder="Species or Accession" title="ICS search">
 </div>
+<div><button onclick="downloadTsv()">Download filtered results as tsv</button></div>
+<script>
+  const downloadTsv = () => {
+    // convert current visible data to tsv
+    var currentVisibleTsv =  "Species\tAccession\tNumber_of_ICS_BGCs\n";
+    for (var i = 0; i < currentVisibleData.length; i ++) {
+      currentVisibleTsv = currentVisibleTsv.concat(currentVisibleData[i].Species);
+      currentVisibleTsv = currentVisibleTsv.concat("\t", currentVisibleData[i].Accession);
+      currentVisibleTsv = currentVisibleTsv.concat("\t", currentVisibleData[i].Number_of_ICS_BGCs);
+      currentVisibleTsv = currentVisibleTsv.concat("\n");
+    }
+
+    const link = document.createElement("a");
+    const file = new Blob([currentVisibleTsv], { type: 'text/tsv' });
+    link.href = URL.createObjectURL(file);
+    link.download = "ICS_BGCs_filtered.tsv";
+    link.click();
+    URL.revokeObjectURL(link.href);
+  };
+</script>
 <div class="tablesearch">
 <script>
 
-
+var currentVisibleData;
 
 fetch("Data/SupTable3.json").then(function (response) {
     return response.json();
 }).then(function (data) {
-    appendData(data);
+  data.sort(function (a, b) {
+    if (a.Species < b.Species) {
+      return -1;
+    }
+    if (a.Species > b.Species) {
+      return 1;
+    }
+    return 0;
+  });
+
+  currentVisibleData  = data;
+
+  appendData(data);
 }).catch(function (err) {
-    console.log('error ' + err);
+  console.log('error ' + err);
 });
 
 
 function appendData(data) {
     var mainContainer = document.getElementById("icsTable");
-    data.sort(function (a, b) {
-      if (a.Species < b.Species) {
-        return -1;
-      }
-      if (a.Species > b.Species) {
-        return 1;
-      }
-      return 0;
-    });
 
     for (var i = 0; i < data.length; i ++) {
         var div = document.createElement("tr");
@@ -127,13 +150,16 @@ function appendData(data) {
     </tr>
 </table>
 <script>function icsFunction() {
+  // Clear currentVisibleData
+  currentVisibleData = [];
+
   // Declare starting variables
   var input = document.getElementById("icsInput");
   var filter = input.value.toUpperCase();
   var table = document.getElementById("icsTable");
   var trs = table.getElementsByTagName("tr");
   // Loop through rows
-  for (var i = 0; i < trs.length; i++) {
+  for (var i = 1; i < trs.length; i++) {
     // Define the cells
     var tds = trs[i].getElementsByTagName("td");
     // show the row
@@ -148,6 +174,13 @@ function appendData(data) {
     // if there's no match hide the row
     if (!match && i > 0) {
       trs[i].style.display = "none";
+    } else {
+      // if there is a match make sure it's stored in currentVisibleData
+      currentVisibleData.push({
+        "Species": tds[0].innerText, 
+        "Accession": tds[1].innerText,
+        "Number_of_ICS_BGCs": tds[2].innerText,
+      });
     }
   }
 }
