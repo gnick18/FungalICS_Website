@@ -134,8 +134,9 @@ function appendData(data) {
 
     for (var i = 0; i < data.length; i ++) {
         var div = document.createElement("tr");
+        let accession = data[i].Accession;
         div.innerHTML = '<td>' + data[i].Species.replace('_', ' ') + '</td>'
-            + '<td>' + data[i].Accession + '</td>'
+            + '<td><a href=bgcs.html?accession=' + accession + '>' + accession + '</a></td>'
                 + '<td>' + data[i].Number_of_ICS_BGCs + '</td>';
         mainContainer.appendChild(div);
     }

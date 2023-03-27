@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>1_Talaromyces_marneffei</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        height: 100%;
+        /* margin: 0;
+        padding: 0; */
+      }
+      .bgc_map {
+        width: 75%;
+        height: 30%;
+        margin: 10px;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.1.0.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+<script>
+    var queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    var accession = urlParams.get('accession');
+
+    fetch("Data/bgc_filenames.json").then(function (response) {
+        return response.json();
+    }).then(function (data) {
+        for (cluster  in data[accession]) {
+            for (var i = 0; i < data[accession][cluster].length; i++) {
+                if (data[accession][cluster][i].endsWith("html")) {
+                    console.log(data[accession][cluster][i]);
+                    var url = "Data/ICSBGCs/" + accession + "/" + cluster + "/" + data[accession][cluster][i];
+
+                    var div = document.createElement("div");
+                    var iframe = document.createElement("iframe");
+
+                    iframe.setAttribute("class", "bgc_map");
+                    iframe.src = url;
+
+                    div.appendChild(iframe);
+                    document.body.appendChild(div);
+                }
+            }
+        }
+    })
+    
+</script>
+<body>
+</body>
+</html>
