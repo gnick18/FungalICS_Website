@@ -12,9 +12,17 @@
   box-sizing: border-box;
   text-align: center;
 }
-a {
-  color: #295135;
+
+#header a{
+  color: #2a3151;
 }
+#search a{
+  color: #173b71;
+}
+#tips a{
+  color: #406E8E;
+}
+
 h3, h2, p {
   font-family: 'Nunito Sans', sans-serif;
   text-align: center;
@@ -35,18 +43,26 @@ h1 {
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 900;
 }
+img {
+  margin-bottom: 20px;
+}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
+  /* width: 20%; */
 }
 </style>
 </head>
 <body>
-<img src = "Images/ICS_FungalTreeFigure.png" align = "center" class = "center">
-<h1><a href = "https://github.com/gnick18/FungalICS_Website/blob/main/README.md"><b>ICS</b></a></h1>
-<h2>Isocyanide synthase biosynthetic gene clusters in the Fungal Kingdom</h2><h3><a href = "species_accession.html">Search by species/accession</a> | <a href = "about.html">About</a></h3>
+<h1 id="header"><a href = "https://github.com/gnick18/FungalICS_Website/blob/main/README.md"><b>Isocyanide Synthase (ICS)<br> Biosynthetic Gene Clusters (BGC)<br> in the Fungal Kingdom</b></a></h1>
+<h3>Search by</h3>
+<h2 id="search"><a href = "species_accession.html">Species/Accession</a> | <a href = "about.html">Gene Cluster Families (GCFs)</a></h2>
+<h3 id="tips"><a href = "ImportantCaveats.html">Important caveats and tips for using this data</a></h3>
+<img src = "Images/ICS_FungalTreeFigure.png" align = "center" class = "center" width="900" height="900">
+
+<p>Nickles G.R., Keller N.P., Drott M.T. 2023. Mining for a New Class of Fungal Natural Products:<br> The Evolution, Diversity, and Distribution of Isocyanide Synthase Biosynthetic Gene Clusters. Unpublished.
+</p>
 
 <script>
 let deferredPrompt = null;
