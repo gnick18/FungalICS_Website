@@ -3,6 +3,17 @@
     <meta charset="utf-8">
     <title>1_Talaromyces_marneffei</title>
     <style>
+    h2, h1, p {
+        font-family: 'Nunito Sans', sans-serif;
+        text-align: center;
+    }
+    h1:hover {
+        animation-name: artshadow;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: both;
+        animation-duration: 0.5s;
+        animation-delay: 0.1s;
+    }
       html, body {
         box-sizing: border-box;
         height: 100%;
@@ -14,16 +25,47 @@
         height: 30%;
         margin: 10px;
       }
+      .button {
+        display: inline-block;
+        padding: 15px 25px;
+        font-size: 18px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #406E8E;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        margin-bottom: 20px;
+      }
+
+    .button:hover {
+        background-color: #23395B
+      }
+
+    .button:active {
+        background-color: #23395B;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
     </style>
     <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.1.0.min.js"></script>
     <script type="text/javascript">
         Bokeh.set_log_level("info");
     </script>
   </head>
+<body>
+</body>
 <script>
     var queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     var accession = urlParams.get('accession');
+
+    var h1 = document.createElement("h1");
+    h1.innerHTML = accession;
+    document.body.appendChild(h1);
 
     fetch("Data/bgc_filenames.json").then(function (response) {
         return response.json();
@@ -41,6 +83,19 @@
                     iframe.src = url;
 
                     div.appendChild(iframe);
+
+                    // add the download button
+                    var a = document.createElement("a");
+                    a.setAttribute("href", url);
+                    a.setAttribute("download", data[accession][cluster][i]);
+                    
+                    var button = document.createElement("button");
+                    button.innerText = "Download";
+                    button.setAttribute("class", "button");
+                    a.appendChild(button);
+
+                    div.appendChild(a);
+
                     document.body.appendChild(div);
                 }
             }
@@ -48,6 +103,4 @@
     })
     
 </script>
-<body>
-</body>
 </html>
