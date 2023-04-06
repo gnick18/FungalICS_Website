@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<title>ICS Species/Accession</title>
+<link rel="shortcut icon" href="a198cd0c_e2f0_4c99_ba51_342624a24db9_WP4_icon.ico" type="image/x-icon"/>
+<link href = "https://fonts.googleapis.com/css?family=Nunito+Sans:400,900&display=swap" rel="stylesheet">
+<style>
+* {
+  box-sizing: border-box;
+}
+body,#icsinput{text-align: center;}
+#icsInput {
+  background-image: 
+url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/221px-Vector_search_icon.svg.png');
+  background-position: 10px 10px;;
+  background-repeat: no-repeat;
+  background-size: 25px;
+  width: 60%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  border-radius: 25px;
+}
+#icsInput:focus {
+  outline:none
+}
+#icsTable {
+  border-collapse: collapse;
+  width: 85%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  margin-bottom:40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#icsTable th, #artTable td {
+  text-align: left;
+  padding: 12px;
+  text-align: center;
+
+}
+#icsTable tr {
+  border-bottom: 1px solid #ddd;
+
+}
+#icsTable tr.header, #artTable tr:hover {
+  background-color: #f1f1f1;
+
+}
+
+a {
+  color: #295135;
+}
+
+h2, h1, p {
+  font-family: 'Nunito Sans', sans-serif;
+}
+h1:hover {
+  animation-name: artshadow;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: both;
+  animation-duration: 0.5s;
+  animation-delay: 0.1s;
+}
+
+@keyframes artshadow {
+  from {}
+  to {text-shadow: 2px 2px 5px black;}
+}
+#header a{
+  color: #173b71;
+  transition: 0.3s;
+}
+#subheader{
+  color: #406E8E;
+
+}
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #406E8E;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-bottom: 20px
+}
+
+.button:hover {background-color: #23395B}
+
+.button:active {
+  background-color: #23395B;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+/* .button1:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+} */
+</style>
+</head>
+<body>
+<h1 id="header"><a href="index.html"><b>Gene Cluster Families (GCFs)</b></a></h1>
+<h2 id="subheader">Search by GCF</h2>
+<div class="centerenter">
+<input type="text" id="icsInput" onkeyup="icsFunction()" placeholder="GCF" title="ICS search">
+</div>
+<div></div><button class="button button1" onclick="downloadTsv()">Download the displayed results (tsv)</button></div>
+
+<!-- <div><button onclick="downloadTsv()">Download filtered results as tsv</button></div> -->
+<script>
+  const downloadTsv = () => {
+    // convert current visible data to tsv
+    var currentVisibleTsv =  "GCF\tSpecies\tGenera\tFamilies\tOrders\tClasses\tPhyla\n";
+    for (var i = 0; i < currentVisibleData.length; i ++) {
+      currentVisibleTsv = currentVisibleTsv.concat(currentVisibleData[i].GCF);
+      currentVisibleTsv = currentVisibleTsv.concat("\t", currentVisibleData[i].Species);
+      currentVisibleTsv = currentVisibleTsv.concat("\t", currentVisibleData[i].Genera);
+      currentVisibleTsv = currentVisibleTsv.concat("\t", currentVisibleData[i].Families);
+      currentVisibleTsv = currentVisibleTsv.concat("\t", currentVisibleData[i].Orders);
+      currentVisibleTsv = currentVisibleTsv.concat("\t", currentVisibleData[i].Classes);
+      currentVisibleTsv = currentVisibleTsv.concat("\t", currentVisibleData[i].Phyla);
+      currentVisibleTsv = currentVisibleTsv.concat("\n");
+    }
+
+    const link = document.createElement("a");
+    const file = new Blob([currentVisibleTsv], { type: 'text/tsv' });
+    link.href = URL.createObjectURL(file);
+    link.download = "GCFs_filtered.tsv";
+    link.click();
+    URL.revokeObjectURL(link.href);
+  };
+</script>
+<div class="tablesearch">
+<script>
+
+var currentVisibleData;
+
+fetch("Data/GCF_Table.json").then(function (response) {
+    return response.json();
+}).then(function (data) {
+  data.sort(function (a, b) {
+    let aSpecies = parseInt(a.Species);
+    let bSpecies = parseInt(b.Species);
+    if (aSpecies > bSpecies) {
+      return -1;
+    }
+    if (aSpecies < bSpecies) {
+      return 1;
+    }
+    return 0;
+  });
+
+  currentVisibleData  = data;
+
+  appendData(data);
+}).catch(function (err) {
+  console.log('error ' + err);
+});
+
+
+function appendData(data) {
+    var mainContainer = document.getElementById("icsTable");
+
+    for (var i = 0; i < data.length; i ++) {
+        var div = document.createElement("tr");
+        
+        div.innerHTML = '<td>' + data[i].GCF + '</td>'
+            + '<td>' + data[i].Species + '</td>'
+            + '<td>' + data[i].Genera + '</td>'
+            + '<td>' + data[i].Families + '</td>'
+            + '<td>' + data[i].Orders + '</td>'
+            + '<td>' + data[i].Classes + '</td>'
+            + '<td>' + data[i].Phyla + '</td>';
+        mainContainer.appendChild(div);
+    }
+}
+
+</script>
+<table id="icsTable">
+    <tr class="header">
+        <th style="width:14%">GCF</th>
+        <th style="width:14%">Species</th>
+        <th style="width:14%">Genera</th>
+        <th style="width:14%">Families</th>
+        <th style="width:14%">Orders</th>
+        <th style="width:14%">Classes</th>
+        <th style="width:14%">Phyla</th>
+    </tr>
+</table>
+<script>function icsFunction() {
+  // Clear currentVisibleData
+  currentVisibleData = [];
+
+  // Declare starting variables
+  var input = document.getElementById("icsInput");
+  var filter = input.value.toUpperCase();
+  var table = document.getElementById("icsTable");
+  var trs = table.getElementsByTagName("tr");
+  // Loop through rows
+  for (var i = 1; i < trs.length; i++) {
+    // Define the cells
+    var tds = trs[i].getElementsByTagName("td");
+    // show the row
+    trs[i].style.display = "";
+    // loop through row cells
+    var match = tds[0].innerHTML.toUpperCase().indexOf(filter) > -1;
+    // if there's no match hide the row
+    if (!match && i > 0) {
+      trs[i].style.display = "none";
+    } else {
+      // if there is a match make sure it's stored in currentVisibleData
+      currentVisibleData.push({
+        "GCF": tds[0].innerText, 
+        "Species": tds[1].innerText,
+        "Genera": tds[2].innerText,
+        "Families": tds[3].innerText,
+        "Orders": tds[4].innerText,
+        "Classes": tds[5].innerText,
+        "Phyla": tds[6].innerText,
+      });
+    }
+  }
+}
+</script>
+</body>
+</html>
