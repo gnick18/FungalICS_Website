@@ -25,7 +25,7 @@
         height: 30%;
         margin: 10px;
       }
-      .button {
+      .button, .allButton {
         display: inline-block;
         padding: 15px 25px;
         font-size: 18px;
@@ -41,15 +41,19 @@
         margin-bottom: 20px;
       }
 
-    .button:hover {
+    .button:hover, .allButton:hover {
         background-color: #23395B
       }
 
-    .button:active {
+    .button:active, .allButton:active {
         background-color: #23395B;
         box-shadow: 0 5px #666;
         transform: translateY(4px);
       }
+
+    .allDiv {
+      text-align: center;
+    }
     </style>
     <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.1.0.min.js"></script>
     <script type="text/javascript">
@@ -70,11 +74,27 @@
     fetch("Data/bgc_filenames.json").then(function (response) {
         return response.json();
     }).then(function (data) {
+        // button to download all
+        var  divAll = document.createElement("div");
+        divAll.setAttribute("class", "allDiv");
+
+        var aAll = document.createElement("a");
+        aAll.setAttribute("href", "Data/ICSBGCs/" + accession + "/" + accession + ".zip");
+        aAll.setAttribute("download", accession + ".zip");
+        
+        var buttonAll = document.createElement("button");
+        buttonAll.innerText = "Download All";
+        buttonAll.setAttribute("class", "allButton");
+        aAll.appendChild(buttonAll);
+        divAll.appendChild(aAll)
+        document.body.appendChild(divAll);
+
         for (cluster  in data[accession]) {
             for (var i = 0; i < data[accession][cluster].length; i++) {
                 if (data[accession][cluster][i].endsWith("html")) {
                     console.log(data[accession][cluster][i]);
                     var url = "Data/ICSBGCs/" + accession + "/" + cluster + "/" + data[accession][cluster][i];
+                    let zipUrl = "Data/ICSBGCs/" + accession + "/" + cluster + ".zip";
 
                     var div = document.createElement("div");
                     var iframe = document.createElement("iframe");
@@ -86,8 +106,8 @@
 
                     // add the download button
                     var a = document.createElement("a");
-                    a.setAttribute("href", url);
-                    a.setAttribute("download", data[accession][cluster][i]);
+                    a.setAttribute("href", zipUrl);
+                    a.setAttribute("download", cluster + ".zip");
                     
                     var button = document.createElement("button");
                     button.innerText = "Download";
