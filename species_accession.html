@@ -169,10 +169,16 @@ function appendData(data) {
         var div = document.createElement("tr");
         let accession = data[i].Accession;
         let species = data[i].Species;
-        div.innerHTML = '<td>' + data[i].Species.replace('_', ' ') + '</td>'
-            + '<td><a href=bgcs.html?accession=' + accession + '&species='
-                + species + '>' + accession + '</a></td>'
-                + '<td>' + data[i].Number_of_ICS_BGCs + '</td>';
+
+        var rowHtml = '<td>' + data[i].Species.replace('_', ' ') + '</td>';
+        if (parseInt(data[i].Number_of_ICS_BGCs) > 0) {
+          rowHtml += '<td><a href=bgcs.html?accession=' + accession + '&species='
+                + species + '>' + accession + '</a></td>';
+        } else {
+          rowHtml += '<td>' + accession + '</td>';
+        }
+        rowHtml += '<td>' + data[i].Number_of_ICS_BGCs + '</td>';
+        div.innerHTML = rowHtml;
         mainContainer.appendChild(div);
     }
 }
