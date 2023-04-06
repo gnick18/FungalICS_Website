@@ -51,7 +51,7 @@
         transform: translateY(4px);
       }
 
-    .allDiv {
+    .allDiv, .bgcDiv {
       text-align: center;
     }
     </style>
@@ -98,10 +98,11 @@
                     let zipUrl = "Data/ICSBGCs/" + accession + "/" + cluster + ".zip";
 
                     var div = document.createElement("div");
+                    div.setAttribute("class", "bgcDiv");
                     var iframe = document.createElement("iframe");
 
                     iframe.setAttribute("class", "bgc_map");
-                    iframe.setAttribute("style", "height:190px");
+                    iframe.setAttribute("style", "height:190px;width:1010px");
                     iframe.src = url;
 
                     div.appendChild(iframe);
