@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
     <meta charset="utf-8">
-    <title>1_Talaromyces_marneffei</title>
     <style>
     h2, h1, p {
         font-family: 'Nunito Sans', sans-serif;
@@ -66,6 +65,10 @@
     var queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     var gcf = urlParams.get('gcf');
+
+    var title = document.createElement("title");
+    title.innerHTML = "GCF " + gcf;
+    document.head.appendChild(title);
 
     var h1 = document.createElement("h1");
     h1.innerHTML = "GCF: " + gcf;

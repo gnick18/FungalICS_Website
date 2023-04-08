@@ -172,8 +172,8 @@ function appendData(data) {
 
         var rowHtml = '<td>' + data[i].Species.replace('_', ' ') + '</td>';
         if (parseInt(data[i].Number_of_ICS_BGCs) > 0) {
-          rowHtml += '<td><a href=bgcs.html?accession=' + accession + '&species='
-                + species + '>' + accession + '</a></td>';
+          rowHtml += '<td><a href=bgcs.html?accession=' + encodeURIComponent(accession)
+            + '&species=' + encodeURIComponent(species) + '>' + accession + '</a></td>';
         } else {
           rowHtml += '<td>' + accession + '</td>';
         }

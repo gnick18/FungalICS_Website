@@ -175,7 +175,7 @@ function appendData(data) {
         var div = document.createElement("tr");
         let gcf = data[i].GCF;
         
-        div.innerHTML = '<td><a href=gcfs.html?gcf=' + gcf + '>' + gcf + '</a></td>'
+        div.innerHTML = '<td><a href=gcfs.html?gcf=' + encodeURIComponent(gcf) + '>' + gcf + '</a></td>'
             + '<td>' + data[i].Species + '</td>'
             + '<td>' + data[i].Genera + '</td>'
             + '<td>' + data[i].Families + '</td>'
