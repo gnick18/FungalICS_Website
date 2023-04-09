@@ -212,6 +212,12 @@
 
                     var div = document.createElement("div");
                     div.setAttribute("class", "bgcDiv");
+
+                    let clusterNum = cluster.split('_')[1];
+                    var p = document.createElement("p");
+                    p.innerText = "Cluster: " + clusterNum;
+                    div.appendChild(p);
+
                     var iframe =  document.createElement("iframe");
 
                     iframe.setAttribute("class", "bgc_map");
@@ -219,6 +225,16 @@
                     iframe.src = url;
 
                     div.appendChild(iframe);
+
+                    // add the species and accession
+                    var speciesAccessionP = document.createElement("p");
+                    let speciesName = bgcFilenames[accession][cluster][i].slice(0, -5)
+                                            .split("_").slice(1).join(" ");
+                    speciesAccessionP.innerHTML = speciesName +
+                            ": <a href=bgcs.html?accession=" + accession
+                            + "&species=" + speciesName.split(" ").join("_")
+                            + ">" + accession + "</a>";
+                    div.appendChild(speciesAccessionP);
 
                     // add the download button
                     var a = document.createElement("a");
