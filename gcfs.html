@@ -156,7 +156,23 @@
         )
     }
 
-    fetchExternalData().then(function(response) { 
+    fetchExternalData().then(function(response) {
+        // button to download all
+        let gcfFilename = gcf.replace("*", "_Refined");
+        var  divAll = document.createElement("div");
+        divAll.setAttribute("class", "allDiv");
+
+        var aAll = document.createElement("a");
+        aAll.setAttribute("href", "Data/GCF_zips/" + gcfFilename + ".zip");
+        aAll.setAttribute("download", gcfFilename + ".zip");
+        
+        var buttonAll = document.createElement("button");
+        buttonAll.innerText = "Download All";
+        buttonAll.setAttribute("class", "allButton");
+        aAll.appendChild(buttonAll);
+        divAll.appendChild(aAll)
+        document.body.appendChild(divAll);
+
         gcfKeys = response[0];
         bgcFilenames = response[1];
         let resultsStart =  (resultsPage - 1) *  10;
