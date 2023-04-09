@@ -139,14 +139,6 @@
 
     var promises = []
     var urls = ["Data/GCF_Keys.json", "Data/bgc_filenames.json"]
-    // dataList = []
-    // urls.forEach(function(url, i) {
-    //     promises.push(
-    //         fetch(url).then(function(response) {
-    //             dataList[i] = response.blob();
-    //         })
-    //     )
-    // });
 
     const fetchExternalData = () => {
         return Promise.all([
@@ -160,8 +152,6 @@
         )
     }
 
-
-    // Promise.all(promises).then(function (response) {
     fetchExternalData().then(function(response) { 
         gcfKeys = response[0];
         bgcFilenames = response[1];
@@ -207,60 +197,6 @@
                 }
             }
         }
-    });
-
-    // fetch("Data/bgc_filenames.json").then(function (response) {
-    //     return response.json();
-    // }).then(function (data) {
-    //     // button to download all
-    //     var  divAll = document.createElement("div");
-    //     divAll.setAttribute("class", "allDiv");
-
-    //     var aAll = document.createElement("a");
-    //     aAll.setAttribute("href", "Data/ICSBGCs/" + accession + "/" + accession + ".zip");
-    //     aAll.setAttribute("download", accession + ".zip");
-        
-    //     var buttonAll = document.createElement("button");
-    //     buttonAll.innerText = "Download All";
-    //     buttonAll.setAttribute("class", "allButton");
-    //     aAll.appendChild(buttonAll);
-    //     divAll.appendChild(aAll)
-    //     document.body.appendChild(divAll);
-
-    //     for (cluster  in data[accession]) {
-    //         for (var i = 0; i < data[accession][cluster].length; i++) {
-    //             if (data[accession][cluster][i].endsWith("html")) {
-    //                 console.log(data[accession][cluster][i]);
-    //                 var url = "Data/ICSBGCs/" + accession + "/" + cluster + "/" + data[accession][cluster][i];
-    //                 let zipUrl = "Data/ICSBGCs/" + accession + "/" + cluster + ".zip";
-
-    //                 var div = document.createElement("div");
-    //                 div.setAttribute("class", "bgcDiv");
-    //                 var iframe = document.createElement("iframe");
-
-    //                 iframe.setAttribute("class", "bgc_map");
-    //                 iframe.setAttribute("style", "height:190px;width:1010px");
-    //                 iframe.src = url;
-
-    //                 div.appendChild(iframe);
-
-    //                 // add the download button
-    //                 var a = document.createElement("a");
-    //                 a.setAttribute("href", zipUrl);
-    //                 a.setAttribute("download", cluster + ".zip");
-                    
-    //                 var button = document.createElement("button");
-    //                 button.innerText = "Download";
-    //                 button.setAttribute("class", "button");
-    //                 a.appendChild(button);
-
-    //                 div.appendChild(a);
-
-    //                 document.body.appendChild(div);
-    //             }
-    //         }
-    //     }
-    // })
-    
+    });    
 </script>
 </html>
