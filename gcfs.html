@@ -128,6 +128,10 @@
     var queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     var gcf = urlParams.get('gcf');
+    var resultsPage = 1;
+    if (urlParams.has("results_page")) {
+        resultsPage = parseInt(urlParams.get('results_page'));
+    }
 
     var title = document.createElement("title");
     title.innerHTML = "GCF " + gcf;
@@ -155,12 +159,20 @@
     fetchExternalData().then(function(response) { 
         gcfKeys = response[0];
         bgcFilenames = response[1];
+        let resultsStart =  (resultsPage - 1) *  10;
+        console.log(resultsStart);
 
-        for (index in gcfKeys[gcf]) {
-            clusterAccession = gcfKeys[gcf][index];
+        // Filtering out GCF Accessions
+        thisGcf = gcfKeys[gcf].filter(function(entry) {
+            return !entry["NCBI_Acession"].startsWith("GCF");
+        });
+
+        for (var j = resultsStart; j < thisGcf.length && j < resultsStart +  10; j++) {
+            clusterAccession = thisGcf[j];
             let cluster = "Cluster_" + clusterAccession["Cluster_Name"].split("_")[0];
             let accession = clusterAccession["NCBI_Acession"];
 
+            // should be unnecessary
             if (accession.startsWith("GCF")) {
                 continue;
             }
@@ -197,6 +209,80 @@
                 }
             }
         }
+
+        console.log(thisGcf.length);
+        if (thisGcf.length > 10) {
+            // var div = document.createElement("div");
+            // var p = document.createElement("p");
+            // p.innerHTML = "Showing results " + resultsStart + " through "
+            //     + (resultsStart + 10 > thisGcf.length ? thisGcf.length : resultsStart + 10)
+            //     + ". <a href=gcfs.html?gcf=" +  gcf + "&results_start=" + resultsStart
+            var nav =  document.createElement("nav");
+            nav.setAttribute("aria-label", "...");
+
+            var ul = document.createElement("ul");
+            ul.setAttribute("class", "pagination");
+
+            var liPrev = document.createElement("li");
+            var aPrev = document.createElement("a");
+            aPrev.setAttribute("class", "page-link");
+            aPrev.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(resultsPage - 1));
+            aPrev.innerText = "Prev";
+            liPrev.appendChild(aPrev);
+            if (resultsPage == 1) {
+                liPrev.setAttribute("class", "page-item disabled");
+            } else {
+                liPrev.setAttribute("class", "page-item");
+            }
+            ul.appendChild(liPrev);
+
+            let numPages = Math.ceil(thisGcf.length / 10);
+            for (var i = 0; i < numPages; i++) {
+                var li = document.createElement("li");
+                var a = document.createElement("a");
+                a.setAttribute("class", "page-link");
+                a.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(i +  1));
+                a.innerText = String(i + 1);
+                li.appendChild(a);
+                if (resultsPage == i + 1) {
+                    li.setAttribute("class", "page-item active");
+                } else {
+                    li.setAttribute("class", "page-item");
+                }
+                ul.appendChild(li);
+            }
+
+            var liNext = document.createElement("li");
+            var aNext = document.createElement("a");
+            aNext.setAttribute("class", "page-link");
+            aNext.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(resultsPage + 1));
+            aNext.innerText = "Next";
+            liNext.appendChild(aNext);
+            if (resultsPage == numPages) {
+                liNext.setAttribute("class", "page-item disabled");
+            } else {
+                liNext.setAttribute("class", "page-item");
+            }
+            ul.appendChild(liNext);
+
+            nav.appendChild(ul);
+            document.body.appendChild(nav);
+        }
     });    
 </script>
+<!-- <nav aria-label="...">
+    <ul class="pagination">
+      <li class="page-item disabled">
+        <a class="page-link" href="#" tabindex="-1">Previous</a>
+      </li>
+      <li class="page-item"><a class="page-link" href="#">1</a></li>
+      <li class="page-item active">
+        <a class="page-link" href="#">2 <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="page-item"><a class="page-link" href="#">3</a></li>
+      <li class="page-item">
+        <a class="page-link" href="#">Next</a>
+      </li>
+    </ul>
+  </nav> -->
 </html>
