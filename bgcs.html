@@ -141,9 +141,23 @@
     h1.innerHTML = titleText;
     document.body.appendChild(h1);
 
-    fetch("Data/bgc_filenames.json").then(function (response) {
-        return response.json();
-    }).then(function (data) {
+    var urls = ["Data/bgc_filenames.json", "Data/ClusterToGCF.json"]
+    const fetchExternalData = () => {
+        return Promise.all([
+            fetch(urls[0]),
+            fetch(urls[1])
+        ])
+        .then(
+            results => Promise.all(
+            results.map(result => result.json())
+            )
+        )
+    }
+
+    fetchExternalData().then(function (response) {
+        var data =  response[0];
+        var clusterToGCF = response[1];
+
         // button to download all
         var  divAll = document.createElement("div");
         divAll.setAttribute("class", "allDiv");
@@ -162,12 +176,18 @@
         for (cluster  in data[accession]) {
             for (var i = 0; i < data[accession][cluster].length; i++) {
                 if (data[accession][cluster][i].endsWith("html")) {
-                    console.log(data[accession][cluster][i]);
+                    // console.log(data[accession][cluster][i]);
                     var url = "Data/ICSBGCs/" + accession + "/" + cluster + "/" + data[accession][cluster][i];
                     let zipUrl = "Data/ICSBGCs/" + accession + "/" + cluster + ".zip";
 
                     var div = document.createElement("div");
                     div.setAttribute("class", "bgcDiv");
+
+                    let clusterNum = cluster.split('_')[1];
+                    var p = document.createElement("p");
+                    p.innerText = "Cluster: " + clusterNum;
+                    div.appendChild(p);
+
                     var iframe = document.createElement("iframe");
 
                     iframe.setAttribute("class", "bgc_map");
@@ -175,6 +195,15 @@
                     iframe.src = url;
 
                     div.appendChild(iframe);
+
+                    // add the gcf if there is any
+                    if (clusterNum in clusterToGCF) {
+                      let gcf = clusterToGCF[clusterNum];
+                      var aGCF = document.createElement("a");
+                      aGCF.setAttribute("href", "gcfs.html?gcf=" + gcf);
+                      aGCF.innerText = "GCF: " + gcf;
+                      div.appendChild(aGCF);
+                    }
 
                     // add the download button
                     var a = document.createElement("a");
