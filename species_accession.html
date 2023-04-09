@@ -229,25 +229,30 @@ fetch("Data/SupTable2.json").then(function (response) {
 
 
 function appendData(data) {
-    var mainContainer = document.getElementById("icsTable");
+  var mainContainer = document.getElementById("icsTable");
 
-    for (var i = 0; i < data.length; i ++) {
-        var div = document.createElement("tr");
-        div.setAttribute("class", "centerfr");
-        let accession = data[i].Accession;
-        let species = data[i].Species;
+  for (var i = 0; i < data.length; i ++) {
+    let accession = data[i].Accession;
+    let species = data[i].Species;
 
-        var rowHtml = '<td>' + data[i].Species.replace('_', ' ') + '</td>';
-        if (parseInt(data[i].Number_of_ICS_BGCs) > 0) {
-          rowHtml += '<td><a href=bgcs.html?accession=' + encodeURIComponent(accession)
-            + '&species=' + encodeURIComponent(species) + '>' + accession + '</a></td>';
-        } else {
-          rowHtml += '<td>' + accession + '</td>';
-        }
-        rowHtml += '<td>' + data[i].Number_of_ICS_BGCs + '</td>';
-        div.innerHTML = rowHtml;
-        mainContainer.appendChild(div);
+    if (accession.startsWith("GCF")) {
+      continue;
     }
+
+    var div = document.createElement("tr");
+    div.setAttribute("class", "centerfr");
+
+    var rowHtml = '<td>' + data[i].Species.replace('_', ' ') + '</td>';
+    if (parseInt(data[i].Number_of_ICS_BGCs) > 0) {
+      rowHtml += '<td><a href=bgcs.html?accession=' + encodeURIComponent(accession)
+        + '&species=' + encodeURIComponent(species) + '>' + accession + '</a></td>';
+    } else {
+      rowHtml += '<td>' + accession + '</td>';
+    }
+    rowHtml += '<td>' + data[i].Number_of_ICS_BGCs + '</td>';
+    div.innerHTML = rowHtml;
+    mainContainer.appendChild(div);
+  }
 }
 
 </script>

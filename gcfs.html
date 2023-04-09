@@ -162,22 +162,18 @@
 
 
     // Promise.all(promises).then(function (response) {
-    fetchExternalData().then(function(response) {
-        console.log(response);
+    fetchExternalData().then(function(response) { 
         gcfKeys = response[0];
         bgcFilenames = response[1];
-        console.log(gcfKeys);
-        console.log(gcf);
-        console.log(gcfKeys[gcf]);
 
         for (index in gcfKeys[gcf]) {
             clusterAccession = gcfKeys[gcf][index];
-            console.log(clusterAccession);
-            console.log(clusterAccession["Cluster_Name"]);
             let cluster = "Cluster_" + clusterAccession["Cluster_Name"].split("_")[0];
             let accession = clusterAccession["NCBI_Acession"];
-            console.log(cluster);
-            console.log(accession);
+
+            if (accession.startsWith("GCF")) {
+                continue;
+            }
 
             for (var i = 0; i < bgcFilenames[accession][cluster].length; i++) {
                 if (bgcFilenames[accession][cluster][i].endsWith("html")) {
