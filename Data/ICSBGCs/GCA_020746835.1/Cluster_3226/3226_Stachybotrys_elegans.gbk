@@ -317,6 +317,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="KAH7309632.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,637912"
      gene            complement(11268..12373)
                      /note="*Name B0I35DRAFT_470736"
@@ -456,6 +457,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPNK|B0I35DRAFT_mRNA515059"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="KAH7309634.1"
+                     /gene_kind="biosynthetic"
      gene            15798..17069
                      /note="*Name B0I35DRAFT_470737"
                      /note="*end_range: 645304,."
@@ -522,6 +524,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7309635.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17302..19005)
                      /note="*Name B0I35DRAFT_412530"
                      /note="*end_range: 647240,."

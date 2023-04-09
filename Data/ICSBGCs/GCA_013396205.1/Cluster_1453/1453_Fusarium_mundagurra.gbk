@@ -72,6 +72,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAAOAN|mrna.FMUND_336"
                      /product="yjlB"
                      /protein_id="KAF5724906.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1644..3726)
                      /note="*Name FMUND_337"
                      /note="*gbkey: Gene"
@@ -123,6 +124,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAAOAN|mrna.FMUND_337"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF5724907.1"
+                     /gene_kind="biosynthetic"
      gene            4558..6271
                      /note="*Name FMUND_338"
                      /note="*gbkey: Gene"
@@ -181,6 +183,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAAOAN|mrna.FMUND_338"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KAF5724908.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCAGTTCT CACTCGCTAT CTTTGCCGTC TTGGCTACTG CCATCTCTGC TCTCCCCACT
        61 GAGGAGAAGC GCCAGGCTTA TATCCCTTGC TCTGGTCTCT ATGGCACTTC TCAATGCTGT

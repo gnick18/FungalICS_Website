@@ -63,6 +63,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFK|mrna.PENO1_012230"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="PCH07323.1"
+                     /gene_kind="biosynthetic"
      gene            4658..6512
                      /note="*Name PENO1_012240"
                      /note="*gbkey: Gene"
@@ -146,6 +147,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFK|mrna.PENO1_012240"
                      /product="Monooxygenase, FAD-binding"
                      /protein_id="PCH07324.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7371..8062)
                      /note="*Name PENO1_012250"
                      /note="*gbkey: Gene"
@@ -229,6 +231,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFK|mrna.PENO1_012260"
                      /product="Glucose/ribitol dehydrogenase"
                      /protein_id="PCH07326.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGTTGACG TGAATTCTCC AGAAGCGTCG GGGGCTTCCT GGAGGATACG CTTCACGGGt
        61 atgcatcatc aagatgttAT CACTGACGAT GATTTCATTC TCGCCGAATT GTAAGTAATT

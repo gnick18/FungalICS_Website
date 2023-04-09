@@ -63,6 +63,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Alcohol dehydrogenase superfamily, zinc-type"
                      /protein_id="KID60663.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,490423"
      gene            complement(1623..2996)
                      /note="*Name MAN_09799"
@@ -95,6 +96,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="FAD dependent oxidoreductase"
                      /protein_id="KID60664.1"
+                     /gene_kind="biosynthetic"
      gene            3897..5201
                      /note="*Name MAN_09800"
                      /note="*gbkey: Gene"
@@ -180,6 +182,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KID60666.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8609..10093)
                      /note="*Name MAN_09802"
                      /note="*gbkey: Gene"
@@ -211,6 +214,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="aldehyde dehydrogenase"
                      /protein_id="KID60667.1"
+                     /gene_kind="biosynthetic"
      gene            11996..13270
                      /note="*Name MAN_09803"
                      /note="*gbkey: Gene"
@@ -335,6 +339,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="nitrate reductase"
                      /protein_id="KID60670.1"
+                     /gene_kind="biosynthetic"
      gene            complement(29529..30595)
                      /note="*Name MAN_09806"
                      /note="*gbkey: Gene"
@@ -494,6 +499,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="chitooligosaccharide oxidase"
                      /protein_id="KID60673.1"
+                     /gene_kind="biosynthetic"
      gene            43359..44548
                      /note="*Name MAN_09809"
                      /note="*gbkey: Gene"
@@ -551,6 +557,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="geranylgeranyl pyrophosphate synthetase AtmG"
                      /protein_id="KID60674.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,533781"
 ORIGIN
         1 ATGGCCATCA GTGAACCCAA TTACGGACTG ATTCGCAAGG CTACCGGTGT AGCGGCGTTT

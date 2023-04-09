@@ -43,6 +43,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="KAH6957903.1"
+                     /gene_kind="biosynthetic"
      gene            1734..3420
                      /note="*Name BKA56DRAFT_502111"
                      /note="*end_range: 524149,."
@@ -142,6 +143,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPNQ|BKA56DRAFT_mRNA502111"
                      /product="cytochrome P450"
                      /protein_id="KAH6957904.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4249..6652)
                      /note="*Name BKA56DRAFT_680786"
                      /note="*end_range: 527381,."
@@ -357,6 +359,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPNQ|BKA56DRAFT_mRNA680787"
                      /product="hypothetical protein"
                      /protein_id="KAH6957906.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10103..11745)
                      /note="*Name BKA56DRAFT_501553"
                      /note="*end_range: 532474,."
@@ -628,6 +631,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPNQ|BKA56DRAFT_mRNA501784"
                      /product="hypothetical protein"
                      /protein_id="KAH6957909.1"
+                     /gene_kind="biosynthetic"
      gene            18753..19922
                      /note="*Name BKA56DRAFT_501901"
                      /note="*end_range: 540651,."
@@ -697,6 +701,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6957910.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GTTAAATCAA GGGACTTTCA AGTCTGGCAG GACAAAGGTC CCGGCAGCTC AATACAATTT
        61 ATAAACATAT ACCCAGCCTA ACTAAAAGTA CTCAATCTTT GATAGCCACG GTGACCAaca

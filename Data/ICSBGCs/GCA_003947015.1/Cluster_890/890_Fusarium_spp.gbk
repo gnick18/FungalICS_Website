@@ -127,6 +127,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKCJ|CEP53_008523-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RSL51261.1"
+                     /gene_kind="biosynthetic"
      gene            2637..3893
                      /note="*Name CEP53_008524"
                      /note="*gbkey: Gene"
@@ -195,6 +196,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKCJ|CEP53_008524-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RSL51262.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5793..7455)
                      /note="*Name CEP53_008525"
                      /note="*gbkey: Gene"
@@ -422,6 +424,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKCJ|CEP53_008526-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RSL51191.1"
+                     /gene_kind="biosynthetic"
      gene            13597..16423
                      /note="*Name CEP53_008527"
                      /note="*gbkey: Gene"
@@ -537,6 +540,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKCJ|CEP53_008529-T1_mrna"
                      /product="GPN-loop GTPase 3"
                      /protein_id="RSL51189.1"
+                     /gene_kind="biosynthetic"
      gene            21495..22909
                      /note="*Name CEP53_008530"
                      /note="*gbkey: Gene"
@@ -620,6 +624,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKCJ|CEP53_008530-T1_mrna"
                      /product="S-adenosylmethionine synthase"
                      /protein_id="RSL51182.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26991..27230)
                      /note="*Name CEP53_008531"
                      /note="*gbkey: Gene"
@@ -713,6 +718,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKCJ|CEP53_008533-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RSL51179.1"
+                     /gene_kind="biosynthetic"
      gene            35256..36578
                      /note="*Name CEP53_008534"
                      /note="*gbkey: Gene"
@@ -825,6 +831,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKCJ|CEP53_008536-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RSL51184.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGGATTGA GCCAAGATGT CGTTCAGATA TGCCCTCcag ccatcgtcat cgacgTTTTG
        61 GCTCACGTAC CCAATGTACA TGTCTGGTCT Tacaaccacc accaatgGCT TGCTTGCATC

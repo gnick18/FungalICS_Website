@@ -98,6 +98,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKF|K460DRAFT_mRNA329402"
                      /product="glycoside hydrolase family 16 protein"
                      /protein_id="KAF1851395.1"
+                     /gene_kind="biosynthetic"
      gene            3508..5421
                      /note="*Name K460DRAFT_303583"
                      /note="*gbkey: Gene"
@@ -156,6 +157,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKF|K460DRAFT_mRNA303583"
                      /product="acyl-CoA dehydrogenase NM domain-like protein"
                      /protein_id="KAF1851396.1"
+                     /gene_kind="biosynthetic"
      gene            6053..11387
                      /note="*Name K460DRAFT_373415"
                      /note="*end_range: 5064731,."
@@ -762,6 +764,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKF|K460DRAFT_mRNA329422"
                      /product="hypothetical protein"
                      /protein_id="KAF1851402.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26290..26967)
                      /note="*Name K460DRAFT_351329"
                      /note="*end_range: 5080311,."
@@ -969,6 +972,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKF|K460DRAFT_mRNA303610"
                      /product="CoA-transferase family III"
                      /protein_id="KAF1851406.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GGAGAGTGAT GAAGTAAAGA ATGATAGGGT CGCACGGGAT GTGGGAGGAA ATCGAGAAGG
        61 GCACGGGGTG TACATACCGA CAGGAGCAAG GAAATCTGCT ATAGGTGCTG TGAGATCGAA

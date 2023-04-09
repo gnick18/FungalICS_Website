@@ -103,6 +103,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAE8390915.1"
+                     /gene_kind="biosynthetic"
      gene            3697..5775
                      /note="*Name BDV23DRAFT_154115"
                      /note="*gbkey: Gene"
@@ -189,6 +190,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFQ|BDV23DRAFT_mRNA154115"
                      /product="monooxygenase"
                      /protein_id="KAE8390916.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7946..8017)
                      /note="*Name BDV23DRAFT_t107"
                      /note="*gbkey: Gene"

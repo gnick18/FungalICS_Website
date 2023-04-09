@@ -309,6 +309,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFK|BO94DRAFT_mRNA555460"
                      /product="hypothetical protein"
                      /protein_id="XP_025469379.1"
+                     /gene_kind="biosynthetic"
      gene            11650..13003
                      /db_xref="GeneID:37115356"
                      /note="*Name BO94DRAFT_545012"
@@ -389,6 +390,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFK|BO94DRAFT_mRNA545012"
                      /product="cytochrome P450"
                      /protein_id="XP_025469380.1"
+                     /gene_kind="biosynthetic"
      gene            14281..15309
                      /db_xref="GeneID:37109523"
                      /note="*Name BO94DRAFT_398124"
@@ -436,6 +438,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="FAD/NAD(P)-binding domain-containing protein"
                      /protein_id="XP_025469381.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAATCAGAA TGTATAGGAT TCTTTTCTCG AATAGGAAGA TGGACATAGA ACGGTAAGCC
        61 CAGCATATGT CTAATTTTAG TCGGATTCGA GGTGTCAAAT GTGGTCTGTT CCCCCGTATT

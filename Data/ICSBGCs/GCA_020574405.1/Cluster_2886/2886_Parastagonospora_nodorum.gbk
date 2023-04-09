@@ -55,6 +55,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHY|mrna.HBI33_219020A"
                      /product="hypothetical protein"
                      /protein_id="KAH5349729.1"
+                     /gene_kind="biosynthetic"
      gene            2226..3625
                      /note="*Name HBI33_219030"
                      /note="*gbkey: Gene"
@@ -361,6 +362,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHY|mrna.HBI33_219130A"
                      /product="alpha-galactosidase"
                      /protein_id="KAH5349804.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18217..18936)
                      /note="*Name HBI33_219140"
                      /note="*gbkey: Gene"
@@ -743,6 +745,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHY|mrna.HBI33_219240A"
                      /product="autophagy-related protein"
                      /protein_id="KAH5349705.1"
+                     /gene_kind="biosynthetic"
      gene            complement(36693..38410)
                      /note="*Name HBI33_219250"
                      /note="*gbkey: Gene"
@@ -872,6 +875,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHY|mrna.HBI33_219270A"
                      /product="hypothetical protein"
                      /protein_id="KAH5349809.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACACCCGC ATCGTGACCC TAACCGGGAG CCCATCAACA GGATGCGCTC CCCCTCCCCC
        61 CATCTCCGCC TGATACGCCC GATTCCCATC CACCATCTTA ACCCCCTTTC TCGGATGCAT

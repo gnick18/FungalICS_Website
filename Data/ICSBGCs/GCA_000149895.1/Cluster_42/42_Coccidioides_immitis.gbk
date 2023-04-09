@@ -58,6 +58,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AATX|mrna_CIRT_09695"
                      /product="pyoverdine biosynthesis"
                      /protein_id="KMP09520.1"
+                     /gene_kind="biosynthetic"
      gene            2477..10256
                      /note="*Name CIRG_09691"
                      /note="*end_range: 889725,."
@@ -316,6 +317,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AATX|mrna_CIRT_09700"
                      /product="transporter"
                      /protein_id="KMP09525.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23370..24089)
                      /note="*Name CIRG_09696"
                      /note="*end_range: 903558,."
@@ -598,6 +600,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AATX|mrna_CIRT_09706"
                      /product="acetamidase"
                      /protein_id="KMP09531.1"
+                     /gene_kind="biosynthetic"
      gene            32026..33247
                      /note="*Name CIRG_09702"
                      /note="*end_range: 912716,."
@@ -805,6 +808,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AATX|mrna_CIRT_09710"
                      /product="malate dehydrogenase"
                      /protein_id="KMP09534.1"
+                     /gene_kind="biosynthetic"
      gene            41707..42401
                      /note="*Name CIRG_09706"
                      /note="*end_range: 921870,."

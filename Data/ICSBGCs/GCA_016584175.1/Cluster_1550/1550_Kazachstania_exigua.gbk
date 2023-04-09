@@ -87,6 +87,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHR|C6P45_005229-T1_mrna"
                      /product="hypoxanthine-guanine phosphoribosyltransferase"
                      /protein_id="KAG0667906.1"
+                     /gene_kind="biosynthetic"
      gene            2957..4018
                      /note="*Name URH1"
                      /note="*gbkey: Gene"
@@ -176,6 +177,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHR|C6P45_005231-T1_mrna"
                      /product="cytochrome P450-dit2"
                      /protein_id="KAG0667908.1"
+                     /gene_kind="biosynthetic"
      gene            7236..8849
                      /note="*Name DIT1"
                      /note="*gbkey: Gene"
@@ -212,6 +214,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHR|C6P45_005232-T1_mrna"
                      /product="dityrosine synthesis enzyme"
                      /protein_id="KAG0667909.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATTGttct tgtttaatat tttctttatc ttcATTAGTA CCTGTTTGTT GTAACCTTGA
        61 TCTTGATTTT CTAAACAATT CTTCTTGTTG TCGAagtaat tcttcttctg aaaGACctga

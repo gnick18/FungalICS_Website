@@ -77,6 +77,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBUT|KXV70_003387-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2570486.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4656..5733)
                      /note="*Name KXV70_003388"
                      /note="*gbkey: Gene"
@@ -244,6 +245,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBUT|KXV70_003390-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2570489.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCTTCTA CCCCGCCAAA GAAGTACTAC AAGGTGGCCG TTTTACTCTT CGAAGGAGTG
        61 GACATCCTTG ATTTCACGGC CCCTATGGAA GTTTTCACTC ATACATCCCA CAATCGAAAC

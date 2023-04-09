@@ -47,6 +47,7 @@ FEATURES             Location/Qualifiers
                      /product="P450 sporulation specific N formyltyrosine
                      oxidase Dit2"
                      /protein_id="KEY75712.1"
+                     /gene_kind="biosynthetic"
      gene            1910..2649
                      /note="*Name BA78_7198"
                      /note="*gbkey: Gene"
@@ -149,6 +150,7 @@ FEATURES             Location/Qualifiers
                      gnl|RolfPradeLab|mrna.AFUMN_6779"
                      /product="O methyltransferase"
                      /protein_id="KEY75714.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4968..5621)
                      /note="*Name BA78_8030"
                      /note="*gbkey: Gene"
@@ -280,6 +282,7 @@ FEATURES             Location/Qualifiers
                      gnl|RolfPradeLab|mrna.AFUMN_6728"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="KEY75742.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATGCATCA GTACTCTTCC TCCCGGATTC CAGAAAATAA CTTACTGGCG TCATCTTCAA
        61 CCGATAGCCC GGGTCCACCG TCCATTCGAT CCGTCTCAGT ACCTCAAACA GCAGAATCTT

@@ -459,6 +459,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AMCV|Cob_v009437.t1_mrna"
                      /product="Catechol 1,2-dioxygenase"
                      /protein_id="TDZ17579.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24647..26188)
                      /note="*Name Cob_v009438"
                      /note="*gbkey: Gene"
@@ -586,6 +587,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AMCV|Cob_v009440.t1_mrna"
                      /product="Methylesterase 8"
                      /protein_id="TDZ17690.1"
+                     /gene_kind="biosynthetic"
      gene            32889..34265
                      /note="*Name atA"
                      /note="*gbkey: Gene"
@@ -628,6 +630,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AMCV|Cob_v009441.t1_mrna"
                      /product="6-methylsalicylic acid decarboxylase atA"
                      /protein_id="TDZ17689.1"
+                     /gene_kind="biosynthetic"
      gene            complement(34720..36852)
                      /note="*Name DIT1-5"
                      /note="*gbkey: Gene"
@@ -692,6 +695,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AMCV|Cob_v009442.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ17682.1"
+                     /gene_kind="biosynthetic"
      gene            38209..41738
                      /note="*Name fmpF-1"
                      /note="*gbkey: Gene"
@@ -795,6 +799,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AMCV|Cob_v009443.t1_mrna"
                      /product="Aromatic hydroxylase fmpF"
                      /protein_id="TDZ17688.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACAGCTTG GTCTGGAACC TGCCGCGGAT GCGCGCGCCA AACAAGTAGA AAACGAGGGG
        61 AATGGGGACG AGGGCGAGGG AGACGAAGGC CAGGAGACTG TTGCCCCAGC CGAGGCCGAG

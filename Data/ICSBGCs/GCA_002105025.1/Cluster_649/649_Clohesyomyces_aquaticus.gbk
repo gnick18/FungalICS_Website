@@ -434,6 +434,7 @@ FEATURES             Location/Qualifiers
                      /product="carbamoyl-phosphate synthase L chain, ATP
                      binding domain-domain-containing protein"
                      /protein_id="ORY16208.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15233..16369)
                      /note="*Name BCR34DRAFT_118423"
                      /note="*gbkey: Gene"
@@ -530,6 +531,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MCFA|BCR34DRAFT_mRNA476630"
                      /product="serine/threonine-protein kinase crk1"
                      /protein_id="ORY16210.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25887..27288)
                      /note="*Name BCR34DRAFT_507275"
                      /note="*gbkey: Gene"
@@ -842,6 +844,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MCFA|BCR34DRAFT_mRNA597776"
                      /product="transferase family protein-like protein"
                      /protein_id="ORY16213.1"
+                     /gene_kind="biosynthetic"
      gene            36389..43153
                      /note="*Name BCR34DRAFT_622430"
                      /note="*end_range: 45371,."
@@ -1322,6 +1325,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="ORY16214.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTGCAATAGG AGGGCTACGT CTTATGTGAG CATGCGAGTA GTGAGTGGAC TGCTGTGCGT
        61 GTCTTATCTT CTTTCTGCGT GCGTGAGTTC GCGCTTTGGT CCCGTGAGGA GTAAGTATAT

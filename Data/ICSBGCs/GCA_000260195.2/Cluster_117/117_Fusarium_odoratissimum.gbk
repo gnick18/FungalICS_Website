@@ -155,6 +155,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_15320T0"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="EXL91569.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6331..7908)
                      /note="*Name FOIG_15321"
                      /note="*gbkey: Gene"
@@ -281,6 +282,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_15322T0"
                      /product="hypothetical protein"
                      /protein_id="EXL91571.1"
+                     /gene_kind="biosynthetic"
      gene            11292..13434
                      /note="*Name FOIG_15323"
                      /note="*end_range: 196677,."
@@ -346,6 +348,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_15323T0"
                      /product="hypothetical protein"
                      /protein_id="EXL91572.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATATCAGG AGAGCACAAA TACCCATATC CTCCATCGAT TGCCTCGCAC TCCAAACCCT
        61 ACTTGGGTCT CGCCGTCGTT GCTTCCAAGC ATTTTGCATC ACACTATACA CCGTACCACA

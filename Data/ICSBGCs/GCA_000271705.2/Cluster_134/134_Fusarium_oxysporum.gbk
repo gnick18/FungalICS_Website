@@ -199,6 +199,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_02502T0"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="EWZ46353.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7215..8797)
                      /note="*Name FOZG_02503"
                      /note="*gbkey: Gene"
@@ -325,6 +326,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_02504T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ46355.1"
+                     /gene_kind="biosynthetic"
      gene            12175..14317
                      /note="*Name FOZG_02505"
                      /note="*end_range: 548850,."
@@ -390,6 +392,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_02505T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ46356.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGGTTACT GGGTGGAATC GTATGCAAAT ACAAGTAGGC CGCTTTGCCT CATCGCTTTT
        61 GTCGGTCTTT GTGCATCCTC CACTGTCCAA GTGCACCCCC AACAGTCACT CGTTTAGTTG

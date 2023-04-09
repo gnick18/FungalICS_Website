@@ -183,6 +183,7 @@ FEATURES             Location/Qualifiers
                      gnl|KondrashovMSU|mrna.V496_02869"
                      /product="hypothetical protein"
                      /protein_id="KFY65022.1"
+                     /gene_kind="biosynthetic"
      gene            7660..9481
                      /note="*Name V496_02870"
                      /note="*end_range: 30688,."
@@ -261,6 +262,7 @@ FEATURES             Location/Qualifiers
                      gnl|KondrashovMSU|mrna.V496_02870"
                      /product="hypothetical protein"
                      /protein_id="KFY65023.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10144..12415)
                      /note="*Name V496_02871"
                      /note="*end_range: 33622,."
@@ -810,6 +812,7 @@ FEATURES             Location/Qualifiers
                      gnl|KondrashovMSU|mrna.V496_02877"
                      /product="hypothetical protein"
                      /protein_id="KFY65030.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGACtacaa aaaacataca agCAGGTTTC AAGGCTACTG GTCTTGTTCC GTACGACCCT
        61 GAATCTGTGA TTAGTCGCCT AGATCCAAAG TTTATtacac catcgccgcc aatCTCTCGC

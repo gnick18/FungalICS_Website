@@ -44,6 +44,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis protein,
                      putative"
                      /protein_id="EIT77898.1"
+                     /gene_kind="biosynthetic"
      gene            2775..4320
                      /note="*Name Ao3042_05858"
                      /note="*gbkey: Gene"
@@ -102,6 +103,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.Ao3042_05858"
                      /product="2-polyprenyl-6-methoxyphenol hydroxylase"
                      /protein_id="EIT77836.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGGTAGAA AGTATTTCCT TAAGAATGCA CTTACCATTG TACACAAGGC CATCAGATGC
        61 AATAGTCAAT ATAGCACCAG GCTCGTAGAT ATCTGTAATC GCGGCGCACA AGCCATTCAG

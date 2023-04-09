@@ -73,6 +73,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00013"
                      /product="oxidoreductase"
                      /protein_id="KAH7562966.1"
+                     /gene_kind="biosynthetic"
      gene            4001..5402
                      /note="*Name BM1_00014"
                      /note="*gbkey: Gene"
@@ -114,6 +115,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00014"
                      /product="hypothetical protein"
                      /protein_id="KAH7562967.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5772..6851)
                      /note="*Name BM1_00015"
                      /note="*gbkey: Gene"
@@ -249,6 +251,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00016"
                      /product="hypothetical protein"
                      /protein_id="KAH7562969.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13856..18585)
                      /note="*Name BM1_00017"
                      /note="*gbkey: Gene"
@@ -292,6 +295,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00017"
                      /product="hypothetical protein"
                      /protein_id="KAH7562970.1"
+                     /gene_kind="biosynthetic"
      gene            20037..21100
                      /note="*Name BM1_00018"
                      /note="*gbkey: Gene"
@@ -333,6 +337,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00018"
                      /product="hypothetical protein"
                      /protein_id="KAH7562971.1"
+                     /gene_kind="biosynthetic"
      gene            24959..26870
                      /note="*Name BM1_00019"
                      /note="*gbkey: Gene"
@@ -374,6 +379,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00019"
                      /product="hypothetical protein"
                      /protein_id="KAH7562972.1"
+                     /gene_kind="biosynthetic"
      gene            complement(27273..28923)
                      /note="*Name BM1_00020"
                      /note="*gbkey: Gene"
@@ -489,6 +495,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00021"
                      /product="reverse transcriptase"
                      /protein_id="KAH7562974.1"
+                     /gene_kind="biosynthetic"
      gene            complement(43738..44685)
                      /note="*Name BM1_00022"
                      /note="*gbkey: Gene"
@@ -514,6 +521,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00022"
                      /product="hypothetical protein"
                      /protein_id="KAH7562975.1"
+                     /gene_kind="biosynthetic"
      gene            46365..47609
                      /note="*Name BM1_00023"
                      /note="*gbkey: Gene"
@@ -555,6 +563,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAHUAA|mrna.BM1_00023"
                      /product="oxidoreductase"
                      /protein_id="KAH7562976.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGAAACGCT TCaaaacacc accactacGA GCCGATATAG ATACAGAAAT TGGAGAGGCA
        61 GGTGATGGAG ATACCTGGTG GGAGCTGTCA AGAATATTTA CCGCTGCGGT GCCGGATATA

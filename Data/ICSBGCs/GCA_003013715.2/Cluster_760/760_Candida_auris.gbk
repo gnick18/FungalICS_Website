@@ -34,6 +34,7 @@ FEATURES             Location/Qualifiers
                      gnl|328792|mrna_CJI96_0001002T0"
                      /product="chaperone_DnaK"
                      /protein_id="QEO20203.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            complement(2418..3968)
                      /note="*Name CJI96_0001003"
@@ -267,6 +268,7 @@ FEATURES             Location/Qualifiers
                      gnl|328792|mrna_CJI96_0001010T0"
                      /product="hypothetical_protein"
                      /protein_id="QEO20211.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
 ORIGIN
         1 TCAATTGTCC CCTTTAGAGC CAGAATTGTC CTTTTGGAGC TGCTGCTGTC TTGCAGCAAC

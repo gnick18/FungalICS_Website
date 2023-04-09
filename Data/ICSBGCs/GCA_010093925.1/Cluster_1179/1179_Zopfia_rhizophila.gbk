@@ -238,6 +238,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="KAF2183622.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,360015"
      gene            complement(10606..11670)
                      /note="*Name K469DRAFT_727909"
@@ -282,6 +283,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIT|K469DRAFT_mRNA727909"
                      /product="acid protease"
                      /protein_id="KAF2183623.1"
+                     /gene_kind="biosynthetic"
      gene            31142..31546
                      /note="*Name K469DRAFT_205141"
                      /note="*gbkey: Gene"

@@ -55,6 +55,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRER|mrna.HBI79_149720A"
                      /product="hypothetical protein"
                      /protein_id="KAH4925767.1"
+                     /gene_kind="biosynthetic"
      gene            2227..4885
                      /note="*Name HBI79_149730"
                      /note="*gbkey: Gene"
@@ -360,6 +361,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRER|mrna.HBI79_149780A"
                      /product="hypothetical protein"
                      /protein_id="KAH4925773.1"
+                     /gene_kind="biosynthetic"
      misc_feature    13666..13719
                      /note="*Type SO:0000658 dispersed_repeat"
                      /note="*Note Match to RepeatModeler de-novo family
@@ -428,6 +430,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRER|mrna.HBI79_149800A"
                      /product="cutinase"
                      /protein_id="KAH4925774.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16427..16732)
                      /note="*Name HBI79_149810"
                      /note="*gbkey: Gene"
@@ -580,6 +583,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRER|mrna.HBI79_149830A"
                      /product="hypothetical protein"
                      /protein_id="KAH4925777.1"
+                     /gene_kind="biosynthetic"
      gene            20765..23867
                      /note="*Name HBI79_149840"
                      /note="*gbkey: Gene"
@@ -739,6 +743,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRER|mrna.HBI79_149860A"
                      /product="hypothetical protein"
                      /protein_id="KAH4925780.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26725..28029)
                      /note="*Name HBI79_149870"
                      /note="*gbkey: Gene"

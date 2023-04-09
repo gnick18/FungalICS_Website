@@ -81,6 +81,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_11123"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KAF4462068.1"
+                     /gene_kind="biosynthetic"
      gene            2807..4908
                      /note="*Name FALBO_11124"
                      /note="*gbkey: Gene"
@@ -137,6 +138,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_11124"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF4462069.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5571..7108)
                      /note="*Name FALBO_11125"
                      /note="*gbkey: Gene"
@@ -174,6 +176,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_11125"
                      /product="hypothetical protein"
                      /protein_id="KAF4462070.1"
+                     /gene_kind="biosynthetic"
      gene            7917..11218
                      /note="*Name FALBO_11126"
                      /note="*gbkey: Gene"
@@ -290,6 +293,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_11128"
                      /product="glycosyltransferase family 28 domain-containing"
                      /protein_id="KAF4462073.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16604..17335)
                      /note="*Name FALBO_11129"
                      /note="*gbkey: Gene"
@@ -327,6 +331,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_11129"
                      /product="integral membrane PTH11"
                      /protein_id="KAF4462074.1"
+                     /gene_kind="biosynthetic"
      gene            24250..26085
                      /note="*Name FALBO_11130"
                      /note="*gbkey: Gene"
@@ -393,6 +398,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_11131"
                      /product="hypothetical protein"
                      /protein_id="KAF4462064.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACTTGGAT TCTACCACAA TTCCATCAAG ATATGCTTtc cagccatcat cgtcactctT
        61 GCCGACATAC CCTACATACA TATCGGGCCG CACAACCACC ACAACAGGCT CGCTCTCACT

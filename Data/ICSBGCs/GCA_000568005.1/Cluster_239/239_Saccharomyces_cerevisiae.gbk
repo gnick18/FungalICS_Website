@@ -75,6 +75,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:APIP|mrna.R008_D20451"
                      /product="Dit2p"
                      /protein_id="EWG86739.1"
+                     /gene_kind="biosynthetic"
      gene            3539..5149
                      /note="*Name Dit1"
                      /note="*gbkey: Gene"
@@ -110,6 +111,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:APIP|mrna.R008_D20461"
                      /product="Dit1p"
                      /protein_id="EWG86740.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5595..6110)
                      /note="*Name Rpb7"
                      /note="*gbkey: Gene"

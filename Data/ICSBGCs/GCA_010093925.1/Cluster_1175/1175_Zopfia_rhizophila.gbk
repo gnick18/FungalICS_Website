@@ -196,6 +196,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIT|K469DRAFT_mRNA688538"
                      /product="cytochrome P450"
                      /protein_id="KAF2184519.1"
+                     /gene_kind="biosynthetic"
      gene            6210..6632
                      /note="*Name K469DRAFT_175944"
                      /note="*gbkey: Gene"
@@ -671,6 +672,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="KAF2184527.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAAGATAA TAGACACCTT GCTCCTTGTA AACGTATCCT GCGCCGTGAA GTTCCCAACA
        61 AGATCTGTGC CTAACCCCAT CCTTATCTTC ACTTTCGCGT CTAGAGAAGA ACGCTGCCCA

@@ -50,6 +50,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGRQL|J3459_013714-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG8416168.1"
+                     /gene_kind="biosynthetic"
      gene            2672..3600
                      /note="*Name DIT2_2"
                      /note="*gbkey: Gene"
@@ -115,6 +116,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGRQL|J3459_013715-T1_mrna"
                      /product="cytochrome P450-dit2"
                      /protein_id="KAG8416169.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21463..23792)
                      /note="*Name J3459_013716"
                      /note="*gbkey: Gene"
@@ -279,6 +281,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGRQL|J3459_013717-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG8416171.1"
+                     /gene_kind="biosynthetic"
      gene            28068..29157
                      /note="*Name CAF16_2"
                      /note="*gbkey: Gene"

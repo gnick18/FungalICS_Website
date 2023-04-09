@@ -154,6 +154,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHD|mrna.HBH60_190200A"
                      /product="hypothetical protein"
                      /protein_id="KAH4820405.1"
+                     /gene_kind="biosynthetic"
      gene            5995..7352
                      /note="*Name HBH60_190210"
                      /note="*gbkey: Gene"
@@ -289,6 +290,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHD|mrna.HBH60_190220A"
                      /product="hypothetical protein"
                      /protein_id="KAH4820361.1"
+                     /gene_kind="biosynthetic"
      gene            10353..10916
                      /note="*Name HBH60_190230"
                      /note="*gbkey: Gene"
@@ -861,6 +863,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHD|mrna.HBH60_190350A"
                      /product="hypothetical protein"
                      /protein_id="KAH4820336.1"
+                     /gene_kind="biosynthetic"
      gene            25201..26409
                      /note="*Name HBH60_190360"
                      /note="*gbkey: Gene"
@@ -945,6 +948,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHD|mrna.HBH60_190360A"
                      /product="Ras-like protein"
                      /protein_id="KAH4820382.1"
+                     /gene_kind="biosynthetic"
      repeat_region   25582..25604
                      /note="*gbkey: repeat_region"
                      /inference="nucleotide motif:RepeatMasker:4.0.9p2"

@@ -255,6 +255,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="OTA58838.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6872..8265)
                      /note="*Name K449DRAFT_448462"
                      /note="*end_range: 139114,."
@@ -386,6 +387,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDCK|K449DRAFT_mRNA436330"
                      /product="hypothetical protein"
                      /protein_id="OTA58841.1"
+                     /gene_kind="biosynthetic"
      gene            13471..15695
                      /note="*Name K449DRAFT_424154"
                      /note="*gbkey: Gene"
@@ -504,6 +506,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDCK|K449DRAFT_mRNA385402"
                      /product="glycoside hydrolase family 128 protein"
                      /protein_id="OTA58843.1"
+                     /gene_kind="biosynthetic"
      gene            20326..21633
                      /note="*Name K449DRAFT_333845"
                      /note="*end_range: 152482,."
@@ -563,6 +566,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDCK|K449DRAFT_mRNA333845"
                      /product="globin-like protein"
                      /protein_id="OTA58844.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTGCTTCTGG ATTACGGCGC TCATATAAAC ATGAGAGACA ACTTTGGATG CACGCCGCTC
        61 ATGATCTCAC TGCGTCGTTT GGATCTAGGC ATTGCTAGAT TATTTCTAGA TTATGGTGCG

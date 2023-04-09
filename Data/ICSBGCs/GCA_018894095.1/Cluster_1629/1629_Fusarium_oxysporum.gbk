@@ -159,6 +159,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RSAI|FocnCong_v002107.t1_mrna"
                      /product="putative amidohydrolase YtcJ"
                      /protein_id="KAG6988274.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6476..7854)
                      /note="*Name apdF-3"
                      /note="*gbkey: Gene"
@@ -286,6 +287,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RSAI|FocnCong_v002109.t1_mrna"
                      /product="Aromatic hydroxylase fmpF"
                      /protein_id="KAG6988276.1"
+                     /gene_kind="biosynthetic"
      gene            11355..13437
                      /note="*Name DIT1-0"
                      /note="*gbkey: Gene"
@@ -349,6 +351,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RSAI|FocnCong_v002110.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAG6987302.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATATCAGG AGAGCACAAA TGCCCAGATC CTCCATTGAT TGTCTTGCGC TCCAAAGCCT
        61 ACTTGGGTCC TGGCGTCGCT GCTTCCAAGC ATTTTGCATG ACACTATAAA CCGTACCACA

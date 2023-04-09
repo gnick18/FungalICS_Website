@@ -467,6 +467,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="KIJ42542.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,367988"
      gene            complement(19996..21239)
                      /note="*Name M422DRAFT_254322"
@@ -707,6 +708,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JOMA|M422DRAFT_mRNA170957"
                      /product="hypothetical protein"
                      /protein_id="KIJ42544.1"
+                     /gene_kind="biosynthetic"
      gene            30449..30811
                      /note="*Name M422DRAFT_254324"
                      /note="*end_range: 380895,."
@@ -887,6 +889,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JOMA|M422DRAFT_mRNA779976"
                      /product="hypothetical protein"
                      /protein_id="KIJ42546.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GTAGCGAAGC TAATTGATGA TTCGACTGGG AACTACGAGG TAAAAATTAC ATATATCGTC
        61 CCAGAGCCGA AATCCGAAAT TGAGGGCTTG CAGCGATGGG TGTCCTTCTG ACAGACAGCC

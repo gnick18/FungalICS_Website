@@ -166,6 +166,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRCY|BFJ68_g5104.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL16490.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7117..8495)
                      /note="*Name BFJ68_g5103"
                      /note="*end_range: 56566,."
@@ -291,6 +292,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRCY|BFJ68_g5008.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL16395.1"
+                     /gene_kind="biosynthetic"
      gene            11996..14078
                      /note="*Name BFJ68_g5110"
                      /note="*end_range: 62149,."
@@ -353,6 +355,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRCY|BFJ68_g5110.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL16496.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAACTGTCG CCGCCGGTCC TTGCAAGccc agcaccacca gcgcTGGCCT GAGCACTACG
        61 GCAACCGTCC TCGAAGAGCC TACCAGCACC CAAACCTCCG CTATTGAAGA GACCACTACC

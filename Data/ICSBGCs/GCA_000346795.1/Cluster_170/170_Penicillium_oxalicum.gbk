@@ -88,6 +88,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AGIH|PDE_mrna09882"
                      /product="hypothetical protein"
                      /protein_id="EPS34918.1"
+                     /gene_kind="biosynthetic"
      gene            5299..6006
                      /note="*Name PDE_09883"
                      /note="*gbkey: Gene"
@@ -147,6 +148,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AGIH|PDE_mrna09884"
                      /product="hypothetical protein"
                      /protein_id="EPS34920.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10273..11475)
                      /note="*Name PDE_09885"
                      /note="*gbkey: Gene"
@@ -453,6 +455,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AGIH|PDE_mrna09890"
                      /product="hypothetical protein"
                      /protein_id="EPS34926.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCATCGC CATACACTCA AGCGAGTCCG TATTCGCCCT CGGATGCACC GGGAACTTCT
        61 GGAGCGACCT CCAGATCAGT ATCCGACTTA CCGCAATCTC AAGTGGACGC TATAATTCGA

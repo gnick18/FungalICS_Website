@@ -240,6 +240,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKU|E8E13_004326-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3010639.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16253..18850)
                      /note="*Name CUL3"
                      /note="*gbkey: Gene"
@@ -453,6 +454,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKU|E8E13_004459-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3010643.1"
+                     /gene_kind="biosynthetic"
      gene            26036..27598
                      /note="*Name E8E13_004484"
                      /note="*gbkey: Gene"
@@ -647,6 +649,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKU|E8E13_004555-T1_mrna"
                      /product="cytochrome P450-dit2"
                      /protein_id="KAF3010646.1"
+                     /gene_kind="biosynthetic"
      gene            34141..36248
                      /note="*Name DIT1"
                      /note="*gbkey: Gene"
@@ -696,6 +699,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKU|E8E13_004581-T1_mrna"
                      /product="dityrosine synthesis enzyme"
                      /protein_id="KAF3010647.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATTTCTTC CTGTTCCGCC CAGCCACCCC TCCAGCGAAC CGTCCAAGGT TACTCAGGCT
        61 GGACCTAGGT TTGTGACCTT GAGCTGCAtt cgacgcagca gcagctaccG GCGGCCTCAT

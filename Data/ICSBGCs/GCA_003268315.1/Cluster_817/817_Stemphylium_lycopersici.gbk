@@ -65,6 +65,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDG|mrna.DDE82_006746"
                      /product="pyoverdine dityrosine biosynthesis"
                      /protein_id="RAR01174.1"
+                     /gene_kind="biosynthetic"
      gene            3457..5047
                      /note="*Name DDE82_006747"
                      /note="*gbkey: Gene"
@@ -229,6 +230,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDG|mrna.DDE82_006748"
                      /product="FAD/NAD(P)-binding domain-containing protein"
                      /protein_id="RAR01176.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACGAGGTC GAAACAGTGC CATCGGTACC AATCACCACC GTTTTTGGCG CACTTGCCAT
        61 GAACAAAtgc tcgtcttcct caatcttcgc tgccgccgcc ggcgTGCCAA TGATGCCCAG

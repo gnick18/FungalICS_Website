@@ -237,6 +237,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NEXV|AARAC_007221-RA_mrna"
                      /product="alpha/beta hydrolase"
                      /protein_id="PIG87643.1"
+                     /gene_kind="biosynthetic"
      gene            16048..16823
                      /note="*Name AARAC_007222"
                      /note="*gbkey: Gene"
@@ -359,6 +360,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NEXV|AARAC_007223-RA_mrna"
                      /product="monooxygenase"
                      /protein_id="PIG87636.1"
+                     /gene_kind="biosynthetic"
      gene            22554..24674
                      /note="*Name AARAC_007224"
                      /note="*gbkey: Gene"
@@ -415,6 +417,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NEXV|AARAC_007224-RA_mrna"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="PIG87639.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24865..26970)
                      /note="*Name AARAC_007225"
                      /note="*gbkey: Gene"
@@ -546,6 +549,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NEXV|AARAC_007226-RA_mrna"
                      /product="phytoene dehydrogenase"
                      /protein_id="PIG87634.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31151..33045)
                      /note="*Name AARAC_007227"
                      /note="*gbkey: Gene"
@@ -612,6 +616,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NEXV|AARAC_007227-RA_mrna"
                      /product="phytoene synthase"
                      /protein_id="PIG87635.1"
+                     /gene_kind="biosynthetic"
      gene            33655..35549
                      /note="*Name AARAC_007228"
                      /note="*gbkey: Gene"
@@ -798,6 +803,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NEXV|AARAC_007230-RA_mrna"
                      /product="isoamyl alcohol oxidase"
                      /protein_id="PIG87637.1"
+                     /gene_kind="biosynthetic"
      gene            43558..44307
                      /note="*Name AARAC_007231"
                      /note="*gbkey: Gene"
@@ -965,6 +971,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NEXV|AARAC_007235-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="PIG87622.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGAACCTG TGGAAGATGC TGTCTCCTTC TTACCGCCGC TAGACTGGGT TCCTCATCCA
        61 AAGTGAGTTT AGTATATCGC CTGCTGTGCT ATCTCAAGGG TTTAACCGGT TATTATGATA

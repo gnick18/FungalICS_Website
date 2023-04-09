@@ -58,6 +58,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBVG|KXV51_007051-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2694402.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1473..2915)
                      /note="*Name KXV51_007052"
                      /note="*gbkey: Gene"
@@ -97,6 +98,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBVG|KXV51_007052-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2694403.1"
+                     /gene_kind="biosynthetic"
      gene            3484..4944
                      /note="*Name KXV51_007053"
                      /note="*gbkey: Gene"
@@ -440,6 +442,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBVG|KXV51_007058-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2694409.1"
+                     /gene_kind="biosynthetic"
      gene            20603..21703
                      /note="*Name KXV51_007059"
                      /note="*gbkey: Gene"
@@ -492,6 +495,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBVG|KXV51_007059-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2694410.1"
+                     /gene_kind="biosynthetic"
      gene            22352..22573
                      /note="*Name KXV51_007060"
                      /note="*end_range: 138056,."
@@ -584,6 +588,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBVG|KXV51_007061-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2669923.1"
+                     /gene_kind="biosynthetic"
      gene            complement(33644..36481)
                      /note="*Name KXV51_007062"
                      /note="*gbkey: Gene"
@@ -621,6 +626,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBVG|KXV51_007062-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2669922.1"
+                     /gene_kind="biosynthetic"
      gene            38928..39668
                      /note="*Name KXV51_007063"
                      /note="*gbkey: Gene"
@@ -656,6 +662,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="KAH2669919.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,189"
      gene            complement(40390..41396)
                      /note="*Name KXV51_007064"
@@ -696,6 +703,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBVG|KXV51_007064-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2669920.1"
+                     /gene_kind="biosynthetic"
      gene            42823..43936
                      /note="*Name GAR1_2"
                      /note="*end_range: 5197,."
@@ -772,6 +780,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="H/ACA snoRNP pseudouridylase subunit"
                      /protein_id="KAH2669921.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCGTCTCT CTGAAATTCT TACTGTTGCT TTGGTCACTG GGGCCACTGC TTATAATTTG
        61 CCCAACAACT TGAAACAGAT CTACGACAAA CACAAGGTAT ACTGCACACA TCTCAAGGTT

@@ -357,6 +357,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6627305.1"
+                     /gene_kind="biosynthetic"
      gene            11481..14288
                      /note="*Name F5144DRAFT_575484"
                      /note="*gbkey: Gene"
@@ -563,6 +564,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGIZQ|F5144DRAFT_mRNA494589"
                      /product="Metallo-dependent phosphatase-like protein"
                      /protein_id="KAH6627308.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21502..23046)
                      /note="*Name F5144DRAFT_603593"
                      /note="*end_range: 32061,."
@@ -728,6 +730,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGIZQ|F5144DRAFT_mRNA268355"
                      /product="glycoside hydrolase superfamily"
                      /protein_id="KAH6627311.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ACCTGGACCA GGACTTCAGC GGTCGGGTCA GCGTTGCTCC GTCGCAGCTA AACTCTCGCC
        61 AAGAATGCCG AGGTAAGGGG CTCATCGGGA TGGTCTTACA CCAGCCCCTG TTACGAGCTG

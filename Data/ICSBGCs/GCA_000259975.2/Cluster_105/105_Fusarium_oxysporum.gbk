@@ -107,6 +107,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11196T1"
                      /product="hypothetical protein"
                      /protein_id="EWZ86135.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(1..2813)
                      /note="*gbkey: mRNA"
                      /locus_tag="FOWG_11196"
@@ -196,6 +197,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11196T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ86134.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2932..5124)
                      /note="*Name FOWG_11197"
                      /note="*gbkey: Gene"
@@ -233,6 +235,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11197T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ86136.1"
+                     /gene_kind="biosynthetic"
      gene            5285..6790
                      /note="*Name FOWG_11198"
                      /note="*gbkey: Gene"
@@ -261,6 +264,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11198T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ86137.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6609..8775)
                      /note="*Name FOWG_11199"
                      /note="*gbkey: Gene"
@@ -299,6 +303,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11199T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ86138.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(6614..8674)
                      /note="*gbkey: mRNA"
                      /locus_tag="FOWG_11199"
@@ -341,6 +346,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11199T1"
                      /product="hypothetical protein"
                      /protein_id="EWZ86139.1"
+                     /gene_kind="biosynthetic"
      gene            9090..13551
                      /note="*Name FOWG_11200"
                      /note="*gbkey: Gene"
@@ -406,6 +412,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11200T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ86140.1"
+                     /gene_kind="biosynthetic"
      mRNA            9265..13551
                      /note="*gbkey: mRNA"
                      /locus_tag="FOWG_11200"
@@ -473,6 +480,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11200T1"
                      /product="hypothetical protein"
                      /protein_id="EWZ86141.1"
+                     /gene_kind="biosynthetic"
      gene            13784..15832
                      /note="*Name FOWG_11201"
                      /note="*end_range: 1331130,."
@@ -604,6 +612,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11203T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ86144.1"
+                     /gene_kind="biosynthetic"
      gene            19240..20828
                      /note="*Name FOWG_11204"
                      /note="*gbkey: Gene"
@@ -659,6 +668,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGBH|mrna_FOWG_11204T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ86145.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 AAGCGAGTGC ATGTTTTATA GCTGCCAAGA GTACATTAGA TCTGCATAGT GCATCTGCGT
        61 AAATTCAGCA CGCTGATGTT CCGGCGACTA GGAAGGTAGA GAAGCGACTG CAAGCAGGAG

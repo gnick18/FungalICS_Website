@@ -43,6 +43,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JYKN|AOCH_003000-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="KKK21467.1"
+                     /gene_kind="biosynthetic"
      gene            2131..3618
                      /note="*Name AOCH_003001"
                      /note="*gbkey: Gene"
@@ -99,6 +100,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JYKN|AOCH_003002-RA_mrna"
                      /product="lipase"
                      /protein_id="KKK21465.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5645..7131)
                      /note="*Name AOCH_003003"
                      /note="*gbkey: Gene"
@@ -136,6 +138,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JYKN|AOCH_003003-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="KKK21466.1"
+                     /gene_kind="biosynthetic"
      gene            7838..13155
                      /note="*Name AOCH_003004"
                      /note="*gbkey: Gene"
@@ -211,6 +214,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JYKN|AOCH_003004-RA_mrna"
                      /product="transferase family protein"
                      /protein_id="KKK21469.1"
+                     /gene_kind="biosynthetic"
      gene            14057..15837
                      /note="*Name AOCH_003005"
                      /note="*gbkey: Gene"

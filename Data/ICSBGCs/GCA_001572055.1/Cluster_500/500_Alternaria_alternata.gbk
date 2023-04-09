@@ -82,6 +82,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LPVP|mrna.AALT_g5787"
                      /product="histidine kinase hhk15p"
                      /protein_id="OWY44038.1"
+                     /gene_kind="biosynthetic"
      gene            6840..8157
                      /note="*Name AALT_g5788"
                      /note="*gbkey: Gene"
@@ -140,6 +141,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LPVP|mrna.AALT_g5788"
                      /product="NAD(P)-binding protein"
                      /protein_id="OWY44039.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8311..12990)
                      /note="*Name AALT_g5789"
                      /note="*gbkey: Gene"
@@ -257,6 +259,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LPVP|mrna.AALT_g5790"
                      /product="alpha-methylacyl-CoA racemase"
                      /protein_id="OWY44041.1"
+                     /gene_kind="biosynthetic"
      gene            16035..16745
                      /note="*Name AALT_g5791"
                      /note="*gbkey: Gene"
@@ -282,6 +285,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LPVP|mrna.AALT_g5791"
                      /product="hypothetical protein"
                      /protein_id="OWY44042.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16880..18815)
                      /note="*Name AALT_g5792"
                      /note="*gbkey: Gene"
@@ -324,6 +328,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LPVP|mrna.AALT_g5792"
                      /product="D-lactate dehydrogenase mitochondrial precursor"
                      /protein_id="OWY44043.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19669..20928)
                      /note="*Name AALT_g5793"
                      /note="*gbkey: Gene"
@@ -572,6 +577,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LPVP|mrna.AALT_g5799"
                      /product="protein disulfide isomerase"
                      /protein_id="OWY44077.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGGGTACC AGTGCACTTG ATTGAAGGCC CAGTCCCGGT GTTGGCGGTT CAATGGACGA
        61 GGGCGCTAAT TGCGGCATCA GCGACTTCAT CATGGAGACC AAGTCGGCCG CTTTGAACGG

@@ -323,6 +323,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEJD|BDR25DRAFT_mRNA271515"
                      /product="acetyl-CoA synthetase-like protein"
                      /protein_id="KAF2464539.1"
+                     /gene_kind="biosynthetic"
      gene            21827..25004
                      /note="*Name BDR25DRAFT_271517"
                      /note="*gbkey: Gene"
@@ -435,6 +436,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEJD|BDR25DRAFT_mRNA271517"
                      /product="hypothetical protein"
                      /protein_id="KAF2464540.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATAATAAT GATGATGATA ATGGTCAGTA ATGCTAACAA ATGATCATGG CAAATCGCCA
        61 TTCCTATTAT AAGCGAAAAT GTTAAGAGAG AGCTGAGTTA TAGCGGCATT GCACTGGGTA

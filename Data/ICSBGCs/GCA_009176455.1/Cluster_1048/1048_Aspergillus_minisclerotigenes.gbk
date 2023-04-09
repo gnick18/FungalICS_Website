@@ -93,6 +93,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWDZ|BDV30DRAFT_mRNA204612"
                      /product="hypothetical protein"
                      /protein_id="KAB8277978.1"
+                     /gene_kind="biosynthetic"
      gene            3464..5101
                      /note="*Name BDV30DRAFT_223301"
                      /note="*end_range: 554840,."
@@ -384,6 +385,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWDZ|BDV30DRAFT_mRNA250828"
                      /product="Lycopene beta-cyclase"
                      /protein_id="KAB8277981.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9933..11722)
                      /note="*Name BDV30DRAFT_234387"
                      /note="*end_range: 561461,."
@@ -470,6 +472,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWDZ|BDV30DRAFT_mRNA234387"
                      /product="hypothetical protein"
                      /protein_id="KAB8277982.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12269..13341)
                      /note="*Name BDV30DRAFT_223305"
                      /note="*end_range: 563080,."
@@ -561,6 +564,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="KAB8277983.1"
+                     /gene_kind="biosynthetic"
      gene            14036..16658
                      /note="*Name BDV30DRAFT_223306"
                      /note="*end_range: 566397,."
@@ -751,6 +755,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAB8277985.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GCAAGAGCTA TTGTACAACA GATAATAATC TACCTAGGGA CACGATCTAC TTTCTCCCGT
        61 GACAAAGAGG ACCGTAAGCC TGACCGGGGA GGCTATCCTG ATGCCAGGCC TCACTACCCA

@@ -274,6 +274,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WWBZ|BOTSDO04482.1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4308252.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13935..15737)
                      /note="*Name GTA08_BOTSDO04483"
                      /note="*gbkey: Gene"
@@ -349,6 +350,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WWBZ|BOTSDO04483.1_mrna"
                      /product="putative FAD binding domain containing protein"
                      /protein_id="KAF4308253.1"
+                     /gene_kind="biosynthetic"
      gene            17619..19638
                      /note="*Name GTA08_BOTSDO04484"
                      /note="*gbkey: Gene"
@@ -396,6 +398,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WWBZ|BOTSDO04484.1_mrna"
                      /product="Taurine catabolism dioxygenase TauD/TfdA"
                      /protein_id="KAF4308246.1"
+                     /gene_kind="biosynthetic"
      gene            21454..23258
                      /note="*Name GTA08_BOTSDO04485"
                      /note="*gbkey: Gene"
@@ -442,6 +445,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WWBZ|BOTSDO04485.1_mrna"
                      /product="Cytochrome P450"
                      /protein_id="KAF4308247.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCTCACGT TCAGCTCGCT CGTCTCCACA TTCCTGGCTC TGTCCCCGCA ATGGTCGAGC
        61 GCAAATCCCA TCCAGACCGC CGACGAATAT AACCTCGACC AGATCCCTAT CGAGGAGTTC

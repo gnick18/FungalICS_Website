@@ -74,6 +74,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGMK|LSUE1_T005037_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TVY73421.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2523..4034)
                      /note="*Name FAD12_2"
                      /note="*gbkey: Gene"
@@ -124,6 +125,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGMK|LSUE1_T005038_mrna"
                      /product="Delta(12) fatty acid desaturase"
                      /protein_id="TVY73420.1"
+                     /gene_kind="biosynthetic"
      gene            5565..6227
                      /note="*Name LSUE1_G005039"
                      /note="*gbkey: Gene"
@@ -307,6 +309,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGMK|LSUE1_T005041_mrna"
                      /product="Acid phosphatase"
                      /protein_id="TVY73422.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGATGTAT CGTCATTGTC TTTAGCATCA CTTTCATCAG CCAACACAGA AGACTTCCGA
        61 CTTAGCGAAA CTGGTGCCAG TCCCGTGTGG TCTCCCCGTA TAAAGCCAGT GCAAAACAAT

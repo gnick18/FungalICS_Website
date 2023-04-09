@@ -109,6 +109,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203859T0"
                      /product="cytochrome P450"
                      /protein_id="OAT07829.1"
+                     /gene_kind="biosynthetic"
      gene            6695..9480
                      /note="*Name BDBG_03860"
                      /note="*gbkey: Gene"
@@ -162,6 +163,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203860T0"
                      /product="alcohol dehydrogenase 1"
                      /protein_id="OAT07830.1"
+                     /gene_kind="biosynthetic"
      mRNA            6961..9323
                      /note="*gbkey: mRNA"
                      /locus_tag="BDBG_03860"
@@ -210,6 +212,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203860T1"
                      /product="alcohol dehydrogenase 1, variant"
                      /protein_id="OAT07831.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8823..13196)
                      /note="*Name BDBG_03861"
                      /note="*gbkey: Gene"
@@ -450,6 +453,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203863T0"
                      /product="carboxypeptidase D"
                      /protein_id="OAT07835.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(16828..20686)
                      /note="*gbkey: mRNA"
                      /locus_tag="BDBG_03863"
@@ -494,6 +498,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203863T1"
                      /product="carboxypeptidase D, variant 1"
                      /protein_id="OAT07836.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(16828..20487)
                      /note="*gbkey: mRNA"
                      /locus_tag="BDBG_03863"
@@ -531,6 +536,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203863T2"
                      /product="carboxypeptidase D, variant 2"
                      /protein_id="OAT07837.1"
+                     /gene_kind="biosynthetic"
      gene            20882..24687
                      /note="*Name BDBG_16895"
                      /note="*Note old_locus_tag BDBG_03864 has been split into
@@ -829,6 +835,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203865T0"
                      /product="NIF domain-containing protein"
                      /protein_id="OAT07841.1"
+                     /gene_kind="biosynthetic"
      gene            24937..26046
                      /note="*Name BDBG_16896"
                      /note="*Note old_locus_tag BDBG_03864 has been split into
@@ -993,6 +1000,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203867T0"
                      /product="cytochrome P450-DIT2"
                      /protein_id="OAT07843.1"
+                     /gene_kind="biosynthetic"
      gene            37689..39919
                      /note="*Name BDBG_03868"
                      /note="*gbkey: Gene"
@@ -1038,6 +1046,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS_ACBU|mrna_BDBG_0203868T0"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="OAT07844.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GTTGATCTGA AGATCAAGCA TATTATCTCG TGCGATCACA CGGTCTCTGT GATGATGTTG
        61 CCACTTCTCT GACAAGTATC AAATCAGAGC TGCTGAATAT CTAGTTTATG TCACTTCATT

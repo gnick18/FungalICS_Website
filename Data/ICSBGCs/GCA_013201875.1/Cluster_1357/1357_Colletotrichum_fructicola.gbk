@@ -319,6 +319,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v014399.t1_mrna"
                      /product="Glutathione S-transferase"
                      /protein_id="KAF4882611.1"
+                     /gene_kind="biosynthetic"
      gene            16420..17711
                      /note="*Name adh-11"
                      /note="*gbkey: Gene"
@@ -371,6 +372,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v014400.t1_mrna"
                      /product="Alcohol dehydrogenase 1"
                      /protein_id="KAF4882614.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18030..19668)
                      /note="*Name azaI"
                      /note="*gbkey: Gene"
@@ -434,6 +436,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v014401.t1_mrna"
                      /product="Cytochrome P450 monooxygenase azaI"
                      /protein_id="KAF4882598.1"
+                     /gene_kind="biosynthetic"
      gene            21843..23600
                      /note="*Name SEO1-3"
                      /note="*gbkey: Gene"
@@ -534,6 +537,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v014403.t1_mrna"
                      /product="Cytochrome P450 monooxygenase TRI13"
                      /protein_id="KAF4882595.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25976..27093)
                      /note="*Name DIT1-3"
                      /note="*gbkey: Gene"
@@ -588,6 +592,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v014404.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4882607.1"
+                     /gene_kind="biosynthetic"
      gene            complement(28205..29510)
                      /note="*Name DIT1-2"
                      /note="*gbkey: Gene"
@@ -642,6 +647,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v014405.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4882596.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACACATCT TCGGTGTGCT CACTTCGCTT CGCCTTGTCG ATATCGTCGA AAGCAgtgtc
        61 gacgaccttg gtCGATGGTT CCGGACGGGC GTCGTGTGCG TAGCCACTGC GGGGAAAGGA

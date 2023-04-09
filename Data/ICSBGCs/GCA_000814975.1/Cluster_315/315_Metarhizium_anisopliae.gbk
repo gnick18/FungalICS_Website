@@ -66,6 +66,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KID60526.1"
+                     /gene_kind="biosynthetic"
      gene            3092..4550
                      /note="*Name MAN_09662"
                      /note="*gbkey: Gene"
@@ -114,6 +115,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Cytochrome P450 family protein"
                      /protein_id="KID60527.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,20009"
      gene            complement(7320..9217)
                      /note="*Name MAN_09663"

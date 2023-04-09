@@ -97,6 +97,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LUFC|mrna.FAGAP_1906"
                      /product="yjlB"
                      /protein_id="KAF4501929.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11697..13790)
                      /note="*Name FAGAP_1907"
                      /note="*gbkey: Gene"
@@ -148,6 +149,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LUFC|mrna.FAGAP_1907"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF4501930.1"
+                     /gene_kind="biosynthetic"
      gene            14634..16356
                      /note="*Name FAGAP_1908"
                      /note="*gbkey: Gene"
@@ -206,6 +208,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LUFC|mrna.FAGAP_1908"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KAF4501931.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGATCTTG CCTTGTTTCC TGTATTCATC TACCCGATTC AAGATCTCTT CGCAATCATC
        61 CCAGATTCTG CGCCGATTCT GCAGCCCAAG TAATGTTTTC CAGTTCTTCG ATACCTCCAC

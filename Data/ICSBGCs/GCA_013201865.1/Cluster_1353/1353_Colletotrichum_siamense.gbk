@@ -120,6 +120,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v004771.t1_mrna"
                      /product="Acyl-CoA dehydrogenase family member 11"
                      /protein_id="KAF4876087.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4045..5427)
                      /note="*Name CGCSCA1_v004772"
                      /note="*Note Arginine biosynthesis bifunctional protein
@@ -150,6 +151,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v004772.t1_mrna"
                      /product="Arginine biosynthesis bifunctional protein ArgJ"
                      /protein_id="KAF4876086.1"
+                     /gene_kind="biosynthetic"
      gene            6113..6770
                      /note="*Name LOC1"
                      /note="*gbkey: Gene"
@@ -272,6 +274,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v004774.t1_mrna"
                      /product="putative esterase"
                      /protein_id="KAF4876092.1"
+                     /gene_kind="biosynthetic"
      gene            9779..12749
                      /note="*Name CGCSCA1_v004775"
                      /note="*Note MAU2 chromatid cohesion factor-like protein"
@@ -741,6 +744,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v004783.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4876269.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAAAGGCG TTCTCCTTGG GTGAGGCGGT TTTGGAGCTG AAGAGGTTGC TGCCACCAAC
        61 CTTCTTGGCG GAGGCCTGGG CGAAGAGAGA CTTGGGCTTG ACCCTGTGAT GAAACGATTA

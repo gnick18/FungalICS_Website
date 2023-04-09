@@ -65,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NPIC|BP5553_08218_T0"
                      /product="Uncharacterized protein"
                      /protein_id="RDL33850.1"
+                     /gene_kind="biosynthetic"
      gene            3348..4303
                      /note="*Name BP5553_08219"
                      /note="*gbkey: Gene"
@@ -114,6 +115,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NPIC|BP5553_08219_T0"
                      /product="NAD(P)-binding Rossmann-fold containing protein"
                      /protein_id="RDL33851.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4899..6255)
                      /note="*Name BP5553_08220"
                      /note="*gbkey: Gene"
@@ -147,6 +149,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NPIC|BP5553_08220_T0"
                      /product="Uncharacterized protein"
                      /protein_id="RDL33852.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6584..7952)
                      /note="*Name BP5553_08221"
                      /note="*gbkey: Gene"
@@ -248,6 +251,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NPIC|BP5553_08222_T0"
                      /product="Uncharacterized protein"
                      /protein_id="RDL33854.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10355..11380)
                      /note="*Name BP5553_08223"
                      /note="*gbkey: Gene"
@@ -402,6 +406,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NPIC|BP5553_08227_T0"
                      /product="hypothetical protein"
                      /protein_id="RDL33859.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGAATTA AGGATATCAT CAGCAATTTT CTCTGCAAGG GCATCTATTG AAGCGTCGCG
        61 CGCATGTTAG CATCACTTAA CAAGGGAGGT ATTGAGCGGA GGGGGGGGGA TCCTGTTCGT

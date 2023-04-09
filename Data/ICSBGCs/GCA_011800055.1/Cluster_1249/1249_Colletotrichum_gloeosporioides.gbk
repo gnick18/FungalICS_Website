@@ -53,6 +53,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00006524"
                      /product="hypothetical protein"
                      /protein_id="KAF3808657.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1503..3315)
                      /note="*Name GCG54_00006525"
                      /note="*gbkey: Gene"
@@ -90,6 +91,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00006525"
                      /product="Cytochrome P450 27C1"
                      /protein_id="KAF3808658.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3811..5476)
                      /note="*Name GCG54_00006526"
                      /note="*gbkey: Gene"
@@ -201,6 +203,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00006527"
                      /product="Cytochrome P450 monooxygenase azaI"
                      /protein_id="KAF3808660.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9588..10881)
                      /note="*Name GCG54_00006528"
                      /note="*gbkey: Gene"
@@ -238,6 +241,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00006528"
                      /product="S-(hydroxymethyl)glutathione dehydrogenase"
                      /protein_id="KAF3808661.1"
+                     /gene_kind="biosynthetic"
      gene            12836..14906
                      /note="*Name GCG54_00006529"
                      /note="*gbkey: Gene"
@@ -303,6 +307,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00006529"
                      /product="Glutathione S-transferase"
                      /protein_id="KAF3808662.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCTACCA CAGAAGTAAT AACGACAGAC CTCGCGTCTA TCTCATCCGA GACTTACATC
        61 AAACTTTCTG GCTCACACCG TCTGGCTCAC ACGGCCGCCA TCCACGTCCA CAAGCCGAGA

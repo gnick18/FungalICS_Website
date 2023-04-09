@@ -200,6 +200,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUV|EDB81DRAFT_mRNA921608"
                      /product="glycoside hydrolase superfamily"
                      /protein_id="KAH7113620.1"
+                     /gene_kind="biosynthetic"
      gene            3497..5061
                      /note="*Name EDB81DRAFT_702904"
                      /note="*end_range: 496832,."
@@ -263,6 +264,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUV|EDB81DRAFT_mRNA702904"
                      /product="acetylcholinesterase"
                      /protein_id="KAH7113621.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17031..18081)
                      /note="*Name EDB81DRAFT_953433"
                      /note="*gbkey: Gene"
@@ -329,6 +331,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7113622.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19771..21137)
                      /note="*Name EDB81DRAFT_307697"
                      /note="*gbkey: Gene"
@@ -388,6 +391,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7113623.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAAGGTAA TGCGAACTTA GCTTCAAAGT GCCTTTGAGT GGTTGTTTGC GGCTGCTTGC
        61 GCCCACGTGG ATCTGATAGG TACCGGTCTG CAGTCGCCAC TTCTGAGCCA CAGTGTCCCA

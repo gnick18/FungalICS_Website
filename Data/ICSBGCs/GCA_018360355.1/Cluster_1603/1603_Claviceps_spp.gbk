@@ -248,6 +248,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SRQC|E4U19_002698-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG6026313.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5749..7777)
                      /note="*Name E4U19_002699"
                      /note="*gbkey: Gene"
@@ -317,6 +318,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SRQC|E4U19_002699-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG6026314.1"
+                     /gene_kind="biosynthetic"
      gene            9666..11498
                      /note="*Name E4U19_002700"
                      /note="*gbkey: Gene"
@@ -423,6 +425,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SRQC|E4U19_002700-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG6026315.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTTTCGC GGCGAGgagg ccttcttctt tcgccAGCTC GGTCCGTATA CACGCaagac
        61 tggaagaaga aatgacCCTT GGTCAGTATG CAATAGCTTT TCAACTAAAA ACGTTCAGAA

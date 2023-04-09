@@ -55,6 +55,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LXSZ|IQ07DRAFT_mRNA684112"
                      /product="hypothetical protein"
                      /protein_id="OAL45141.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1786..7472)
                      /note="*Name IQ07DRAFT_684113"
                      /note="*gbkey: Gene"
@@ -587,6 +588,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LXSZ|IQ07DRAFT_mRNA520283"
                      /product="transferase family protein"
                      /protein_id="OAL45143.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ACTCATTCTG ATTTCCCCGC CGATCGCACC AAACTCTCAA TCCTCTCCTT CGTTCCATCA
        61 ATAAGTCGCT CAACTAACCC ATCCTCAATA ACCCCCTTCT GCCAACTGAA GCCTATCGTC

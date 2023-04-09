@@ -128,6 +128,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08196T0"
                      /product="aspergillopepsin-2 precursor"
                      /protein_id="ESU15189.1"
+                     /gene_kind="biosynthetic"
      gene            4736..6298
                      /note="*Name FGSG_13426"
                      /note="*end_range: 2638070,."
@@ -202,6 +203,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_13427T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15191.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8002..8793)
                      /note="*Name FGSG_08194"
                      /note="*end_range: 2640565,."
@@ -406,6 +408,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08192T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15194.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13014..15460)
                      /note="*Name FGSG_08191"
                      /note="*end_range: 2647232,."
@@ -464,6 +467,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08191T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15195.1"
+                     /gene_kind="biosynthetic"
      gene            15462..16434
                      /note="*Name FGSG_08190"
                      /note="*end_range: 2648206,."
@@ -716,6 +720,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08188T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15199.1"
+                     /gene_kind="biosynthetic"
      gene            25517..27287
                      /note="*Name FGSG_08187"
                      /note="*end_range: 2659059,."
@@ -804,6 +809,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08187T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15200.1"
+                     /gene_kind="biosynthetic"
      gene            28088..29720
                      /note="*Name FGSG_08186"
                      /note="*end_range: 2661492,."
@@ -882,6 +888,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08186T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15201.1"
+                     /gene_kind="biosynthetic"
      gene            complement(30538..32032)
                      /note="*Name FGSG_08185"
                      /note="*end_range: 2663804,."
@@ -941,6 +948,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08185T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15202.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATAGAGTT TTTTCCTTAA CGTCATCCTG GTTAATGCAT ACAGCATCTG CCCAGATTGT
        61 GCATAGACGG TCGCGATGAC GAAGGTGACG CAGGGCCTCC TTAAGATTCT TAGTGACATC

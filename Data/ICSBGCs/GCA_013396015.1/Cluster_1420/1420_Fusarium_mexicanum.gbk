@@ -132,6 +132,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAM|mrna.FMEXI_7806"
                      /product="NAD(P)-binding domain-containing protein"
                      /protein_id="KAF5541758.1"
+                     /gene_kind="biosynthetic"
      gene            10238..12301
                      /note="*Name FMEXI_7807"
                      /note="*gbkey: Gene"
@@ -209,6 +210,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAM|mrna.FMEXI_7808"
                      /product="hypothetical protein"
                      /protein_id="KAF5541760.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19351..22593)
                      /note="*Name FMEXI_7809"
                      /note="*gbkey: Gene"
@@ -275,6 +277,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAM|mrna.FMEXI_7809"
                      /product="NRPS-like enzyme"
                      /protein_id="KAF5541761.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23679..25050)
                      /note="*Name FMEXI_7810"
                      /note="*gbkey: Gene"
@@ -312,6 +315,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAM|mrna.FMEXI_7810"
                      /product="aminotransferase"
                      /protein_id="KAF5541762.1"
+                     /gene_kind="biosynthetic"
      gene            26848..28453
                      /note="*Name FMEXI_7811"
                      /note="*gbkey: Gene"
@@ -452,6 +456,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAM|mrna.FMEXI_7812"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KAF5541764.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGGTTCTC TATGTCCGCT GTGCTGCTTC CTGGCCAAGA TTGCATCTGC CAGACATCCC
        61 TATCCACCCC CGGGCCCtgg cgatgagatc aaaTACCGCT TGGTGGCAAT GCCTCTCCCA

@@ -39,6 +39,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_957"
                      /product="hypothetical protein"
                      /protein_id="KAF4345082.1"
+                     /gene_kind="biosynthetic"
      gene            2083..3132
                      /note="*Name FBEOM_958"
                      /note="*gbkey: Gene"
@@ -64,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_958"
                      /product="lipase esterase"
                      /protein_id="KAF4345083.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3534..5050)
                      /note="*Name FBEOM_959"
                      /note="*gbkey: Gene"
@@ -98,6 +100,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_959"
                      /product="spore wall maturation DIT1"
                      /protein_id="KAF4345084.1"
+                     /gene_kind="biosynthetic"
      gene            6157..10021
                      /note="*Name FBEOM_960"
                      /note="*gbkey: Gene"
@@ -156,6 +159,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_960"
                      /product="nonribosomal peptide synthetase"
                      /protein_id="KAF4345085.1"
+                     /gene_kind="biosynthetic"
      gene            10899..12626
                      /note="*Name FBEOM_961"
                      /note="*gbkey: Gene"
@@ -239,6 +243,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_963"
                      /product="cocaine esterase"
                      /protein_id="KAF4345088.1"
+                     /gene_kind="biosynthetic"
      gene            16354..17564
                      /note="*Name FBEOM_964"
                      /note="*gbkey: Gene"
@@ -288,6 +293,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_964"
                      /product="hypothetical protein"
                      /protein_id="KAF4345089.1"
+                     /gene_kind="biosynthetic"
      gene            18389..20246
                      /note="*Name FBEOM_965"
                      /note="*gbkey: Gene"
@@ -387,6 +393,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_966"
                      /product="salicylate 1-monooxygenase"
                      /protein_id="KAF4345091.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22960..24062)
                      /note="*Name FBEOM_967"
                      /note="*gbkey: Gene"
@@ -420,6 +427,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_967"
                      /product="hypothetical protein"
                      /protein_id="KAF4345092.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25470..27896)
                      /note="*Name FBEOM_968"
                      /note="*gbkey: Gene"
@@ -595,6 +603,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_971"
                      /product="mixed-linked glucanase precursor MLG1"
                      /protein_id="KAF4345096.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATTCGCTG GGGCTGAAAC ACGTTTTAAT GCCTTCAATT ACAGCCTCAA CCATACTGTC
        61 CTTGATTGAG CCGTCCTGCC ACGTGAAGCC AAACCCAACA GATTCTGCAT TGTTTATCAC

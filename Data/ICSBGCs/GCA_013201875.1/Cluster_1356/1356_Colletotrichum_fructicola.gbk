@@ -75,6 +75,7 @@ FEATURES             Location/Qualifiers
                      /product="Succinyl-CoA--L-malate CoA-transferase beta
                      subunit"
                      /protein_id="KAF4884856.1"
+                     /gene_kind="biosynthetic"
      gene            3371..5623
                      /note="*Name CGCFRS4_v012381"
                      /note="*Note Filamentous growth regulator 27"
@@ -142,6 +143,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v012382.t1_mrna"
                      /product="putative methylesterase 11"
                      /protein_id="KAF4884858.1"
+                     /gene_kind="biosynthetic"
      gene            7758..9095
                      /note="*Name atA-1"
                      /note="*gbkey: Gene"
@@ -184,6 +186,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v012383.t1_mrna"
                      /product="6-methylsalicylic acid decarboxylase atA"
                      /protein_id="KAF4884859.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9535..11578)
                      /note="*Name DIT1-1"
                      /note="*gbkey: Gene"
@@ -238,6 +241,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v012384.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4884860.1"
+                     /gene_kind="biosynthetic"
      gene            13450..15524
                      /note="*Name mobA-1"
                      /note="*gbkey: Gene"
@@ -321,6 +325,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v012385.t1_mrna"
                      /product="3-hydroxybenzoate 4-monooxygenase"
                      /protein_id="KAF4884861.1"
+                     /gene_kind="biosynthetic"
      gene            17089..18690
                      /note="*Name apdF-4"
                      /note="*gbkey: Gene"
@@ -467,6 +472,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMV|CGCFRS4_v012387.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4884889.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAACCTTTC ACAACGCCAT TCGTGCCGTT GATACCGTTG GTGTGACCTT CTATCAGATG
        61 ATCCTCTTCC GGTCCGAAAT CCCAACTTGC TGGATCTGTG CCGTTTGGCC TGCTCGCTCT

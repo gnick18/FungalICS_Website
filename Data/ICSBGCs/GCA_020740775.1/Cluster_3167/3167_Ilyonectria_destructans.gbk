@@ -77,6 +77,7 @@ FEATURES             Location/Qualifiers
                      /product="ferric reductase like transmembrane
                      component-domain-containing protein"
                      /protein_id="KAH6982662.1"
+                     /gene_kind="biosynthetic"
      gene            2982..4553
                      /note="*Name EDB80DRAFT_251188"
                      /note="*gbkey: Gene"
@@ -117,6 +118,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEWK|EDB80DRAFT_mRNA251188"
                      /product="6-phosphogluconate dehydrogenase"
                      /protein_id="KAH6982663.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4657..6383)
                      /note="*Name EDB80DRAFT_757093"
                      /note="*end_range: 405974,."
@@ -246,6 +248,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="KAH6982665.1"
+                     /gene_kind="biosynthetic"
      gene            8924..10868
                      /note="*Name EDB80DRAFT_824688"
                      /note="*gbkey: Gene"
@@ -342,6 +345,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEWK|EDB80DRAFT_mRNA824688"
                      /product="cytochrome P450"
                      /protein_id="KAH6982666.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10860..13477)
                      /note="*Name EDB80DRAFT_736162"
                      /note="*gbkey: Gene"
@@ -546,6 +550,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEWK|EDB80DRAFT_mRNA625638"
                      /product="hypothetical protein"
                      /protein_id="KAH6982668.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16476..18925)
                      /note="*Name EDB80DRAFT_736165"
                      /note="*gbkey: Gene"
@@ -775,6 +780,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEWK|EDB80DRAFT_mRNA824694"
                      /product="hypothetical protein"
                      /protein_id="KAH6982671.1"
+                     /gene_kind="biosynthetic"
      gene            25471..26640
                      /note="*Name EDB80DRAFT_592305"
                      /note="*end_range: 426231,."
@@ -844,6 +850,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6982672.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCGGGATTCA CTGCGTGACG AACAAGATCA AAACGTACTT CTTGGCGATC TGCTTGTGGa
        61 ttttattttt aaactAGTTG TCAAAGTTAT CTGTTGGTGC ACTCCGTGGA ACCACTCAAT

@@ -104,6 +104,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHV|mrna.HBI71_167900A"
                      /product="hypothetical protein"
                      /protein_id="KAH5249003.1"
+                     /gene_kind="biosynthetic"
      repeat_region   3254..3304
                      /note="*gbkey: repeat_region"
                      /inference="nucleotide motif:RepeatMasker:4.0.9p2"
@@ -201,6 +202,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHV|mrna.HBI71_167930A"
                      /product="hypothetical protein"
                      /protein_id="KAH5249016.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8039..10047)
                      /note="*Name HBI71_167940"
                      /note="*gbkey: Gene"
@@ -626,6 +628,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHV|mrna.HBI71_168000A"
                      /product="hypothetical protein"
                      /protein_id="KAH5248975.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20028..20279)
                      /note="*Name HBI71_168010"
                      /note="*gbkey: Gene"
@@ -787,6 +790,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHV|mrna.HBI71_168030A"
                      /product="hypothetical protein"
                      /protein_id="KAH5248946.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25546..27081)
                      /note="*Name HBI71_168040"
                      /note="*gbkey: Gene"
@@ -960,6 +964,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHV|mrna.HBI71_168060A"
                      /product="cutinase"
                      /protein_id="KAH5248964.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCAGTTA CATGCTTGAA GTGTATGTAT CTCCGAAGTG CTCTCGTGAT CTCCTCAGGG
        61 TATAGCACGG CTACTAGAAA AAGAGAGTCA ATCTAGCCAA TACCTCTTAT AGAGACCAGC

@@ -178,6 +178,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MWPZ|CH35J_010885-R1_mrna"
                      /product="Amidase 1"
                      /protein_id="TIC91546.1"
+                     /gene_kind="biosynthetic"
      gene            7051..8386
                      /note="*Name CH35J_010886"
                      /note="*end_range: 1219682,."
@@ -236,6 +237,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MWPZ|CH35J_010886-R1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TIC91549.1"
+                     /gene_kind="biosynthetic"
      gene            9696..11152
                      /note="*Name CH35J_010887"
                      /note="*end_range: 1222448,."
@@ -294,6 +296,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MWPZ|CH35J_010887-R1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TIC91548.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14156..15367)
                      /note="*Name CH35J_010888"
                      /note="*end_range: 1226663,."
@@ -331,6 +334,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MWPZ|CH35J_010888-R1_mrna"
                      /product="hypothetical protein"
                      /protein_id="TIC91545.1"
+                     /gene_kind="biosynthetic"
      gene            18208..19033
                      /note="*Name CH35J_010889"
                      /note="*end_range: 1230329,."
@@ -533,6 +537,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MWPZ|CH35J_010891-R1_mrna"
                      /product="Tryprostatin B 6-hydroxylase"
                      /protein_id="TIC91761.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26805..27977)
                      /note="*Name CH35J_010892"
                      /note="*end_range: 1239273,."
@@ -570,6 +575,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MWPZ|CH35J_010892-R1_mrna"
                      /product="putative FAD-dependent monooxygenase"
                      /protein_id="TIC91758.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGACTTTA TCCCGCCACC TCGGCGCTCT CCAAGGTCGC CCCCTCCATG CAGTGGACCT
        61 CTTAATGCCT GTGTACGCCT TGTGCGCtgt ctcctcgtcg aggtaaTTGC CTTGCACCAG

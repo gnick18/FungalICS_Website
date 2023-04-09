@@ -135,6 +135,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGE|mrna.HBI10_233490A"
                      /product="hypothetical protein"
                      /protein_id="KAH3991440.1"
+                     /gene_kind="biosynthetic"
      misc_feature    3636..3689
                      /note="*Type SO:0000658 dispersed_repeat"
                      /note="*Note Match to RepeatModeler de-novo family
@@ -203,6 +204,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGE|mrna.HBI10_233510A"
                      /product="cutinase"
                      /protein_id="KAH3991400.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6397..6702)
                      /note="*Name HBI10_233520"
                      /note="*gbkey: Gene"
@@ -355,6 +357,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGE|mrna.HBI10_233540A"
                      /product="hypothetical protein"
                      /protein_id="KAH3991443.1"
+                     /gene_kind="biosynthetic"
      gene            10735..13837
                      /note="*Name HBI10_233550"
                      /note="*gbkey: Gene"
@@ -514,6 +517,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGE|mrna.HBI10_233570A"
                      /product="hypothetical protein"
                      /protein_id="KAH3991447.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCGGACC TTCCAGATGA CCTTGTCATC GCTCTCGCGG CACATCAGGA CCAAGGATCC
        61 ATGGAAGAGG AAGGTCAAGA GCTTTTTATC CGTATCAACA CTTTTCAAAA GAGGAAACGC

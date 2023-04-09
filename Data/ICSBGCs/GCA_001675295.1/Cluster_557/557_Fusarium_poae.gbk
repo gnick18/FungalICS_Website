@@ -72,6 +72,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LYXU|FPOA_03791.1"
                      /product="hypothetical protein"
                      /protein_id="OBS23238.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2921..4483)
                      /note="*Name FPOA_03792"
                      /note="*gbkey: Gene"
@@ -115,6 +116,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LYXU|FPOA_03792.1"
                      /product="hypothetical protein"
                      /protein_id="OBS23239.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGATGACT TCAATATAAT CGCTCTCAAG CGTTTTGTAA GTCCATCCAC GCTGCTGAGT
        61 CTTGCTGGTC TTTGGCTTGG TTATCGTGTC GCTCTCGCCC TTTACAATAT TTCTCCTCTC

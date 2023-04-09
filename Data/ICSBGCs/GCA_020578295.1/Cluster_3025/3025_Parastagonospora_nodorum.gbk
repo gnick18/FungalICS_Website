@@ -117,6 +117,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIT|mrna.HBI54_220430A"
                      /product="Ras-like protein"
                      /protein_id="KAH6030715.1"
+                     /gene_kind="biosynthetic"
      repeat_region   1373..1395
                      /note="*gbkey: repeat_region"
                      /inference="nucleotide motif:RepeatMasker:4.0.9p2"
@@ -196,6 +197,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIT|mrna.HBI54_220450A"
                      /product="hypothetical protein"
                      /protein_id="KAH6030721.1"
+                     /gene_kind="biosynthetic"
      gene            4138..4737
                      /note="*Name HBI54_220460"
                      /note="*gbkey: Gene"
@@ -765,6 +767,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIT|mrna.HBI54_220570A"
                      /product="hypothetical protein"
                      /protein_id="KAH6030746.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18271..19628)
                      /note="*Name HBI54_220580"
                      /note="*gbkey: Gene"
@@ -864,6 +867,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIT|mrna.HBI54_220590A"
                      /product="hypothetical protein"
                      /protein_id="KAH6030727.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23553..24752)
                      /note="*Name HBI54_220610"
                      /note="*gbkey: Gene"

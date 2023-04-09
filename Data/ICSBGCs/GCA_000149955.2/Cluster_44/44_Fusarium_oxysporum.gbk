@@ -95,6 +95,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAXH|mrna_FOXG_12222T0"
                      /product="hypothetical protein"
                      /protein_id="KNB12678.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5636..7705)
                      /note="*Name FOXG_12223"
                      /note="*gbkey: Gene"
@@ -160,6 +161,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAXH|mrna_FOXG_12223T0"
                      /product="hypothetical protein"
                      /protein_id="KNB12679.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8440..10213)
                      /note="*Name FOXG_12224"
                      /note="*end_range: 914169,."
@@ -288,6 +290,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAXH|mrna_FOXG_12226T0"
                      /product="Cu2+-exporting ATPase"
                      /protein_id="KNB12682.1"
+                     /gene_kind="biosynthetic"
      gene            17425..18854
                      /note="*Name FOXG_12227"
                      /note="*end_range: 922810,."
@@ -346,6 +349,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAXH|mrna_FOXG_12227T0"
                      /product="hypothetical protein"
                      /protein_id="KNB12683.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATCCCAGA AACTCAGCAA ACTGCATAAA TTCGTGATCA TTCTTCATCG CATCCAGTTC
        61 CTCAGGTAGA GTCCCCAGCA GCAACTCGAC ACCGCCATCC TTTCTCATCG GCAAAATGAA

@@ -67,6 +67,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="PLB42273.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3628..4643)
                      /note="*Name BDW47DRAFT_26467"
                      /note="*gbkey: Gene"
@@ -304,6 +305,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PKFS|BDW47DRAFT_mRNA98191"
                      /product="phosphoribosylformylglycinamidine synthase"
                      /protein_id="PLB42277.1"
+                     /gene_kind="biosynthetic"
      gene            17501..17907
                      /note="*Name BDW47DRAFT_98192"
                      /note="*gbkey: Gene"
@@ -462,6 +464,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PKFS|BDW47DRAFT_mRNA98195"
                      /product="glycolipid 2-alpha-mannosyltransferase"
                      /protein_id="PLB42280.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23422..24274)
                      /note="*Name BDW47DRAFT_122050"
                      /note="*end_range: 677969,."

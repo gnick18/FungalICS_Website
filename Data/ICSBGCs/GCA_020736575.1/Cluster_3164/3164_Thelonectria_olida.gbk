@@ -89,6 +89,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPYM|B0T10DRAFT_mRNA474149"
                      /product="hypothetical protein"
                      /protein_id="KAH6898957.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6040..7362)
                      /note="*Name B0T10DRAFT_124790"
                      /note="*gbkey: Gene"
@@ -437,6 +438,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyruvate/Phosphoenolpyruvate kinase-like
                      domain-containing protein"
                      /protein_id="KAH6898962.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17152..18575)
                      /note="*Name B0T10DRAFT_556254"
                      /note="*end_range: 2979000,."
@@ -603,6 +605,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPYM|B0T10DRAFT_mRNA454291"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAH6898964.1"
+                     /gene_kind="biosynthetic"
      gene            22598..24788
                      /note="*Name B0T10DRAFT_454292"
                      /note="*end_range: 2985213,."
@@ -699,6 +702,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAH6898965.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CCAACAAGGA ATGATGTAAA AAGAAACTTT TTTTCTCGCG TTTCCGTACT CCGTCTACAT
        61 Acaaaggggg gaggggggtt tCAAAATCAG ACATCGACAC ATGTCGTAAG CAAAACATAT

@@ -193,6 +193,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQRM|mrna.F52700_2911"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KAF5643196.1"
+                     /gene_kind="biosynthetic"
      gene            6928..7980
                      /note="*Name F52700_2912"
                      /note="*gbkey: Gene"
@@ -304,6 +305,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQRM|mrna.F52700_2914"
                      /product="cytochrome P450 monooxygenase"
                      /protein_id="KAF5643199.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCTCAGA TTGAAGATAG GCCGTTTGTA TGTTTACTTT ATCGGTTCTA TTGCAGCTGg
        61 ctgatgtgat gtgattaGTT CATTATCGAG TCGTGGACGC TTTATGTCGT CGGCACGCTT

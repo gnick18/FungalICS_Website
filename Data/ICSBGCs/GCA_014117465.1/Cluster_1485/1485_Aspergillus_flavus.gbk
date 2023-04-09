@@ -47,6 +47,7 @@ FEATURES             Location/Qualifiers
                      gnl|G4B84|maker-Chr5-gene-12.82-mRNA-1"
                      /product="hypothetical protein"
                      /protein_id="QMW32414.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1994..3454)
                      /note="*Name G4B84_007846"
                      /note="*gbkey: Gene"
@@ -167,6 +168,7 @@ FEATURES             Location/Qualifiers
                      gnl|G4B84|Chr5-processed-gene-12.17-mRNA-1"
                      /product="hypothetical protein"
                      /protein_id="QMW32418.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCCTCAA TCCATGAAAG AGCCCTGGGG GCATATGTAC GAACTCCTGG CGGTGGTCTC
        61 GTCCGCTGCG TGGGACTGCA TTCGCAATGG ATCCAAAATA CCTGGTCAGC GATTCGATCG

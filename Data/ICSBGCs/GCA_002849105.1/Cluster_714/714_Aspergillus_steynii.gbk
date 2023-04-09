@@ -122,6 +122,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFO|P170DRAFT_mRNA409363"
                      /product="monooxygenase"
                      /protein_id="PLB49768.1"
+                     /gene_kind="biosynthetic"
      gene            2843..4818
                      /note="*Name P170DRAFT_447365"
                      /note="*end_range: 3706997,."
@@ -213,6 +214,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="PLB49769.1"
+                     /gene_kind="biosynthetic"
      gene            10477..11371
                      /note="*Name P170DRAFT_358616"
                      /note="*end_range: 3713550,."
@@ -319,6 +321,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFO|P170DRAFT_mRNA510241"
                      /product="hypothetical protein"
                      /protein_id="PLB49771.1"
+                     /gene_kind="biosynthetic"
      gene            14356..16108
                      /note="*Name P170DRAFT_510242"
                      /note="*gbkey: Gene"
@@ -409,6 +412,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFO|P170DRAFT_mRNA356598"
                      /product="transglycosylase SLT domain protein"
                      /protein_id="PLB49773.1"
+                     /gene_kind="biosynthetic"
      gene            19418..20194
                      /note="*Name P170DRAFT_359096"
                      /note="*end_range: 3722373,."
@@ -515,6 +519,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFO|P170DRAFT_mRNA465092"
                      /product="NAD(P)-binding protein"
                      /protein_id="PLB49775.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACCGTTCC ACGCATACCT ACTAATAGTA CATTTCCACT TGTATGGAGA GGGAAGTAGT
        61 TATTTGTTAT GGAAGTATCA AGTCACATGG TGATCACGAG GTTGCCGTCA ACAACTCGTC

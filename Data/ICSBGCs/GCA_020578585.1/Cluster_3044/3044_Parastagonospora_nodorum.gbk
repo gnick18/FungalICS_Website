@@ -55,6 +55,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIW|mrna.HBI64_199650A"
                      /product="hypothetical protein"
                      /protein_id="KAH6115262.1"
+                     /gene_kind="biosynthetic"
      gene            2226..3625
                      /note="*Name HBI64_199660"
                      /note="*gbkey: Gene"
@@ -361,6 +362,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIW|mrna.HBI64_199760A"
                      /product="alpha-galactosidase"
                      /protein_id="KAH6115288.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18217..18936)
                      /note="*Name HBI64_199770"
                      /note="*gbkey: Gene"
@@ -743,6 +745,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIW|mrna.HBI64_199870A"
                      /product="autophagy-related protein"
                      /protein_id="KAH6115168.1"
+                     /gene_kind="biosynthetic"
      gene            complement(36693..38410)
                      /note="*Name HBI64_199880"
                      /note="*gbkey: Gene"
@@ -880,6 +883,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIW|mrna.HBI64_199900A"
                      /product="hypothetical protein"
                      /protein_id="KAH6115291.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACACCCGC ATCGTGACCC TAACCGGGAG CCCATCAACA GGATGCGCTC CCCCTCCCCC
        61 CATCTCCGCC TGATACGCCC GATTCCCATC CACCATCTTA ACCCCCTTTC TCGGATGCAT

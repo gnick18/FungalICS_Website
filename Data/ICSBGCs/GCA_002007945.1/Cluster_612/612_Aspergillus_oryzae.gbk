@@ -34,6 +34,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MKZY|mrna.OAory_01018030"
                      /product="NAD-dependent epimerase/dehydratase"
                      /protein_id="OOO06142.1"
+                     /gene_kind="biosynthetic"
      gene            1781..2620
                      /note="*Name OAory_01018040"
                      /note="*gbkey: Gene"
@@ -156,6 +157,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MKZY|mrna.OAory_01018070"
                      /product="Pyoverdine biosynthesis protein"
                      /protein_id="OOO06146.1"
+                     /gene_kind="biosynthetic"
      gene            11070..12962
                      /note="*Name OAory_01018080"
                      /note="*gbkey: Gene"
@@ -211,6 +213,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MKZY|mrna.OAory_01018080"
                      /product="cytochrome P450"
                      /protein_id="OOO06147.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATCGATTG CCCGCTGTTA TGTACAAGTC CTGCCAGTGA CACGTTTGTT TGAAGCCCAA
        61 CACCCGCTTC AACTTCCTAT TCGTGACCGG AGCCTCCCTA GCCTCCATCT GCCTCGTAAT

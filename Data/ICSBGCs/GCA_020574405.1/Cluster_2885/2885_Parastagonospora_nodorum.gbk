@@ -67,6 +67,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHY|mrna.HBI33_165310A"
                      /product="cutinase"
                      /protein_id="KAH5374152.1"
+                     /gene_kind="biosynthetic"
      gene            complement(960..1265)
                      /note="*Name HBI33_165320"
                      /note="*gbkey: Gene"
@@ -219,6 +220,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHY|mrna.HBI33_165340A"
                      /product="hypothetical protein"
                      /protein_id="KAH5374185.1"
+                     /gene_kind="biosynthetic"
      gene            5298..8400
                      /note="*Name HBI33_165350"
                      /note="*gbkey: Gene"
@@ -390,6 +392,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHY|mrna.HBI33_165370A"
                      /product="hypothetical protein"
                      /protein_id="KAH5374137.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11251..12555)
                      /note="*Name HBI33_165380"
                      /note="*gbkey: Gene"

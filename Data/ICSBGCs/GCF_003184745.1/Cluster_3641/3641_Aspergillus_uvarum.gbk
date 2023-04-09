@@ -45,6 +45,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA139899"
                      /product="hypothetical protein"
                      /protein_id="XP_025495981.1"
+                     /gene_kind="biosynthetic"
      gene            1694..3525
                      /db_xref="GeneID:37132797"
                      /note="*Name BO82DRAFT_139900"
@@ -114,6 +115,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA139900"
                      /product="glycosyl hydrolase"
                      /protein_id="XP_025495982.1"
+                     /gene_kind="biosynthetic"
      gene            3922..6448
                      /db_xref="GeneID:37132799"
                      /note="*Name BO82DRAFT_139919"
@@ -383,6 +385,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA301360"
                      /product="monooxygenase"
                      /protein_id="XP_025495984.1"
+                     /gene_kind="biosynthetic"
      gene            9468..11653
                      /db_xref="GeneID:37134822"
                      /note="*Name BO82DRAFT_301364"
@@ -478,6 +481,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="XP_025495985.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12024..12976)
                      /db_xref="GeneID:37136942"
                      /note="*Name BO82DRAFT_350602"
@@ -517,6 +521,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA350602"
                      /product="acyl-CoA N-acyltransferase"
                      /protein_id="XP_025495986.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CAGGGATTAG CATCCCAGCA CCGTGCACAC ATCCACTCCG ACCGAAAAGT TGAGATTTCC
        61 ATTGGGGTGG GTGTGAATGG TCATGATCCC TGCATGGCCG AGAGGGGAAA TGCAACCCCC

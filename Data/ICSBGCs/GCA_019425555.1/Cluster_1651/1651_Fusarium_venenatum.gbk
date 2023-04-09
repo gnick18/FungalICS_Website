@@ -193,6 +193,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MXQG|FVEN_g12086.t1"
                      /product="hypothetical protein"
                      /protein_id="KAG8349739.1"
+                     /gene_kind="biosynthetic"
      gene            7880..9174
                      /note="*Name FVEN_g12087"
                      /note="*end_range: 37469,."
@@ -246,6 +247,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MXQG|FVEN_g12087.t1"
                      /product="hypothetical protein"
                      /protein_id="KAG8349731.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9551..11437)
                      /note="*Name FVEN_g12088"
                      /note="*end_range: 39732,."
@@ -314,6 +316,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MXQG|FVEN_g12088.t1"
                      /product="hypothetical protein"
                      /protein_id="KAG8349734.1"
+                     /gene_kind="biosynthetic"
      gene            12331..13424
                      /note="*Name FVEN_g12089"
                      /note="*end_range: 41719,."
@@ -359,6 +362,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MXQG|FVEN_g12089.t1"
                      /product="hypothetical protein"
                      /protein_id="KAG8349735.1"
+                     /gene_kind="biosynthetic"
      gene            14246..16163
                      /note="*Name FVEN_g12090"
                      /note="*end_range: 44458,."
@@ -826,6 +830,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MXQG|FVEN_g12092.t1"
                      /product="ATP-binding cassette transporter CGR1"
                      /protein_id="KAG8349702.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAGCTATG GCGTCCGTCT TATCGCTTTG TTGAGTTTCA GTACCTGTCT CGCTATTTAC
        61 TTCTGTCTTT ACCGGCTTGG GCAGAATAAA GACCGCCGAT ACCACCATTA AACCACACAG

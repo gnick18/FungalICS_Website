@@ -99,6 +99,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5484"
                      /product="feruloyl esterase B precursor"
                      /protein_id="KAF5687160.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4096..5532)
                      /note="*Name FDENT_5485"
                      /note="*gbkey: Gene"
@@ -229,6 +230,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5487"
                      /product="matrix metallo ase-11"
                      /protein_id="KAF5687163.1"
+                     /gene_kind="biosynthetic"
      gene            10901..12481
                      /note="*Name FDENT_5488"
                      /note="*gbkey: Gene"
@@ -257,6 +259,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5488"
                      /product="tyrosinase"
                      /protein_id="KAF5687164.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12639..13871)
                      /note="*Name FDENT_5489"
                      /note="*gbkey: Gene"
@@ -294,6 +297,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5489"
                      /product="feruloyl esterase"
                      /protein_id="KAF5687165.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15424..16748)
                      /note="*Name FDENT_5490"
                      /note="*gbkey: Gene"
@@ -549,6 +553,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5494"
                      /product="longiborneol synthase"
                      /protein_id="KAF5687170.1"
+                     /gene_kind="biosynthetic"
      gene            complement(37557..38769)
                      /note="*Name FDENT_5495"
                      /note="*gbkey: Gene"
@@ -597,6 +602,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5495"
                      /product="transferase family"
                      /protein_id="KAF5687171.1"
+                     /gene_kind="biosynthetic"
      gene            40537..43381
                      /note="*Name FDENT_5496"
                      /note="*gbkey: Gene"
@@ -634,6 +640,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5496"
                      /product="transferase family"
                      /protein_id="KAF5687172.1"
+                     /gene_kind="biosynthetic"
      gene            complement(44850..49605)
                      /note="*Name FDENT_5497"
                      /note="*gbkey: Gene"
@@ -891,6 +898,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5502"
                      /product="thioredoxin M-type"
                      /protein_id="KAF5687178.1"
+                     /gene_kind="biosynthetic"
      gene            complement(60829..61620)
                      /note="*Name FDENT_5503"
                      /note="*gbkey: Gene"
@@ -966,6 +974,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAK|mrna.FDENT_5504"
                      /product="beta-hexosaminidase subunit A1"
                      /protein_id="KAF5687180.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATTTGAAC TGCCATAAAT TTGCAACGGT TGCTCTAAGG TCGTCGTGTG ATTGTGAAAG
        61 GACACGGAGT ATGAAAGGTT TGCTGGCTTT GAGTTGATCC AGACTGTCGA GTAATGCCTT

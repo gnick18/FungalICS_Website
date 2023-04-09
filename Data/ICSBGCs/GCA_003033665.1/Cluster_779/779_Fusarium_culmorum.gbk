@@ -191,6 +191,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PVEM|FCULG_00006211_1_mrna"
                      /product="hypothetical protein"
                      /protein_id="PTD07810.1"
+                     /gene_kind="biosynthetic"
      gene            11598..12893
                      /note="*Name FCULG_00006212"
                      /note="*gbkey: Gene"
@@ -228,6 +229,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PVEM|FCULG_00006212_1_mrna"
                      /product="3-hydroxybenzoate 6-hydroxylase 1"
                      /protein_id="PTD07813.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13313..15199)
                      /note="*Name FCULG_00006213"
                      /note="*gbkey: Gene"
@@ -275,6 +277,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PVEM|FCULG_00006213_1_mrna"
                      /product="hypothetical protein"
                      /protein_id="PTD07812.1"
+                     /gene_kind="biosynthetic"
      gene            16101..17198
                      /note="*Name FCULG_00006214"
                      /note="*gbkey: Gene"
@@ -321,6 +324,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PVEM|FCULG_00006214_1_mrna"
                      /product="hypothetical protein"
                      /protein_id="PTD07807.1"
+                     /gene_kind="biosynthetic"
      gene            18017..19932
                      /note="*Name FCULG_00006215"
                      /note="*gbkey: Gene"
@@ -459,6 +463,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="putative epoxide hydrolase"
                      /protein_id="PTD07809.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,2635920"
      gene            complement(22730..30450)
                      /note="*Name FCULG_00006217"
@@ -688,6 +693,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PVEM|FCULG_00006217_1_mrna"
                      /product="ATP-binding cassette transporter CGR1"
                      /protein_id="PTD07808.1"
+                     /gene_kind="biosynthetic"
      gene            32406..36841
                      /note="*Name FCULG_00006218"
                      /note="*gbkey: Gene"
@@ -770,6 +776,7 @@ FEATURES             Location/Qualifiers
                      /product="Non-canonical non-ribosomal peptide synthetase
                      FUB8"
                      /protein_id="PTD07815.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATGTGAAT GATTGCCTTG TGTTGACACG GTCAATGTCG TAAGGGTTAC CCTCATACGA
        61 CTTGCGGCGT GACGCCATTG AAGCCCGAGA GGCACGAGAA GCCCGAGAAG CGTGGGATCG

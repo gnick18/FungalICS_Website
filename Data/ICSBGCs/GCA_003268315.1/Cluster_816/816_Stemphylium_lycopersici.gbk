@@ -439,6 +439,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDG|mrna.DDE82_005541"
                      /product="glycoside hydrolase family 5 protein"
                      /protein_id="RAR02799.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11710..14079)
                      /note="*Name DDE82_005542"
                      /note="*gbkey: Gene"
@@ -472,6 +473,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDG|mrna.DDE82_005542"
                      /product="serine threonine protein kinase protein"
                      /protein_id="RAR02800.1"
+                     /gene_kind="biosynthetic"
      gene            15006..15908
                      /note="*Name DDE82_005543"
                      /note="*gbkey: Gene"
@@ -815,6 +817,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDG|mrna.DDE82_005544"
                      /product="putative histidine kinase HHK15p"
                      /protein_id="RAR02802.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGATTTGG AAAAGAAATT CTCGTCCGAG AAGCCAAGAT CTGAGGATGT GGATGAGGCG
        61 ACGGCTGTTG GGGAGGTGTT GAATGCTTCC GGACACAAAC AAGAACTAGA GCGCAACTTC

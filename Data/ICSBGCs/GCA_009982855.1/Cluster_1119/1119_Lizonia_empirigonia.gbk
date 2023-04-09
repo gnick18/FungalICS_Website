@@ -289,6 +289,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKA|EJ07DRAFT_mRNA130208"
                      /product="ras-domain-containing protein"
                      /protein_id="KAF1356031.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7199..9341)
                      /note="*Name EJ07DRAFT_167873"
                      /note="*end_range: 319074,."
@@ -438,6 +439,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKA|EJ07DRAFT_mRNA167874"
                      /product="Clavaminate synthase-like protein"
                      /protein_id="KAF1356033.1"
+                     /gene_kind="biosynthetic"
      gene            15631..16017
                      /note="*Name EJ07DRAFT_69599"
                      /note="*end_range: 325750,."
@@ -903,6 +905,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKA|EJ07DRAFT_mRNA181629"
                      /product="Metallo-dependent hydrolase"
                      /protein_id="KAF1356039.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATACCCAA AATCTGAAGA TCCGGCTCTT GCTCTTCAGA AACTTCTTCG ATGGCGTGGC
        61 GCCCGATATT GCTATCCCTG AACCTCCACT TTCTCTACCT CCTTTCTTCT GCAGTTTCTC

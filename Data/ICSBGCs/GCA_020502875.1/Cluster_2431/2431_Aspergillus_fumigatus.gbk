@@ -113,6 +113,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXG|KXW49_000395-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3170712.1"
+                     /gene_kind="biosynthetic"
      gene            6420..11484
                      /note="*Name KXW49_000396"
                      /note="*gbkey: Gene"
@@ -206,6 +207,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXG|KXW49_000396-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3170713.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12550..13009)
                      /note="*Name GCH1_1"
                      /note="*gbkey: Gene"
@@ -250,6 +252,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXG|KXW49_000397-T1_mrna"
                      /product="GTP cyclohydrolase 1"
                      /protein_id="KAH3170714.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13278..13856)
                      /note="*Name KXW49_000398"
                      /note="*gbkey: Gene"
@@ -279,6 +282,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXG|KXW49_000398-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3170715.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14052..14453)
                      /note="*Name KXW49_000399"
                      /note="*gbkey: Gene"
@@ -376,6 +380,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXG|KXW49_000400-T1_mrna"
                      /product="Nonribosomal peptide synthetase 6"
                      /protein_id="KAH3170717.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19225..21823)
                      /note="*Name KXW49_000401"
                      /note="*gbkey: Gene"
@@ -533,6 +538,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXG|KXW49_000402-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3170719.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAATGATGA CATGCGTCAT CCTGCCATCC TAATGAAGGC TGTGCATAGC GCCCCAAGAG
        61 CAATTCGCCC ACTACAATGC CTCCCACCAC CGCGCAGAGC ACCCCCACAT TGAACGTCAT

@@ -431,6 +431,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGB|mrna.HBH53_090510A"
                      /product="hypothetical protein"
                      /protein_id="KAH3949359.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11981..12232)
                      /note="*Name HBH53_090520"
                      /note="*gbkey: Gene"
@@ -592,6 +593,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGB|mrna.HBH53_090540A"
                      /product="hypothetical protein"
                      /protein_id="KAH3949550.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17499..19034)
                      /note="*Name HBH53_090550"
                      /note="*gbkey: Gene"
@@ -765,6 +767,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGB|mrna.HBH53_090570A"
                      /product="cutinase"
                      /protein_id="KAH3949357.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACCAGACT ACCTGCCACA CCGTCCCACT AAACCCTAGA ATCTGGCTAA ACGCCTCGTC
        61 CCTCTGCCGC ATATCCCCTA GTACGTACTC ATTCCCATCG GACAAGACAA GCTTCAAATC

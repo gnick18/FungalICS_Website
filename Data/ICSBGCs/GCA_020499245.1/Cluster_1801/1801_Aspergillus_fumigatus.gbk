@@ -35,6 +35,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBQI|KXX06_009011-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1506141.1"
+                     /gene_kind="biosynthetic"
      gene            2136..7200
                      /note="*Name KXX06_009012"
                      /note="*gbkey: Gene"
@@ -128,6 +129,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBQI|KXX06_009012-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1506142.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8266..8725)
                      /note="*Name GCH1"
                      /note="*gbkey: Gene"
@@ -172,6 +174,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBQI|KXX06_009013-T1_mrna"
                      /product="GTP cyclohydrolase 1"
                      /protein_id="KAH1506143.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACGATTGA TACTTCTCAA AGTACTTCCA CACCCCCTGT CGGACCCTGT GCATGAAGCC
        61 ATCCTCGACA ACACCCTCCT GCCAGCTGAA ACCAAGCGCC ATAGTCCCAT CCCTACCGGT

@@ -92,6 +92,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WOUF|FPOAC1_004205-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG8670970.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2842..4404)
                      /note="*Name FPOAC1_004206"
                      /note="*gbkey: Gene"
@@ -143,6 +144,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WOUF|FPOAC1_004206-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG8670971.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGATGACT TCAATATAAT CGCTCTCAAG CGTTTTGTAA GTCCATCCAC GCTGCTGAGT
        61 CTTGCTGGTC TTTGGCTTGG TTATCGTGTC GCTCTCGCCC TTTACAATAT TTCTCCTCTC

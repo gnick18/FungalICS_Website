@@ -46,6 +46,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="GTP cyclohydrolase 1"
                      /protein_id="KAH1740385.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,70"
      gene            complement(1359..6441)
                      /note="*Name KXX09_002989"
@@ -141,6 +142,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBRK|KXX09_002989-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1740386.1"
+                     /gene_kind="biosynthetic"
      gene            7170..8558
                      /note="*Name KXX09_002990"
                      /note="*gbkey: Gene"
@@ -169,6 +171,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBRK|KXX09_002990-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1740387.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9349..11191)
                      /note="*Name KXX09_002991"
                      /note="*gbkey: Gene"
@@ -399,6 +402,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBRK|KXX09_002996-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1740393.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21176..22225)
                      /note="*Name KXX09_002997"
                      /note="*gbkey: Gene"
@@ -429,6 +433,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBRK|KXX09_002997-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1740394.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22713..26545)
                      /note="*Name KXX09_002998"
                      /note="*gbkey: Gene"
@@ -594,6 +599,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBRK|KXX09_002999-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1740396.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATCCATATCG GTTACGTGCC CGATGGACGA GTCCTGGGGC TGTCGAAGCT CGCCCGGATT
        61 GCCGAGGTCT ACTCGCGCCG GCTCCAGGTC CAAGAGCGAT TGACGCAGGA GATTGCCGAT

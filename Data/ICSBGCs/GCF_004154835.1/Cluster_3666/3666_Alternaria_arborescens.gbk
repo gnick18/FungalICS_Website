@@ -65,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDUP|AA0111_g5069.t1"
                      /product="hypothetical protein"
                      /protein_id="XP_028507245.1"
+                     /gene_kind="biosynthetic"
      gene            3048..4365
                      /db_xref="GeneID:39620738"
                      /note="*Name AA0111_g5070"
@@ -176,6 +177,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDUP|AA0111_g5070.t1"
                      /product="hypothetical protein"
                      /protein_id="XP_028507058.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4519..5234)
                      /db_xref="GeneID:39620739"
                      /note="*Name AA0111_g5071"
@@ -440,6 +442,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDUP|AA0111_g5074.t1"
                      /product="hypothetical protein"
                      /protein_id="XP_028507062.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAAGCAGCC ACCGCCTTGC GATCTCGAAT CGTGAGACCA GAGGGATACA GTTGTTCGAA
        61 TGTTTTATTC GAatcgtctt cgccttctaG CTTGGCGCGG AAACAGTACG GTCTGTCATC

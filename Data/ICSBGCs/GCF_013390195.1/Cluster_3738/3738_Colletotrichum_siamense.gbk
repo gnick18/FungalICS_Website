@@ -167,6 +167,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v001724.t1_mrna"
                      /product="Amidase 1"
                      /protein_id="XP_036501716.1"
+                     /gene_kind="biosynthetic"
      gene            4280..5588
                      /db_xref="GeneID:59268214"
                      /note="*Name DIT1-4"
@@ -248,6 +249,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v001725.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="XP_036501717.1"
+                     /gene_kind="biosynthetic"
      gene            6384..7825
                      /db_xref="GeneID:59268215"
                      /note="*Name DIT1-5"
@@ -328,6 +330,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v001726.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="XP_036501718.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7893..9705)
                      /db_xref="GeneID:59268216"
                      /note="*Name CGCS363_v001727"
@@ -389,6 +392,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v001727.t1_mrna"
                      /product="Cytochrome P450 monooxygenase TRI13"
                      /protein_id="XP_036501719.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10211..11964)
                      /db_xref="GeneID:59268217"
                      /note="*Name SEO1-6"
@@ -580,6 +584,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v001729.t1_mrna"
                      /product="Cytochrome P450 monooxygenase azaI"
                      /protein_id="XP_036501725.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16081..17374)
                      /db_xref="GeneID:59268219"
                      /note="*Name adh-3"
@@ -661,6 +666,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v001730.t1_mrna"
                      /product="alcohol dehydrogenase"
                      /protein_id="XP_036502705.1"
+                     /gene_kind="biosynthetic"
      gene            19248..20105
                      /db_xref="GeneID:59268220"
                      /note="*Name GST"
@@ -726,6 +732,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v001731.t1_mrna"
                      /product="Glutathione S-transferase"
                      /protein_id="XP_036502704.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACAACTTC CTAGGTCTCT TGCATGCCAC TAGGACGTAA GTCCCACAGC CCGCCAACAT
        61 CGAGAGACCT CCAAACAGTT GCGCGTACAG ATAGTTGCCG TCGTTGATCG CAATCAATCG

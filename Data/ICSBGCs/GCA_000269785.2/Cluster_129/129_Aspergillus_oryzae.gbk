@@ -158,6 +158,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.Ao3042_05849"
                      /product="isoamyl alcohol oxidase"
                      /protein_id="EIT77946.1"
+                     /gene_kind="biosynthetic"
      gene            8610..10095
                      /note="*Name Ao3042_05850"
                      /note="*gbkey: Gene"
@@ -368,6 +369,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.Ao3042_05852"
                      /product="phytoene synthase"
                      /protein_id="EIT77838.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15023..16819)
                      /note="*Name Ao3042_05853"
                      /note="*end_range: 109938,."
@@ -418,6 +420,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.Ao3042_05853"
                      /product="phytoene dehydrogenase"
                      /protein_id="EIT77889.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17392..18531)
                      /note="*Name Ao3042_05854"
                      /note="*end_range: 111650,."
@@ -468,6 +471,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.Ao3042_05854"
                      /product="hypothetical protein"
                      /protein_id="EIT77856.1"
+                     /gene_kind="biosynthetic"
      gene            19182..22136
                      /note="*Name Ao3042_05855"
                      /note="*gbkey: Gene"
@@ -596,6 +600,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.Ao3042_05856"
                      /product="putative taurine catabolism dioxygenase"
                      /protein_id="EIT77903.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23649..24098)
                      /note="*Name Ao3042_05857"
                      /note="*end_range: 117217,."
@@ -633,6 +638,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis protein,
                      putative"
                      /protein_id="EIT77898.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATTCCATA TCAtaatcaa tatcctcatc gtcctcctcc tcagcctcct cagcctcctc
        61 acCTacgcca tcctcctcca agccAAACGC CTTTGAATTC AACTCCATAG CATAAGGCTG

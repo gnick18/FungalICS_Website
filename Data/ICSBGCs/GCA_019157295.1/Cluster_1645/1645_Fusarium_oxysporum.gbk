@@ -132,6 +132,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015064.t1_mrna"
                      /product="FAD-linked oxidoreductase ZEB1"
                      /protein_id="KAG7405340.1"
+                     /gene_kind="biosynthetic"
      gene            8738..9608
                      /note="*Name PUG1-1"
                      /note="*gbkey: Gene"
@@ -247,6 +248,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015067.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG7405338.1"
+                     /gene_kind="biosynthetic"
      gene            14344..14757
                      /note="*Name Forpe1208_v015068"
                      /note="*gbkey: Gene"
@@ -341,6 +343,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015070.t1_mrna"
                      /product="WW domain-containing oxidoreductase"
                      /protein_id="KAG7404858.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19752..20672)
                      /note="*Name NMRAL1-5"
                      /note="*gbkey: Gene"
@@ -375,6 +378,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015071.t1_mrna"
                      /product="NmrA-like family domain-containing protein 1"
                      /protein_id="KAG7404859.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21275..22438)
                      /note="*Name tdiE-10"
                      /note="*gbkey: Gene"
@@ -432,6 +436,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015072.t1_mrna"
                      /product="putative methyltransferase tdiE"
                      /protein_id="KAG7404860.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24795..26025)
                      /note="*Name Forpe1208_v015073"
                      /note="*Note Endo-1"
@@ -506,6 +511,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015073.t1_mrna"
                      /product="Endo-1,3(4)-beta-glucanase"
                      /protein_id="KAG7404861.1"
+                     /gene_kind="biosynthetic"
      gene            28590..30398
                      /note="*Name Forpe1208_v015074"
                      /note="*Note Efflux pump FUB11"
@@ -706,6 +712,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015077.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG7405535.1"
+                     /gene_kind="biosynthetic"
      gene            40646..41936
                      /note="*Name OpS4-4"
                      /note="*gbkey: Gene"
@@ -751,6 +758,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015078.t1_mrna"
                      /product="FAD-dependent monooxygenase OpS4"
                      /protein_id="KAG7404856.1"
+                     /gene_kind="biosynthetic"
      gene            complement(42426..44275)
                      /note="*Name Forpe1208_v015079"
                      /note="*Note Uncharacterized MFS-type transporter"
@@ -895,6 +903,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015080.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG7405093.1"
+                     /gene_kind="biosynthetic"
      gene            46917..48732
                      /note="*Name cocE-6"
                      /note="*gbkey: Gene"
@@ -940,6 +949,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015081.t1_mrna"
                      /product="Cocaine esterase"
                      /protein_id="KAG7405562.1"
+                     /gene_kind="biosynthetic"
      gene            complement(48955..49633)
                      /note="*Name inhA-4"
                      /note="*gbkey: Gene"
@@ -1106,6 +1116,7 @@ FEATURES             Location/Qualifiers
                      /product="Non-canonical non-ribosomal peptide synthetase
                      FUB8"
                      /protein_id="KAG7405619.1"
+                     /gene_kind="biosynthetic"
      gene            57312..58855
                      /note="*Name DIT1-1"
                      /note="*gbkey: Gene"
@@ -1152,6 +1163,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v015085.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAG7405560.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATGACAAA GAGTTCCTGC CACGTCGACC ACGCCGAGAT TCATTGGTGA CTGTCTTGGT
        61 AAGGGCGTTA TCCACCATGA CATCGTCCTT CTTAATACTT CTTCGTGGAA TCCAGAAAAG

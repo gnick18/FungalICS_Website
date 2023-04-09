@@ -106,6 +106,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:RCTA|BPOR_009g06230.1"
                      /product="hypothetical protein"
                      /protein_id="KAF7902194.1"
+                     /gene_kind="biosynthetic"
      gene            complement(29599..30668)
                      /note="*Name EAF01_007493"
                      /note="*gbkey: Gene"
@@ -271,6 +272,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:RCTA|BPOR_009g06260.1"
                      /product="hypothetical protein"
                      /protein_id="KAF7902197.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCATACC TTTCTTATAT CGAACCAGGG CTTGACACCA TACTTCCTCT CTCcatcttt
        61 atattcattc tCAACTTAAT CCGCGACCTT CTCGATTCCT TCCTCTATTG CGGACTCATT

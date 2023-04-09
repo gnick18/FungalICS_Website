@@ -185,6 +185,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ACLA_061790"
                      /product="4-nitrophenylphosphatase, putative"
                      /protein_id="EAW12217.1"
+                     /gene_kind="biosynthetic"
      gene            6652..8573
                      /note="*Name ACLA_061800"
                      /note="*end_range: 429580,."
@@ -244,6 +245,7 @@ FEATURES             Location/Qualifiers
                      /product="taurine catabolism dioxygenase TauD, TfdA family
                      protein"
                      /protein_id="EAW12218.1"
+                     /gene_kind="biosynthetic"
      misc_feature    8987..9022
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"
@@ -369,6 +371,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ACLA_061830"
                      /product="transferase family protein"
                      /protein_id="EAW12221.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCCACCA CCCACCGCAT CCTCTCACTC GTCTACAACG AGTTCGAGGC TCTTGACCTT
        61 TTCGGTCCAC TTGGCGCCAT CGTCCCCCGC AGTGACTACT ACACCCTCGA GCTCGTCAAC

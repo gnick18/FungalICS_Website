@@ -37,6 +37,7 @@ FEATURES             Location/Qualifiers
                      /product="ATPase, P-type,
                      K/Mg/Cd/Cu/Zn/Na/Ca/Na/H-transporter"
                      /protein_id="PCH06088.1"
+                     /gene_kind="biosynthetic"
      gene            4260..5560
                      /note="*Name PENO1_019090"
                      /note="*gbkey: Gene"
@@ -83,6 +84,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFK|mrna.PENO1_019090"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="PCH06089.1"
+                     /gene_kind="biosynthetic"
      gene            6240..7628
                      /note="*Name PENO1_019100"
                      /note="*gbkey: Gene"
@@ -218,6 +220,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFK|mrna.PENO1_019120"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="PCH06092.1"
+                     /gene_kind="biosynthetic"
      gene            12837..14713
                      /note="*Name PENO1_019130"
                      /note="*gbkey: Gene"
@@ -255,6 +258,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFK|mrna.PENO1_019130"
                      /product="Amidase"
                      /protein_id="PCH06093.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14815..15811)
                      /note="*Name PENO1_019140"
                      /note="*gbkey: Gene"

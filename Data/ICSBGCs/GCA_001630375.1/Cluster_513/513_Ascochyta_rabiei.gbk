@@ -42,6 +42,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JYNV|g5352_mrna"
                      /product="hypothetical protein"
                      /protein_id="KZM23496.1"
+                     /gene_kind="biosynthetic"
      gene            3029..4660
                      /note="*Name ST47_g5353"
                      /note="*gbkey: Gene"
@@ -77,6 +78,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JYNV|g5353_mrna"
                      /product="heme binding"
                      /protein_id="KZM23495.1"
+                     /gene_kind="biosynthetic"
      gene            6568..8119
                      /note="*Name ST47_g5354"
                      /note="*gbkey: Gene"
@@ -186,6 +188,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JYNV|g5356_mrna"
                      /product="protein disulfide oxidoreductase"
                      /protein_id="KZM23500.1"
+                     /gene_kind="biosynthetic"
      gene            13155..14143
                      /note="*Name ST47_g5357"
                      /note="*gbkey: Gene"
@@ -348,6 +351,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JYNV|g5360_mrna"
                      /product="carbohydrate metabolic process"
                      /protein_id="KZM23487.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25333..26167)
                      /note="*Name ST47_g5361"
                      /note="*gbkey: Gene"
@@ -428,6 +432,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JYNV|g5362_mrna"
                      /product="arylformamidase"
                      /protein_id="KZM23489.1"
+                     /gene_kind="biosynthetic"
      gene            complement(27994..30097)
                      /note="*Name ST47_g5363"
                      /note="*gbkey: Gene"
@@ -601,6 +606,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JYNV|g5365_mrna"
                      /product="hydrolase"
                      /protein_id="KZM23484.1"
+                     /gene_kind="biosynthetic"
      gene            complement(36545..38022)
                      /note="*Name ST47_g5366"
                      /note="*gbkey: Gene"
@@ -638,6 +644,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JYNV|g5366_mrna"
                      /product="hydrolase"
                      /protein_id="KZM23485.1"
+                     /gene_kind="biosynthetic"
      gene            39628..41154
                      /note="*Name ST47_g5367"
                      /note="*gbkey: Gene"
@@ -675,6 +682,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JYNV|g5367_mrna"
                      /product="glutamate-5-semialdehyde dehydrogenase"
                      /protein_id="KZM23486.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATACCGCC TGAGTTCGAA GCTGTGGGAG GTTGTTCTGA ACGAACATGC GCAGCCTGCT
        61 CGTCTTTTCC CCAGGTCGAA CCCAGTGCGA GTCGACACGC TTGAACGGGC GATTATCGAC

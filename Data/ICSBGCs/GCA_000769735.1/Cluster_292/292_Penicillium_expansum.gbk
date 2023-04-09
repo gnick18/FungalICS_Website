@@ -63,6 +63,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEXP_049400"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KGO39525.1"
+                     /gene_kind="biosynthetic"
      gene            3278..5166
                      /note="*Name PEXP_049410"
                      /note="*gbkey: Gene"
@@ -137,6 +138,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEXP_049410"
                      /product="Monooxygenase, FAD-binding"
                      /protein_id="KGO39526.1"
+                     /gene_kind="biosynthetic"
      gene            6646..7860
                      /note="*Name PEXP_049420"
                      /note="*gbkey: Gene"
@@ -567,6 +569,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEXP_049500"
                      /product="Dyp-type peroxidase"
                      /protein_id="KGO39535.1"
+                     /gene_kind="biosynthetic"
      gene            33695..35815
                      /note="*Name PEXP_049510"
                      /note="*gbkey: Gene"
@@ -595,6 +598,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEXP_049510"
                      /product="Galactose oxidase/kelch, beta-propeller"
                      /protein_id="KGO39536.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAATCAACA TGAATGCGCC GTAAGCAGCG ATCCGAGTTT CCTGTGAAGG AACTCCGCGT
        61 ATGCATCGTG GTCACATTAT CGCTGATGAG CCAATCCCCT TCTTCCCAAC AGTGCCACAA

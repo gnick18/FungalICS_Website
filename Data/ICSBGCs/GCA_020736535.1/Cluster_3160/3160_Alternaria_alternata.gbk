@@ -62,6 +62,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6849212.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1487..2597)
                      /note="*Name B0T12DRAFT_396545"
                      /note="*end_range: 1865397,."
@@ -238,6 +239,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA503941"
                      /product="hypothetical protein"
                      /protein_id="KAH6849214.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4519..5282)
                      /note="*Name B0T12DRAFT_485935"
                      /note="*end_range: 1868082,."
@@ -478,6 +480,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA485938"
                      /product="alpha-methylacyl-CoA racemase"
                      /protein_id="KAH6849218.1"
+                     /gene_kind="biosynthetic"
      gene            12243..12953
                      /note="*Name B0T12DRAFT_485939"
                      /note="*end_range: 1875753,."
@@ -519,6 +522,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA485939"
                      /product="GNAT domain-containing protein"
                      /protein_id="KAH6849219.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAAGCAGCC ACCGCCTTGC GATCTCGAAT CGTGAGACCA GAGGGATACA GTTGTTCGAA
        61 TGTTTTATTC Gaatcgtctt cgccttctaG CTTGGCGCGG AAACAGTACG GTCGGTCATC

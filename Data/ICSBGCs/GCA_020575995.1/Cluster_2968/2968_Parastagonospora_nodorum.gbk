@@ -437,6 +437,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIP|mrna.HBI17_131620A"
                      /product="hypothetical protein"
                      /protein_id="KAH5747699.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11961..12210)
                      /note="*Name HBI17_131630"
                      /note="*gbkey: Gene"
@@ -610,6 +611,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIP|mrna.HBI17_131650A"
                      /product="hypothetical protein"
                      /protein_id="KAH5747480.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17476..19011)
                      /note="*Name HBI17_131660"
                      /note="*gbkey: Gene"
@@ -783,6 +785,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIP|mrna.HBI17_131680A"
                      /product="cutinase"
                      /protein_id="KAH5747646.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACCAGACT ACCTGCCACA CCGTCCCACT AAACCCTAGA ATCTGGCTAA ACGCCTCGTC
        61 CCTCTGCCGC ATATCCCCTA GTACGTACTC ATTCCCATCG GACAAGACAA GCTTCAAATC

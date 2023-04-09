@@ -56,6 +56,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRJA|mrna.HBI61_097930A"
                      /product="hypothetical protein"
                      /protein_id="KAH6181168.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1540..3075)
                      /note="*Name HBI61_097940"
                      /note="*gbkey: Gene"
@@ -229,6 +230,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRJA|mrna.HBI61_097960A"
                      /product="cutinase"
                      /protein_id="KAH6181544.1"
+                     /gene_kind="biosynthetic"
      misc_feature    complement(6558..6611)
                      /note="*Type SO:0000658 dispersed_repeat"
                      /note="*Note Match to RepeatModeler de-novo family
@@ -285,6 +287,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRJA|mrna.HBI61_097980A"
                      /product="hypothetical protein"
                      /protein_id="KAH6181412.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGTATAGT TCCAGCACGC CCATGGAAGT CTTCACTTCT GCCGGTGCCC CCTTCTGGCG
        61 CCAGAAATAT AGCCTGCCAT ATCTCTCTAC AAGCTCATAC TTCTCCTGAT CGACCTGATG

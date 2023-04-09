@@ -43,6 +43,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LKMD|CB0940_05052-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="PIA93867.1"
+                     /gene_kind="biosynthetic"
      gene            1386..2289
                      /note="*Name CB0940_05053"
                      /note="*gbkey: Gene"
@@ -80,6 +81,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LKMD|CB0940_05053-RA_mrna"
                      /product="Short-chain type dehydrogenase/reductase"
                      /protein_id="PIA93866.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4080..4844)
                      /note="*Name CB0940_05054"
                      /note="*gbkey: Gene"
@@ -117,6 +119,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LKMD|CB0940_05054-RA_mrna"
                      /product="putative acetyltransferase"
                      /protein_id="PIA93910.1"
+                     /gene_kind="biosynthetic"
      gene            4784..7822
                      /note="*Name CB0940_05055"
                      /note="*gbkey: Gene"
@@ -154,6 +157,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LKMD|CB0940_05055-RA_mrna"
                      /product="Copper amine oxidase 1"
                      /protein_id="PIA93868.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12842..14402)
                      /note="*Name CB0940_05056"
                      /note="*gbkey: Gene"
@@ -191,6 +195,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LKMD|CB0940_05056-RA_mrna"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="PIA93870.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15121..16745)
                      /note="*Name CB0940_05057"
                      /note="*gbkey: Gene"
@@ -303,6 +308,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LKMD|CB0940_05058-RA_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="PIA93858.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TATACGCAGG TGTTTCTTCA AGAATGCGTA CAATCGAGGC AATTCCACGT CATCTTCCAG
        61 ATCGAATGTA TGGTCCGCAC CAATCAGGCG ATCATACATG ACTTCATAAC CGAGCCCAAG

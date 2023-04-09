@@ -90,6 +90,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WWBZ|BOTSDO04852.1_mrna"
                      /product="putative duf341 domain containing protein"
                      /protein_id="KAF4306621.1"
+                     /gene_kind="biosynthetic"
      gene            36184..43107
                      /note="*Name GTA08_BOTSDO04853"
                      /note="*gbkey: Gene"
@@ -164,6 +165,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WWBZ|BOTSDO04853.1_mrna"
                      /product="putative polyketide synthase protein"
                      /protein_id="KAF4306620.1"
+                     /gene_kind="biosynthetic"
      gene            complement(75105..76523)
                      /note="*Name GTA08_BOTSDO04854"
                      /note="*gbkey: Gene"
@@ -476,6 +478,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WWBZ|BOTSDO04861.1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4307270.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGTTGTCC ATGAGGTCCT GGATGATGCT TTCAAGCACA ACCTTTTCGT TACGTCGAAG
        61 CTTGTCGCGT ACGTTGTCAA TCCAGCGCTT GAATTTGCTA CTAACGTCGA TGTTACAGAC

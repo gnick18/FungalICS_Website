@@ -76,6 +76,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWCZ|BDV34DRAFT_mRNA223600"
                      /product="hypothetical protein"
                      /protein_id="KAB8207360.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1148..1452)
                      /note="*Name BDV34DRAFT_223601"
                      /note="*end_range: 216429,."
@@ -358,6 +359,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWCZ|BDV34DRAFT_mRNA192136"
                      /product="hypothetical protein"
                      /protein_id="KAB8207365.1"
+                     /gene_kind="biosynthetic"
      gene            13518..15088
                      /note="*Name BDV34DRAFT_211681"
                      /note="*end_range: 230065,."
@@ -649,6 +651,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWCZ|BDV34DRAFT_mRNA211683"
                      /product="Lycopene beta-cyclase"
                      /protein_id="KAB8207368.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20280..22960)
                      /note="*Name BDV34DRAFT_211684"
                      /note="*end_range: 237937,."
@@ -735,6 +738,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWCZ|BDV34DRAFT_mRNA211684"
                      /product="hypothetical protein"
                      /protein_id="KAB8207369.1"
+                     /gene_kind="biosynthetic"
      gene            23811..26470
                      /note="*Name BDV34DRAFT_192139"
                      /note="*gbkey: Gene"
@@ -922,6 +926,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAB8207371.1"
+                     /gene_kind="biosynthetic"
      gene            30535..32571
                      /note="*Name BDV34DRAFT_68498"
                      /note="*gbkey: Gene"
@@ -1008,6 +1013,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWCZ|BDV34DRAFT_mRNA68498"
                      /product="monooxygenase"
                      /protein_id="KAB8207372.1"
+                     /gene_kind="biosynthetic"
      gene            complement(33555..38835)
                      /note="*Name BDV34DRAFT_223613"
                      /note="*end_range: 253812,."
@@ -1168,6 +1174,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWCZ|BDV34DRAFT_mRNA192146"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAB8207374.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACTCAGCA GGGCCAAGAA TATTCCTCTC ATGAACAGTC GTCGTCTTTC CAGTATTCTG
        61 GTTCTCAATC TATCGCCAAA CACATCAGAA CCTTGTCAAG AGCAATACGT TCCTGAGAGA

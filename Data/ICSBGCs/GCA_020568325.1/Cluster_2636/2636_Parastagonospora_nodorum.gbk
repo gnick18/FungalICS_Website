@@ -162,6 +162,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRDU|mrna.HBI09_184860A"
                      /product="autophagy-related protein"
                      /protein_id="KAH4019722.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5797..7514)
                      /note="*Name HBI09_184870"
                      /note="*gbkey: Gene"
@@ -291,6 +292,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRDU|mrna.HBI09_184890A"
                      /product="hypothetical protein"
                      /protein_id="KAH4019724.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATCCACCA GAAGAGATCG GAACGCGCTT GCCCATGTGA GTCCAGATGT AGTTAGCCTC
        61 CCGGGGAGAG AATTTGCTGC CCTTGAGGCC CTTGGTCTGG ATCTTCGCTC GCACAGCAAC

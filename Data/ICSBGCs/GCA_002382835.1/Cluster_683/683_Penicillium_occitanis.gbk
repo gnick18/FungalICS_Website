@@ -63,6 +63,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFJ|mrna.PENOC_058230"
                      /product="hypothetical protein"
                      /protein_id="PCG99399.1"
+                     /gene_kind="biosynthetic"
      gene            4658..6512
                      /note="*Name PENOC_058240"
                      /note="*gbkey: Gene"
@@ -146,6 +147,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFJ|mrna.PENOC_058240"
                      /product="hypothetical protein"
                      /protein_id="PCG99400.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7371..8062)
                      /note="*Name PENOC_058250"
                      /note="*gbkey: Gene"
@@ -229,6 +231,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NPFJ|mrna.PENOC_058260"
                      /product="hypothetical protein"
                      /protein_id="PCG99402.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGTTGACG TGAATTCTCC AGAAGCGTCG GGGGCTTCCT GGAGGATACG CTTCACGGGt
        61 atgcatcatc aagatgttAT CACTGACGAT GATTTCATTC TCGCCGAATT GTAAGTAATT

@@ -247,6 +247,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00007105"
                      /product="putative aryl-alcohol dehydrogenase AAD14"
                      /protein_id="KAF3806855.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8700..10533)
                      /note="*Name GCG54_00007106"
                      /note="*gbkey: Gene"
@@ -309,6 +310,7 @@ FEATURES             Location/Qualifiers
                      /product="Dimethylaniline monooxygenase [N-oxide-forming]
                      4"
                      /protein_id="KAF3806856.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11296..13084)
                      /note="*Name GCG54_00007107"
                      /note="*gbkey: Gene"
@@ -439,6 +441,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00007109"
                      /product="hypothetical protein"
                      /protein_id="KAF3806859.1"
+                     /gene_kind="biosynthetic"
      gene            19570..20876
                      /note="*Name GCG54_00007110"
                      /note="*gbkey: Gene"
@@ -504,6 +507,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00007110"
                      /product="2-methylene-furan-3-one reductase"
                      /protein_id="KAF3806860.1"
+                     /gene_kind="biosynthetic"
      gene            23810..24607
                      /note="*Name GCG54_00007111"
                      /note="*gbkey: Gene"
@@ -532,6 +536,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00007111"
                      /product="Deoxyribose-phosphate aldolase"
                      /protein_id="KAF3806861.1"
+                     /gene_kind="biosynthetic"
      gene            25679..27768
                      /note="*Name GCG54_00007112"
                      /note="*gbkey: Gene"
@@ -651,6 +656,7 @@ FEATURES             Location/Qualifiers
                      /product="Alpha-ketoglutarate-dependent sulfate ester
                      dioxygenase"
                      /protein_id="KAF3806863.1"
+                     /gene_kind="biosynthetic"
      gene            29335..30985
                      /note="*Name GCG54_00007114"
                      /note="*gbkey: Gene"
@@ -688,6 +694,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00007114"
                      /product="Transcriptional regulator sdnM"
                      /protein_id="KAF3806864.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31034..37578)
                      /note="*Name GCG54_00007115"
                      /note="*gbkey: Gene"
@@ -773,6 +780,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00007115"
                      /product="Siderophore iron transporter mirB"
                      /protein_id="KAF3806865.1"
+                     /gene_kind="biosynthetic"
      gene            38612..39814
                      /note="*Name GCG54_00007116"
                      /note="*gbkey: Gene"
@@ -820,6 +828,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00007116"
                      /product="hypothetical protein"
                      /protein_id="KAF3806866.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCGCTGA ATCTATCCCA CTTGTCATCC GATAGCAGTC CAGTGATCGT CGCGGGGCAT
        61 AAATTTCCGA CACCTGTTAC GAGCCGGTCA AAGGCGACCG AAGACAAGCT TTCAGGCTCA

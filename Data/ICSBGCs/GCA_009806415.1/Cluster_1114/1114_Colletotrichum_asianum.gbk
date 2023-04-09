@@ -117,6 +117,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WOWK|t1.GQ607_015353"
                      /product="zinc binding dehydrogenase"
                      /protein_id="KAF0317401.1"
+                     /gene_kind="biosynthetic"
      gene            4207..5375
                      /note="*Name GQ607_015354"
                      /note="*gbkey: Gene"
@@ -192,6 +193,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WOWK|t1.GQ607_015355"
                      /product="glycosyl hydrolase family 16"
                      /protein_id="KAF0317403.1"
+                     /gene_kind="biosynthetic"
      gene            9349..10707
                      /note="*Name GQ607_015356"
                      /note="*gbkey: Gene"
@@ -350,6 +352,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WOWK|t1.GQ607_015358"
                      /product="glutamyl-tRNA(Gln) amidotransferase"
                      /protein_id="KAF0317406.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACTCATTC AATCCATTTC TACCTCCCCC AGTGCCTCGC TCCCCTTCCC CCATCTTGGC
        61 GCTCGCTGGC CACCTTTTGC GTCTTCCTTC CTTTTTCACA GCCCTTTTAT TCTTCATCGT

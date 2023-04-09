@@ -156,6 +156,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDYL|PENDEC_c035T04615_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQD68439.1"
+                     /gene_kind="biosynthetic"
      gene            10160..12307
                      /note="*Name PENDEC_c035G01894"
                      /note="*Note TOXA_2"
@@ -456,6 +457,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDYL|PENDEC_c035T06694_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQD68451.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19857..20546)
                      /note="*Name PENDEC_c035G00439"
                      /note="*Note inhA"
@@ -623,6 +625,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDYL|PENDEC_c035T06760_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQD68483.1"
+                     /gene_kind="biosynthetic"
      gene            complement(29608..32473)
                      /note="*Name PENDEC_c035G00494"
                      /note="*Note TUBGCP3"
@@ -751,6 +754,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDYL|PENDEC_c035T05705_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQD68457.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAACCAAA gatggcttct tcttgatccC AAGGCTAGTA ACGGcaggct tcttcggctt
        61 cttgaCCCGT GCGAAGGAAG TAGACGGCGG TGGCATCTGA ATCGAGGAAG GTTTTGATGC

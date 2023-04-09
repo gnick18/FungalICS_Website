@@ -173,6 +173,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SPUK|mrna.IF1G_07282"
                      /product="aldehyde reductase"
                      /protein_id="TQV94403.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5594..7414)
                      /note="*Name IF1G_07283"
                      /note="*end_range: 1277795,."
@@ -213,6 +214,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SPUK|mrna.IF1G_07283"
                      /product="amidase signature enzyme"
                      /protein_id="TQV94404.1"
+                     /gene_kind="biosynthetic"
      gene            9597..11177
                      /note="*Name IF1G_07284"
                      /note="*end_range: 1281558,."
@@ -253,6 +255,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SPUK|mrna.IF1G_07284"
                      /product="tricarballylate dehydrogenase"
                      /protein_id="TQV94405.1"
+                     /gene_kind="biosynthetic"
      gene            12111..14003
                      /note="*Name IF1G_07285"
                      /note="*end_range: 1284384,."
@@ -294,6 +297,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SPUK|mrna.IF1G_07285"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="TQV94406.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCTATCA GAGGCTTCCC CTTAGATTCG GTATCGTCCG ACTTCCAATA TCACCCTCAC
        61 GCCTTTGGAT ACCTGCACCC GCGCCCCCGC CTCAGCCAGC CGCCAGAGTC GCCcgtccgc

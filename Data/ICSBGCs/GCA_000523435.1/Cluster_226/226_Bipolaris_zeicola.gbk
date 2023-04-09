@@ -115,6 +115,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCCADRAFT_mRNA112729"
                      /product="hypothetical protein"
                      /protein_id="EUC27039.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6178..8015)
                      /note="*Name COCCADRAFT_72261"
                      /note="*end_range: 1840,."
@@ -175,6 +176,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="EUC27035.1"
+                     /gene_kind="biosynthetic"
      gene            8774..13223
                      /note="*Name COCCADRAFT_112734"
                      /note="*end_range: 7048,."
@@ -630,6 +632,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCCADRAFT_mRNA112758"
                      /product="hypothetical protein"
                      /protein_id="EUC27026.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGATGAGAC TATCCGCCGA TACAGCGCTC CTTCAACGGG AAAACGAGCA GCTCCGGGCA
        61 GCTCCCATCA ACGAGAGACA GCGGAAGGAG CGTATCCAGC CTGGTACAAT CGAGCTATCC

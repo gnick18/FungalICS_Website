@@ -236,6 +236,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6951281.1"
+                     /gene_kind="biosynthetic"
      gene            11537..15134
                      /note="*Name DER45DRAFT_492517"
                      /note="*end_range: 35864,."
@@ -346,6 +347,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMVH|DER45DRAFT_mRNA492517"
                      /product="hypothetical protein"
                      /protein_id="KAH6951282.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATGAACCT CCAAAAGTCC AAGAGCATAC TCTTTTCATA ACATGATCAA TGGAAGGTCC
        61 CTCAATAGGT GGCAGGCCTG ATTTGGGGTA CTGAGCCTCT CCGATATTAT TGAGGGAGGG

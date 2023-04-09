@@ -48,6 +48,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v003995.t1_mrna"
                      /product="Glucan endo-1,3-beta-glucosidase A1"
                      /protein_id="KAF4876724.1"
+                     /gene_kind="biosynthetic"
      gene            3703..4923
                      /note="*Name CGCSCA1_v003996"
                      /note="*gbkey: Gene"
@@ -200,6 +201,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v003998.t1_mrna"
                      /product="Amidase 1"
                      /protein_id="KAF4876719.1"
+                     /gene_kind="biosynthetic"
      gene            9619..10921
                      /note="*Name DIT1-2"
                      /note="*gbkey: Gene"
@@ -252,6 +254,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v003999.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4876720.1"
+                     /gene_kind="biosynthetic"
      gene            11719..13160
                      /note="*Name DIT1-3"
                      /note="*gbkey: Gene"
@@ -305,6 +308,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v004000.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4876875.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGTTCGAC TGGTAGACGG CCACGTAGGC GGTCTCCATC ATGCTTCCGT AACCGCCCAA
        61 AGTGTTGCCG TCGGGGTTGC CGGGCTATAA ACAGTTAACA AAACTCACTT TCCATCAGAC

@@ -67,6 +67,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis protein,
                      putative"
                      /protein_id="XP_001276264.1"
+                     /gene_kind="biosynthetic"
      repeat_region   2657..2677
                      /note="*Note microsatellite"
                      /note="*gbkey: repeat_region"
@@ -295,6 +296,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ACLA_002520"
                      /product="O-methyltransferase, putative"
                      /protein_id="XP_001276267.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9397..10225)
                      /db_xref="GeneID:4708529"
                      /note="*Name ACLA_002530"
@@ -456,6 +458,7 @@ FEATURES             Location/Qualifiers
                      /product="sporulation-specific N-formyltyrosine oxidase
                      Dit2, putative"
                      /protein_id="XP_001276269.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12513..13968)
                      /db_xref="GeneID:4708531"
                      /note="*Name ACLA_002550"
@@ -512,6 +515,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ACLA_002550"
                      /product="cytochrome P450, putative"
                      /protein_id="XP_001276270.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGATTGCCC CATTGCAGAA GCCCGAAGAG TCAACCGTCT CGTTCCCTGG AGAAGCACAA
        61 GAGAACAGCT CAGTCAATGT ATATCACACA AAAGCGGCAG CCATCACTAC AACCGAGATT

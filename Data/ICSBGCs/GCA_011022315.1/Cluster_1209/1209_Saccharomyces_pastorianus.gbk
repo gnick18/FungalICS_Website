@@ -146,6 +146,7 @@ FEATURES             Location/Qualifiers
                      gnl|PRJNA522669|GRS66_006195-T1_mrna"
                      /product="hypoxanthine-guanine phosphoribosyltransferase"
                      /protein_id="QID83719.1"
+                     /gene_kind="biosynthetic"
      gene            4706..5728
                      /note="*Name URH1_2"
                      /note="*gbkey: Gene"
@@ -241,6 +242,7 @@ FEATURES             Location/Qualifiers
                      gnl|PRJNA522669|GRS66_006197-T1_mrna"
                      /product="cytochrome P450-dit2"
                      /protein_id="QID83721.1"
+                     /gene_kind="biosynthetic"
      gene            8346..9956
                      /note="*Name DIT1_2"
                      /note="*gbkey: Gene"
@@ -277,6 +279,7 @@ FEATURES             Location/Qualifiers
                      gnl|PRJNA522669|GRS66_006198-T1_mrna"
                      /product="dityrosine synthesis enzyme"
                      /protein_id="QID83722.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATGAAGAA TCCTCCGATT TGACCGGATC CGACACGCTA TTCTGATGTA GTCTCGACCT
        61 CGATTGTCTA AACAACTCCT CTTGTTGTCG TAGCAACTCC TCTTCCGAAA GACCCGACTT

@@ -211,6 +211,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LVVK|A0O28_mrna0006520"
                      /product="NRPS-like enzyme"
                      /protein_id="OPB40573.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12975..13989)
                      /note="*Name A0O28_0006540"
                      /note="*gbkey: Gene"
@@ -248,6 +249,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LVVK|A0O28_mrna0006540"
                      /product="isoflavone reductase family protein"
                      /protein_id="OPB40574.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15611..16029)
                      /note="*Name A0O28_0006550"
                      /note="*gbkey: Gene"
@@ -360,6 +362,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LVVK|A0O28_mrna0006570"
                      /product="hypothetical protein"
                      /protein_id="OPB40577.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21751..22644)
                      /note="*Name A0O28_0006580"
                      /note="*gbkey: Gene"
@@ -462,6 +465,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LVVK|A0O28_mrna0006590"
                      /product="short-chain dehydrogenase"
                      /protein_id="OPB40579.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26387..26836)
                      /note="*Name A0O28_0006600"
                      /note="*gbkey: Gene"
@@ -545,6 +549,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LVVK|A0O28_mrna0006610"
                      /product="hypothetical protein"
                      /protein_id="OPB40581.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31200..33306)
                      /note="*Name A0O28_0006620"
                      /note="*gbkey: Gene"
@@ -620,6 +625,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LVVK|A0O28_mrna0006620"
                      /product="FAD monooxygenase"
                      /protein_id="OPB40582.1"
+                     /gene_kind="biosynthetic"
      gene            33863..36073
                      /note="*Name A0O28_0006630"
                      /note="*gbkey: Gene"
@@ -676,6 +682,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LVVK|A0O28_mrna0006630"
                      /product="Dit1p, spore wall maturation"
                      /protein_id="OPB40583.1"
+                     /gene_kind="biosynthetic"
      gene            36688..38993
                      /note="*Name A0O28_0006640"
                      /note="*gbkey: Gene"
@@ -814,6 +821,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LVVK|A0O28_mrna0006650"
                      /product="cytochrome P450"
                      /protein_id="OPB40585.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCTCTCGG TCGGGTTCCT TGTATTTGGC GACATTCTGT GTGCCAATGC CCACAATCCT
        61 GCTTGGCTCT ACGCATGTCG TGCTATAAGC GGcattggcg gtggtggcat cagctccatc

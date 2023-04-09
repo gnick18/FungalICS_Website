@@ -75,6 +75,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7125938.1"
+                     /gene_kind="biosynthetic"
      gene            2352..2985
                      /note="*Name EDB81DRAFT_663548"
                      /note="*end_range: 509098,."
@@ -134,6 +135,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="small GTPase superfamily"
                      /protein_id="KAH7125939.1"
+                     /gene_kind="biosynthetic"
      gene            3139..4050
                      /note="*Name EDB81DRAFT_730251"
                      /note="*end_range: 510163,."
@@ -250,6 +252,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUV|EDB81DRAFT_mRNA810193"
                      /product="hypothetical protein"
                      /protein_id="KAH7125941.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5271..7118)
                      /note="*Name EDB81DRAFT_951373"
                      /note="*gbkey: Gene"

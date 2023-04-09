@@ -70,6 +70,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA464656"
                      /product="putative 3-hydroxyisobutyrate dehydrogenase"
                      /protein_id="XP_025498211.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1901..4026)
                      /db_xref="GeneID:37152644"
                      /note="*Name BO66DRAFT_415945"
@@ -210,6 +211,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA415945"
                      /product="putative dimethylaniline monooxygenase"
                      /protein_id="XP_025498212.1"
+                     /gene_kind="biosynthetic"
      gene            4531..8867
                      /db_xref="GeneID:37155546"
                      /note="*Name BO66DRAFT_464658"
@@ -387,6 +389,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA464658"
                      /product="putative 5-oxoprolinase"
                      /protein_id="XP_025498213.1"
+                     /gene_kind="biosynthetic"
      gene            10549..11378
                      /db_xref="GeneID:37151498"
                      /note="*Name BO66DRAFT_396222"
@@ -737,6 +740,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA396225"
                      /product="acyl-CoA N-acyltransferase"
                      /protein_id="XP_025498219.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23936..26036)
                      /db_xref="GeneID:37155548"
                      /note="*Name BO66DRAFT_464689"
@@ -861,6 +865,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="XP_025498220.1"
+                     /gene_kind="biosynthetic"
      gene            27054..28919
                      /db_xref="GeneID:37149224"
                      /note="*Name BO66DRAFT_385598"
@@ -990,6 +995,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA385598"
                      /product="monooxygenase"
                      /protein_id="XP_025498221.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCGAAGC CACCTGTCAA TGTCAGACCC AAGATCGCGT TTGTCGGTCT CGGCGCAATG
        61 GGTAGGGGTA TGGCCATACA ACTGCTCAAC GATGGGTTCC CCGTCTGTGG GTTCGACGTC

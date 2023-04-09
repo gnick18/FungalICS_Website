@@ -50,6 +50,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZGY|AAL_mRNA01774"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="OAA32442.1"
+                     /gene_kind="biosynthetic"
      gene            3574..6845
                      /note="*Name AAL_01775"
                      /note="*end_range: 1691731,."
@@ -139,6 +140,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZGY|AAL_mRNA01775"
                      /product="NAD(P)-binding domain protein"
                      /protein_id="OAA32443.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7569..8954)
                      /note="*Name AAL_01776"
                      /note="*end_range: 1693840,."
@@ -192,6 +194,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZGY|AAL_mRNA01776"
                      /product="Monooxygenase, FAD-binding protein"
                      /protein_id="OAA32444.1"
+                     /gene_kind="biosynthetic"
      gene            10741..11941
                      /note="*Name AAL_01777"
                      /note="*end_range: 1696827,."
@@ -316,6 +319,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZGY|AAL_mRNA01778"
                      /product="CoA-transferase family III domain protein"
                      /protein_id="OAA32446.1"
+                     /gene_kind="biosynthetic"
      gene            14989..16455
                      /note="*Name AAL_01779"
                      /note="*end_range: 1701341,."
@@ -435,6 +439,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZGY|AAL_mRNA01780"
                      /product="cytochrome P450 monooxygenase"
                      /protein_id="OAA32448.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25733..27044)
                      /note="*Name AAL_01781"
                      /note="*end_range: 1711930,."
@@ -512,6 +517,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZGY|AAL_mRNA01782"
                      /product="MT-A70 family"
                      /protein_id="OAA32450.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ttagTCAAAG TGGATTCTCC ACAGCTCTCG GTCGTTGCCT CCCTGGAAAT CGCTGCGGGT
        61 GTGCATGGCC AGCGTGTTGT CGCTCACAAG CATATCGCCC CGCTGCCAGG AGTGCCAGTA

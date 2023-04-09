@@ -162,6 +162,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIS|mrna.HBI82_222280A"
                      /product="autophagy-related protein"
                      /protein_id="KAH5984781.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5797..7514)
                      /note="*Name HBI82_222290"
                      /note="*gbkey: Gene"
@@ -291,6 +292,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIS|mrna.HBI82_222310A"
                      /product="hypothetical protein"
                      /protein_id="KAH5984716.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATCCACCA GAAGAGATCG GAACGCGCTT GCCCATGTGA GTCCAGATGT AGTTAGCCTC
        61 CCGGGGAGAG AATTTGCTGC CCTTGAGGCC CTTGGTCTGG ATCTTCGCTC GCACAGCAAC

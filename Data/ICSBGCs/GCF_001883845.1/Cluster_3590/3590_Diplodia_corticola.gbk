@@ -68,6 +68,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MNUE|BKCO1_mrna4900013"
                      /product="pyoverdine dityrosine biosynthesis protein"
                      /protein_id="XP_020127651.1"
+                     /gene_kind="biosynthetic"
      gene            2816..4465
                      /db_xref="GeneID:31016786"
                      /note="*Name BKCO1_4900014"
@@ -143,6 +144,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MNUE|BKCO1_mrna4900014"
                      /product="cytochrome p450"
                      /protein_id="XP_020127658.1"
+                     /gene_kind="biosynthetic"
      gene            5044..6838
                      /db_xref="GeneID:31016787"
                      /note="*Name BKCO1_4900015"
@@ -666,6 +668,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MNUE|BKCO1_mrna4900020"
                      /product="vanillyl-alcohol oxidase"
                      /protein_id="XP_020127612.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31630..33481)
                      /db_xref="GeneID:31016794"
                      /note="*Name BKCO1_4900021"

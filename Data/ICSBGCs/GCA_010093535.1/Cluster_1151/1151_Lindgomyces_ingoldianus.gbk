@@ -273,6 +273,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEJD|BDR25DRAFT_mRNA275034"
                      /product="hypothetical protein"
                      /protein_id="KAF2477698.1"
+                     /gene_kind="biosynthetic"
      gene            9824..10621
                      /note="*Name BDR25DRAFT_348020"
                      /note="*end_range: 1039612,."
@@ -430,6 +431,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEJD|BDR25DRAFT_mRNA330391"
                      /product="cytochrome P450"
                      /protein_id="KAF2477700.1"
+                     /gene_kind="biosynthetic"
      gene            15511..17124
                      /note="*Name BDR25DRAFT_364609"
                      /note="*end_range: 1046115,."
@@ -602,6 +604,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEJD|BDR25DRAFT_mRNA338480"
                      /product="cytochrome P450"
                      /protein_id="KAF2477703.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGAAGTCAC TTCTCTTTGG CCTGGTCGCC TCTCTTGCTG TTCCAGCTAG CAGCACCTTT
        61 GTTGTCCAAT GCTACAGCCG TCTCTTTGAT CAACGTGCTG ATCCCGTTGT CAGCCCTGGG

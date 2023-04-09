@@ -630,6 +630,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0004616.1"
                      /product="acyl-CoA dehydrogenase"
                      /protein_id="XP_035332522.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15739..17459)
                      /db_xref="GeneID:55986565"
                      /note="*Name HER10_EVM0012512"
@@ -667,6 +668,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0012512.1"
                      /product="arginine biosynthesis ArgJ"
                      /protein_id="XP_035333518.1"
+                     /gene_kind="biosynthetic"
      gene            17953..18933
                      /db_xref="GeneID:55976168"
                      /note="*Name HER10_EVM0002111"
@@ -839,6 +841,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0006480.1"
                      /product="uncharacterized protein"
                      /protein_id="XP_035332768.1"
+                     /gene_kind="biosynthetic"
      gene            21760..27217
                      /db_xref="GeneID:55982893"
                      /note="*Name HER10_EVM0008840"
@@ -1519,6 +1522,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0001420.1"
                      /product="FAD dependent oxidoreductase"
                      /protein_id="XP_035332153.1"
+                     /gene_kind="biosynthetic"
      gene            64750..66284
                      /db_xref="GeneID:55985214"
                      /note="*Name HER10_EVM0011161"
@@ -1569,6 +1573,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0011161.1"
                      /product="haloacid dehalogenase-like hydrolase"
                      /protein_id="XP_035333349.1"
+                     /gene_kind="biosynthetic"
      gene            complement(66386..68610)
                      /db_xref="GeneID:55975520"
                      /note="*Name HER10_EVM0001463"
@@ -1804,6 +1809,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0010931.1"
                      /product="cytochrome P450"
                      /protein_id="XP_035333305.1"
+                     /gene_kind="biosynthetic"
      gene            73129..75834
                      /db_xref="GeneID:55976384"
                      /note="*Name HER10_EVM0002327"
@@ -1868,6 +1874,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0002327.1"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="XP_035332267.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAACCCTC TTGGTGTTGA GTGAACGGAA CCGAGCTGGG CCAAGACCCT GTCTGATCTC
        61 GTCCAGTTGC TCAAGACCAG TCTGCGGCCG GTTCTTCTTG TTTGTGCGTT TTCCAGGCTT

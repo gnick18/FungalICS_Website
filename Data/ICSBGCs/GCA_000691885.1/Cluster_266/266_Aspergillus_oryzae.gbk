@@ -44,6 +44,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis protein,
                      putative"
                      /protein_id="KDE79514.1"
+                     /gene_kind="biosynthetic"
      gene            603..2123
                      /note="*Name AO1008_06093"
                      /note="*end_range: 682634,."
@@ -97,6 +98,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.AO1008_06093"
                      /product="putative taurine catabolism dioxygenase"
                      /protein_id="KDE79461.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1963..4917)
                      /note="*Name AO1008_06094"
                      /note="*gbkey: Gene"
@@ -222,6 +224,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.AO1008_06095"
                      /product="hypothetical protein"
                      /protein_id="KDE79415.1"
+                     /gene_kind="biosynthetic"
      gene            7280..9076
                      /note="*Name AO1008_06096"
                      /note="*gbkey: Gene"
@@ -271,6 +274,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.AO1008_06096"
                      /product="phytoene dehydrogenase"
                      /protein_id="KDE79621.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9143..11164)
                      /note="*Name AO1008_06097"
                      /note="*end_range: 691675,."
@@ -352,6 +356,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.AO1008_06097"
                      /product="phytoene"
                      /protein_id="KDE79566.1"
+                     /gene_kind="biosynthetic"
      gene            11644..13537
                      /note="*Name AO1008_06098"
                      /note="*end_range: 694048,."
@@ -550,6 +555,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|china|mrna.AO1008_06100"
                      /product="isoamyl alcohol oxidase"
                      /protein_id="KDE79553.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19058..21767)
                      /note="*Name AO1008_06101"
                      /note="*end_range: 702278,."

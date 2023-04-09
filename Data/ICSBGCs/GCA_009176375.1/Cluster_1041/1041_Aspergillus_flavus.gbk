@@ -466,6 +466,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWAT|BDV35DRAFT_mRNA402712"
                      /product="autophagy-related protein 22-like protein"
                      /protein_id="KAB8249260.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12062..13984)
                      /note="*Name BDV35DRAFT_402716"
                      /note="*gbkey: Gene"
@@ -544,6 +545,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWAT|BDV35DRAFT_mRNA402716"
                      /product="cytochrome P450"
                      /protein_id="KAB8249261.1"
+                     /gene_kind="biosynthetic"
      gene            14770..16043
                      /note="*Name BDV35DRAFT_378379"
                      /note="*end_range: 243058,."
@@ -600,6 +602,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAB8249262.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGATGGTG TAAAGCCAGC CAACATTCGT GACGATATTT CGACGAGCAA AGACTTTGTT
        61 CAATCCATCT GCCTCCAGCA CGAGCTTGCG GTCGTCAGAA ACATACTCAG GTGGAAACCG

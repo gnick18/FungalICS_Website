@@ -206,6 +206,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMVI|EDB82DRAFT_mRNA555970"
                      /product="hypothetical protein"
                      /protein_id="KAH6993707.1"
+                     /gene_kind="biosynthetic"
      gene            7909..9278
                      /note="*Name EDB82DRAFT_175296"
                      /note="*gbkey: Gene"
@@ -255,6 +256,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMVI|EDB82DRAFT_mRNA175296"
                      /product="hypothetical protein"
                      /protein_id="KAH6993708.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9519..11674)
                      /note="*Name EDB82DRAFT_175303"
                      /note="*gbkey: Gene"
@@ -316,6 +318,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMVI|EDB82DRAFT_mRNA175303"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAH6993709.1"
+                     /gene_kind="biosynthetic"
      gene            12168..13586
                      /note="*Name EDB82DRAFT_575232"
                      /note="*gbkey: Gene"
@@ -357,6 +360,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMVI|EDB82DRAFT_mRNA575232"
                      /product="hypothetical protein"
                      /protein_id="KAH6993710.1"
+                     /gene_kind="biosynthetic"
      gene            14306..16223
                      /note="*Name EDB82DRAFT_475470"
                      /note="*end_range: 6077398,."
@@ -863,6 +867,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6993713.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ACGCGTCTTT GTTACTATTT TATCTAGTAA AATGTTCATC CATGCCCTTC CACTCAACGT
        61 CTAAGCTATG GCGTCCGTCT TATCGCTTTG TTGAGTTTCA GTACCTGTCT CGCTATTTAC

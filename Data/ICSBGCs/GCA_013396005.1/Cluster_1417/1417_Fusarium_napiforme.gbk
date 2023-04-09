@@ -34,6 +34,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAO|mrna.FNAPI_7983"
                      /product="yjlB"
                      /protein_id="KAF5549603.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1023..3102)
                      /note="*Name FNAPI_7984"
                      /note="*gbkey: Gene"
@@ -91,6 +92,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAO|mrna.FNAPI_7984"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF5549604.1"
+                     /gene_kind="biosynthetic"
      gene            3907..5622
                      /note="*Name FNAPI_7985"
                      /note="*gbkey: Gene"
@@ -156,6 +158,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAO|mrna.FNAPI_7985"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KAF5549605.1"
+                     /gene_kind="biosynthetic"
      gene            6511..7886
                      /note="*Name FNAPI_7986"
                      /note="*gbkey: Gene"
@@ -239,6 +242,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAO|mrna.FNAPI_7987"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="KAF5549607.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10122..15163)
                      /note="*Name FNAPI_7988"
                      /note="*gbkey: Gene"
@@ -405,6 +409,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAO|mrna.FNAPI_7990"
                      /product="aldose 1-epimerase"
                      /protein_id="KAF5549610.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATATCTTT GACTTGTACT CTCTGTTCTC CACCTGCACA ATCTCCAAAT CAACCTCAGT
        61 ATCCCCTCCA GGCCAAGTCT TAAcaagtcc ttcttctgcc tcCCCAAACA CAGGATCCCT

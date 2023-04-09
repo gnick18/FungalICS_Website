@@ -139,6 +139,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAAOAS|mrna.FPCIR_919"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="KAF5604373.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14496..15866)
                      /note="*Name FPCIR_920"
                      /note="*gbkey: Gene"
@@ -240,6 +241,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAAOAS|mrna.FPCIR_921"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KAF5604375.1"
+                     /gene_kind="biosynthetic"
      gene            19282..21357
                      /note="*Name FPCIR_922"
                      /note="*gbkey: Gene"
@@ -290,6 +292,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAAOAS|mrna.FPCIR_922"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF5604376.1"
+                     /gene_kind="biosynthetic"
      gene            21649..22359
                      /note="*Name FPCIR_923"
                      /note="*gbkey: Gene"
@@ -315,6 +318,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JAAOAS|mrna.FPCIR_923"
                      /product="cupin 1"
                      /protein_id="KAF5604377.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATATCAGA AGAGCACAAA TACCCATGTC CTCCATTGAT TGCCTTGCAC TCCAAATTCT
        61 ACTTGGATCT CGTCGTCTTT GCTTCCAAGC ATTTTGCATC ACACTATAAA CCGTACCGCA

@@ -78,6 +78,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="MAA_01922"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="XP_007818111.1"
+                     /gene_kind="biosynthetic"
      gene            3212..5082
                      /db_xref="GeneID:19256207"
                      /note="*Name MAA_01921"
@@ -635,6 +636,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="MAA_01911"
                      /product="iron sulfur cluster assembly-related protein"
                      /protein_id="XP_007818100.2"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCCAGTG CCGTATCACC AGCGCATGAA GCCGCCTCTG CGGAGGCCAA GGGAACCAAG
        61 AGTCCTCGAA GCCTCAACAT TGACGACTTC CCACACTTGG TAGATGCATC GGCTCTCGAC

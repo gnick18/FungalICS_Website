@@ -128,6 +128,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine dityrosine biosynthesis
                      protein"
                      /protein_id="KAF9640737.1"
+                     /gene_kind="biosynthetic"
      gene            4751..6348
                      /note="*Name BFW01_g12544"
                      /note="*end_range: 697117,."
@@ -185,6 +186,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDYX|mrna.BFW01_g12544"
                      /product="Dit2 protein"
                      /protein_id="KAF9640738.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACTCAGCA CCGCTGTAGT ACGTGTCCCA CTGGAAGATG GCAGCGCCAA GGAACGCGCC
        61 AATGAAGATG CAGATGATGA TGTAGCCTGC AGGGGCGCAA ACAAACAAAG GCGCGTCAGC

@@ -53,6 +53,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUI|AFGD_012407-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="RAQ51581.1"
+                     /gene_kind="biosynthetic"
      gene            1833..4385
                      /note="*Name AFGD_012408"
                      /note="*gbkey: Gene"
@@ -193,6 +194,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUI|AFGD_012409-RA_mrna"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="RAQ51585.1"
+                     /gene_kind="biosynthetic"
      gene            8561..10418
                      /note="*Name AFGD_012410"
                      /note="*gbkey: Gene"
@@ -267,6 +269,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUI|AFGD_012410-RA_mrna"
                      /product="monooxygenase"
                      /protein_id="RAQ51587.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11574..14252)
                      /note="*Name AFGD_012411"
                      /note="*gbkey: Gene"
@@ -397,6 +400,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUI|AFGD_012431-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="RAQ54836.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGGCTTCA GGGTTCCGTC CGTAGATGAA GTGCGTGTTA ACATAAAGTT GCCTTTTGGT
        61 CTCCTTAAAT TCTTGCCGAG CTTTCGAAAA AAGGATACGA CTTTCTTGCT CAGACCAGCC

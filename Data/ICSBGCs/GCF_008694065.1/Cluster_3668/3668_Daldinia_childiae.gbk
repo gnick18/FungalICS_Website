@@ -92,6 +92,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VYXO|GENE07394.1_mrna"
                      /product="putative carboxy-muconate cyclase protein"
                      /protein_id="XP_033432607.1"
+                     /gene_kind="biosynthetic"
      gene            12141..13195
                      /db_xref="GeneID:54341894"
                      /note="*Name GL218_07395"
@@ -191,6 +192,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VYXO|GENE07396.1_mrna"
                      /product="putative x-pro dipeptidyl- protein"
                      /protein_id="XP_033432652.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16607..17920)
                      /db_xref="GeneID:54341896"
                      /note="*Name GL218_07397"
@@ -234,6 +236,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VYXO|GENE07397.1_mrna"
                      /product="Flavohemoprotein"
                      /protein_id="XP_033432608.1"
+                     /gene_kind="biosynthetic"
      gene            complement(36233..38914)
                      /db_xref="GeneID:54341897"
                      /note="*Name GL218_07399"
@@ -342,6 +345,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VYXO|GENE07399.1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="XP_033432603.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(37865..38914)
                      /db_xref="GeneID:54341897"
                      /db_xref="Genbank:XM_033584152.1"
@@ -409,6 +413,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VYXO|GENE07399.2_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="XP_033432602.1"
+                     /gene_kind="biosynthetic"
      gene            40032..41949
                      /db_xref="GeneID:54341898"
                      /note="*Name GL218_07400"
@@ -518,6 +523,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VYXO|GENE07400.1_mrna"
                      /product="3-hydroxybenzoate 4-monooxygenase"
                      /protein_id="XP_033432553.1"
+                     /gene_kind="biosynthetic"
      gene            42525..43688
                      /db_xref="GeneID:54341899"
                      /note="*Name GL218_07401"
@@ -631,6 +637,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VYXO|GENE07402.1_mrna"
                      /product="uncharacterized protein"
                      /protein_id="XP_033432555.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATAGTGGT TTATTTTCTC CCTCAGGGGC GTAGTGCAAA TCCCATTCAT CCTTATACTT
        61 CATTAACCTC TTCTCCGCAA ATGCGGCTTC TGCAAATAGC CCAATTTCGT CCAATAGGTC

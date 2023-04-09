@@ -162,6 +162,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHO|mrna.HBH96_204950A"
                      /product="autophagy-related protein"
                      /protein_id="KAH5049012.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5797..7514)
                      /note="*Name HBH96_204960"
                      /note="*gbkey: Gene"
@@ -299,6 +300,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHO|mrna.HBH96_204980A"
                      /product="hypothetical protein"
                      /protein_id="KAH5048988.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATCCACCA GAAGAGATCG GAACGCGCTT GCCCATGTGA GTCCAGATGT AGTTAGCCTC
        61 CCGGGGAGAG AATTTGCTGC CCTTGAGGCC CTTGGTCTGG ATCTTCGCTC GCACAGCAAC

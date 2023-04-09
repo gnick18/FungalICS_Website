@@ -84,6 +84,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis family
                      protein"
                      /protein_id="XP_746321.1"
+                     /gene_kind="biosynthetic"
      misc_feature    complement(1970..2049)
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"
@@ -170,6 +171,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01380"
                      /product="4-nitrophenylphosphatase, putative"
                      /protein_id="XP_746320.1"
+                     /gene_kind="biosynthetic"
      misc_feature    complement(3925..3980)
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"
@@ -415,6 +417,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01420"
                      /product="spore wall assembly protein Dit1, putative"
                      /protein_id="XP_746315.1"
+                     /gene_kind="biosynthetic"
      gene            13923..14269
                      /db_xref="GeneID:3503803"
                      /note="*Name AFUA_4G01430"
@@ -539,6 +542,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01440"
                      /product="glutathione S-transferase family protein"
                      /protein_id="XP_746313.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16577..17903)
                      /db_xref="GeneID:3503788"
                      /note="*Name AFUA_4G01450"
@@ -621,6 +625,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01450"
                      /product="phospho-2-dehydro-3-deoxyheptonate aldolase"
                      /protein_id="XP_746312.1"
+                     /gene_kind="biosynthetic"
      gene            18540..20708
                      /db_xref="GeneID:3503787"
                      /note="*Name AFUA_4G01460"
@@ -663,6 +668,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01460"
                      /product="conserved hypothetical protein"
                      /protein_id="XP_746311.1"
+                     /gene_kind="biosynthetic"
      misc_feature    complement(20848..20905)
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"
@@ -935,6 +941,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01490"
                      /product="fumarylacetoacetate hydrolase family protein"
                      /protein_id="XP_746308.1"
+                     /gene_kind="biosynthetic"
      gene            33235..34967
                      /db_xref="GeneID:3503783"
                      /note="*Name AFUA_4G01500"

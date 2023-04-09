@@ -453,6 +453,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ACLA_061720"
                      /product="conserved hypothetical protein"
                      /protein_id="EAW12210.1"
+                     /gene_kind="biosynthetic"
      gene            20403..21869
                      /note="*Name ACLA_061730"
                      /note="*end_range: 412940,."
@@ -527,6 +528,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ACLA_061730"
                      /product="phospho-2-dehydro-3-deoxyheptonate aldolase"
                      /protein_id="EAW12211.1"
+                     /gene_kind="biosynthetic"
      gene            22649..23450
                      /note="*Name ACLA_061740"
                      /note="*end_range: 414521,."
@@ -580,6 +582,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ACLA_061740"
                      /product="glutathione S-transferase family protein"
                      /protein_id="EAW12212.1"
+                     /gene_kind="biosynthetic"
      gene            24591..26186
                      /note="*Name ACLA_061750"
                      /note="*end_range: 417257,."
@@ -614,6 +617,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ACLA_061750"
                      /product="spore wall assembly protein Dit1, putative"
                      /protein_id="EAW12213.1"
+                     /gene_kind="biosynthetic"
      misc_feature    26923..26970
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"

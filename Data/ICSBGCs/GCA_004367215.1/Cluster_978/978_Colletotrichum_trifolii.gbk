@@ -60,6 +60,7 @@ FEATURES             Location/Qualifiers
                      /product="Succinate--CoA ligase [ADP-forming] subunit
                      alpha"
                      /protein_id="TDZ46105.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1700..2731)
                      /note="*Name CTRI78_v008986"
                      /note="*Note Zinc-type alcohol dehydrogenase-like protein"
@@ -89,6 +90,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008986.t1_mrna"
                      /product="Zinc-type alcohol dehydrogenase-like protein"
                      /protein_id="TDZ46104.1"
+                     /gene_kind="biosynthetic"
      gene            3642..4583
                      /note="*Name CTRI78_v008987"
                      /note="*gbkey: Gene"
@@ -224,6 +226,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008989.t1_mrna"
                      /product="Protein fluG"
                      /protein_id="TDZ46100.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10896..11707)
                      /note="*Name CTRI78_v008990"
                      /note="*gbkey: Gene"
@@ -271,6 +274,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008990.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="TDZ46119.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12047..13756)
                      /note="*Name CTRI78_v008991"
                      /note="*Note Eburicol 14-alpha-demethylase"
@@ -319,6 +323,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008991.t1_mrna"
                      /product="Eburicol 14-alpha-demethylase"
                      /protein_id="TDZ46120.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14648..17439)
                      /note="*Name CTRI78_v008992"
                      /note="*Note Arginine metabolism regulation protein II"
@@ -423,6 +428,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008993.t1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="TDZ46122.1"
+                     /gene_kind="biosynthetic"
      gene            29623..31257
                      /note="*Name CTRI78_v008994"
                      /note="*Note Aldehyde dehydrogenase"
@@ -470,6 +476,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008994.t1_mrna"
                      /product="Aldehyde dehydrogenase"
                      /protein_id="TDZ46141.1"
+                     /gene_kind="biosynthetic"
      gene            31788..32572
                      /note="*Name inhA-4"
                      /note="*gbkey: Gene"
@@ -627,6 +634,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008997.t1_mrna"
                      /product="Amidase 1"
                      /protein_id="TDZ46144.1"
+                     /gene_kind="biosynthetic"
      gene            37244..38557
                      /note="*Name DIT1-3"
                      /note="*gbkey: Gene"
@@ -680,6 +688,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008998.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ46123.1"
+                     /gene_kind="biosynthetic"
      gene            39677..40894
                      /note="*Name DIT1-4"
                      /note="*gbkey: Gene"
@@ -743,6 +752,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v008999.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ46124.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGCTCCC AGCAGTCGCT TCATTTCCAC GCCCATCACT CCAGGGTGAG AGACCACAAG
        61 CGCGCCTGCT TCTTGAAGAG CCCTCGCTTT TGTGTCTGCA GAGACATCCC TCGGCGTGAG

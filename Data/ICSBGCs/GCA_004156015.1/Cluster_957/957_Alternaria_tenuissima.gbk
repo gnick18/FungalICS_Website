@@ -281,6 +281,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXB|AA0115_g910.t2"
                      /product="hypothetical protein"
                      /protein_id="RYN37453.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(11081..12169)
                      /note="*end_range: 352600,."
                      /note="*gbkey: mRNA"
@@ -308,6 +309,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXB|AA0115_g910.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN37452.1"
+                     /gene_kind="biosynthetic"
      gene            14126..15706
                      /note="*Name AA0115_g911"
                      /note="*end_range: 356137,."
@@ -365,6 +367,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXB|AA0115_g911.t1"
                      /product="Cytochrome"
                      /protein_id="RYN37451.1"
+                     /gene_kind="biosynthetic"
      gene            17874..19434
                      /note="*Name AA0115_g912"
                      /note="*end_range: 359865,."

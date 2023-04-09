@@ -89,6 +89,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="EUN29828.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,270388"
      gene            complement(3334..5183)
                      /note="*Name COCVIDRAFT_92130"
@@ -490,6 +491,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCVIDRAFT_mRNA13735"
                      /product="hypothetical protein"
                      /protein_id="EUN29835.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26472..27509)
                      /note="*Name COCVIDRAFT_91934"
                      /note="*end_range: 295826,."
@@ -560,6 +562,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCVIDRAFT_mRNA24364"
                      /product="glycosyltransferase family 32 protein"
                      /protein_id="EUN29837.1"
+                     /gene_kind="biosynthetic"
      gene            33606..34990
                      /note="*Name COCVIDRAFT_35462"
                      /note="*end_range: 303307,."
@@ -619,6 +622,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCVIDRAFT_mRNA35462"
                      /product="hypothetical protein"
                      /protein_id="EUN29838.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCGCTTCT CCACTGCTGC TGTGGCGCTC GGTGCGCTCT TTATGGGCGC CAGCGCGGAC
        61 GTCGCTGCTG TTGCGTAAGT CAACTCCACA TTTCATTCAA ACTATGATCA GCAAAAAAAA

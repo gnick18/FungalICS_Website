@@ -431,6 +431,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGS|mrna.HBH85_090480A"
                      /product="hypothetical protein"
                      /protein_id="KAH4545610.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11981..12232)
                      /note="*Name HBH85_090490"
                      /note="*gbkey: Gene"
@@ -592,6 +593,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGS|mrna.HBH85_090510A"
                      /product="hypothetical protein"
                      /protein_id="KAH4545478.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17499..19034)
                      /note="*Name HBH85_090520"
                      /note="*gbkey: Gene"
@@ -765,6 +767,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGS|mrna.HBH85_090540A"
                      /product="cutinase"
                      /protein_id="KAH4545163.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACCAAACT ACCTGCCACA CCGTCGCACT AAACCCTAGA ATCTGGCTAA ACGCCTCGTC
        61 CCTCTGCCGC ATATCCCCTA GTACGTACTC ATTCCCATCG GACAAGACAA GCTTCAAATC

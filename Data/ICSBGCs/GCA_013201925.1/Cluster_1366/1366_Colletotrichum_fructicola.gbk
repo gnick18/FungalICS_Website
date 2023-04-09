@@ -59,6 +59,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009723.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4933419.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1186..5249)
                      /note="*Name CGCF245_v009724"
                      /note="*Note Cytochrome P450 monooxygenase TRI13"
@@ -145,6 +146,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009724.t1_mrna"
                      /product="Cytochrome P450 monooxygenase TRI13"
                      /protein_id="KAF4933314.1"
+                     /gene_kind="biosynthetic"
      gene            7424..9062
                      /note="*Name azaI"
                      /note="*gbkey: Gene"
@@ -207,6 +209,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009725.t1_mrna"
                      /product="Cytochrome P450 monooxygenase azaI"
                      /protein_id="KAF4933315.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9381..10672)
                      /note="*Name adh-2"
                      /note="*gbkey: Gene"
@@ -260,6 +263,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009726.t1_mrna"
                      /product="alcohol dehydrogenase"
                      /protein_id="KAF4933312.1"
+                     /gene_kind="biosynthetic"
      gene            12598..13451
                      /note="*Name GST"
                      /note="*gbkey: Gene"
@@ -302,6 +306,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009727.t1_mrna"
                      /product="Glutathione S-transferase"
                      /protein_id="KAF4933313.1"
+                     /gene_kind="biosynthetic"
      gene            13787..14690
                      /note="*Name CGCF245_v009728"
                      /note="*gbkey: Gene"

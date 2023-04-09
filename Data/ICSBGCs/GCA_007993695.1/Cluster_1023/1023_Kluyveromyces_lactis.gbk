@@ -44,6 +44,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|wl|mrna.KDRO_C05690"
                      /product="Dit1"
                      /protein_id="QEU60042.1"
+                     /gene_kind="biosynthetic"
      gene            2456..3997
                      /note="*Name KDRO_C05700"
                      /note="*Note KDRO0C05700"
@@ -78,6 +79,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|wl|mrna.KDRO_C05700"
                      /product="Dit2"
                      /protein_id="QEU60043.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4164..5180)
                      /note="*Name KDRO_C05710"
                      /note="*Note KDRO0C05710"
@@ -146,6 +148,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|wl|mrna.KDRO_C05720"
                      /product="hypothetical protein"
                      /protein_id="QEU60045.1"
+                     /gene_kind="biosynthetic"
      gene            9498..10919
                      /note="*Name KDRO_C05730"
                      /note="*gbkey: Gene"
@@ -214,6 +217,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|wl|mrna.KDRO_C05740"
                      /product="Hpt1"
                      /protein_id="QEU60047.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12343..14238)
                      /note="*Name KDRO_C05750"
                      /note="*Note KDRO0C05750"
@@ -356,6 +360,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|wl|mrna.KDRO_C05780"
                      /product="Smp3"
                      /protein_id="QEU60051.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAATTGATC TTATTGATCT TACGAACCCT TCTGAGCAAA TAATGGCCAC CAACTCCAGT
        61 TTCCACGTCT GTTTTTACCC ATGTTCCTTC ATAATTACCg ttttcaattg catcCATCAC

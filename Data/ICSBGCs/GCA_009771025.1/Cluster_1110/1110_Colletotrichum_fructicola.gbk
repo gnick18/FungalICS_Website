@@ -173,6 +173,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SSNE|CGMCC3_g14145.t1"
                      /product="hypothetical protein"
                      /protein_id="KAE9569781.1"
+                     /gene_kind="biosynthetic"
      gene            5920..7225
                      /note="*Name CGMCC3_g14146"
                      /note="*end_range: 319644,."
@@ -229,6 +230,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SSNE|CGMCC3_g14146.t1"
                      /product="hypothetical protein"
                      /protein_id="KAE9569789.1"
+                     /gene_kind="biosynthetic"
      gene            8337..9454
                      /note="*Name CGMCC3_g14147"
                      /note="*end_range: 321873,."
@@ -284,6 +286,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SSNE|CGMCC3_g14147.t1"
                      /product="hypothetical protein"
                      /protein_id="KAE9569822.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9522..13587)
                      /note="*Name CGMCC3_g14148"
                      /note="*end_range: 326006,."
@@ -445,6 +448,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SSNE|CGMCC3_g14148.t1"
                      /product="Cytochrome P450 monooxygenase"
                      /protein_id="KAE9569786.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCATACG CCGGAGTTGG TCCGGTGGTC GTAATTGACT CTATTGGCGA AGAACCAGTC
        61 GCCAACGGTG ACCGGAAACG AGTCCGATCA GACCCAGGCG ACAAGACCGA CTCGAAAAAA

@@ -81,6 +81,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKU|E8E13_000609-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF2997554.1"
+                     /gene_kind="biosynthetic"
      gene            4432..5041
                      /note="*Name E8E13_000669"
                      /note="*gbkey: Gene"
@@ -386,6 +387,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKU|E8E13_001197-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF2997562.1"
+                     /gene_kind="biosynthetic"
      gene            complement(32670..34566)
                      /note="*Name E8E13_001310"
                      /note="*gbkey: Gene"
@@ -452,6 +454,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKU|E8E13_001310-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF2997563.1"
+                     /gene_kind="biosynthetic"
      gene            complement(35538..36841)
                      /note="*Name E8E13_001372"
                      /note="*gbkey: Gene"
@@ -527,6 +530,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKU|E8E13_001424-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF2997565.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTTCTGA GGGTCGGCAA CTTCAGCGTA GCTGGGGTCG TCCTTGGTTG TGTCCTTcgc
        61 gcagccagag cagGCACACT GACCCTCAGG GCAAGGACAC TTGCCGGAGA CGGAGCCACA

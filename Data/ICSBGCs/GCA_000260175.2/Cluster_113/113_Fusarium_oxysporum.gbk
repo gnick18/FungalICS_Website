@@ -213,6 +213,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_14428T0"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="EXM17321.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6456..8038)
                      /note="*Name FOTG_14429"
                      /note="*gbkey: Gene"
@@ -339,6 +340,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_14430T0"
                      /product="hypothetical protein"
                      /protein_id="EXM17323.1"
+                     /gene_kind="biosynthetic"
      gene            11415..13557
                      /note="*Name FOTG_14431"
                      /note="*end_range: 41292,."
@@ -404,6 +406,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_14431T0"
                      /product="hypothetical protein"
                      /protein_id="EXM17324.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CCACAGATGC GAATTGAGGA TTTTGATTCC TTCAGAATCT TGTTATCTCA TAAAAATTAG
        61 CTTGAATGTA TCATATGATC TTACATGGTC ACCTAAGCTC TAGTTCATCG TCATAGAAGG

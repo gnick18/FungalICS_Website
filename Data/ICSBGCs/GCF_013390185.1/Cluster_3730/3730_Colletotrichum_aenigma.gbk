@@ -133,6 +133,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v002431.t1_mrna"
                      /product="3-hydroxybenzoate 4-monooxygenase"
                      /protein_id="XP_037184106.1"
+                     /gene_kind="biosynthetic"
      gene            3942..5985
                      /db_xref="GeneID:59241381"
                      /note="*Name DIT1-4"
@@ -214,6 +215,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v002432.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="XP_037184307.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACTGGGTC AGGTAGGCAA GATACTCCTT CCAGCCTTCG CCCTGGCCGA CATAGCCAAT
        61 GTACATGTCT GGCctgacga caacgacgaa ctcgtcatct tcgcccACCC ACTCAGCCGA

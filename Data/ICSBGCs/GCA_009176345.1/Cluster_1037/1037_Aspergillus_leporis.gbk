@@ -124,6 +124,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWBU|BDV29DRAFT_mRNA159218"
                      /product="monooxygenase"
                      /protein_id="KAB8071722.1"
+                     /gene_kind="biosynthetic"
      gene            4165..6564
                      /note="*Name BDV29DRAFT_178754"
                      /note="*gbkey: Gene"
@@ -208,6 +209,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAB8071723.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6845..9115)
                      /note="*Name BDV29DRAFT_13501"
                      /note="*gbkey: Gene"
@@ -416,6 +418,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="KAB8071726.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCCGATGTGG TGTAATGGTT AACATCGCTG TCTCTCACAC AGCAGCTCGG GGTTCGATTC
        61 CCCGCATCGG AAACGCATTC TTTTTTGTGG ATTGTTTTTC GCCCCTCTGC ACTCCTGGAC

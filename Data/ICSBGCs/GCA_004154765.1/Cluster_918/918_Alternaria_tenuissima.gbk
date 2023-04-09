@@ -71,6 +71,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXG|AA0120_g4052.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN94891.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1207..3036)
                      /note="*Name AA0120_g4053"
                      /note="*end_range: 1450797,."
@@ -237,6 +238,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXG|AA0120_g4055.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN95098.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10629..11975)
                      /note="*Name AA0120_g4056"
                      /note="*end_range: 1459736,."
@@ -338,6 +340,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXG|AA0120_g4057.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN94892.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGTCGCCG TAGCAGTCAT CGGAGGGACA GGCTCTGTCG GCAAAACAAT CGTCGACGCT
        61 TTCGTAGCAG AAGGCACTCA TGAGGTCATT GTAATCTCTC GCAAGGTCCG TGATCATACT

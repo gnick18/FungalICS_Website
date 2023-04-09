@@ -192,6 +192,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMS|CGCSCA4_v003344.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4851902.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5346..7010)
                      /note="*Name apdF-10"
                      /note="*gbkey: Gene"
@@ -339,6 +340,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMS|CGCSCA4_v003346.t1_mrna"
                      /product="3-hydroxybenzoate 4-monooxygenase"
                      /protein_id="KAF4851900.1"
+                     /gene_kind="biosynthetic"
      gene            12498..14541
                      /note="*Name DIT1-1"
                      /note="*gbkey: Gene"
@@ -392,6 +394,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMS|CGCSCA4_v003347.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4851901.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15359..16696)
                      /note="*Name atA-1"
                      /note="*gbkey: Gene"
@@ -434,6 +437,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMS|CGCSCA4_v003348.t1_mrna"
                      /product="6-methylsalicylic acid decarboxylase atA"
                      /protein_id="KAF4851895.1"
+                     /gene_kind="biosynthetic"
      gene            17749..18556
                      /note="*Name CGCSCA4_v003349"
                      /note="*Note Putative methylesterase 11"
@@ -472,6 +476,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMS|CGCSCA4_v003349.t1_mrna"
                      /product="putative methylesterase 11"
                      /protein_id="KAF4851896.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18848..21097)
                      /note="*Name CGCSCA4_v003350"
                      /note="*Note Filamentous growth regulator 27"
@@ -553,6 +558,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMS|CGCSCA4_v003351.t1_mrna"
                      /product="Adenylyl-sulfate kinase"
                      /protein_id="KAF4850906.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23047..24500)
                      /note="*Name vma5"
                      /note="*gbkey: Gene"

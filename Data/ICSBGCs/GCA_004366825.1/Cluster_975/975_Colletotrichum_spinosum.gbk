@@ -108,6 +108,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v001478.t1_mrna"
                      /product="oxidoreductase ptaK"
                      /protein_id="TDZ31100.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7715..9195)
                      /note="*Name C8035_v001479"
                      /note="*Note Fujikurins efflux protein"
@@ -199,6 +200,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v001480.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ31087.1"
+                     /gene_kind="biosynthetic"
      gene            14807..16151
                      /note="*Name C8035_v001481"
                      /note="*Note Neutral protease 2-like protein"
@@ -255,6 +257,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v001481.t1_mrna"
                      /product="Neutral protease 2-like protein"
                      /protein_id="TDZ31088.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16820..19503)
                      /note="*Name tdiE-10"
                      /note="*gbkey: Gene"
@@ -350,6 +353,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v001482.t1_mrna"
                      /product="putative methyltransferase tdiE"
                      /protein_id="TDZ31085.1"
+                     /gene_kind="biosynthetic"
      gene            21937..23925
                      /note="*Name xptC-6"
                      /note="*gbkey: Gene"
@@ -402,6 +406,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v001483.t1_mrna"
                      /product="Dehydrogenase xptC"
                      /protein_id="TDZ31086.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGTTCCC GGGAGATGAC AGTCGTTGAT CATGGTGTTT ATCATCTTCC TGTCCTTGGG
        61 TCGCACCAAG ATTGATCCCC CGTCGGGTTC CCGAAGCTCG TGCTTTTTGA GCGCTCTGGG

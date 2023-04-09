@@ -123,6 +123,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4181"
                      /product="uncharacterized protein"
                      /protein_id="KLP13701.1"
+                     /gene_kind="biosynthetic"
      gene            4512..6327
                      /note="*Name LW94_4182"
                      /note="*gbkey: Gene"
@@ -156,6 +157,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4182"
                      /product="Uncharacterized protein"
                      /protein_id="KLP13702.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6641..7318)
                      /note="*Name LW94_4183"
                      /note="*gbkey: Gene"
@@ -273,6 +275,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4185"
                      /product="nonribosomal peptide synthetase MxcG"
                      /protein_id="KLP13705.1"
+                     /gene_kind="biosynthetic"
      gene            14941..16471
                      /note="*Name LW94_4186"
                      /note="*gbkey: Gene"
@@ -307,6 +310,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4186"
                      /product="putative ABC1 transport protein"
                      /protein_id="KLP13706.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16778..17836)
                      /note="*Name LW94_4187"
                      /note="*gbkey: Gene"
@@ -332,6 +336,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4187"
                      /product="lipase/esterase"
                      /protein_id="KLP13707.1"
+                     /gene_kind="biosynthetic"
      gene            18450..19909
                      /note="*Name LW94_4188"
                      /note="*gbkey: Gene"
@@ -365,6 +370,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4188"
                      /product="uncharacterized protein"
                      /protein_id="KLP13708.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACTCAGCC TTATCCTTGT CCACGCAGTA CCTTCCAGTA ATCTTTCGGA TCTTCTtacc
        61 gaagatgaag acgaagatgc cAAGGACACC AAAAGCGCCA GTTAAGCCAC CAAAGACACC

@@ -67,6 +67,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHK|mrna.HBI77_131120A"
                      /product="cutinase"
                      /protein_id="KAH5003037.1"
+                     /gene_kind="biosynthetic"
      gene            complement(960..1265)
                      /note="*Name HBI77_131130"
                      /note="*gbkey: Gene"
@@ -219,6 +220,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHK|mrna.HBI77_131150A"
                      /product="hypothetical protein"
                      /protein_id="KAH5003156.1"
+                     /gene_kind="biosynthetic"
      gene            5298..8400
                      /note="*Name HBI77_131160"
                      /note="*gbkey: Gene"

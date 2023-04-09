@@ -39,6 +39,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVWQ|DSM5745_10448_T0"
                      /product="Uncharacterized protein"
                      /protein_id="RDW61776.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4384..5211)
                      /note="*Name DSM5745_10449"
                      /note="*gbkey: Gene"
@@ -156,6 +157,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVWQ|DSM5745_10451_T0"
                      /product="putative Cytochrome P450"
                      /protein_id="RDW61779.1"
+                     /gene_kind="biosynthetic"
      gene            10890..12962
                      /note="*Name DSM5745_10452"
                      /note="*gbkey: Gene"
@@ -206,6 +208,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVWQ|DSM5745_10452_T0"
                      /product="Uncharacterized protein"
                      /protein_id="RDW61780.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCGCCAAC CGCGCAACGC TCTCTTCGCG CTGGCCACCA CGGCCTCCGC CGCCTCTCTC
        61 TCCGACGTCT GCACCGTCTC CCACGTCAAG AACATCCTGC CCAGCGATGG CACCCTCCTC

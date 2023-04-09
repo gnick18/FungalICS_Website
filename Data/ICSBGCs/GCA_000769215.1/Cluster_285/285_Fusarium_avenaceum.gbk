@@ -39,6 +39,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06932"
                      /product="hypothetical protein"
                      /protein_id="KIL90193.1"
+                     /gene_kind="biosynthetic"
      gene            3791..4861
                      /note="*Name FAVG1_06933"
                      /note="*gbkey: Gene"
@@ -64,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06933"
                      /product="alcohol dehydrogenase"
                      /protein_id="KIL90194.1"
+                     /gene_kind="biosynthetic"
      gene            5571..6308
                      /note="*Name FAVG1_06934"
                      /note="*gbkey: Gene"
@@ -89,6 +91,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06934"
                      /product="hypothetical protein"
                      /protein_id="KIL90195.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6892..8016)
                      /note="*Name FAVG1_06935"
                      /note="*gbkey: Gene"
@@ -117,6 +120,7 @@ FEATURES             Location/Qualifiers
                      /product="2-amino-3-carboxymuconate-6-semialdehyde
                      decarboxylase"
                      /protein_id="KIL90196.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9669..10670)
                      /note="*Name FAVG1_06936"
                      /note="*gbkey: Gene"
@@ -142,6 +146,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06936"
                      /product="homogentisate -dioxygenase"
                      /protein_id="KIL90197.1"
+                     /gene_kind="biosynthetic"
      gene            14700..15167
                      /note="*Name FAVG1_06937"
                      /note="*gbkey: Gene"
@@ -432,6 +437,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06943"
                      /product="hypothetical protein"
                      /protein_id="KIL90204.1"
+                     /gene_kind="biosynthetic"
      misc_feature    complement(33167..34339)
                      /note="*Type SO:0000336 pseudogene"
                      /note="*Name FAVG1_06944"
@@ -651,6 +657,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06947"
                      /product="hypothetical protein"
                      /protein_id="KIL90207.1"
+                     /gene_kind="biosynthetic"
      gene            42100..42788
                      /note="*Name FAVG1_06948"
                      /note="*gbkey: Gene"
@@ -743,6 +750,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06949"
                      /product="alpha methylacyl"
                      /protein_id="KIL90209.1"
+                     /gene_kind="biosynthetic"
      gene            46900..52070
                      /note="*Name FAVG1_06950"
                      /note="*gbkey: Gene"
@@ -850,6 +858,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06950"
                      /product="hypothetical protein"
                      /protein_id="KIL90210.1"
+                     /gene_kind="biosynthetic"
      gene            complement(52425..54330)
                      /note="*Name FAVG1_06951"
                      /note="*gbkey: Gene"
@@ -926,6 +935,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06951"
                      /product="hypothetical protein"
                      /protein_id="KIL90211.1"
+                     /gene_kind="biosynthetic"
      gene            55588..57719
                      /note="*Name FAVG1_06952"
                      /note="*gbkey: Gene"
@@ -976,6 +986,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPYM|mRNA.FAVG1_06952"
                      /product="pyoverdine dityrosine biosynthesis"
                      /protein_id="KIL90212.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGCCCGAC AGGATGTTTT CCGCAGCCTT CTCGCTCAAC ATGTAGGTGG CAAGGATCGG
        61 GAAGGCACCG GGTGGTCTGG GGAATGCGCT GGCATCGACA ACACGCAGGC CAGAAATACC

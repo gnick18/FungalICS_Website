@@ -51,6 +51,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACBT|mrna_BDCG_0202023T0"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="EEQ86903.2"
+                     /gene_kind="biosynthetic"
      gene            5690..7658
                      /note="*Name BDCG_02024"
                      /note="*gbkey: Gene"
@@ -106,6 +107,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACBT|mrna_BDCG_0202024T0"
                      /product="cytochrome P450-DIT2"
                      /protein_id="EEQ86904.1"
+                     /gene_kind="biosynthetic"
      gene            8553..10465
                      /note="*Name BDCG_02025"
                      /note="*gbkey: Gene"
@@ -232,6 +234,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACBT|mrna_BDCG_0202026T0"
                      /product="NIF domain-containing protein"
                      /protein_id="EEQ86906.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13871..14980)
                      /note="*Name BDCG_16495"
                      /note="*Note old_locus_tag BDCG_02027 has been split into

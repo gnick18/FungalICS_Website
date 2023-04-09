@@ -76,6 +76,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6873803.1"
+                     /gene_kind="biosynthetic"
      gene            2442..6461
                      /note="*Name B0T10DRAFT_234380"
                      /note="*gbkey: Gene"
@@ -202,6 +203,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPYM|B0T10DRAFT_mRNA234380"
                      /product="hypothetical protein"
                      /protein_id="KAH6873804.1"
+                     /gene_kind="biosynthetic"
      gene            7025..9337
                      /note="*Name B0T10DRAFT_499563"
                      /note="*gbkey: Gene"
@@ -542,6 +544,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPYM|B0T10DRAFT_mRNA522379"
                      /product="FAD dependent oxidoreductase"
                      /protein_id="KAH6873808.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGTGCTC GTTGGTTCCT CGCCATCAAA AGCTACTTGC GTCTTTTCCT GAAAATAGCT
        61 GGGTCGGCCA TCCTCGTAGA CGATTTCCAT TTTCGCATCC TTCTTGAAGT CACCCATTGG

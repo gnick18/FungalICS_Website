@@ -197,6 +197,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="OOQ89034.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8798..9505)
                      /note="*Name PEBR_10356"
                      /note="*gbkey: Gene"
@@ -273,6 +274,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LJBN|PEBRmgrna_10358"
                      /product="fumarylacetoacetate hydrolase"
                      /protein_id="OOQ89036.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11915..14518)
                      /note="*Name PEBR_10362"
                      /note="*gbkey: Gene"
@@ -413,6 +415,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LJBN|PEBRmgrna_10371"
                      /product="Phosphoribosylformylglycinamidine synthase"
                      /protein_id="OOQ89039.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGAAGAAG AACCCAAGTT ACAGTCTATC CCCATGCAAG ACTTCACCGC CACTGATGAT
        61 CGAAGCAAGC ACAGTGCAGA GGAAACCGTC GGCGAAGATG TTGATTACGT CCGGGAAGAC

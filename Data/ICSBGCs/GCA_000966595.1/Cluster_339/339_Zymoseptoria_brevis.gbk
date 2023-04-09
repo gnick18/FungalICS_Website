@@ -45,6 +45,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LAFY|TI39_contig4206g00011m"
                      /product="glycosyltransferase family 31 protein"
                      /protein_id="KJX94224.1"
+                     /gene_kind="biosynthetic"
      gene            3064..4050
                      /note="*Name TI39_contig4206g00012"
                      /note="*end_range: 30686,."
@@ -353,6 +354,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LAFY|TI39_contig4206g00013m"
                      /product="hypothetical protein"
                      /protein_id="KJX94226.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAACATGCG TCCGGGTCTT CCATGTTCTT CATGATACGC TCAAGCATCC AGCCTGATTC
        61 AAAATCATCG GCTTGTTCGC CGAGAACAAC GCTCGAGATT GTTTCGCATT CTTTGCCGTC

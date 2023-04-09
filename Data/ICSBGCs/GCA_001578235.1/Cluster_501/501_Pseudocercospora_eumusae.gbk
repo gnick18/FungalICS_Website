@@ -130,6 +130,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_1283_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06047.1"
+                     /gene_kind="biosynthetic"
      gene            23889..24608
                      /note="*Name AC578_1272"
                      /note="*gbkey: Gene"
@@ -155,6 +156,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_1272_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06133.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24637..26244)
                      /note="*Name AC578_1278"
                      /note="*gbkey: Gene"
@@ -188,6 +190,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_1278_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06135.1"
+                     /gene_kind="biosynthetic"
      gene            26732..32480
                      /note="*Name AC578_1269"
                      /note="*gbkey: Gene"
@@ -254,6 +257,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_1269_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06025.1"
+                     /gene_kind="biosynthetic"
      gene            complement(32486..33304)
                      /note="*Name AC578_1276"
                      /note="*gbkey: Gene"
@@ -351,6 +355,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_1275_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06126.1"
+                     /gene_kind="biosynthetic"
      gene            complement(38614..40028)
                      /note="*Name AC578_1280"
                      /note="*gbkey: Gene"
@@ -401,6 +406,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_1280_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06044.1"
+                     /gene_kind="biosynthetic"
      gene            40959..42700
                      /note="*Name AC578_1268"
                      /note="*gbkey: Gene"
@@ -523,6 +529,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LFZN|AC578_1298-2_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06151.1"
+                     /gene_kind="biosynthetic"
      mRNA            45242..51301
                      /note="*gbkey: mRNA"
                      /locus_tag="AC578_1298"
@@ -571,6 +578,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LFZN|AC578_1298-1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06152.1"
+                     /gene_kind="biosynthetic"
      gene            complement(45641..47344)
                      /note="*Name AC578_1326"
                      /note="*gbkey: Gene"
@@ -621,6 +629,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_1326_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT06106.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAATCCATC GTCTTCAACC GATCCGACAT CTGGGCATAG AGGTGCACGC TCGTGGTGAA
        61 ATATCCGAGA ATCAGAAAGG AGCGATCCTG TACTTTCTCC AAAGCCTGGT TCTGCCTCGA

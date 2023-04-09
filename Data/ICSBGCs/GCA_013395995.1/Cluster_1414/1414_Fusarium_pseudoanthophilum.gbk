@@ -43,6 +43,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAR|mrna.FPANT_4821"
                      /product="aldose 1-epimerase"
                      /protein_id="KAF5594595.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1393..3065)
                      /note="*Name FPANT_4822"
                      /note="*gbkey: Gene"
@@ -201,6 +202,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAR|mrna.FPANT_4825"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="KAF5594599.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15292..16667)
                      /note="*Name FPANT_4826"
                      /note="*gbkey: Gene"
@@ -314,6 +316,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAR|mrna.FPANT_4827"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KAF5594601.1"
+                     /gene_kind="biosynthetic"
      gene            20102..22184
                      /note="*Name FPANT_4828"
                      /note="*gbkey: Gene"
@@ -370,6 +373,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAR|mrna.FPANT_4828"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF5594602.1"
+                     /gene_kind="biosynthetic"
      gene            22494..23204
                      /note="*Name FPANT_4829"
                      /note="*gbkey: Gene"
@@ -398,6 +402,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAR|mrna.FPANT_4829"
                      /product="yjlB"
                      /protein_id="KAF5594603.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 atgttcttca aggctgTCGT TGCTGCTCTC ATCCCACTCG CCCTTGCGAC CAAAGGCAAG
        61 GGCCCcgaca aggatggcaa aTACTGGATC AAGGGAGACG GCATCAAAGC CGCCTTCATT

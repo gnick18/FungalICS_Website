@@ -284,6 +284,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZNH|MGU_mRNA06836"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KID85919.1"
+                     /gene_kind="biosynthetic"
      gene            49109..50686
                      /note="*Name MGU_06837"
                      /note="*gbkey: Gene"
@@ -331,6 +332,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZNH|MGU_mRNA06837"
                      /product="Cytochrome P450 family protein"
                      /protein_id="KID85920.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAATATGTG TGTCGGGCGG GCCAGGGATA CACCAGCGTG TCGTAACTAT ATCGCGGGAG
        61 GCTATACTCG AGAAACAACA GCCGTCCTAC CCAAATAAGA GCCGCGAGGT CCGGTGTGAA

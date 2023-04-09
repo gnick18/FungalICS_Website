@@ -48,6 +48,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v011886.t1_mrna"
                      /product="putative isochorismatase family protein YddQ"
                      /protein_id="KAF4895385.1"
+                     /gene_kind="biosynthetic"
      gene            1405..1844
                      /note="*Name CGCF415_v011887"
                      /note="*gbkey: Gene"
@@ -174,6 +175,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v011890.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="KAF4895414.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9527..11293)
                      /note="*Name DIT1-0"
                      /note="*gbkey: Gene"
@@ -228,6 +230,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v011891.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4895415.1"
+                     /gene_kind="biosynthetic"
      gene            13039..14518
                      /note="*Name CGCF415_v011892"
                      /note="*Note Fujikurins efflux protein"
@@ -339,6 +342,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v011893.t1_mrna"
                      /product="oxidoreductase ptaK"
                      /protein_id="KAF4895417.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18466..20919)
                      /note="*Name LIP-0"
                      /note="*gbkey: Gene"
@@ -402,6 +406,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v011894.t1_mrna"
                      /product="Lipase"
                      /protein_id="KAF4895418.1"
+                     /gene_kind="biosynthetic"
      gene            22094..23043
                      /note="*Name CGCF415_v011895"
                      /note="*gbkey: Gene"
@@ -448,6 +453,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v011895.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4895377.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23205..24768)
                      /note="*Name CGCF415_v011896"
                      /note="*gbkey: Gene"
@@ -882,6 +888,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sterigmatocystin biosynthesis P450
                      monooxygenase stcS"
                      /protein_id="KAF4895392.1"
+                     /gene_kind="biosynthetic"
      gene            complement(42931..44256)
                      /note="*Name CGCF415_v011904"
                      /note="*Note Secondary metabolism regulator LAE1"
@@ -968,6 +975,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v011904.t1_mrna"
                      /product="Secondary metabolism regulator LAE1"
                      /protein_id="KAF4895396.1"
+                     /gene_kind="biosynthetic"
      gene            complement(46682..47326)
                      /note="*Name CGCF415_v011905"
                      /note="*gbkey: Gene"
@@ -1037,6 +1045,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v011906.t1_mrna"
                      /product="putative FAD-dependent monooxygenase kojA"
                      /protein_id="KAF4895394.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATTTGATA TCGGTGCTCT TGACCACAGT ACCGAATGCA TCCGCAATCT CGGCCAAAGA
        61 AACCTTCGTC AACTCCACAG CGCTTGTTCC AGGGATATTG CGGTCACCGA Ccgcatcttc

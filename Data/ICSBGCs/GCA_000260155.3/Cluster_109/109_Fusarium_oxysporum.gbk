@@ -256,6 +256,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_16985T0"
                      /product="hypothetical protein"
                      /protein_id="EXL40574.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9741..12452)
                      /note="*Name FOCG_16986"
                      /note="*gbkey: Gene"
@@ -824,6 +825,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_16993T0"
                      /product="hypothetical protein"
                      /protein_id="EXL40585.1"
+                     /gene_kind="biosynthetic"
      gene            complement(33160..34589)
                      /note="*Name FOCG_16994"
                      /note="*end_range: 226780,."
@@ -883,6 +885,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_16994T0"
                      /product="hypothetical protein"
                      /protein_id="EXL40586.1"
+                     /gene_kind="biosynthetic"
      gene            35159..39139
                      /note="*Name FOCG_16995"
                      /note="*gbkey: Gene"
@@ -920,6 +923,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_16995T0"
                      /product="Cu2+-exporting ATPase"
                      /protein_id="EXL40587.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATTGGTAAAG TGTTCGCGAT AGTGTGATGA CCAATGAACG CCATCATGAG CTGAATGCGG
        61 AGACGGGTCC GGGCTGCGGG ATCACCTCCG CACTGCAACT CGACACGAAC CAGTGATAGA

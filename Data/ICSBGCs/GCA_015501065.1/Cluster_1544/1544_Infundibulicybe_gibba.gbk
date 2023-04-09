@@ -493,6 +493,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAF8886930.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11030..11670)
                      /note="*Name BD779DRAFT_541419"
                      /note="*gbkey: Gene"
@@ -691,6 +692,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAF8886932.1"
+                     /gene_kind="biosynthetic"
      gene            16331..17396
                      /note="*Name BD779DRAFT_1786347"
                      /note="*end_range: 129443,."
@@ -1222,6 +1224,7 @@ FEATURES             Location/Qualifiers
                      /product="concanavalin A-like lectin/glucanase
                      domain-containing protein"
                      /protein_id="KAF8886936.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CAGTGTCAGA GAGTCCTGAA GTGCGTCTAG CGACCTACCG AGAAAATGGA CATGACGGCA
        61 CGATGGATTT ATTTTCCACA CCATTCGACA CCATACCGAG ACACGCCTCT TCCCGCATGG

@@ -210,6 +210,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6792"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="KAF5707721.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15106..16481)
                      /note="*Name FGLOB1_6793"
                      /note="*gbkey: Gene"
@@ -323,6 +324,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6794"
                      /product="monooxygenase"
                      /protein_id="KAF5707723.1"
+                     /gene_kind="biosynthetic"
      gene            19982..22070
                      /note="*Name FGLOB1_6795"
                      /note="*gbkey: Gene"
@@ -379,6 +381,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6795"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF5707724.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATATTAGA AGAGCACAGA TACCCATATC CTCCATCGAT TGCCTTGCAC TCCAAAGTCT
        61 ACTTGGGTCT CGCCGTCGTT GCTTCCATGC ATTTTGCATC ACTTTATAAA CCGTACCACA

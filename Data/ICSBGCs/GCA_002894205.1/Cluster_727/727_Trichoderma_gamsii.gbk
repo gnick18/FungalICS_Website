@@ -300,6 +300,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MTYH|TGAMA5MH_01004.T1"
                      /product="hypothetical protein"
                      /protein_id="PNP47952.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16921..18248)
                      /note="*Name TGAMA5MH_01005"
                      /note="*end_range: 467470,."
@@ -395,6 +396,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MTYH|TGAMA5MH_01006.T1"
                      /product="hypothetical protein"
                      /protein_id="PNP47954.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACTTCAAC TTGTCGAAAC GATGATCATC CTGCCAACGC TCATAATTTG GCGGAGGCGT
        61 ATACTCTGCC CTCACAGCTT GCAGTCGGAA AAGGCGACCG ATCCAAGAAg cgagcaacag

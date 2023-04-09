@@ -44,6 +44,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPE|mrna.FCIRC_3101"
                      /product="ABC1 transport"
                      /protein_id="KAF5686003.1"
+                     /gene_kind="biosynthetic"
      gene            2478..6321
                      /note="*Name FCIRC_3102"
                      /note="*gbkey: Gene"
@@ -109,6 +110,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPE|mrna.FCIRC_3102"
                      /product="nonribosomal peptide synthetase"
                      /protein_id="KAF5686004.1"
+                     /gene_kind="biosynthetic"
      gene            7235..8962
                      /note="*Name FCIRC_3103"
                      /note="*gbkey: Gene"
@@ -221,6 +223,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPE|mrna.FCIRC_3105"
                      /product="cocaine esterase"
                      /protein_id="KAF5686007.1"
+                     /gene_kind="biosynthetic"
      gene            12786..13910
                      /note="*Name FCIRC_3106"
                      /note="*gbkey: Gene"
@@ -276,6 +279,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPE|mrna.FCIRC_3106"
                      /product="hypothetical protein"
                      /protein_id="KAF5686008.1"
+                     /gene_kind="biosynthetic"
      gene            14680..16532
                      /note="*Name FCIRC_3107"
                      /note="*gbkey: Gene"
@@ -387,6 +391,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPE|mrna.FCIRC_3108"
                      /product="salicylate 1-monooxygenase"
                      /protein_id="KAF5686010.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19060..20205)
                      /note="*Name FCIRC_3109"
                      /note="*gbkey: Gene"
@@ -434,6 +439,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPE|mrna.FCIRC_3109"
                      /product="hypothetical protein"
                      /protein_id="KAF5686011.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21465..23775)
                      /note="*Name FCIRC_3110"
                      /note="*gbkey: Gene"
@@ -629,6 +635,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPE|mrna.FCIRC_3113"
                      /product="mixed-linked glucanase precursor MLG1"
                      /protein_id="KAF5686015.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATTCAACA CTTGCTGGTA TGTCTTGACA ACTCACACCG GGCCCCTTGT TGCTATATCT
        61 CTCAGCGTCT CTAGTTGCAG CATATATTAG CTCCTTGAGC CATGCCACTT TGTTGAAATC

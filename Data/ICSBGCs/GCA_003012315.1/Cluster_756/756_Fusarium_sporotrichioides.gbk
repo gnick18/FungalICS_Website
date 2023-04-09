@@ -56,6 +56,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOF|mrna.FSPOR_8401"
                      /product="sporulation-specific n-formyltyrosine oxidase"
                      /protein_id="RGP63794.1"
+                     /gene_kind="biosynthetic"
      gene            1495..3712
                      /note="*Name FSPOR_8402"
                      /note="*gbkey: Gene"
@@ -161,6 +162,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOF|mrna.FSPOR_8403"
                      /product="pyoverdine biosynthesis"
                      /protein_id="RGP63796.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7254..7886)
                      /note="*Name FSPOR_8404"
                      /note="*gbkey: Gene"
@@ -228,6 +230,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOF|mrna.FSPOR_8405"
                      /product="aspartic ase yapsin-6"
                      /protein_id="RGP63798.1"
+                     /gene_kind="biosynthetic"
      gene            11490..12868
                      /note="*Name FSPOR_8406"
                      /note="*gbkey: Gene"
@@ -395,6 +398,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOF|mrna.FSPOR_8408"
                      /product="glycoside hydrolase family 18"
                      /protein_id="RGP63801.1"
+                     /gene_kind="biosynthetic"
      gene            21545..23330
                      /note="*Name FSPOR_8409"
                      /note="*gbkey: Gene"
@@ -461,6 +465,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOF|mrna.FSPOR_8410"
                      /product="short-chain dehydrogenase reductase sdr"
                      /protein_id="RGP63803.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACGTACGA GGGTTAGCAA CACTCAGCTC CAATGATCTG GAATGACTTG CGGGGGTGAG
        61 TTTGAGCAGA TACTCAGGGT CCACCGTCCA TTGAattctc atcaccaact cGAAAAGCGC

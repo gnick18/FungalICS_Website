@@ -139,6 +139,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SRMI|Focb16_v002600.t1_mrna"
                      /product="Dehydrogenase xptC"
                      /protein_id="TVY68271.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5190..6646)
                      /note="*Name Focb16_v002601"
                      /note="*gbkey: Gene"
@@ -176,6 +177,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SRMI|Focb16_v002601.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="TVY68272.1"
+                     /gene_kind="biosynthetic"
      gene            7237..8286
                      /note="*Name are-0"
                      /note="*gbkey: Gene"
@@ -208,6 +210,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SRMI|Focb16_v002602.t1_mrna"
                      /product="Arylesterase"
                      /protein_id="TVY68269.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8578..10093)
                      /note="*Name DIT1-0"
                      /note="*gbkey: Gene"
@@ -251,6 +254,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SRMI|Focb16_v002603.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TVY68270.1"
+                     /gene_kind="biosynthetic"
      gene            11065..14905
                      /note="*Name FUB8-0"
                      /note="*gbkey: Gene"
@@ -331,6 +335,7 @@ FEATURES             Location/Qualifiers
                      /product="Non-canonical non-ribosomal peptide synthetase
                      FUB8"
                      /protein_id="TVY68268.1"
+                     /gene_kind="biosynthetic"
      gene            15824..17551
                      /note="*Name MFS2"
                      /note="*gbkey: Gene"

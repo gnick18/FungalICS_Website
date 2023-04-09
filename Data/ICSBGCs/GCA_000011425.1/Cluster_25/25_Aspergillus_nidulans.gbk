@@ -113,6 +113,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis protein,
                      putative (AFU_orthologue; AFUA_5G02660)"
                      /protein_id="CBF87187.1"
+                     /gene_kind="biosynthetic"
      gene            4633..4941
                      /note="*Name ANIA_11351"
                      /note="*gbkey: Gene"
@@ -225,6 +226,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="ANIA_02607"
                      /product="cytochrome P450, putative (Eurofung)"
                      /protein_id="CBF87190.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 atgACACGGA GGGTCGCCCT GAGAATGAAT CTGAGCTGGT GGCTTCATCG CCAACCAGCG
        61 AGGATGAGGC AAGGAGATCA GTACGATGAC AGAGTGGCTA ATGAGTTTGT CCACGAATAT

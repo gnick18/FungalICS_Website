@@ -51,6 +51,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEII|mrna_BDFG_06775T0"
                      /product="hypothetical protein"
                      /protein_id="EQL30738.1"
+                     /gene_kind="biosynthetic"
      gene            5688..7661
                      /note="*Name BDFG_06776"
                      /note="*gbkey: Gene"
@@ -106,6 +107,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEII|mrna_BDFG_06776T0"
                      /product="hypothetical protein"
                      /protein_id="EQL30739.1"
+                     /gene_kind="biosynthetic"
      gene            8556..10468
                      /note="*Name BDFG_06777"
                      /note="*gbkey: Gene"
@@ -228,6 +230,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEII|mrna_BDFG_06778T0"
                      /product="hypothetical protein"
                      /protein_id="EQL30741.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13874..14981)
                      /note="*Name BDFG_06779"
                      /note="*gbkey: Gene"
@@ -448,6 +451,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEII|mrna_BDFG_06782T0"
                      /product="carboxypeptidase D"
                      /protein_id="EQL30745.1"
+                     /gene_kind="biosynthetic"
      mRNA            19431..23483
                      /note="*gbkey: mRNA"
                      /locus_tag="BDFG_06782"
@@ -486,6 +490,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEII|mrna_BDFG_06782T1"
                      /product="carboxypeptidase D, variant"
                      /protein_id="EQL30746.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTTAAAATGG GCCCCCTTGC CATCAACTGT TCTTTGTCTA GATCACCTTG CATTAACAGC
        61 ACGCGAGAGC CTGAAACGCC GCCCTTGGTT GAATGTTTTT ATAGGAAGAT TATATATACA

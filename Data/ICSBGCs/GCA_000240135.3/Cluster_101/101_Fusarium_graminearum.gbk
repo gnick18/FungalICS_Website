@@ -95,6 +95,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08228T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15154.1"
+                     /gene_kind="biosynthetic"
      gene            2799..5468
                      /note="*Name FGSG_08227"
                      /note="*end_range: 2532362,."
@@ -184,6 +185,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08227T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15155.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6112..6566)
                      /note="*Name FGSG_08226"
                      /note="*end_range: 2533460,."
@@ -565,6 +567,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AACM|mrna_FGSG_08223T0"
                      /product="hypothetical protein"
                      /protein_id="ESU15160.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGAGTGAC AGGGACTGGA ACAAGGCTGT TTCGGCGAGG AAACATGATT CGCCGACGTT
        61 TCTAGAGAAT TCCGAAGATG TCCAAAATTC CGATGTTTTA CGACCGATCA TCATGGTACA

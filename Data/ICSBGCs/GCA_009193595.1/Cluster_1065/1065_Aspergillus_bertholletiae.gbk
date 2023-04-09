@@ -225,6 +225,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFP|BDV26DRAFT_mRNA259928"
                      /product="Lycopene beta-cyclase"
                      /protein_id="KAE8379185.1"
+                     /gene_kind="biosynthetic"
      gene            7118..9834
                      /note="*Name BDV26DRAFT_259930"
                      /note="*gbkey: Gene"
@@ -414,6 +415,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAE8379187.1"
+                     /gene_kind="biosynthetic"
      gene            14027..15973
                      /note="*Name BDV26DRAFT_280466"
                      /note="*end_range: 61362,."
@@ -526,6 +528,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFP|BDV26DRAFT_mRNA280466"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAE8379188.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GACTTTTTAG ATATCACTAT TTAGGCGATA ATATCATTTT CTTGGTGTTT TGGCCCCCTA
        61 CCTGACCTAC CTGTCTAGTA CCTCGAAGCC ATGGTCCAGT TCCACCCGAT TGAACTGAGG

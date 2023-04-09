@@ -151,6 +151,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPNK|B0I35DRAFT_mRNA443364"
                      /product="putative carbonic anhydrase"
                      /protein_id="KAH7305836.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4215..5773)
                      /note="*Name B0I35DRAFT_492465"
                      /note="*gbkey: Gene"
@@ -334,6 +335,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAH7305838.1"
+                     /gene_kind="biosynthetic"
      gene            9363..11180
                      /note="*Name B0I35DRAFT_361449"
                      /note="*end_range: 223686,."
@@ -422,6 +424,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPNK|B0I35DRAFT_mRNA361449"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAH7305839.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11366..12765)
                      /note="*Name B0I35DRAFT_361716"
                      /note="*end_range: 225271,."
@@ -619,6 +622,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPNK|B0I35DRAFT_mRNA483598"
                      /product="hypothetical protein"
                      /protein_id="KAH7305842.1"
+                     /gene_kind="biosynthetic"
      gene            19356..21087
                      /note="*Name B0I35DRAFT_443369"
                      /note="*gbkey: Gene"
@@ -737,6 +741,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPNK|B0I35DRAFT_mRNA443369"
                      /product="hypothetical protein"
                      /protein_id="KAH7305843.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGACTGCT TCGACAATAT TCCCGCCGAG CTTCGTGTCC AAATTCTCGA GGCCTGCTCA
        61 TCCATCAAAG ACATGAATGC GTTTCTCCAG GCATCCCCCG CAATGGACGC TTTGGTCCAA

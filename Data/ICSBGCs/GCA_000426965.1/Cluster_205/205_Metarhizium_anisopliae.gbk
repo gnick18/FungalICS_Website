@@ -69,6 +69,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:APNB|H634R_08376"
                      /product="hypothetical protein"
                      /protein_id="KJK76316.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2919..4403)
                      /note="*Name H634G_08377"
                      /note="*end_range: 85197,."
@@ -103,6 +104,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:APNB|H634R_08377"
                      /product="Aldehyde dehydrogenase"
                      /protein_id="KJK76317.1"
+                     /gene_kind="biosynthetic"
      gene            6328..7602
                      /note="*Name H634G_08378"
                      /note="*end_range: 88396,."
@@ -242,6 +244,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:APNB|H634R_08380"
                      /product="hypothetical protein"
                      /protein_id="KJK76320.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACCTCCTT TCTGATGGTT TTATTTTTCA GTCATGGGAC TATGCCAAGA CAGCAGCTGA
        61 CGGAAATGAC TCACCATCCA GCGTATCAGA TGGAAGTTTA GGGTCAGCTG TCGCAATTTC

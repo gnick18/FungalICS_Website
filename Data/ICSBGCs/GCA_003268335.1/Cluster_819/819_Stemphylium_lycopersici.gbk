@@ -418,6 +418,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDH|mrna.DDE83_006739"
                      /product="cytochrome P450"
                      /protein_id="RAR06961.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7983..11354)
                      /note="*Name DDE83_006740"
                      /note="*gbkey: Gene"
@@ -735,6 +736,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDH|mrna.DDE83_006742"
                      /product="FAD/NAD(P)-binding domain-containing protein"
                      /protein_id="RAR06802.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25881..27471)
                      /note="*Name DDE83_006743"
                      /note="*gbkey: Gene"
@@ -881,6 +883,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDH|mrna.DDE83_006744"
                      /product="pyoverdine dityrosine biosynthesis"
                      /protein_id="RAR06804.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31398..34916)
                      /note="*Name DDE83_006745"
                      /note="*gbkey: Gene"
@@ -978,6 +981,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDH|mrna.DDE83_006745"
                      /product="plasma membrane calcium-transporting atpase 2"
                      /protein_id="RAR06805.1"
+                     /gene_kind="biosynthetic"
      gene            complement(36616..37868)
                      /note="*Name DDE83_006746"
                      /note="*gbkey: Gene"
@@ -1023,6 +1027,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDH|mrna.DDE83_006746"
                      /product="capsule polysaccharide biosynthesis protein"
                      /protein_id="RAR06806.1"
+                     /gene_kind="biosynthetic"
      gene            complement(39549..40174)
                      /note="*Name DDE83_006747"
                      /note="*gbkey: Gene"
@@ -1096,6 +1101,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDH|mrna.DDE83_006747"
                      /product="fk506-binding protein 2 precursor"
                      /protein_id="RAR06807.1"
+                     /gene_kind="biosynthetic"
      gene            40608..41270
                      /note="*Name DDE83_006748"
                      /note="*gbkey: Gene"
@@ -1208,6 +1214,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QGDH|mrna.DDE83_006749"
                      /product="FolC bifunctional protein"
                      /protein_id="RAR06809.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGCTGCGA TGGTCGTCGG GCACCTTTGC CACGTTCTCA ACTGCCGCAG TGCCGGAGAA
        61 CATGGACACT GATGGCCCGC ATCACAACTA CGCACTAGCT ATCGTAGTAT AAGCGCGTGA

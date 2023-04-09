@@ -47,6 +47,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFR|BDV37DRAFT_mRNA249093"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAE8403910.1"
+                     /gene_kind="biosynthetic"
      gene            1667..1738
                      /note="*Name BDV37DRAFT_t116"
                      /note="*gbkey: Gene"
@@ -462,6 +463,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFR|BDV37DRAFT_mRNA249096"
                      /product="monooxygenase"
                      /protein_id="KAE8403915.1"
+                     /gene_kind="biosynthetic"
      gene            12270..14710
                      /note="*Name BDV37DRAFT_249100"
                      /note="*gbkey: Gene"
@@ -546,6 +548,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAE8403916.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14702..17336)
                      /note="*Name BDV37DRAFT_249102"
                      /note="*gbkey: Gene"
@@ -699,6 +702,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFR|BDV37DRAFT_mRNA271827"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAE8403918.1"
+                     /gene_kind="biosynthetic"
      gene            19542..21306
                      /note="*Name BDV37DRAFT_271828"
                      /note="*end_range: 278438,."
@@ -770,6 +774,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFR|BDV37DRAFT_mRNA271828"
                      /product="hypothetical protein"
                      /protein_id="KAE8403919.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21404..23420)
                      /note="*Name BDV37DRAFT_271829"
                      /note="*end_range: 280552,."
@@ -903,6 +908,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFR|BDV37DRAFT_mRNA271829"
                      /product="Lycopene beta-cyclase"
                      /protein_id="KAE8403920.1"
+                     /gene_kind="biosynthetic"
      gene            23901..25791
                      /note="*Name BDV37DRAFT_271830"
                      /note="*end_range: 282923,."
@@ -1146,6 +1152,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFR|BDV37DRAFT_mRNA283395"
                      /product="hypothetical protein"
                      /protein_id="KAE8403923.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TGCAGCTCCG CCTTTTCTAA CTTTGTATAA TAAAGTCCCT TTACTAGGTG GTTCATATTG
        61 AAAAGGTTGT CAATGTTTTG GATAGTTAGA CTAATCAGCT TCTGAAATGG AGACATAAAT

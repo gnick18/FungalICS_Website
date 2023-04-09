@@ -44,6 +44,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VFLP|mrna.g10232.t1.cds"
                      /product="hypothetical protein"
                      /protein_id="TRX88889.1"
+                     /gene_kind="biosynthetic"
      gene            3328..4917
                      /note="*Name FHL15_010233"
                      /note="*gbkey: Gene"
@@ -435,6 +436,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VFLP|mrna.g10242.t1.cds"
                      /product="hypothetical protein"
                      /protein_id="TRX88899.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGAAGAGT TGGCCGGCTT CGTGATATTG ACACAAAGGA CTTGGGGGTA TCAGAATGTT
        61 TTTCGTCTCC ACATCTACGT CCATCACGCT GACCACTTCG ATCTGCTTAT CGTCGCCTTT

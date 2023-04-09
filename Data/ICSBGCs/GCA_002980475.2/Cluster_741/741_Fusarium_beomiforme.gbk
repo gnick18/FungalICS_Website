@@ -47,6 +47,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_4494"
                      /product="Ca2+-transporting ATPase"
                      /protein_id="KAF4341592.1"
+                     /gene_kind="biosynthetic"
      gene            4594..5271
                      /note="*Name FBEOM_4495"
                      /note="*gbkey: Gene"
@@ -140,6 +141,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_4497"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KAF4341595.1"
+                     /gene_kind="biosynthetic"
      gene            10037..10662
                      /note="*Name FBEOM_4498"
                      /note="*gbkey: Gene"
@@ -256,6 +258,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_4500"
                      /product="cytochrome P450 monooxygenase"
                      /protein_id="KAF4341598.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGACTCTG ACGCTCCACG ACGTCCGCGC GCTCCTACAA TCACAGTCGA CACTGCTGCT
        61 GTCGATCCAA ACTCTCCCGG TAATACACCA GTGCGACACG CCCAAAACAT CGTACGAGCA

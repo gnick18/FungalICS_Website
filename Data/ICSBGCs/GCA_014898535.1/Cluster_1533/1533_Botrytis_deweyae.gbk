@@ -42,6 +42,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:RCSX|BDEW_037g00790.1"
                      /product="hypothetical protein"
                      /protein_id="KAF7916833.1"
+                     /gene_kind="biosynthetic"
      gene            18357..18935
                      /note="*Name EAE98_010556"
                      /note="*gbkey: Gene"
@@ -116,6 +117,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:RCSX|BDEW_037g00810.1"
                      /product="hypothetical protein"
                      /protein_id="KAF7916835.1"
+                     /gene_kind="biosynthetic"
      gene            24884..26086
                      /note="*Name EAE98_010558"
                      /note="*gbkey: Gene"
@@ -353,6 +355,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:RCSX|BDEW_037g00850.1"
                      /product="hypothetical protein"
                      /protein_id="KAF7916839.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACCAAGGA TATTTTGTTT CATCGAACGA TTGCAGAGTC CCCGATGTTC CTTCCCTTGT
        61 TGCattatca atcttctcca GCATTCCTTT AATGCTCTCC TCGATTTTGA CCGGAGCACT

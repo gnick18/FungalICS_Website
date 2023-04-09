@@ -43,6 +43,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WJSL|mrna.HRS9122_02975"
                      /product="hypothetical protein"
                      /protein_id="KAE8848959.1"
+                     /gene_kind="biosynthetic"
      gene            3704..4828
                      /note="*Name HRS9122_02976"
                      /note="*gbkey: Gene"
@@ -520,6 +521,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WJSL|mrna.HRS9122_02986"
                      /product="hypothetical protein"
                      /protein_id="KAE8848970.1"
+                     /gene_kind="biosynthetic"
      gene            complement(39834..42016)
                      /note="*Name HRS9122_02987"
                      /note="*gbkey: Gene"
@@ -643,6 +645,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WJSL|mrna.HRS9122_02987"
                      /product="hypothetical protein"
                      /protein_id="KAE8848971.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATACGTTC CTCACTGGAA TATTTCTCTC CATGTGGCCA TACCAACGCG GCAGCGTTCT
        61 CTTCAGTGCG CCAGCGGTAC TCAGCTGAAG GTCTTCGATA GCGCTCGCCC ACTTCAGCAG

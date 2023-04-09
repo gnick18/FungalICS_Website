@@ -162,6 +162,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIY|mrna.HBI68_202600A"
                      /product="autophagy-related protein"
                      /protein_id="KAH6146348.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5797..7514)
                      /note="*Name HBI68_202610"
                      /note="*gbkey: Gene"
@@ -291,6 +292,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIY|mrna.HBI68_202630A"
                      /product="hypothetical protein"
                      /protein_id="KAH6146284.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATCCACCA GAAGAGATCG GAACGCGCTT GCCCATGTGA GTCCAGATGT AGTTAGCCTC
        61 CCGGGGAGAG AATTTGCTGC CCTTGAGGCC CTTGGTCTGG ATCTTCGCTC GCACAGCAAC

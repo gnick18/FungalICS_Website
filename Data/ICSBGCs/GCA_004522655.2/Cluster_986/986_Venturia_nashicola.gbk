@@ -250,6 +250,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SNSC|E6O75_ATG06913.t1"
                      /product="hypothetical protein"
                      /protein_id="TID19575.1"
+                     /gene_kind="biosynthetic"
      gene            15691..18739
                      /note="*Name E6O75_ATG06914"
                      /note="*gbkey: Gene"
@@ -342,6 +343,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SNSC|E6O75_ATG06914.t1"
                      /product="Palmitoyltransferase"
                      /protein_id="TID19576.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGTCCTTC TTTACCGCCG CGGACTTGAA TTTTTCGACT TCAGAAAGCG ACTGTATTGC
        61 GATGTCCTTG CTGAGCTCGG GTAAACTCTC GATGACCTCG GATAGTTCTG TGGGAACACT

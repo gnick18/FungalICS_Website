@@ -162,6 +162,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRII|mrna.HBI45_200830A"
                      /product="autophagy-related protein"
                      /protein_id="KAH5593076.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5797..7514)
                      /note="*Name HBI45_200840"
                      /note="*gbkey: Gene"
@@ -297,6 +298,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRII|mrna.HBI45_200860A"
                      /product="hypothetical protein"
                      /protein_id="KAH5592992.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATCCACCA GAAGAGATCG GAACGCGCTT GCCCATGTGA GTCCAGATGT AGTTAGCCTC
        61 CCGGGGAGAG AATTTGCTGC CCTTGAGGCC CTTGGTCTGG ATCTTCGCTC GCACAGCAAC

@@ -39,6 +39,7 @@ FEATURES             Location/Qualifiers
                      /product="lysophospholipase/carboxylesterase family
                      protein"
                      /protein_id="RPB14741.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8225..9189)
                      /note="*Name P167DRAFT_483860"
                      /note="*end_range: 236216,."
@@ -428,6 +429,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PZQV|P167DRAFT_mRNA533732"
                      /product="DUF1613-domain-containing protein"
                      /protein_id="RPB14746.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22548..23724)
                      /note="*Name P167DRAFT_572039"
                      /note="*end_range: 250751,."
@@ -493,6 +495,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PZQV|P167DRAFT_mRNA572039"
                      /product="hypothetical protein"
                      /protein_id="RPB14747.1"
+                     /gene_kind="biosynthetic"
      gene            25970..27295
                      /note="*Name P167DRAFT_563475"
                      /note="*end_range: 254322,."
@@ -544,6 +547,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PZQV|P167DRAFT_mRNA563475"
                      /product="Aldo/keto reductase"
                      /protein_id="RPB14748.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GCCGCGGGGA TACCCAATGA CCTCTCTTTC CCCGAGCCTC ATTACGACAT TATCACTCGT
        61 TACGAAAAAA AGCTTCAATG TCTACTCACC GCCTTCCAGA GTCTTCCGAC TTCCCCTCGG

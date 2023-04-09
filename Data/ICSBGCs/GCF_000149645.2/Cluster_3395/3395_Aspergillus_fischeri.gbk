@@ -48,6 +48,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043690"
                      /product="conserved hypothetical protein"
                      /protein_id="XP_001267447.1"
+                     /gene_kind="biosynthetic"
      gene            2801..4133
                      /db_xref="GeneID:4594155"
                      /note="*Name NFIA_043700"
@@ -132,6 +133,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043700"
                      /product="phospho-2-dehydro-3-deoxyheptonate aldolase"
                      /protein_id="XP_001267448.1"
+                     /gene_kind="biosynthetic"
      misc_feature    4588..4621
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"
@@ -214,6 +216,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043710"
                      /product="glutathione S-transferase family protein"
                      /protein_id="XP_001267449.1"
+                     /gene_kind="biosynthetic"
      gene            6867..8507
                      /db_xref="GeneID:4594157"
                      /note="*Name NFIA_043720"
@@ -256,6 +259,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043720"
                      /product="spore wall assembly protein Dit1, putative"
                      /protein_id="XP_001267450.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9222..10133)
                      /db_xref="GeneID:4594158"
                      /note="*Name NFIA_043730"
@@ -537,6 +541,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043770"
                      /product="4-nitrophenylphosphatase, putative"
                      /protein_id="XP_001267455.1"
+                     /gene_kind="biosynthetic"
      gene            18310..20231
                      /db_xref="GeneID:4594265"
                      /note="*Name NFIA_043780"
@@ -613,6 +618,7 @@ FEATURES             Location/Qualifiers
                      /product="taurine catabolism dioxygenase TauD, TfdA family
                      protein"
                      /protein_id="XP_001267456.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATACAGAA ATCTCCACCG CATGCGAAAC GACCACCGTC CTGTCCTTGA GCTGCTCCTC
        61 GACAGTCACT TCCTTGGCCG CCCGGGAAGC AGGTTTGGCA TCTGATGCCC GCACCAGCGC

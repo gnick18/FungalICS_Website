@@ -60,6 +60,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHT|CDV57_07071-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="OXN23282.1"
+                     /gene_kind="biosynthetic"
      gene            2525..3625
                      /note="*Name CDV57_07072"
                      /note="*gbkey: Gene"
@@ -129,6 +130,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHT|CDV57_07072-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="OXN23285.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAATTCACA TGCACACGCC AGTGCTCGCG GTGGCCGTCC TCGAAGGCTG TGCGAGTGTG
        61 GTGGGTCATG GCGTTGTCGT TGAAGATGAA ATCCCCCGCC TTCCACTGGT GACGGTAGGC

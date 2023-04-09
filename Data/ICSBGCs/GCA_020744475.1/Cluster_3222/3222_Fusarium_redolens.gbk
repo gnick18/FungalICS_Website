@@ -246,6 +246,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUX|BKA55DRAFT_mRNA597438"
                      /product="hypothetical protein"
                      /protein_id="KAH7236924.1"
+                     /gene_kind="biosynthetic"
      gene            9311..10669
                      /note="*Name BKA55DRAFT_651648"
                      /note="*gbkey: Gene"
@@ -295,6 +296,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUX|BKA55DRAFT_mRNA651648"
                      /product="hypothetical protein"
                      /protein_id="KAH7236925.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11065..13211)
                      /note="*Name BKA55DRAFT_578786"
                      /note="*gbkey: Gene"
@@ -468,6 +470,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUX|BKA55DRAFT_mRNA521503"
                      /product="hypothetical protein"
                      /protein_id="KAH7236927.1"
+                     /gene_kind="biosynthetic"
      gene            15644..17460
                      /note="*Name BKA55DRAFT_521338"
                      /note="*end_range: 597391,."
@@ -525,6 +528,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUX|BKA55DRAFT_mRNA521338"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAH7236928.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17577..18571)
                      /note="*Name BKA55DRAFT_578791"
                      /note="*gbkey: Gene"
@@ -729,6 +733,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUX|BKA55DRAFT_mRNA707988"
                      /product="hypothetical protein"
                      /protein_id="KAH7236931.1"
+                     /gene_kind="biosynthetic"
      gene            26296..27822
                      /note="*Name BKA55DRAFT_597446"
                      /note="*end_range: 607753,."
@@ -785,6 +790,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7236932.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GGTTCCGTGG TCtagttggt tatggcatCT CGTTAACACC GAGAAGGTCC CCGGTTCGAT
        61 CCCGGGCGGA ACCACGTTTT TTTTGCTGTC GTCTCGCTTG ATGCTAAATA TTTTTGCTGA

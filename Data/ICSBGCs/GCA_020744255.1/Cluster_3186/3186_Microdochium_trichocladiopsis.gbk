@@ -105,6 +105,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJQ|B0I36DRAFT_mRNA247710"
                      /product="cytochrome P450"
                      /protein_id="KAH7028044.1"
+                     /gene_kind="biosynthetic"
      gene            3281..7343
                      /note="*Name B0I36DRAFT_247806"
                      /note="*end_range: 2823092,."
@@ -245,6 +246,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJQ|B0I36DRAFT_mRNA247806"
                      /product="hypothetical protein"
                      /protein_id="KAH7028045.1"
+                     /gene_kind="biosynthetic"
      gene            8366..10135
                      /note="*Name B0I36DRAFT_413536"
                      /note="*gbkey: Gene"
@@ -324,6 +326,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7028046.1"
+                     /gene_kind="biosynthetic"
      gene            10940..12739
                      /note="*Name B0I36DRAFT_328511"
                      /note="*gbkey: Gene"
@@ -408,6 +411,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="KAH7028048.1"
+                     /gene_kind="biosynthetic"
      gene            15717..16511
                      /note="*Name B0I36DRAFT_247059"
                      /note="*end_range: 2832260,."
@@ -467,6 +471,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJQ|B0I36DRAFT_mRNA247059"
                      /product="3,4-dihydroxy-2-butanone 4-phosphate synthase"
                      /protein_id="KAH7028049.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCGTCCG CGTCGTCTGT AGCCGGAGCT CCGGCTTCTC CTCTACTGCT CATCGGCGTC
        61 ATCAGCATCC CCGTCGCCCT CTTGCTCCGC TGGTTCGCAT CGTACACGCG CACCGTCCTC

@@ -36,6 +36,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBUI|KXV83_004897-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2458104.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2355..3185)
                      /note="*Name KXV83_004898"
                      /note="*gbkey: Gene"
@@ -227,6 +228,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBUI|KXV83_004901-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2458108.1"
+                     /gene_kind="biosynthetic"
      gene            11809..13722
                      /note="*Name KXV83_004902"
                      /note="*gbkey: Gene"
@@ -280,6 +282,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBUI|KXV83_004902-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2458109.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTTGTCCA ACACCATCAC GATCGTTCCC AGCATCGAAA CCCGGGTCGT TGAGCCCCTC
        61 CCGCAATTTG ATACCTCGCG CCGGTTGAGC TTCCCCGTGA GCCTTCCCCT CGATTCGCTG

@@ -34,6 +34,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHV|CDV55_100029-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RHZ60379.1"
+                     /gene_kind="biosynthetic"
      gene            1347..2103
                      /note="*Name CDV55_100262"
                      /note="*gbkey: Gene"
@@ -136,6 +137,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHV|CDV55_100398-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RHZ60381.1"
+                     /gene_kind="biosynthetic"
      gene            7165..8234
                      /note="*Name CDV55_100893"
                      /note="*gbkey: Gene"
@@ -211,6 +213,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHV|CDV55_101050-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RHZ60383.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12121..12831)
                      /note="*Name CDV55_101396"
                      /note="*gbkey: Gene"

@@ -139,6 +139,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKF|K460DRAFT_mRNA343461"
                      /product="aldehyde dehydrogenase"
                      /protein_id="KAF1844288.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4801..5973)
                      /note="*Name K460DRAFT_289516"
                      /note="*end_range: 4389985,."
@@ -225,6 +226,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKF|K460DRAFT_mRNA369155"
                      /product="FAD dependent oxidoreductase"
                      /protein_id="KAF1844290.1"
+                     /gene_kind="biosynthetic"
      gene            9287..10347
                      /note="*Name K460DRAFT_245726"
                      /note="*end_range: 4394359,."
@@ -290,6 +292,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="KAF1844291.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,4393299"
 ORIGIN
         1 GTCCGTGTTA CCCAAGTTCA ATCTCCCGTC TGTTTGTATG CCATTTTCCA TGTCTCCATA

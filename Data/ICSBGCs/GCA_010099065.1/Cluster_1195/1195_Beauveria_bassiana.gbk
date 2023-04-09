@@ -70,6 +70,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PPTI|CRV24_000002-RA_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF1738081.1"
+                     /gene_kind="biosynthetic"
      gene            2701..4294
                      /note="*Name DIT2_1"
                      /note="*gbkey: Gene"
@@ -132,6 +133,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PPTI|CRV24_000003-RA_mrna"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="KAF1738082.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4720..6607)
                      /note="*Name ATG22_2"
                      /note="*gbkey: Gene"
@@ -216,6 +218,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PPTI|CRV24_000004-RA_mrna"
                      /product="Autophagy-related protein 22"
                      /protein_id="KAF1738083.1"
+                     /gene_kind="biosynthetic"
      gene            7309..8816
                      /note="*Name DTR1"
                      /note="*gbkey: Gene"

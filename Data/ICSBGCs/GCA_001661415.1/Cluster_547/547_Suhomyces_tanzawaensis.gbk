@@ -71,6 +71,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYME|CANTADRAFT_mRNA21328"
                      /product="hypothetical protein"
                      /protein_id="ODV80071.1"
+                     /gene_kind="biosynthetic"
      gene            1914..3368
                      /note="*Name CANTADRAFT_49297"
                      /note="*end_range: 1101389,."
@@ -113,6 +114,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYME|CANTADRAFT_mRNA49297"
                      /product="cytochrome P450"
                      /protein_id="ODV80072.1"
+                     /gene_kind="biosynthetic"
      gene            3632..5221
                      /note="*Name CANTADRAFT_25804"
                      /note="*gbkey: Gene"
@@ -172,6 +174,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYME|CANTADRAFT_mRNA25805"
                      /product="MFS general substrate transporter"
                      /protein_id="ODV80074.1"
+                     /gene_kind="biosynthetic"
      gene            7939..8035
                      /note="*Name CANTADRAFT_t93"
                      /note="*gbkey: Gene"

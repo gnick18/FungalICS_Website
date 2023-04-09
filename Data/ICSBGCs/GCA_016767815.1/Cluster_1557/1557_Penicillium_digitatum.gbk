@@ -114,6 +114,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|HZNU|mrna.Pdw03_7482"
                      /product="Cytochrome P450"
                      /protein_id="QQK43581.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7923..8555)
                      /note="*Name Pdw03_7483"
                      /note="*gbkey: Gene"
@@ -249,6 +250,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis protein,
                      putative"
                      /protein_id="QQK43584.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATTCCTTG CTTGGCTTGG GCGTCAAAGC GTTACCCTCG GGGCCACGGC GGCGCTTGTT
        61 GATTCTCTTG CCCCATGGGT AAGGATTTTT CGGCGGAGCC CCAATCCTTG CGTtgaattc

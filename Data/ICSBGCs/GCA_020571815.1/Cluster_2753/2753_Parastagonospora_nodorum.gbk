@@ -431,6 +431,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGX|mrna.HBH78_131800A"
                      /product="hypothetical protein"
                      /protein_id="KAH4681998.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11981..12230)
                      /note="*Name HBH78_131810"
                      /note="*gbkey: Gene"
@@ -604,6 +605,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGX|mrna.HBH78_131830A"
                      /product="hypothetical protein"
                      /protein_id="KAH4681776.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17496..19031)
                      /note="*Name HBH78_131840"
                      /note="*gbkey: Gene"
@@ -777,6 +779,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRGX|mrna.HBH78_131860A"
                      /product="cutinase"
                      /protein_id="KAH4681953.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACCAGACT ACCTGCCACA CCGTCCCACT AAACCCTAGA ATCTGGCTAA ACGCCTCGTC
        61 CCTCTGCCGC ATATCCCCTA GTACGTACTC ATTCCCATCG GACAAGACAA GCTTCAAATC

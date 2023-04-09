@@ -97,6 +97,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_4623"
                      /product="yjlB"
                      /protein_id="KAF4341462.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4436..6519)
                      /note="*Name FBEOM_4624"
                      /note="*gbkey: Gene"
@@ -148,6 +149,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_4624"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF4341463.1"
+                     /gene_kind="biosynthetic"
      gene            7362..9078
                      /note="*Name FBEOM_4625"
                      /note="*gbkey: Gene"
@@ -213,6 +215,7 @@ FEATURES             Location/Qualifiers
                      /product="3-(3-hydroxy-phenyl)propionate 3-hydroxycinnamic
                      acid hydroxylase"
                      /protein_id="KAF4341464.1"
+                     /gene_kind="biosynthetic"
      gene            10036..11428
                      /note="*Name FBEOM_4626"
                      /note="*gbkey: Gene"
@@ -287,6 +290,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_4627"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="KAF4341466.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12920..13261)
                      /note="*Name FBEOM_4628"
                      /note="*gbkey: Gene"
@@ -312,6 +316,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_4628"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="KAF4341467.1"
+                     /gene_kind="biosynthetic"
      gene            13915..15582
                      /note="*Name FBEOM_4629"
                      /note="*gbkey: Gene"
@@ -403,6 +408,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PVQB|mrna.FBEOM_4630"
                      /product="aldose 1-epimerase"
                      /protein_id="KAF4341469.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGATACCT TTCCTCATTT GCCTCCACGT CACAAGATCC GACCTAGCGA CGATGTATCC
        61 GCTTACGAGC CCTTCAATAG TGGACAAGAG CACCATGGAC TCGGCAAACC TATGAAAAGA

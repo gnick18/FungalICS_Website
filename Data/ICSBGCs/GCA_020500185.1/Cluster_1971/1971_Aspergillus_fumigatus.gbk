@@ -77,6 +77,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBSL|KXV33_003331-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1997641.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4656..5733)
                      /note="*Name KXV33_003332"
                      /note="*gbkey: Gene"
@@ -244,6 +245,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBSL|KXV33_003334-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1997644.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCTTCTA CCCCGCCAAA GAAGTACTAC AAGGTGGCCG TTTTACTCTT CGAAGGAGTG
        61 GACATCCTTG ATTTCACGGC CCCTATGGAA GTTTTCACTC ATACATCCCA CAATCGAAAC

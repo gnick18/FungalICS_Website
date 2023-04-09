@@ -77,6 +77,7 @@ FEATURES             Location/Qualifiers
                      /product="CDP-diacylglycerol-inositol
                      3-phosphatidyltransferase PIS"
                      /protein_id="XP_002146034.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2366..9858)
                      /db_xref="GeneID:7023736"
                      /note="*Name PMAA_065940"
@@ -227,6 +228,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="PMAA_065940"
                      /product="transferase family protein"
                      /protein_id="XP_002146035.1"
+                     /gene_kind="biosynthetic"
      misc_feature    10723..10752
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"

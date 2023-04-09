@@ -91,6 +91,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_039360"
                      /product="alpha-1,2-mannosyltransferase (Ktr4), putative"
                      /protein_id="XP_001266257.1"
+                     /gene_kind="biosynthetic"
      gene            1761..4513
                      /db_xref="GeneID:4592895"
                      /note="*Name NFIA_039370"
@@ -189,6 +190,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_039380"
                      /product="phosphoribosylformylglycinamidine synthase"
                      /protein_id="XP_001266259.1"
+                     /gene_kind="biosynthetic"
      misc_feature    9079..9107
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"
@@ -481,6 +483,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis protein,
                      putative"
                      /protein_id="XP_001266263.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAATGCATC CCCACATGCT TAAAGTAGCT GGGTCTGCAG TCTTCCTTGG CGAGGAAGGG
        61 TGCGCCCGCG TAGAATTGCC CAGGGGTGCA TTTAGAGCAC TTGGGTGAAT TGGGACAGTT

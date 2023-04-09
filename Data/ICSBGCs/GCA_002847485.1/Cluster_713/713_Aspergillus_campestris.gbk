@@ -61,6 +61,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFM|P168DRAFT_mRNA237791"
                      /product="cytochrome P450"
                      /protein_id="PKY03807.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2349..4576)
                      /note="*Name P168DRAFT_270352"
                      /note="*end_range: 1068434,."
@@ -119,6 +120,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="PKY03808.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6168..6887)
                      /note="*Name P168DRAFT_270355"
                      /note="*end_range: 1070745,."
@@ -388,6 +390,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFM|P168DRAFT_mRNA290930"
                      /product="phosphoribosylformylglycinamidine synthase"
                      /protein_id="PKY03812.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20799..23736)
                      /note="*Name P168DRAFT_270367"
                      /note="*gbkey: Gene"
@@ -521,6 +524,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFM|P168DRAFT_mRNA270369"
                      /product="glycolipid 2-alpha-mannosyltransferase"
                      /protein_id="PKY03814.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25993..26934)
                      /note="*Name P168DRAFT_290933"
                      /note="*gbkey: Gene"
@@ -725,6 +729,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFM|P168DRAFT_mRNA345027"
                      /product="hypothetical protein"
                      /protein_id="PKY03818.1"
+                     /gene_kind="biosynthetic"
      gene            50739..51159
                      /note="*Name P168DRAFT_345028"
                      /note="*gbkey: Gene"
@@ -763,6 +768,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFM|P168DRAFT_mRNA345028"
                      /product="hypothetical protein"
                      /protein_id="PKY03819.1"
+                     /gene_kind="biosynthetic"
      gene            complement(52185..56393)
                      /note="*Name P168DRAFT_237241"
                      /note="*end_range: 1120251,."
@@ -1090,6 +1096,7 @@ FEATURES             Location/Qualifiers
                      /product="putative nicotinamide nucleotide
                      transhydrogenase"
                      /protein_id="PKY03820.1"
+                     /gene_kind="biosynthetic"
      gene            57875..60298
                      /note="*Name P168DRAFT_290940"
                      /note="*gbkey: Gene"
@@ -1593,6 +1600,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFM|P168DRAFT_mRNA290944"
                      /product="hypothetical protein"
                      /protein_id="PKY03824.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCTACCC CCATTCCCAA GCCTAAAGGG CTCCCGATTT TGGGAAACTT GTTCAATCTC
        61 GATGGGAATA ATCCTTGGGC TTCGTTCAAT AAGCTGGCTT TGACTAATAA GGACTTCCGT

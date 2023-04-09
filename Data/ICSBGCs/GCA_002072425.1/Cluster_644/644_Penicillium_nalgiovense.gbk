@@ -38,6 +38,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MOOB|PENNAL_c0044T03979_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQE80797.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1250..2041)
                      /note="*Name PENNAL_c0044G10807"
                      /note="*Note atp19"
@@ -179,6 +180,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MOOB|PENNAL_c0044T05289_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQE80732.1"
+                     /gene_kind="biosynthetic"
      gene            6245..7704
                      /note="*Name PENNAL_c0044G03589"
                      /note="*Note MCH5_8"
@@ -317,6 +319,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MOOB|PENNAL_c0044T06058_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQE80714.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATCCAGCA GCCAAAACAG TAGCGACAAC ATACTCCCCA TCATGCGAGA TCGATAACTT
        61 CGCGACCCTC CCGTCACCCG CATCCCCATC CAGCGTATTC CCAAGATAAA CAATCTCAGG

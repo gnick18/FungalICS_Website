@@ -60,6 +60,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBPU|KXX14_003506-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1348138.1"
+                     /gene_kind="biosynthetic"
      gene            5457..7611
                      /note="*Name KXX14_003507"
                      /note="*gbkey: Gene"
@@ -145,6 +146,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBPU|KXX14_003508-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1368825.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12569..13463)
                      /note="*Name KXX14_003509"
                      /note="*gbkey: Gene"
@@ -261,6 +263,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBPU|KXX14_003511-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1368828.1"
+                     /gene_kind="biosynthetic"
      gene            17999..22117
                      /note="*Name KXX14_003512"
                      /note="*gbkey: Gene"
@@ -606,6 +609,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBPU|KXX14_003518-T1_mrna"
                      /product="mitochondrial Homoaconitase"
                      /protein_id="KAH1368835.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAATTCACA TGCACACGCC AGTGCTCGCG GTGGCCGTCC TCGAAGGCTG TGCGAGTGTG
        61 GTGGGTCATG GCGTTGTCGT TGAAGATGAA ATCCCCCGCC TTCCACTGGT GACGGTAGGC

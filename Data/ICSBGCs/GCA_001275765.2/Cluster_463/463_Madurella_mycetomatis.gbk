@@ -215,6 +215,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LCTW|MMYC01_203741-PA_mrna"
                      /product="Intracellular serine protease"
                      /protein_id="KXX79891.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16920..19032)
                      /note="*Name MMYC01_203742"
                      /note="*gbkey: Gene"
@@ -411,6 +412,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LCTW|MMYC01_203745-PA_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KXX79893.1"
+                     /gene_kind="biosynthetic"
      gene            28762..30311
                      /note="*Name MMYC01_203746"
                      /note="*gbkey: Gene"
@@ -457,6 +459,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LCTW|MMYC01_203746-PA_mrna"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="KXX79892.1"
+                     /gene_kind="biosynthetic"
      gene            complement(32591..32794)
                      /note="*Name MMYC01_203747"
                      /note="*gbkey: Gene"
@@ -577,6 +580,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LCTW|MMYC01_203749-PA_mrna"
                      /product="putative oxidoreductase YhdF"
                      /protein_id="KXX79894.1"
+                     /gene_kind="biosynthetic"
      gene            38897..40213
                      /note="*Name MMYC01_203750"
                      /note="*gbkey: Gene"
@@ -628,6 +632,7 @@ FEATURES             Location/Qualifiers
                      /product="Alpha-ketoglutarate-dependent sulfonate
                      dioxygenase"
                      /protein_id="KXX79906.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACACAATA ACCACCTCCT GCAATCTCTC TTCAATGTCC CGGTCTATCA CCTCCCCATT
        61 CATAGCTCCA TGCGCATAAC ACTCTCCAAA GAAACGAaac ctctccttcc caaccTCCAC

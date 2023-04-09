@@ -149,6 +149,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PPTI|CRV24_006242-RA_mrna"
                      /product="Metalloprotease StcE"
                      /protein_id="KAF1734699.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17266..19036)
                      /note="*Name DAC_1"
                      /note="*gbkey: Gene"
@@ -248,6 +249,7 @@ FEATURES             Location/Qualifiers
                      /product="Zinc-binding alcohol dehydrogenase
                      domain-containing protein cipB"
                      /protein_id="KAF1734701.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22233..23620)
                      /note="*Name hmgA_1"
                      /note="*gbkey: Gene"
@@ -290,6 +292,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PPTI|CRV24_006245-RA_mrna"
                      /product="Homogentisate 1,2-dioxygenase"
                      /protein_id="KAF1734702.1"
+                     /gene_kind="biosynthetic"
      gene            27039..27608
                      /note="*Name CRV24_006246"
                      /note="*gbkey: Gene"
@@ -551,6 +554,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PPTI|CRV24_006252-RA_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF1734707.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACAAGATG GATGGCGCTC TGCCAATGAT AGAGGACTCA TGCGTTGAAC AGGGGTATTC
        61 AGCTGCCATC CAACGCAGAA TATCTGTAGC TTCAGAGCTT ATCTTGTCGA GTCCACCTAG

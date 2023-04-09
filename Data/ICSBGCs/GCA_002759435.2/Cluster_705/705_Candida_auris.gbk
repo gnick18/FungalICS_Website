@@ -134,6 +134,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PEKT|mrna_B9J08_000273T0"
                      /product="kynureninase"
                      /protein_id="PIS58819.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            complement(5866..7185)
                      /note="*Name B9J08_000274"
@@ -163,6 +164,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PEKT|mrna_B9J08_000274T0"
                      /product="enolase 2"
                      /protein_id="PIS58820.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            9121..10014
                      /note="*Name B9J08_000275"
@@ -221,6 +223,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PEKT|mrna_B9J08_000276T0"
                      /product="chaperone DnaK"
                      /protein_id="PIS58822.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            complement(12478..14028)
                      /note="*Name B9J08_000277"
@@ -454,6 +457,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PEKT|mrna_B9J08_000284T0"
                      /product="hypothetical protein"
                      /protein_id="PIS58830.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
 ORIGIN
         1 TCAAATATCG TTAGACCCAA TGAACCCATT GTCTCCTTGC ATGATGTCCA AGTTGCTCGT

@@ -36,6 +36,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AIEN|DOTSEDRAFT_mRNA70052"
                      /product="hypothetical protein"
                      /protein_id="EME45891.1"
+                     /gene_kind="biosynthetic"
      gene            1684..2774
                      /note="*Name DOTSEDRAFT_70053"
                      /note="*gbkey: Gene"
@@ -214,6 +215,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="EME45895.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,36462"
      gene            complement(11978..13565)
                      /note="*Name DOTSEDRAFT_60639"
@@ -297,6 +299,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AIEN|DOTSEDRAFT_mRNA60639"
                      /product="hypothetical protein"
                      /protein_id="EME45896.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14222..15950)
                      /note="*Name DOTSEDRAFT_22021"
                      /note="*end_range: 41833,."
@@ -462,6 +465,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AIEN|DOTSEDRAFT_mRNA51518"
                      /product="hypothetical protein"
                      /protein_id="EME45898.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTGATCGAAA CCGGCCGTCG GACTTGACAC AACAGGAGGA TCACCTACGA TGGCATGGCC
        61 TGATTACATA GACATCAAGC TCACCGCGAG CATCATCGTA CTGCTTTCTC TATCGTACAA

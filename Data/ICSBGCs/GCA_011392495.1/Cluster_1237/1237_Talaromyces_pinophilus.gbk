@@ -36,6 +36,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QMIJ|DPV78_001480-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3406227.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1378..3509)
                      /note="*Name DPV78_001481"
                      /note="*gbkey: Gene"
@@ -109,6 +110,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QMIJ|DPV78_001481-RA_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF3406228.1"
+                     /gene_kind="biosynthetic"
      gene            6036..7889
                      /note="*Name DPV78_001482"
                      /note="*gbkey: Gene"
@@ -213,6 +215,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QMIJ|DPV78_001482-RA_mrna"
                      /product="3-hydroxybenzoate 4-monooxygenase"
                      /protein_id="KAF3406229.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8245..9439)
                      /note="*Name DPV78_001483"
                      /note="*gbkey: Gene"
@@ -332,6 +335,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Sorbose reductase SOU1"
                      /protein_id="KAF3406231.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,4211427"
 ORIGIN
         1 ATGTTAGACG CATACACTGA AGCCAAAGCC GAGGGCCGAA ATCCAAATAT TCAGGAGATT

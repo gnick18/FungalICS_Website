@@ -85,6 +85,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|F9C07_mRNA2286415"
                      /product="putative monooxygenase"
                      /protein_id="QRD94295.1"
+                     /gene_kind="biosynthetic"
      gene            3993..6115
                      /note="*Name F9C07_11992"
                      /note="*end_range: 2609342,."
@@ -175,6 +176,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="QRD94296.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6208..9062)
                      /note="*Name F9C07_2286418"
                      /note="*gbkey: Gene"
@@ -352,6 +354,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="QRD94298.1"
+                     /gene_kind="biosynthetic"
      gene            11226..13010
                      /note="*Name F9C07_11988"
                      /note="*end_range: 2616237,."
@@ -418,6 +421,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|F9C07_mRNA11988"
                      /product="putative phytoene dehydrogenase"
                      /protein_id="QRD94299.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13072..15328)
                      /note="*Name F9C07_1796314"
                      /note="*gbkey: Gene"
@@ -523,6 +527,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|F9C07_mRNA1796314"
                      /product="Lycopene beta-cyclase"
                      /protein_id="QRD94300.1"
+                     /gene_kind="biosynthetic"
      gene            15635..17528
                      /note="*Name F9C07_2261304"
                      /note="*end_range: 2620755,."
@@ -744,6 +749,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|F9C07_mRNA11984"
                      /product="isoamyl alcohol oxidase"
                      /protein_id="QRD94303.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ACTAAGCGCG CGACGACttg gcatcatcat ctgcactCAC CCTGCAGGGG TGTAGGGTGG
        61 GTAGGGTTTC AATTGATTTG ACCACTGCAT AGCAATAACA CCTCCGGTTA GGGTATAGCT

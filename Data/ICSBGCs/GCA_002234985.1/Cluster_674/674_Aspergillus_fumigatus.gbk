@@ -276,6 +276,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHS|CDV58_00919-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="OXN10215.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11749..12826)
                      /note="*Name CDV58_00920"
                      /note="*gbkey: Gene"
@@ -447,6 +448,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHS|CDV58_00921-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="OXN10260.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCGGATC AACAACACCA TCAGGATGCC ATGCGGAGGT TCTCCTTGGG AACTGGCCAG
        61 GGCCAAGTCG ACCCCCTGGA CCTTCCCCTC CGCCAAGTCA CCAACGATGC GAACATGGAA

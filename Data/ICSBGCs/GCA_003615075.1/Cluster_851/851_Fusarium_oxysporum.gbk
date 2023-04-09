@@ -63,6 +63,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRCW|BFJ67_g4692.t1"
                      /product="hypothetical protein"
                      /protein_id="RKK54606.1"
+                     /gene_kind="biosynthetic"
      gene            2319..5898
                      /note="*Name BFJ67_g4625"
                      /note="*end_range: 229239,."
@@ -188,6 +189,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRCW|BFJ67_g4625.t1"
                      /product="Copper-transporting ATPase ccc2"
                      /protein_id="RKK54539.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6139..7409)
                      /note="*Name BFJ67_g4680"
                      /note="*end_range: 230750,."
@@ -365,6 +367,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRCW|BFJ67_g4682.t1"
                      /product="hypothetical protein"
                      /protein_id="RKK54596.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGGATGAG CGTATCCTGG GCCTATGGGC CTGTGGCTCC TGTTGAATAA CTATACGCGG
        61 CTTCGCGTTC TCCATCAGGT ATGGTCGTTG ACGGAGGACC TCCCTGAAGT AGCTCGGCCG

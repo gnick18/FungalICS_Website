@@ -178,6 +178,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJM|BKA66DRAFT_mRNA455651"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAH7394730.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9922..10483)
                      /note="*Name BKA66DRAFT_606397"
                      /note="*gbkey: Gene"
@@ -511,6 +512,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJM|BKA66DRAFT_mRNA599119"
                      /product="Cupredoxin"
                      /protein_id="KAH7394735.1"
+                     /gene_kind="biosynthetic"
      gene            complement(19633..21062)
                      /note="*Name BKA66DRAFT_438540"
                      /note="*end_range: 512672,."
@@ -594,6 +596,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7394736.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTTGTTCACC CATATGACAG TGCCTTGCCT GTCCTTTACT TCTTTGCAAA GAAGGTAGGC
        61 AAACTTCTTG ATACTGGAGA CTTGCAGTCT CGTTCCAACG ATTACCACAG CGTCAATTTC

@@ -80,6 +80,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014776.t1_mrna"
                      /product="Monooxygenase aurF"
                      /protein_id="KAF5484797.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2592..4380)
                      /note="*Name CGCS363_v014777"
                      /note="*Note General alpha-glucoside permease"
@@ -267,6 +268,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014779.t1_mrna"
                      /product="2-methylene-furan-3-one reductase"
                      /protein_id="KAF5484802.1"
+                     /gene_kind="biosynthetic"
      gene            14898..15695
                      /note="*Name deoC-1"
                      /note="*gbkey: Gene"
@@ -299,6 +301,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014780.t1_mrna"
                      /product="Deoxyribose-phosphate aldolase"
                      /protein_id="KAF5485027.1"
+                     /gene_kind="biosynthetic"
      gene            16177..18858
                      /note="*Name MRR1"
                      /note="*gbkey: Gene"
@@ -430,6 +433,7 @@ FEATURES             Location/Qualifiers
                      /product="Alpha-ketoglutarate-dependent
                      2,4-dichlorophenoxyacetate dioxygenase"
                      /protein_id="KAF5485029.1"
+                     /gene_kind="biosynthetic"
      gene            20510..22069
                      /note="*Name BOT5-1"
                      /note="*gbkey: Gene"
@@ -482,6 +486,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014783.t1_mrna"
                      /product="Acetyltransferase BOT5"
                      /protein_id="KAF5485030.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22158..28686)
                      /note="*Name MFS2-1"
                      /note="*gbkey: Gene"
@@ -598,6 +603,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014784.t1_mrna"
                      /product="MFS siderochrome iron transporter 1"
                      /protein_id="KAF5485023.1"
+                     /gene_kind="biosynthetic"
      gene            29722..30923
                      /note="*Name DIT1-0"
                      /note="*gbkey: Gene"
@@ -651,6 +657,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014785.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF5485024.1"
+                     /gene_kind="biosynthetic"
      gene            32922..36078
                      /note="*Name RSN1-0"
                      /note="*gbkey: Gene"
@@ -935,6 +942,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014790.t1_mrna"
                      /product="FAD-linked oxidoreductase ZEB1"
                      /protein_id="KAF5484496.1"
+                     /gene_kind="biosynthetic"
      gene            82023..85954
                      /note="*Name CGCS363_v014791"
                      /note="*Note Uncharacterized protein"
@@ -1001,6 +1009,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014791.t1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAF5484495.1"
+                     /gene_kind="biosynthetic"
      gene            87625..88856
                      /note="*Name CGCS363_v014792"
                      /note="*Note O-methyltransferase"
@@ -1039,6 +1048,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNA|CGCS363_v014792.t1_mrna"
                      /product="O-methyltransferase"
                      /protein_id="KAF5484494.1"
+                     /gene_kind="biosynthetic"
      gene            complement(89184..91443)
                      /note="*Name CGCS363_v014793"
                      /note="*Note Flavin carrier protein 2"

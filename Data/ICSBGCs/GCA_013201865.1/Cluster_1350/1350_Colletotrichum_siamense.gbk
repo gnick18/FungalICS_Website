@@ -48,6 +48,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v014826.t1_mrna"
                      /product="putative isochorismatase family protein YddQ"
                      /protein_id="KAF4861794.1"
+                     /gene_kind="biosynthetic"
      gene            1416..1855
                      /note="*Name CGCSCA1_v014827"
                      /note="*gbkey: Gene"
@@ -146,6 +147,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v014829.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="KAF4861798.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7539..9305)
                      /note="*Name DIT1-1"
                      /note="*gbkey: Gene"
@@ -200,6 +202,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v014830.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4861814.1"
+                     /gene_kind="biosynthetic"
      gene            11190..12669
                      /note="*Name CGCSCA1_v014831"
                      /note="*Note Fujikurins efflux protein"
@@ -311,6 +314,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v014832.t1_mrna"
                      /product="oxidoreductase ptaK"
                      /protein_id="KAF4861816.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22466..24919)
                      /note="*Name LIP-1"
                      /note="*gbkey: Gene"
@@ -374,6 +378,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v014833.t1_mrna"
                      /product="Lipase"
                      /protein_id="KAF4861815.1"
+                     /gene_kind="biosynthetic"
      gene            26095..27044
                      /note="*Name CGCSCA1_v014834"
                      /note="*gbkey: Gene"
@@ -420,6 +425,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v014834.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4861810.1"
+                     /gene_kind="biosynthetic"
      gene            complement(27206..28742)
                      /note="*Name CGCSCA1_v014835"
                      /note="*gbkey: Gene"
@@ -761,6 +767,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sterigmatocystin biosynthesis P450
                      monooxygenase stcS"
                      /protein_id="KAF4861787.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACAATATA TCGGTGCTCT TGACTACGGT GCCGAATGCA TCCGCAATCT CGGCCAAAGA
        61 AACCTTCGTC AACTCCTCAG CGCTTGTTCC AGGGATATTG CGGTCACCGA CCGCATCTTC

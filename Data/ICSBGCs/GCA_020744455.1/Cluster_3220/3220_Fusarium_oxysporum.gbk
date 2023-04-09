@@ -76,6 +76,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7210304.1"
+                     /gene_kind="biosynthetic"
      gene            2064..5867
                      /note="*Name BKA60DRAFT_524023"
                      /note="*gbkey: Gene"
@@ -128,6 +129,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEWL|BKA60DRAFT_mRNA524023"
                      /product="E1-E2 ATPase-domain-containing protein"
                      /protein_id="KAH7210305.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6133..7403)
                      /note="*Name BKA60DRAFT_651462"
                      /note="*end_range: 449617,."
@@ -328,6 +330,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEWL|BKA60DRAFT_mRNA495401"
                      /product="cytochrome P450"
                      /protein_id="KAH7210308.1"
+                     /gene_kind="biosynthetic"
      gene            14482..18885
                      /note="*Name BKA60DRAFT_524033"
                      /note="*gbkey: Gene"
@@ -448,6 +451,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEWL|BKA60DRAFT_mRNA524033"
                      /product="hypothetical protein"
                      /protein_id="KAH7210309.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGGATGCA CGTATCCTGG GCCTATGGGC CTGTGGCTCC TGTTGAACAA CTATACGCGG
        61 CTTTGCGTTC TCCATCAGGT ATGGTCGCTG ACGGAGGACC TCCCTGAAGT AGCTCGGCCG

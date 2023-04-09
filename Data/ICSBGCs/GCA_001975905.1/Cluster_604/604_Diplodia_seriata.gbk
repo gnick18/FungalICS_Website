@@ -31,6 +31,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004717_T"
                      /product="Gluconolactonase"
                      /protein_id="OMP83336.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2140..3500)
                      /note="*Name BK809_0004718"
                      /note="*gbkey: Gene"
@@ -120,6 +121,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="OMP83338.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,1256279"
      gene            complement(7603..9087)
                      /note="*Name BK809_0004720"
@@ -146,6 +148,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004720_T"
                      /product="Laccase-1"
                      /protein_id="OMP83339.1"
+                     /gene_kind="biosynthetic"
      gene            10976..12944
                      /note="*Name BK809_0004721"
                      /note="*gbkey: Gene"
@@ -193,6 +196,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004721_T"
                      /product="Choline dehydrogenase"
                      /protein_id="OMP83340.1"
+                     /gene_kind="biosynthetic"
      gene            13600..13911
                      /note="*Name BK809_0004722"
                      /note="*gbkey: Gene"
@@ -218,6 +222,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004722_T"
                      /product="Aflatoxin biosynthesis ketoreductase nor-1"
                      /protein_id="OMP83341.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16032..17832)
                      /note="*Name BK809_0004723"
                      /note="*gbkey: Gene"
@@ -388,6 +393,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="OMP83344.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,1274592"
      gene            complement(25789..26976)
                      /note="*Name BK809_0004726"
@@ -443,6 +449,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004726_T"
                      /product="Sterigmatocystin 8-O-methyltransferase"
                      /protein_id="OMP83345.1"
+                     /gene_kind="biosynthetic"
      gene            27972..29497
                      /note="*Name BK809_0004727"
                      /note="*gbkey: Gene"
@@ -537,6 +544,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Phosphoethanolamine N-methyltransferase 1"
                      /protein_id="OMP83346.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,1278784"
      gene            complement(33182..34023)
                      /note="*Name BK809_0004728"
@@ -612,6 +620,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004729_T"
                      /product="POF1-like protein"
                      /protein_id="OMP83348.1"
+                     /gene_kind="biosynthetic"
      gene            42795..45203
                      /note="*Name BK809_0004730"
                      /note="*gbkey: Gene"
@@ -669,6 +678,7 @@ FEATURES             Location/Qualifiers
                      5-methyltetrahydropteroyltriglutamate--homocysteine
                      methyltransferase"
                      /protein_id="OMP83349.1"
+                     /gene_kind="biosynthetic"
      gene            complement(56826..60881)
                      /note="*Name BK809_0004731"
                      /note="*gbkey: Gene"
@@ -739,6 +749,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004732_T"
                      /product="Cytochrome b2, mitochondrial"
                      /protein_id="OMP83351.1"
+                     /gene_kind="biosynthetic"
      gene            complement(68753..70352)
                      /note="*Name BK809_0004733"
                      /note="*gbkey: Gene"
@@ -803,6 +814,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004733_T"
                      /product="Ethanolamine-phosphate cytidylyltransferase"
                      /protein_id="OMP83352.1"
+                     /gene_kind="biosynthetic"
      gene            70822..72325
                      /note="*Name BK809_0004734"
                      /note="*gbkey: Gene"
@@ -883,6 +895,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0004735_T"
                      /product="hypothetical protein"
                      /protein_id="OMP83354.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGAGGAAG TAGTTGTTCG GATCCGGCCC CTCCAGATCC CACTCCACCT TCGTAATACC
        61 ACCGATACCC ACCAAATATA GCGTTTTCAG ATCATCGCCC GTCCACGCAA TGTTCTCAAC

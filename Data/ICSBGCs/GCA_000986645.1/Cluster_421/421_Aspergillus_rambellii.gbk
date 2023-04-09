@@ -34,6 +34,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JZBS|ARAM_003774-RA_mrna"
                      /product="lipase"
                      /protein_id="KKK24686.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1710..3068)
                      /note="*Name ARAM_003775"
                      /note="*gbkey: Gene"
@@ -62,6 +63,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JZBS|ARAM_003775-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="KKK24687.1"
+                     /gene_kind="biosynthetic"
      gene            3903..9220
                      /note="*Name ARAM_003776"
                      /note="*gbkey: Gene"
@@ -137,6 +139,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JZBS|ARAM_003776-RA_mrna"
                      /product="transferase family protein"
                      /protein_id="KKK24685.1"
+                     /gene_kind="biosynthetic"
      gene            10122..11903
                      /note="*Name ARAM_003777"
                      /note="*gbkey: Gene"
@@ -267,6 +270,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JZBS|ARAM_003779-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="KKK24689.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17230..18096)
                      /note="*Name ARAM_003780"
                      /note="*gbkey: Gene"
@@ -295,6 +299,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JZBS|ARAM_003780-RA_mrna"
                      /product="pirin domain protein"
                      /protein_id="KKK24693.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18495..20967)
                      /note="*Name ARAM_003781"
                      /note="*gbkey: Gene"
@@ -370,6 +375,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JZBS|ARAM_003781-RA_mrna"
                      /product="hypothetical protein"
                      /protein_id="KKK24692.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGCATTCC ACACGTTTAG ACTGCATAAT CCGTTTTAGC CAGGTTTTCT TTGATACAAT
        61 GGCAGCATGA ATAAGTGGCA CATCCGGGTT ATCCATCCCA TCAAATAAGT GGAAGGCACC

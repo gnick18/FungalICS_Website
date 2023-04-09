@@ -384,6 +384,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKS|E8E15_011301-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3030890.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24602..27247)
                      /note="*Name E8E15_011302"
                      /note="*gbkey: Gene"
@@ -487,6 +488,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKS|E8E15_011305-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3030892.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATGCGATG CTGACGAAGA GAGTCAGCTT AGTGTTCCGC TGCATGGCGT TCTCCAGATC
        61 CTGATCGGTA TAGAGATCGA TATAGGAGCC AGAGGATTCG TCACGGTACT GCACAACGAT

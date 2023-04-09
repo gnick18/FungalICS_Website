@@ -102,6 +102,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="XP_031915668.1"
+                     /gene_kind="biosynthetic"
      gene            4126..5983
                      /db_xref="GeneID:43641238"
                      /note="*Name BDV38DRAFT_269776"
@@ -231,6 +232,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFH|BDV38DRAFT_mRNA269776"
                      /product="FAD binding domain-containing protein"
                      /protein_id="XP_031915669.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7661..8232)
                      /db_xref="GeneID:43638266"
                      /note="*Name BDV38DRAFT_241816"
@@ -354,6 +356,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFH|BDV38DRAFT_mRNA241818"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="XP_031915671.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GCAACAGCGC ATAGCATAAA ATAACAAAAC ACAATGATGC AACCAAACAT CCAACGCAAG
        61 AAGCCATGCT AATACATGAA ATCAATCAAT CAATCAATCA ACATGGATCC TCCTCAAACA

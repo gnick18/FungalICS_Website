@@ -69,6 +69,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHA|BBO_mRNA08344"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="OAA36172.1"
+                     /gene_kind="biosynthetic"
      gene            2701..4325
                      /note="*Name BBO_08345"
                      /note="*end_range: 168125,."
@@ -130,6 +131,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHA|BBO_mRNA08345"
                      /product="Cytochrome P450 family protein"
                      /protein_id="OAA36173.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4809..6713)
                      /note="*Name BBO_08346"
                      /note="*end_range: 170513,."
@@ -211,6 +213,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHA|BBO_mRNA08346"
                      /product="autophagy-related protein 22"
                      /protein_id="OAA36174.1"
+                     /gene_kind="biosynthetic"
      gene            7450..9352
                      /note="*Name BBO_08347"
                      /note="*end_range: 173152,."
@@ -334,6 +337,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHA|BBO_mRNA08348"
                      /product="major facilitator superfamily transporter"
                      /protein_id="OAA36176.1"
+                     /gene_kind="biosynthetic"
      gene            14027..15115
                      /note="*Name BBO_08349"
                      /note="*end_range: 178915,."
@@ -368,6 +372,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHA|BBO_mRNA08349"
                      /product="adenosine deaminase"
                      /protein_id="OAA36177.1"
+                     /gene_kind="biosynthetic"
      gene            17076..18950
                      /note="*Name BBO_08350"
                      /note="*end_range: 182750,."
@@ -402,6 +407,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHA|BBO_mRNA08350"
                      /product="arginine deiminase type-3"
                      /protein_id="OAA36178.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACTGAGGC GTGAGATGTG CGTAAAGGCC TTCCACGGGT GAATCCACAA TGCCTCCACG
        61 AAATTTACCT GATGCCAGAG CTTCTCGTAC GATGCTTGAT TTTGTGACAA TGACTGAAGA

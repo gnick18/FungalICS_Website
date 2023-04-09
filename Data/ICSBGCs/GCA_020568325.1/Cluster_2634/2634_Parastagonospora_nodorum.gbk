@@ -503,6 +503,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRDU|mrna.HBI09_126950A"
                      /product="hypothetical protein"
                      /protein_id="KAH4030246.1"
+                     /gene_kind="biosynthetic"
      misc_feature    28890..28943
                      /note="*Type SO:0000658 dispersed_repeat"
                      /note="*Note Match to RepeatModeler de-novo family
@@ -571,6 +572,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRDU|mrna.HBI09_126970A"
                      /product="cutinase"
                      /protein_id="KAH4030247.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31651..31956)
                      /note="*Name HBI09_126980"
                      /note="*gbkey: Gene"
@@ -723,6 +725,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRDU|mrna.HBI09_127000A"
                      /product="hypothetical protein"
                      /protein_id="KAH4030250.1"
+                     /gene_kind="biosynthetic"
      gene            35989..39091
                      /note="*Name HBI09_127010"
                      /note="*gbkey: Gene"
@@ -894,6 +897,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRDU|mrna.HBI09_127030A"
                      /product="hypothetical protein"
                      /protein_id="KAH4030253.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 agagtatata tactaattac taatctagat aataataata gtttataggc tACGTCAGGA
        61 AAAGTGAAAA GTGTCTGGTT AGTAGTGTCA CCGCAATTCG CCGTCGATTC GACAGATATA

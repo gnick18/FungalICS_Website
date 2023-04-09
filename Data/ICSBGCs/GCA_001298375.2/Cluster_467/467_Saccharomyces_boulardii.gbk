@@ -77,6 +77,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LIIL|BIOC_mrna01175"
                      /product="DIT2p N-formyltyrosine oxidase"
                      /protein_id="KOH51845.1"
+                     /gene_kind="biosynthetic"
      gene            3541..5151
                      /note="*Name KO01_01176"
                      /note="*end_range: 1265002,."
@@ -115,6 +116,7 @@ FEATURES             Location/Qualifiers
                      /product="DIT1p Sporulation-specific enzyme required for
                      spore wall maturation"
                      /protein_id="KOH51846.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5597..6049)
                      /note="*Name KO01_01177"
                      /note="*end_range: 1265900,."

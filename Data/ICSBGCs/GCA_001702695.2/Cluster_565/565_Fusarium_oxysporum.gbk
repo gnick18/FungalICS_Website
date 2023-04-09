@@ -89,6 +89,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MABQ|mrna.g13096.t1"
                      /product="hypothetical protein"
                      /protein_id="PCD26665.1"
+                     /gene_kind="biosynthetic"
      gene            3793..5601
                      /note="*Name AU210_013088"
                      /note="*description: Major facilitator superfamily (MFS)
@@ -298,6 +299,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MABQ|mrna.g13100.t1"
                      /product="hypothetical protein"
                      /protein_id="PCD26669.1"
+                     /gene_kind="biosynthetic"
      gene            15840..17131
                      /note="*Name AU210_013092"
                      /note="*description: Region of a membrane-bound protein
@@ -348,6 +350,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MABQ|mrna.g13101.t1"
                      /product="hypothetical protein"
                      /protein_id="PCD26670.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17621..19474)
                      /note="*Name AU210_013093"
                      /note="*description: Region of a membrane-bound protein
@@ -536,6 +539,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MABQ|mrna.g13103.t1"
                      /product="hypothetical protein"
                      /protein_id="PCD26672.1"
+                     /gene_kind="biosynthetic"
      gene            22140..23955
                      /note="*Name AU210_013095"
                      /note="*description: X-Pro dipeptidyl-peptidase (S15
@@ -596,6 +600,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MABQ|mrna.g13104.t1"
                      /product="hypothetical protein"
                      /protein_id="PCD26673.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24178..24856)
                      /note="*Name AU210_013096"
                      /note="*description: DJ-1/PfpI family"
@@ -789,6 +794,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MABQ|mrna.g13107.t1"
                      /product="hypothetical protein"
                      /protein_id="PCD26676.1"
+                     /gene_kind="biosynthetic"
      gene            32570..34085
                      /note="*Name AU210_013099"
                      /note="*description: Pyoverdine/dityrosine biosynthesis
@@ -830,6 +836,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MABQ|mrna.g13108.t1"
                      /product="hypothetical protein"
                      /protein_id="PCD26677.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATTGGTAA TACTTGATGG AGTTGAAGAG CCAGTACGAC TCTTTGAAGG CCTCAGGATG
        61 GTTAGTGACA TAGTCATCAC AGGTCTTAGA TCCAGTAGAA GCCTTGCACT CTTCGTTCCA

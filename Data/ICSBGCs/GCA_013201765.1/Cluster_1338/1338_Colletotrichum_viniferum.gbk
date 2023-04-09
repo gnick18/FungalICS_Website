@@ -97,6 +97,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMQ|CGCVW01_v010469.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4914935.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5330..6841)
                      /note="*Name abfB"
                      /note="*gbkey: Gene"
@@ -129,6 +130,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMQ|CGCVW01_v010470.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="KAF4914936.1"
+                     /gene_kind="biosynthetic"
      gene            16206..18182
                      /note="*Name xptC-1"
                      /note="*gbkey: Gene"
@@ -181,6 +183,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMQ|CGCVW01_v010471.t1_mrna"
                      /product="Dehydrogenase xptC"
                      /protein_id="KAF4914952.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACGAATGA GTGATTCTCC AGAAGTCCTT TTGGCCAACC TGCTTGATTT TCGCGAGAGC
        61 AACCAGGAGT CCACCGACAA GCATGGTTGT ACCAGCGAAC AGCTGTGCGT AGAGAAAGTC

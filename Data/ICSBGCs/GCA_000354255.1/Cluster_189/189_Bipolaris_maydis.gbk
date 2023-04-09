@@ -91,6 +91,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA201275"
                      /product="hypothetical protein"
                      /protein_id="ENI02391.1"
+                     /gene_kind="biosynthetic"
      gene            2592..4379
                      /note="*Name COCC4DRAFT_111157"
                      /note="*end_range: 4698,."
@@ -192,6 +193,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="ENI02392.1"
+                     /gene_kind="biosynthetic"
      gene            5229..5768
                      /note="*Name COCC4DRAFT_42491"
                      /note="*end_range: 6087,."
@@ -228,6 +230,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA42491"
                      /product="hypothetical protein"
                      /protein_id="ENI02393.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6647..8314)
                      /note="*Name COCC4DRAFT_144791"
                      /note="*end_range: 8633,."
@@ -384,6 +387,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA25646"
                      /product="hypothetical protein"
                      /protein_id="ENI02395.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAATGGTA GTGGATGAAA CGTTGTAGCC TTGAATTCTA AGGTTACTAG CTATATCCGC
        61 GTAGGTTTTC TCTCTACTGT ACCTATCGCG GTGTACTTTT TTAAGGGTAG CTTTATGGAT

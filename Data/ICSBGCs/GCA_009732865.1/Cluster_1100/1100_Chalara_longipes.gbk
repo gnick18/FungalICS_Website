@@ -323,6 +323,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VKGA|N431DRAFT_mRNA543535"
                      /product="cytochrome P450"
                      /protein_id="KAE9374069.1"
+                     /gene_kind="biosynthetic"
      gene            11927..15937
                      /note="*Name N431DRAFT_371461"
                      /note="*gbkey: Gene"
@@ -371,6 +372,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VKGA|N431DRAFT_mRNA371461"
                      /product="heavy metal translocatin"
                      /protein_id="KAE9374070.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15979..17262)
                      /note="*Name N431DRAFT_464358"
                      /note="*end_range: 231926,."
@@ -519,6 +521,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VKGA|N431DRAFT_mRNA543538"
                      /product="cytochrome P450"
                      /protein_id="KAE9374072.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20990..21532)
                      /note="*Name N431DRAFT_556490"
                      /note="*end_range: 236196,."
@@ -611,6 +614,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VKGA|N431DRAFT_mRNA404578"
                      /product="hypothetical protein"
                      /protein_id="KAE9374074.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24984..29185)
                      /note="*Name N431DRAFT_503032"
                      /note="*end_range: 243849,."
@@ -732,6 +736,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VKGA|N431DRAFT_mRNA503032"
                      /product="acetyl-CoA synthetase-like protein"
                      /protein_id="KAE9374075.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31103..33098)
                      /note="*Name N431DRAFT_335896"
                      /note="*end_range: 247762,."
@@ -808,6 +813,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VKGA|N431DRAFT_mRNA335896"
                      /product="cytochrome P450"
                      /protein_id="KAE9374076.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CGGCTACCAG AGTTCAGTGT TGGATATCTA ACATCTTTTG CATCAGTGAA CAGTAACTCA
        61 ACAGTTTCTC CATCATCCTG CCCCGTACCA GCTCTCCTAG TAATTTCCCC GTACGTCACA

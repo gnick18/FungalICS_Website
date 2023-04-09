@@ -276,6 +276,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VCHE|g7660_t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAB2573709.1"
+                     /gene_kind="biosynthetic"
      gene            14755..16192
                      /note="*Name FLS"
                      /note="*gbkey: Gene"
@@ -377,6 +378,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VCHE|g7661_t1_mrna"
                      /product="Flavonol synthase/flavanone 3-hydroxylase"
                      /protein_id="KAB2573708.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16338..18131)
                      /note="*Name fmpF_2"
                      /note="*gbkey: Gene"
@@ -489,6 +491,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VCHE|g7662_t1_mrna"
                      /product="Aromatic hydroxylase fmpF"
                      /protein_id="KAB2573707.1"
+                     /gene_kind="biosynthetic"
      gene            19860..21876
                      /note="*Name DIT1_1"
                      /note="*gbkey: Gene"
@@ -555,6 +558,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VCHE|g7663_t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAB2573706.1"
+                     /gene_kind="biosynthetic"
      gene            24084..25966
                      /note="*Name cyp525A1"
                      /note="*gbkey: Gene"
@@ -623,6 +627,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VCHE|g7664_t1_mrna"
                      /product="putative cytochrome P450"
                      /protein_id="KAB2573705.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCCGAGA GCTCGTACCA TGACGAGCGG GAAGACGAAG CACAACAGCC CCTTGTCGTC
        61 ACCCGCAGCC CGGCAATAAA TGAACCCCTT GATCCCGACG AAGCCTCGAT CCCCTCGATG

@@ -43,6 +43,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00003851"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="KAF3797952.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6932..8698)
                      /note="*Name GCG54_00003852"
                      /note="*gbkey: Gene"
@@ -91,6 +92,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00003852"
                      /product="hypothetical protein"
                      /protein_id="KAF3797953.1"
+                     /gene_kind="biosynthetic"
      gene            13234..15996
                      /note="*Name GCG54_00003853"
                      /note="*gbkey: Gene"
@@ -183,6 +185,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00003853"
                      /product="Oxidoreductase OpS5"
                      /protein_id="KAF3797954.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16336..18847)
                      /note="*Name GCG54_00003854"
                      /note="*gbkey: Gene"
@@ -239,6 +242,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00003854"
                      /product="hypothetical protein"
                      /protein_id="KAF3797955.1"
+                     /gene_kind="biosynthetic"
      gene            20024..20973
                      /note="*Name GCG54_00003855"
                      /note="*gbkey: Gene"
@@ -285,6 +289,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00003855"
                      /product="hypothetical protein"
                      /protein_id="KAF3797956.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21124..22660)
                      /note="*Name GCG54_00003856"
                      /note="*gbkey: Gene"
@@ -612,6 +617,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sterigmatocystin biosynthesis P450
                      monooxygenase"
                      /protein_id="KAF3797963.1"
+                     /gene_kind="biosynthetic"
      gene            43259..44775
                      /note="*Name GCG54_00003863"
                      /note="*gbkey: Gene"
@@ -695,6 +701,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WVTB|mRNA.GCG54_00003863"
                      /product="hypothetical protein"
                      /protein_id="KAF3797964.1"
+                     /gene_kind="biosynthetic"
      gene            complement(45857..46253)
                      /note="*Name GCG54_00003864"
                      /note="*end_range: 75502,."
@@ -741,6 +748,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="putative reductase 1"
                      /protein_id="KAF3797965.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCTTCGG TGACCGACTT CAAGCCGAAA GTGAGCATCA CTCACATCGG AACTGCGACT
        61 GCTATCCTCG AGATCGATGG TGTACGCTTT TTGACCGACC CCTTCTTTTC ACCAGCAGGC

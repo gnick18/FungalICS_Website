@@ -282,6 +282,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRDA|BFJ70_g5706.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL39453.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10012..11441)
                      /note="*Name BFJ70_g5707"
                      /note="*end_range: 464207,."
@@ -345,6 +346,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRDA|BFJ70_g5707.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL39454.1"
+                     /gene_kind="biosynthetic"
      gene            12330..15693
                      /note="*Name BFJ70_g5817"
                      /note="*end_range: 468459,."
@@ -394,6 +396,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRDA|BFJ70_g5817.t1"
                      /product="Copper-transporting ATPase ccc2"
                      /protein_id="RKL39565.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16150..17420)
                      /note="*Name BFJ70_g5816"
                      /note="*end_range: 470186,."
@@ -567,6 +570,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRDA|BFJ70_g5818.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL39566.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACCCTTGG AGCTCTTGTA CTGTAGGAGG AGACTTGGTG CTTCTTTGGT CACCGACTTC
        61 AGGATAGTGC CCATATGCCT GAGGATATTG TTGCTGGTAT AGATGTGCCT GGGAGACGTC

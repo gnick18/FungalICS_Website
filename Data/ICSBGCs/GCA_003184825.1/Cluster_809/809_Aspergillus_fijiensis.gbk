@@ -57,6 +57,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTG|BO72DRAFT_mRNA519251"
                      /product="Aldo/keto reductase"
                      /protein_id="RAK73183.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1310..2979)
                      /note="*Name BO72DRAFT_438077"
                      /note="*end_range: 153275,."
@@ -369,6 +370,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTG|BO72DRAFT_mRNA531296"
                      /product="Rieske [2Fe-2S] domain protein"
                      /protein_id="RAK73189.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11644..12509)
                      /note="*Name BO72DRAFT_480449"
                      /note="*end_range: 162805,."
@@ -493,6 +495,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="RAK73191.1"
+                     /gene_kind="biosynthetic"
      gene            15347..17131
                      /note="*Name BO72DRAFT_519275"
                      /note="*end_range: 167427,."
@@ -662,6 +665,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTG|BO72DRAFT_mRNA500321"
                      /product="hypothetical protein"
                      /protein_id="RAK73193.1"
+                     /gene_kind="biosynthetic"
      gene            19358..19837
                      /note="*Name BO72DRAFT_500322"
                      /note="*end_range: 170133,."
@@ -716,6 +720,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTG|BO72DRAFT_mRNA500322"
                      /product="hypothetical protein"
                      /protein_id="RAK73194.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGACATGT TCGCCCCCGC GCCCCCTCCC CCCACCGCCC TAGGCCGGTA CCGCACGCTC
        61 TCCTCGACCG CCGGCATCCG GGTCTCGCCC TTCCAACTCG GCGCGATGTC CATCGGCACC

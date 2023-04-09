@@ -52,6 +52,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYBQ|HYPBUDRAFT_mRNA111678"
                      /product="Pkinase-domain-containing protein"
                      /protein_id="ODV66549.1"
+                     /gene_kind="biosynthetic"
      gene            3103..7500
                      /note="*Name HYPBUDRAFT_141063"
                      /note="*end_range: 562944,."
@@ -111,6 +112,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYBQ|HYPBUDRAFT_mRNA141063"
                      /product="Pkinase-domain-containing protein"
                      /protein_id="ODV66550.1"
+                     /gene_kind="biosynthetic"
      gene            7694..15728
                      /note="*Name HYPBUDRAFT_12242"
                      /note="*gbkey: Gene"
@@ -171,6 +173,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYBQ|HYPBUDRAFT_mRNA12242"
                      /product="hypothetical protein"
                      /protein_id="ODV66551.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16574..17113)
                      /note="*Name HYPBUDRAFT_98958"
                      /note="*end_range: 572557,."
@@ -214,6 +217,7 @@ FEATURES             Location/Qualifiers
                      /product="P-loop containing nucleoside triphosphate
                      hydrolase protein"
                      /protein_id="ODV66552.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,572018"
      gene            17177..17946
                      /note="*Name HYPBUDRAFT_153337"
@@ -321,6 +325,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYBQ|HYPBUDRAFT_mRNA153339"
                      /product="kinase-like protein"
                      /protein_id="ODV66555.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24150..25772)
                      /note="*Name HYPBUDRAFT_157712"
                      /note="*end_range: 581216,."
@@ -370,6 +375,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYBQ|HYPBUDRAFT_mRNA157712"
                      /product="hypothetical protein"
                      /protein_id="ODV66556.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26013..27623)
                      /note="*Name HYPBUDRAFT_242118"
                      /note="*gbkey: Gene"
@@ -434,6 +440,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYBQ|HYPBUDRAFT_mRNA153341"
                      /product="dityrosine monooxygenase"
                      /protein_id="ODV66558.1"
+                     /gene_kind="biosynthetic"
      gene            29749..31206
                      /note="*Name HYPBUDRAFT_141087"
                      /note="*end_range: 586650,."
@@ -474,6 +481,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYBQ|HYPBUDRAFT_mRNA141087"
                      /product="hypothetical protein"
                      /protein_id="ODV66559.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGGATAAA AGATTATCAC CGTTATAAGT CCAACCACCA AATTGTTTTT GAACTGACTC
        61 ACTTAAGAAA TCATCAACCA CACTATCTTG GGGTTTTTCA TTAGTAAAAT CTTGATCAAA

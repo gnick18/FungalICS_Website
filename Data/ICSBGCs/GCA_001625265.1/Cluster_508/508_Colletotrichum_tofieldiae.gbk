@@ -62,6 +62,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LFIV|CT0861_04663-mRNA-1_mrna"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="KZL71324.1"
+                     /gene_kind="biosynthetic"
      gene            3178..4135
                      /note="*Name CT0861_11629"
                      /note="*gbkey: Gene"
@@ -427,6 +428,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LFIV|CT0861_07662-mRNA-1_mrna"
                      /product="alpha/beta fold family protein"
                      /protein_id="KZL71350.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTCTTgtttt ttctctccct cttttGGCTG ACGATAGTTG TCTGCGCGTA GGCGGCACGA
        61 CACTCCGGCG CCTCACTCGC TGTTCCTCCG AGTTGTACCG CCGGCATCTC ACAGCCCGCC

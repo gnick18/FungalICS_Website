@@ -390,6 +390,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NCTX|B5807_04493-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="OSS51041.1"
+                     /gene_kind="biosynthetic"
      gene            25314..27206
                      /note="*Name B5807_04494"
                      /note="*gbkey: Gene"
@@ -460,6 +461,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NCTX|B5807_04494-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="OSS51040.1"
+                     /gene_kind="biosynthetic"
      gene            complement(27542..32246)
                      /note="*Name B5807_04495"
                      /note="*gbkey: Gene"
@@ -524,6 +526,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NCTX|B5807_04495-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="OSS50829.1"
+                     /gene_kind="biosynthetic"
      gene            32676..36048
                      /note="*Name B5807_04496"
                      /note="*gbkey: Gene"

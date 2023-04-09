@@ -93,6 +93,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis protein,
                      putative"
                      /protein_id="XP_002340227.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2453..3369)
                      /db_xref="GeneID:8105971"
                      /note="*Name TSTA_063230"
@@ -311,6 +312,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="TSTA_063250"
                      /product="hypothetical protein"
                      /protein_id="XP_002340230.1"
+                     /gene_kind="biosynthetic"
      gene            8714..12058
                      /db_xref="GeneID:8100209"
                      /note="*Name TSTA_063260"
@@ -365,6 +367,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="TSTA_063260"
                      /product="cation-transporting ATPase, putative"
                      /protein_id="XP_002340231.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACTTGTCG GACATAAACT TGACACTCTT ATGCAGAATT GTCAACTTGG CCAACTTGTC
        61 CAGGTCTGCT TCAGAGAGCT CCCCAGCTTG GCTGGTGGAG TGATTGCCAT CCGAAACCGA

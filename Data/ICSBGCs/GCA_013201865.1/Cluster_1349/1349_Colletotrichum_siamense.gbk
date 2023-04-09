@@ -98,6 +98,7 @@ FEATURES             Location/Qualifiers
                      /product="Non-canonical non-ribosomal peptide synthetase
                      FUB8"
                      /protein_id="KAF4866603.1"
+                     /gene_kind="biosynthetic"
      gene            4864..6066
                      /note="*Name DIT1-0"
                      /note="*gbkey: Gene"
@@ -151,6 +152,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v013508.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4866598.1"
+                     /gene_kind="biosynthetic"
      gene            8052..11209
                      /note="*Name RSN1-0"
                      /note="*gbkey: Gene"
@@ -429,6 +431,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v013513.t1_mrna"
                      /product="FAD-linked oxidoreductase ZEB1"
                      /protein_id="KAF4866641.1"
+                     /gene_kind="biosynthetic"
      gene            50654..51955
                      /note="*Name CGCSCA1_v013514"
                      /note="*Note Uncharacterized protein"
@@ -458,6 +461,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v013514.t1_mrna"
                      /product="hypotheticall protein"
                      /protein_id="KAF4866640.1"
+                     /gene_kind="biosynthetic"
      gene            52620..54608
                      /note="*Name CGCSCA1_v013515"
                      /note="*Note Uncharacterized transcriptional regulatory
@@ -572,6 +576,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v013516.t1_mrna"
                      /product="O-methyltransferase"
                      /protein_id="KAF4866638.1"
+                     /gene_kind="biosynthetic"
      gene            complement(57846..62968)
                      /note="*Name CGCSCA1_v013517"
                      /note="*Note Flavin carrier protein 2"
@@ -620,6 +625,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v013517.t1_mrna"
                      /product="Flavin carrier protein 2"
                      /protein_id="KAF4866637.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAACCAAGA AATGCGGCGT ACTTGGTAAA CTCTTCGTCA GCTGTCAACA TTTCGAACTC
        61 TTCAGGGAGC GTGCCTAGCA AAAGCTCCAC AGAACCATCA TCACGCATAG GGTGGATAAG

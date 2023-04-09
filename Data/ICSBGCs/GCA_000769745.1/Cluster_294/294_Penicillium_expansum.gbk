@@ -34,6 +34,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEX2_076650"
                      /product="Galactose oxidase/kelch, beta-propeller"
                      /protein_id="KGO56837.1"
+                     /gene_kind="biosynthetic"
      gene            4016..6018
                      /note="*Name PEX2_076660"
                      /note="*gbkey: Gene"
@@ -126,6 +127,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEX2_076660"
                      /product="Dyp-type peroxidase"
                      /protein_id="KGO56838.1"
+                     /gene_kind="biosynthetic"
      gene            7157..9289
                      /note="*Name PEX2_076670"
                      /note="*gbkey: Gene"
@@ -535,6 +537,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEX2_076750"
                      /product="Monooxygenase, FAD-binding"
                      /protein_id="KGO56847.1"
+                     /gene_kind="biosynthetic"
      gene            33698..35791
                      /note="*Name PEX2_076760"
                      /note="*gbkey: Gene"
@@ -591,6 +594,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEX2_076760"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KGO56848.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAATGCTCA CATTTTTGTT CATCTATCGC GCTTGACTGC TCCTCTGCAG GCTGGATAGT
        61 CTGTCTGTTG TCTAAGCCAA TCATCATGAT CTTGGCGATA CTAGGCACAC CATCCCGGTC

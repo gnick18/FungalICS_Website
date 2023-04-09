@@ -48,6 +48,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SPNV|ETB97_004742-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF5858138.1"
+                     /gene_kind="biosynthetic"
      gene            2275..3950
                      /note="*Name ETB97_004743"
                      /note="*gbkey: Gene"
@@ -123,6 +124,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SPNV|ETB97_004743-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF5858139.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4827..6648)
                      /note="*Name ETB97_004744"
                      /note="*gbkey: Gene"
@@ -203,6 +205,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SPNV|ETB97_004744-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF5858140.1"
+                     /gene_kind="biosynthetic"
      gene            7146..8851
                      /note="*Name DTR1"
                      /note="*gbkey: Gene"

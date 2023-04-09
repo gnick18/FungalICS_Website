@@ -211,6 +211,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAF2108932.1"
+                     /gene_kind="biosynthetic"
      gene            9616..11735
                      /note="*Name BDV96DRAFT_586905"
                      /note="*gbkey: Gene"
@@ -279,6 +280,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKP|BDV96DRAFT_mRNA586905"
                      /product="Dit2 protein"
                      /protein_id="KAF2108933.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12702..14649)
                      /note="*Name BDV96DRAFT_503706"
                      /note="*end_range: 446940,."
@@ -335,6 +337,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAF2108934.1"
+                     /gene_kind="biosynthetic"
      gene            16014..18352
                      /note="*Name BDV96DRAFT_586910"
                      /note="*gbkey: Gene"

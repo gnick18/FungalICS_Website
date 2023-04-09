@@ -94,6 +94,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010412.t1_mrna"
                      /product="putative Rieske 2Fe-2S iron-sulfur protein YhfW"
                      /protein_id="TDZ27317.1"
+                     /gene_kind="biosynthetic"
      gene            8716..9097
                      /note="*Name C8035_v010413"
                      /note="*gbkey: Gene"
@@ -185,6 +186,7 @@ FEATURES             Location/Qualifiers
                      /product="Succinate--CoA ligase [ADP-forming] subunit
                      alpha"
                      /protein_id="TDZ27354.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11691..12740)
                      /note="*Name C8035_v010415"
                      /note="*Note Zinc-type alcohol dehydrogenase-like protein"
@@ -214,6 +216,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010415.t1_mrna"
                      /product="Zinc-type alcohol dehydrogenase-like protein"
                      /protein_id="TDZ27322.1"
+                     /gene_kind="biosynthetic"
      gene            13627..14574
                      /note="*Name C8035_v010416"
                      /note="*gbkey: Gene"
@@ -284,6 +287,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010417.t1_mrna"
                      /product="Protein fluG"
                      /protein_id="TDZ27320.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21299..22110)
                      /note="*Name C8035_v010418"
                      /note="*gbkey: Gene"
@@ -331,6 +335,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010418.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="TDZ27315.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22450..24150)
                      /note="*Name C8035_v010419"
                      /note="*Note Eburicol 14-alpha-demethylase"
@@ -379,6 +384,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010419.t1_mrna"
                      /product="Eburicol 14-alpha-demethylase"
                      /protein_id="TDZ27314.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25049..27473)
                      /note="*Name C8035_v010420"
                      /note="*Note Arginine metabolism regulation protein II"
@@ -483,6 +489,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010421.t1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="TDZ27472.1"
+                     /gene_kind="biosynthetic"
      gene            33735..35367
                      /note="*Name C8035_v010422"
                      /note="*Note Putative aldehyde dehydrogenase-like protein"
@@ -530,6 +537,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010422.t1_mrna"
                      /product="putative aldehyde dehydrogenase-like protein"
                      /protein_id="TDZ27413.1"
+                     /gene_kind="biosynthetic"
      gene            35897..36681
                      /note="*Name inhA-1"
                      /note="*gbkey: Gene"
@@ -688,6 +696,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010425.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ27412.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCGCAGTT TCGCAAGCCT CTTGAGCGCC GCGCTGGCAG CGACGTCGGC CCTCGCGTCG
        61 CCCGTCGCCC AGGCCGTCGT CGACCTCGGG TCCTCCGCGC TCGAGCGCCG CGCGGATCCG

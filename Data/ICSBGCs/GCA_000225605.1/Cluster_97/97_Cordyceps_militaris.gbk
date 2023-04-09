@@ -176,6 +176,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis protein,
                      putative"
                      /protein_id="EGX97069.1"
+                     /gene_kind="biosynthetic"
      gene            8964..10769
                      /note="*Name CCM_01729"
                      /note="*end_range: 5592141,."
@@ -241,6 +242,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AEVU|CCM_mRNA01729"
                      /product="monooxygenase, putative"
                      /protein_id="EGX97070.1"
+                     /gene_kind="biosynthetic"
      gene            complement(42423..44319)
                      /note="*Name CCM_01730"
                      /note="*end_range: 5625691,."

@@ -64,6 +64,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_2896"
                      /product="hypothetical protein"
                      /protein_id="RFU79328.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2836..4189)
                      /note="*Name TARUN_2897"
                      /note="*gbkey: Gene"
@@ -131,6 +132,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_2898"
                      /product="pyoverdine biosynthesis"
                      /protein_id="RFU79330.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11627..12460)
                      /note="*Name TARUN_2899"
                      /note="*gbkey: Gene"
@@ -217,6 +219,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_2901"
                      /product="fad nadp-binding domain-containing"
                      /protein_id="RFU79333.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGAACGGCA CACAGAGCGT GCAAAAGTTG CTGCAATCCG CGCGTGTAGC TCCGGAAATT
        61 TTCAAGCTGC GTCCAGATTA CCGGGCTCTC TTAATGGTTG TTGAAGGTAT ACCTTTAGCT

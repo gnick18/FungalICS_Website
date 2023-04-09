@@ -56,6 +56,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ADNJ|MAA_mRNA01922"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="EFZ02340.1"
+                     /gene_kind="biosynthetic"
      gene            3212..5082
                      /note="*Name MAA_01921"
                      /note="*gbkey: Gene"
@@ -434,6 +435,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ADNJ|MAA_mRNA01911"
                      /product="iron sulfur cluster assembly-related protein"
                      /protein_id="EFZ02329.2"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCCAGTG CCGTATCACC AGCGCATGAA GCCGCCTCTG CGGAGGCCAA GGGAACCAAG
        61 AGTCCTCGAA GCCTCAACAT TGACGACTTC CCACACTTGG TAGATGCATC GGCTCTCGAC

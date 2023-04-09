@@ -172,6 +172,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPGR|mrna.HL42_7902"
                      /product="Tryptophan dimethylallyltransferase"
                      /protein_id="KMQ41405.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9708..16401)
                      /note="*Name HL42_7903"
                      /note="*gbkey: Gene"
@@ -236,6 +237,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPGR|mrna.HL42_7903"
                      /product="hypothetical protein"
                      /protein_id="KMQ41406.1"
+                     /gene_kind="biosynthetic"
      gene            16781..18146
                      /note="*Name HL42_7904"
                      /note="*gbkey: Gene"
@@ -275,6 +277,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="KMQ41407.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18509..23691)
                      /note="*Name HL42_7905"
                      /note="*gbkey: Gene"
@@ -349,6 +352,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPGR|mrna.HL42_7905"
                      /product="AMP-dependent synthetase/ligase"
                      /protein_id="KMQ41408.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAAACCTTT TTCATCAAGC GTGAGCCTCC CTTAATTACT CGAGCAATTC CAGTGCAAAA
        61 TCCACCAAGG AACATGGTAG CACCTGCAAA GCACATCAAG CCTATGAACT TGTCCCCTTC

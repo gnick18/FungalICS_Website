@@ -36,6 +36,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHE|MAM_mRNA07322"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KHN94903.1"
+                     /gene_kind="biosynthetic"
      gene            2437..3895
                      /note="*Name MAM_07323"
                      /note="*gbkey: Gene"
@@ -121,6 +122,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHE|MAM_mRNA07324"
                      /product="Six-bladed beta-propeller, TolB-like protein"
                      /protein_id="KHN94905.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8034..8839)
                      /note="*Name MAM_07325"
                      /note="*gbkey: Gene"
@@ -178,6 +180,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHE|MAM_mRNA07325"
                      /product="cupin 2"
                      /protein_id="KHN94906.1"
+                     /gene_kind="biosynthetic"
      gene            9979..11166
                      /note="*Name MAM_07326"
                      /note="*gbkey: Gene"
@@ -230,6 +233,7 @@ FEATURES             Location/Qualifiers
                      /product="oxidoreductase, zinc-binding dehydrogenase
                      family protein"
                      /protein_id="KHN94907.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAAATTTG TCTCCAAGTC CATGTTTGTG GATGGGCGCA AAACCCGTGG CCACAACTGG
        61 CCCTGCCGTA TGCGCGGCCC TCAAGAccgc cagcttctcc agctgCCTCG CTGACAGTGA

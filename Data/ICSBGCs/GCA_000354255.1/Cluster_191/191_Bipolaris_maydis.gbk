@@ -41,6 +41,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA198270"
                      /product="glycoside hydrolase family 5 protein"
                      /protein_id="ENI04474.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2408..3227)
                      /note="*Name COCC4DRAFT_82043"
                      /note="*gbkey: Gene"
@@ -86,6 +87,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA82043"
                      /product="hypothetical protein"
                      /protein_id="ENI04475.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3728..5283)
                      /note="*Name COCC4DRAFT_24355"
                      /note="*end_range: 834536,."
@@ -163,6 +165,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA171292"
                      /product="hypothetical protein"
                      /protein_id="ENI04477.1"
+                     /gene_kind="biosynthetic"
      gene            9961..12113
                      /note="*Name COCC4DRAFT_82046"
                      /note="*gbkey: Gene"
@@ -208,6 +211,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA82046"
                      /product="hypothetical protein"
                      /protein_id="ENI04478.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGTGACTG GTCCCATTCC CATTCTCAGC AATCCACTGC GCAATCATCT CGTGCTGAGC
        61 CTTCACAATA TCCATGGCAT GATCATCATC ATACAGATCA TACCAACCTG GGCTTTCATG

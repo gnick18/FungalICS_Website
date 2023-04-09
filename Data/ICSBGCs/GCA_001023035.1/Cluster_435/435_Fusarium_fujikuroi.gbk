@@ -65,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna001"
                      /product="mixed-linked glucanase precursor MLG1"
                      /protein_id="KLO90710.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2211..2284)
                      /note="*Name LW93_002"
                      /note="*gbkey: Gene"
@@ -257,6 +258,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna007"
                      /product="uncharacterized protein"
                      /protein_id="KLO90714.1"
+                     /gene_kind="biosynthetic"
      gene            15844..17135
                      /note="*Name LW93_008"
                      /note="*gbkey: Gene"
@@ -290,6 +292,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna008"
                      /product="salicylate 1-monooxygenase"
                      /protein_id="KLO90715.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17605..19454)
                      /note="*Name LW93_009"
                      /note="*gbkey: Gene"
@@ -407,6 +410,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna010"
                      /product="uncharacterized protein"
                      /protein_id="KLO90717.1"
+                     /gene_kind="biosynthetic"
      gene            22116..23931
                      /note="*Name LW93_011"
                      /note="*gbkey: Gene"
@@ -440,6 +444,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna011"
                      /product="Uncharacterized protein"
                      /protein_id="KLO90718.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24245..24922)
                      /note="*Name LW93_012"
                      /note="*gbkey: Gene"
@@ -557,6 +562,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna014"
                      /product="nonribosomal peptide synthetase MxcG"
                      /protein_id="KLO90721.1"
+                     /gene_kind="biosynthetic"
      gene            32676..34206
                      /note="*Name LW93_015"
                      /note="*gbkey: Gene"
@@ -591,6 +597,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna015"
                      /product="putative ABC1 transport protein"
                      /protein_id="KLO90722.1"
+                     /gene_kind="biosynthetic"
      gene            complement(34513..35571)
                      /note="*Name LW93_016"
                      /note="*gbkey: Gene"
@@ -616,6 +623,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna016"
                      /product="lipase/esterase"
                      /protein_id="KLO90723.1"
+                     /gene_kind="biosynthetic"
      gene            36186..37645
                      /note="*Name LW93_017"
                      /note="*gbkey: Gene"
@@ -649,6 +657,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna017"
                      /product="uncharacterized protein"
                      /protein_id="KLO90724.1"
+                     /gene_kind="biosynthetic"
      gene            38656..40843
                      /note="*Name LW93_018"
                      /note="*gbkey: Gene"
@@ -731,6 +740,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna018"
                      /product="alcohol oxidase"
                      /protein_id="KLO90725.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATTGGTAA TACTTGATAG AGTTGAAGAG CCAGTATGAC TCTTTGAAGG CCTCGGGATG
        61 GTTGGTGACA TAGTCATCAC AGGTCTTCGA TCCAGTAGAA GCCTTGCAAT CTTCGTTCCA

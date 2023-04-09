@@ -46,6 +46,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJN|DE146DRAFT_mRNA738030"
                      /product="hypothetical protein"
                      /protein_id="KAH7392177.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1987..4073)
                      /note="*Name DE146DRAFT_723272"
                      /note="*gbkey: Gene"
@@ -119,6 +120,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJN|DE146DRAFT_mRNA723272"
                      /product="hypothetical protein"
                      /protein_id="KAH7392178.1"
+                     /gene_kind="biosynthetic"
      gene            4624..6839
                      /note="*Name DE146DRAFT_738032"
                      /note="*gbkey: Gene"
@@ -233,6 +235,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJN|DE146DRAFT_mRNA738032"
                      /product="cytochrome P450"
                      /protein_id="KAH7392179.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GCGACAATGA GGCACGGAGT AAAATATCAA AGTCCAATGG TAATTACTAG CTTTCTCAAA
        61 CCATTCCAAC ACATAGTGTA AGCAGGCTGT GAGATTATCG CAAAGCATTC GGTCCATGCC

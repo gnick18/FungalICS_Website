@@ -137,6 +137,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAS|mrna.FPCIR_3805"
                      /product="hypothetical protein"
                      /protein_id="KAF5597169.1"
+                     /gene_kind="biosynthetic"
      gene            4528..6622
                      /note="*Name FPCIR_3806"
                      /note="*gbkey: Gene"
@@ -183,6 +184,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAS|mrna.FPCIR_3806"
                      /product="cocaine esterase"
                      /protein_id="KAF5597170.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6817..7502)
                      /note="*Name FPCIR_3807"
                      /note="*gbkey: Gene"
@@ -323,6 +325,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAS|mrna.FPCIR_3809"
                      /product="nonribosomal peptide synthetase"
                      /protein_id="KAF5597173.1"
+                     /gene_kind="biosynthetic"
      gene            15182..16631
                      /note="*Name FPCIR_3810"
                      /note="*gbkey: Gene"
@@ -361,6 +364,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAS|mrna.FPCIR_3810"
                      /product="ABC1 transport"
                      /protein_id="KAF5597174.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16995..18035)
                      /note="*Name FPCIR_3811"
                      /note="*gbkey: Gene"
@@ -389,6 +393,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAS|mrna.FPCIR_3811"
                      /product="lipase esterase"
                      /protein_id="KAF5597175.1"
+                     /gene_kind="biosynthetic"
      gene            18644..20103
                      /note="*Name FPCIR_3812"
                      /note="*gbkey: Gene"
@@ -426,6 +431,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAS|mrna.FPCIR_3812"
                      /product="hypothetical protein"
                      /protein_id="KAF5597176.1"
+                     /gene_kind="biosynthetic"
      gene            21084..23269
                      /note="*Name FPCIR_3813"
                      /note="*gbkey: Gene"
@@ -518,6 +524,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAS|mrna.FPCIR_3813"
                      /product="alcohol oxidase"
                      /protein_id="KAF5597177.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTcggcc ttgtccttgt ccaCGCAGTA CTTTCCGGTG AACTTTCGGA TCTTCTTacc
        61 gaagatgaag acgaagatgc CGAGGACTCC AAAAGCACCG GTCAAGCCAC TAAAGGCACC

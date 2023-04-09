@@ -107,6 +107,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13075T1"
                      /product="hypothetical protein"
                      /protein_id="EXL45705.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(1..2813)
                      /note="*gbkey: mRNA"
                      /locus_tag="FOCG_13075"
@@ -196,6 +197,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13075T0"
                      /product="hypothetical protein"
                      /protein_id="EXL45704.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2932..5124)
                      /note="*Name FOCG_13076"
                      /note="*gbkey: Gene"
@@ -233,6 +235,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13076T0"
                      /product="hypothetical protein"
                      /protein_id="EXL45706.1"
+                     /gene_kind="biosynthetic"
      gene            5285..6790
                      /note="*Name FOCG_13077"
                      /note="*gbkey: Gene"
@@ -261,6 +264,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13077T0"
                      /product="hypothetical protein"
                      /protein_id="EXL45707.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6609..8775)
                      /note="*Name FOCG_13078"
                      /note="*gbkey: Gene"
@@ -299,6 +303,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13078T0"
                      /product="hypothetical protein"
                      /protein_id="EXL45708.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(6614..8674)
                      /note="*gbkey: mRNA"
                      /locus_tag="FOCG_13078"
@@ -341,6 +346,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13078T1"
                      /product="hypothetical protein"
                      /protein_id="EXL45709.1"
+                     /gene_kind="biosynthetic"
      gene            9090..13551
                      /note="*Name FOCG_13079"
                      /note="*gbkey: Gene"
@@ -406,6 +412,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13079T0"
                      /product="hypothetical protein"
                      /protein_id="EXL45710.1"
+                     /gene_kind="biosynthetic"
      mRNA            9265..13551
                      /note="*gbkey: mRNA"
                      /locus_tag="FOCG_13079"
@@ -473,6 +480,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13079T1"
                      /product="hypothetical protein"
                      /protein_id="EXL45711.1"
+                     /gene_kind="biosynthetic"
      gene            13784..15832
                      /note="*Name FOCG_13080"
                      /note="*end_range: 1277086,."
@@ -604,6 +612,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13082T0"
                      /product="hypothetical protein"
                      /protein_id="EXL45714.1"
+                     /gene_kind="biosynthetic"
      gene            19240..20828
                      /note="*Name FOCG_13083"
                      /note="*gbkey: Gene"
@@ -659,6 +668,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNB|mrna_FOCG_13083T0"
                      /product="hypothetical protein"
                      /protein_id="EXL45715.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 AAGCGAGTGC ATGTTTTATA GCTGCCAAGA GTACATTAGA TCTGCATAGT GCATCTGCGT
        61 AAATTCAGCA CGCTGATGTT CCGGCGACTA GGAAGGTAGA GAAGCGACTG CAAGCAGGAG

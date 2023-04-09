@@ -210,6 +210,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_08458T0"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="EXL76774.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6597..7980)
                      /note="*Name FOPG_08459"
                      /note="*gbkey: Gene"
@@ -344,6 +345,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_08460T0"
                      /product="hypothetical protein"
                      /protein_id="EXL76776.1"
+                     /gene_kind="biosynthetic"
      gene            11416..13558
                      /note="*Name FOPG_08461"
                      /note="*end_range: 19485,."
@@ -409,6 +411,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_08461T0"
                      /product="hypothetical protein"
                      /protein_id="EXL76777.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACAGATGC GAATTGGGGA TTTTGATTCC TTTAGGATAT TGTTATCTCA TAAAAATTAG
        61 CTTGAATGTA TCATGTGATC CTATATGGTC ACCTAAGCTC TAGTTCATCG TCATAGAAGG

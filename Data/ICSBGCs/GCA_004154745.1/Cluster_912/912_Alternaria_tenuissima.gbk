@@ -148,6 +148,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXA|AA0114_g7979.t2"
                      /product="hypothetical protein"
                      /protein_id="RYN47110.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(3618..4706)
                      /note="*end_range: 356333,."
                      /note="*gbkey: mRNA"
@@ -175,6 +176,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXA|AA0114_g7979.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN47109.1"
+                     /gene_kind="biosynthetic"
      gene            6663..8243
                      /note="*Name AA0114_g7980"
                      /note="*end_range: 359870,."
@@ -232,6 +234,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXA|AA0114_g7980.t1"
                      /product="Cytochrome"
                      /protein_id="RYN47175.1"
+                     /gene_kind="biosynthetic"
      gene            10411..11971
                      /note="*Name AA0114_g7981"
                      /note="*end_range: 363598,."
@@ -328,6 +331,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXA|AA0114_g7982.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN47173.1"
+                     /gene_kind="biosynthetic"
      gene            14319..15996
                      /note="*Name AA0114_g7983"
                      /note="*end_range: 367623,."
@@ -597,6 +601,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXA|AA0114_g7985.t1"
                      /product="Catalase B"
                      /protein_id="RYN47180.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATCCGCAA CAGACCGTAG CATTCTCCTG CATACGGTCA TCACCGCCAC TGCTGAGGTT
        61 GAAGCTTTCC CACCCAAAGA TGAAGTAGCC CAGATATGCA CCAATGAAAA TGCAAATGAT

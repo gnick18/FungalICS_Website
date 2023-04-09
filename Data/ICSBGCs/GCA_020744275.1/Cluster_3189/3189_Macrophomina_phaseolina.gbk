@@ -77,6 +77,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7052137.1"
+                     /gene_kind="biosynthetic"
      gene            2910..4927
                      /note="*Name B0J12DRAFT_660661"
                      /note="*gbkey: Gene"
@@ -154,6 +155,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJR|B0J12DRAFT_mRNA660663"
                      /product="hypothetical protein"
                      /protein_id="KAH7052139.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7150..8597)
                      /note="*Name B0J12DRAFT_660664"
                      /note="*gbkey: Gene"
@@ -190,6 +192,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJR|B0J12DRAFT_mRNA660664"
                      /product="oxidoreductase-like protein"
                      /protein_id="KAH7052140.1"
+                     /gene_kind="biosynthetic"
      gene            8727..11312
                      /note="*Name B0J12DRAFT_660665"
                      /note="*gbkey: Gene"
@@ -412,6 +415,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAH7052142.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CACGGTGCAA CGTTTTCCGC ACGGTCCAAT caaggcgccg ccgccgccgc cggcgctgct
        61 gctgctgttg ctgcagcTGC ATTTGCGAAG CCGATGACCT CGACTGGGCC CGCCGTATGC

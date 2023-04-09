@@ -110,6 +110,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LCTW|MMYC01_201269-PA_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KXX82499.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5089..6862)
                      /note="*Name MMYC01_201270"
                      /note="*gbkey: Gene"
@@ -166,6 +167,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LCTW|MMYC01_201270-PA_mrna"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="KXX82488.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATCCGCAA CATACGGTAG CTTCCTTGGT AGCACTAGTC TGCGCTCCGC TATTTATGGT
        61 CTCGGGTCAG CGTGTGCGGC CATGATTTAG CGAGGGAAAC ACCCACGTCC CAATCGTCTC

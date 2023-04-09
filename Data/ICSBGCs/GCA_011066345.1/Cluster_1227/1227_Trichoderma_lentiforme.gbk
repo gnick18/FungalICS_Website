@@ -53,6 +53,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QLNT|CFAM422_006730_mrna"
                      /product="ATP-dependent RNA helicase MAK5"
                      /protein_id="KAF3070291.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2769..4518)
                      /note="*Name CFAM422_006731"
                      /note="*gbkey: Gene"
@@ -106,6 +107,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QLNT|CFAM422_006731_mrna"
                      /product="Cytochrome P450 monooxygenase paxP"
                      /protein_id="KAF3070292.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5486..7789)
                      /note="*Name CFAM422_006732"
                      /note="*gbkey: Gene"
@@ -342,6 +344,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QLNT|CFAM422_006734_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF3070287.1"
+                     /gene_kind="biosynthetic"
      gene            11183..13280
                      /note="*Name CFAM422_006735"
                      /note="*gbkey: Gene"
@@ -434,6 +437,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QLNT|CFAM422_006735_mrna"
                      /product="3-hydroxybenzoate 4-monooxygenase"
                      /protein_id="KAF3070288.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14814..16185)
                      /note="*Name CFAM422_006736"
                      /note="*gbkey: Gene"
@@ -527,6 +531,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QLNT|CFAM422_006736_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3070289.1"
+                     /gene_kind="biosynthetic"
      gene            17485..17934
                      /note="*Name CFAM422_006737"
                      /note="*gbkey: Gene"
@@ -648,6 +653,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QLNT|CFAM422_006738_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3070285.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGTGCCTC CGTCCAAGAA ACGAAAGCTT CCGTCCGTCG CCGCACCGGC TGCGAAGCGC
        61 ACCAAGAATT CGGCCAAGGG CGCTGCTGCG AAAACAAACC CCAAGGCCGG CGGCAAGACA

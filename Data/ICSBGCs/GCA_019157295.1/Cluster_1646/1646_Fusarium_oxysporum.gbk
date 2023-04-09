@@ -254,6 +254,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v014018.t1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAG7406252.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11445..13687)
                      /note="*Name dur3-1-0"
                      /note="*gbkey: Gene"
@@ -620,6 +621,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v014025.t1_mrna"
                      /product="Cyrochrome P450 monooxygenase"
                      /protein_id="KAG7406075.1"
+                     /gene_kind="biosynthetic"
      gene            complement(33856..35285)
                      /note="*Name DIT1-0"
                      /note="*gbkey: Gene"
@@ -678,6 +680,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v014026.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAG7406663.1"
+                     /gene_kind="biosynthetic"
      gene            36176..39539
                      /note="*Name Forpe1208_v014027"
                      /note="*Note Copper-transporting ATPase"
@@ -719,6 +722,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAELUQ|Forpe1208_v014027.t1_mrna"
                      /product="Copper-transporting ATPase"
                      /protein_id="KAG7406664.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAAACCGTC TTGCTTGCAT CCTTATTTGC ATCACTTTTG CCGCGGATGA TGGTCGAGAG
        61 ATCGCCGAGA GGTAGCATGA TGGGGAAGTC GACCGACATG AGAAGAATAG ACATGAACAT

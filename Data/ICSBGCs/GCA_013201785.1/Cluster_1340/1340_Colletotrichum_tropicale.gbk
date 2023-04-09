@@ -41,6 +41,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sterigmatocystin biosynthesis P450
                      monooxygenase stcS"
                      /protein_id="KAF4829568.1"
+                     /gene_kind="biosynthetic"
      gene            3179..3653
                      /note="*Name CGCTS75_v006426"
                      /note="*gbkey: Gene"
@@ -430,6 +431,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006433.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4829704.1"
+                     /gene_kind="biosynthetic"
      gene            23786..26239
                      /note="*Name LIP-1"
                      /note="*gbkey: Gene"
@@ -492,6 +494,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006434.t1_mrna"
                      /product="Lipase"
                      /protein_id="KAF4829700.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26813..28905)
                      /note="*Name ptaK-0"
                      /note="*gbkey: Gene"
@@ -566,6 +569,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006435.t1_mrna"
                      /product="oxidoreductase ptaK"
                      /protein_id="KAF4829699.1"
+                     /gene_kind="biosynthetic"
      gene            complement(30219..31698)
                      /note="*Name apdF-16"
                      /note="*gbkey: Gene"
@@ -661,6 +665,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006437.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4829617.1"
+                     /gene_kind="biosynthetic"
      gene            complement(35560..37071)
                      /note="*Name abfB"
                      /note="*gbkey: Gene"
@@ -693,6 +698,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006438.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="KAF4829714.1"
+                     /gene_kind="biosynthetic"
      gene            complement(39330..40142)
                      /note="*Name CGCTS75_v006439"
                      /note="*Note Uncharacterized protein"
@@ -801,6 +807,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006441.t1_mrna"
                      /product="putative isochorismatase family protein YddQ"
                      /protein_id="KAF4829577.1"
+                     /gene_kind="biosynthetic"
      gene            complement(42894..43474)
                      /note="*Name CGCTS75_v006442"
                      /note="*gbkey: Gene"
@@ -890,6 +897,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006443.t1_mrna"
                      /product="Dehydrogenase xptC"
                      /protein_id="KAF4829601.1"
+                     /gene_kind="biosynthetic"
      gene            51158..51827
                      /note="*Name CGCTS75_v006444"
                      /note="*gbkey: Gene"
@@ -1036,6 +1044,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006446.t1_mrna"
                      /product="hypotheticall protein"
                      /protein_id="KAF4829597.1"
+                     /gene_kind="biosynthetic"
      gene            complement(83612..84688)
                      /note="*Name CGCTS75_v006447"
                      /note="*gbkey: Gene"
@@ -1149,6 +1158,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006449.t1_mrna"
                      /product="Carnitine monooxygenase oxygenase subunit"
                      /protein_id="KAF4829605.1"
+                     /gene_kind="biosynthetic"
      gene            97353..99360
                      /note="*Name acr-2-4"
                      /note="*gbkey: Gene"
@@ -1270,6 +1280,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006451.t1_mrna"
                      /product="Succinate-semialdehyde dehydrogenase"
                      /protein_id="KAF4829790.1"
+                     /gene_kind="biosynthetic"
      gene            102004..103407
                      /note="*Name ordL-2"
                      /note="*gbkey: Gene"
@@ -1302,6 +1313,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v006452.t1_mrna"
                      /product="putative oxidoreductase OrdL"
                      /protein_id="KAF4829789.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTTTGAC TCTACTTTCA CTTCAAGCCT GTGTGCGTCT GAATGCCTTG TCGTGTATGA
        61 TATTCGACAG GGGTAATAAC CACTCGGATT CGCAGCTCCT CCACGACTAA CCAAATACAC

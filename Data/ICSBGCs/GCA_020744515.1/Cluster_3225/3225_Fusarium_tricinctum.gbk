@@ -352,6 +352,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="oviduct-specific glycoprotein"
                      /protein_id="KAH7241310.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,347855"
      gene            complement(14243..18173)
                      /note="*Name BKA59DRAFT_400812"
@@ -479,6 +480,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPXF|BKA59DRAFT_mRNA400812"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAH7241311.1"
+                     /gene_kind="biosynthetic"
      gene            19047..21162
                      /note="*Name BKA59DRAFT_400119"
                      /note="*end_range: 362332,."
@@ -575,6 +577,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7241312.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CCCGTTGTGT GTGTATAGTA AGCCCTAAAC TGGTGGTTCC CAACCTTTTC GACTGTAGAT
        61 GACCAGTCCA ACGGGGATGA TGGCATCTTC CCGATAAACA ATAAATTCTG GGTACATAAG

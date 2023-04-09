@@ -47,6 +47,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFP|BDV26DRAFT_mRNA255371"
                      /product="class II aldolase/adducin N-terminal"
                      /protein_id="KAE8381559.1"
+                     /gene_kind="biosynthetic"
      gene            1761..1832
                      /note="*Name BDV26DRAFT_t31"
                      /note="*gbkey: Gene"
@@ -211,6 +212,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFP|BDV26DRAFT_mRNA78819"
                      /product="hypothetical protein"
                      /protein_id="KAE8381561.1"
+                     /gene_kind="biosynthetic"
      gene            7393..9368
                      /note="*Name BDV26DRAFT_255375"
                      /note="*gbkey: Gene"
@@ -787,6 +789,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFP|BDV26DRAFT_mRNA289416"
                      /product="autophagy-related protein 22-like protein"
                      /protein_id="KAE8381568.1"
+                     /gene_kind="biosynthetic"
      gene            complement(28494..30224)
                      /note="*Name BDV26DRAFT_289417"
                      /note="*end_range: 273478,."
@@ -882,6 +885,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFP|BDV26DRAFT_mRNA289417"
                      /product="cytochrome P450"
                      /protein_id="KAE8381569.1"
+                     /gene_kind="biosynthetic"
      gene            30830..32454
                      /note="*Name BDV26DRAFT_301398"
                      /note="*end_range: 275708,."
@@ -951,6 +955,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAE8381570.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GCATCTGCAT GACCTTCCAC TCATTGCTAT CACAGAAGAA AGTTGCCGTT GGTTTTTACA
        61 ACTTGCTCAT CATAATAGGG CTGAAATGCT AGCCAACCCT TTTCAGGTCC ACCCACCTGG

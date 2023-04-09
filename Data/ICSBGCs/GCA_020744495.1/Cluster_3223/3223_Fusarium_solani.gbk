@@ -67,6 +67,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJS|B0J15DRAFT_mRNA454463"
                      /product="hypothetical protein"
                      /protein_id="KAH7234462.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2530..3251)
                      /note="*Name B0J15DRAFT_153231"
                      /note="*gbkey: Gene"
@@ -131,6 +132,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJS|B0J15DRAFT_mRNA153231"
                      /product="hypothetical protein"
                      /protein_id="KAH7234463.1"
+                     /gene_kind="biosynthetic"
      gene            5438..7723
                      /note="*Name B0J15DRAFT_407947"
                      /note="*end_range: 236183,."
@@ -312,6 +314,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7234465.1"
+                     /gene_kind="biosynthetic"
      gene            10923..15030
                      /note="*Name B0J15DRAFT_454469"
                      /note="*end_range: 243490,."
@@ -449,6 +452,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJS|B0J15DRAFT_mRNA454469"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAH7234466.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGAGAGTC CAGCCCTCGA GCCCTCAGGT GGGGATGCCC TGGCCAACAT GCCCAAactc
        61 aacatcgtca tcatgggCTT TGGCAGCCGC GGCGACCTCG AACCAACTCT AGAAATCGCC

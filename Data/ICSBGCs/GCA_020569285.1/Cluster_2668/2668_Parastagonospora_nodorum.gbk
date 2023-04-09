@@ -56,6 +56,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIREC|mrna.HBI95_228760A"
                      /product="hypothetical protein"
                      /protein_id="KAH4188712.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1540..3075)
                      /note="*Name HBI95_228770"
                      /note="*gbkey: Gene"
@@ -229,6 +230,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIREC|mrna.HBI95_228790A"
                      /product="cutinase"
                      /protein_id="KAH4188715.1"
+                     /gene_kind="biosynthetic"
      misc_feature    complement(6558..6611)
                      /note="*Type SO:0000658 dispersed_repeat"
                      /note="*Note Match to RepeatModeler de-novo family
@@ -285,6 +287,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIREC|mrna.HBI95_228810A"
                      /product="hypothetical protein"
                      /protein_id="KAH4188716.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGTATAGT TCCAGCACGC CCATGGAAGT CTTCACTTCT GCCGGTGCCC CCTTCTGGCG
        61 CCAGAAATAT AGCCTGCCAT ATCTCTCTAC AAGCTCATAC TTCTCCTGAT CGACCTGATG

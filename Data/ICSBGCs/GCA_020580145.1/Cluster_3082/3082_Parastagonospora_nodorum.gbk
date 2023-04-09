@@ -117,6 +117,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRJE|mrna.HBI40_171350A"
                      /product="Ras-like protein"
                      /protein_id="KAH6280173.1"
+                     /gene_kind="biosynthetic"
      repeat_region   1373..1395
                      /note="*gbkey: repeat_region"
                      /inference="nucleotide motif:RepeatMasker:4.0.9p2"
@@ -196,6 +197,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRJE|mrna.HBI40_171370A"
                      /product="hypothetical protein"
                      /protein_id="KAH6280178.1"
+                     /gene_kind="biosynthetic"
      gene            4138..4737
                      /note="*Name HBI40_171380"
                      /note="*gbkey: Gene"
@@ -765,6 +767,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRJE|mrna.HBI40_171490A"
                      /product="hypothetical protein"
                      /protein_id="KAH6280039.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18271..19628)
                      /note="*Name HBI40_171500"
                      /note="*gbkey: Gene"
@@ -864,6 +867,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRJE|mrna.HBI40_171510A"
                      /product="hypothetical protein"
                      /protein_id="KAH6280030.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23553..24752)
                      /note="*Name HBI40_171530"
                      /note="*gbkey: Gene"

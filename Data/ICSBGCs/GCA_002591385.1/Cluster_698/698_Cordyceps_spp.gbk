@@ -57,6 +57,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NJEV|CDD83_mrna.5853"
                      /product="hypothetical protein"
                      /protein_id="PHH89531.1"
+                     /gene_kind="biosynthetic"
      gene            5159..7278
                      /note="*Name CDD83_5839"
                      /note="*Note proteinId:Hirsu2|5854"
@@ -127,6 +128,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NJEV|CDD83_mrna.5854"
                      /product="hypothetical protein"
                      /protein_id="PHH89532.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGTCAAAA TGGATCCGCC ACAGCTCTCG ATCGCTGCCC GCAGTGAAGT CGCTTCTGGT
        61 ATGCATCATC AAGATGTTGT CGCTGACGAG AATGTCTCCC TTGTCCCAGA CGTGGTAGTA

@@ -54,6 +54,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA141675"
                      /product="hypothetical protein"
                      /protein_id="ENI04066.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2793..3467)
                      /note="*Name COCC4DRAFT_41464"
                      /note="*end_range: 597713,."
@@ -442,6 +443,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCC4DRAFT_mRNA73170"
                      /product="hypothetical protein"
                      /protein_id="ENI04072.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACTCACCC GAGCCTTTCC GCTGATCGTC AGAAACTGCC CTCCGATCCC GAATCGTGAG
        61 ACCACTAGGA TATAGCTCTG CAAAGCTTTG GTTCGAATCC TGCCCGTTGC CCGCCACAGC

@@ -644,6 +644,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFQ|BDV23DRAFT_mRNA180277"
                      /product="autophagy-related protein 22-like protein"
                      /protein_id="KAE8393827.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22135..24116)
                      /note="*Name BDV23DRAFT_169980"
                      /note="*end_range: 272087,."
@@ -752,6 +753,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFQ|BDV23DRAFT_mRNA169980"
                      /product="cytochrome P450"
                      /protein_id="KAE8393828.1"
+                     /gene_kind="biosynthetic"
      gene            24609..26238
                      /note="*Name BDV23DRAFT_169981"
                      /note="*end_range: 274209,."
@@ -821,6 +823,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAE8393829.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GTCGATCGGC AATATATGAA CTAAGAGGAC CAAAACCACC CATTTCCAAT ACAGTAATCT
        61 ATCCACAATG GACACAAACC CACCCCAAGA AGAACCCCTG CAAACCCGCC GCCGCCGCAC

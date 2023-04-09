@@ -168,6 +168,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LHQR|mrna.PGRI_044300"
                      /product="Fibrillarin"
                      /protein_id="KXG50663.1"
+                     /gene_kind="biosynthetic"
      gene            12250..13218
                      /note="*Name PGRI_044310"
                      /note="*gbkey: Gene"
@@ -193,6 +194,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LHQR|mrna.PGRI_044310"
                      /product="NAD-dependent epimerase/dehydratase"
                      /protein_id="KXG50664.1"
+                     /gene_kind="biosynthetic"
      gene            13573..15243
                      /note="*Name PGRI_044320"
                      /note="*gbkey: Gene"
@@ -550,6 +552,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LHQR|mrna.PGRI_044370"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KXG50670.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTGGCCC ACTTCCCCAG ATGTAGGCCC CACCGTATCT CCAAACTCAG AAGAGTCATC
        61 AGAAGCATCA CCACTAGGGT GATCGGTTGG CAAGGAAACC CGCTGTGGCC CTGCATCCTT

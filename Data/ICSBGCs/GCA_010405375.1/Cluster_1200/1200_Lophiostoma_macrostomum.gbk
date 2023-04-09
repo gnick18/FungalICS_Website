@@ -200,6 +200,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAGLC|K491DRAFT_mRNA708249"
                      /product="hypothetical protein"
                      /protein_id="KAF2649303.1"
+                     /gene_kind="biosynthetic"
      gene            6604..8255
                      /note="*Name K491DRAFT_611117"
                      /note="*end_range: 43373,."
@@ -251,6 +252,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAGLC|K491DRAFT_mRNA611117"
                      /product="putative cytochrome P450"
                      /protein_id="KAF2649304.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATCAGAGGAG ACACTTTTGT TACTATTGAA ATTGTGATTC AGCATGCTTA CGCGGTCTTC
        61 CGACGACGTT CCACACCGCT TGATTCCACG GGTGATATCG CAGAGGTACC AAAGGCCTTG

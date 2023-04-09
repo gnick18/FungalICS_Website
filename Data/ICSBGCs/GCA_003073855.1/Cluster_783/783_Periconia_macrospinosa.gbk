@@ -61,6 +61,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="GCY protein"
                      /protein_id="PVH97858.1"
+                     /gene_kind="biosynthetic"
      gene            1336..3582
                      /note="*Name DM02DRAFT_673779"
                      /note="*end_range: 15284,."
@@ -292,6 +293,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PCYO|DM02DRAFT_mRNA532292"
                      /product="NRPS-like enzyme"
                      /protein_id="PVH97861.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17438..19243)
                      /note="*Name DM02DRAFT_532299"
                      /note="*end_range: 30945,."
@@ -341,6 +343,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PCYO|DM02DRAFT_mRNA532299"
                      /product="acid protease"
                      /protein_id="PVH97862.1"
+                     /gene_kind="biosynthetic"
      gene            20258..23725
                      /note="*Name DM02DRAFT_64447"
                      /note="*gbkey: Gene"
@@ -758,6 +761,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Clavaminate synthase-like protein"
                      /protein_id="PVH97869.1"
+                     /gene_kind="biosynthetic"
      gene            41459..43021
                      /note="*Name DM02DRAFT_673784"
                      /note="*end_range: 54723,."
@@ -924,6 +928,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PCYO|DM02DRAFT_mRNA719613"
                      /product="FAD/NAD(P)-binding domain-containing protein"
                      /protein_id="PVH97871.1"
+                     /gene_kind="biosynthetic"
      gene            complement(45770..47734)
                      /note="*Name DM02DRAFT_673786"
                      /note="*gbkey: Gene"
@@ -1097,6 +1102,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PCYO|DM02DRAFT_mRNA532304"
                      /product="aldo-keto reductase, putative"
                      /protein_id="PVH97873.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TACAGTAAAC TTTGTAAGGT TCTCTTTTGC TAGGCTATCA GCAATTTCTT GTACCTTGTC
        61 CCCCAGTTCT CCAAAGATGT CGAATCCCCA CCGTGACTGA ACGTTGAAAC GCTTATGTCT

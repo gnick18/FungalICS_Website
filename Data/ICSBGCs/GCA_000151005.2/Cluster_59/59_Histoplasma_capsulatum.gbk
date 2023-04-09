@@ -194,6 +194,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ABRJ|mrna_HCEG_08045T0"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="EGC48830.1"
+                     /gene_kind="biosynthetic"
      gene            12416..14322
                      /note="*Name HCEG_08046"
                      /note="*end_range: 392715,."
@@ -249,6 +250,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ABRJ|mrna_HCEG_08046T0"
                      /product="conserved hypothetical protein"
                      /protein_id="EGC48831.1"
+                     /gene_kind="biosynthetic"
      gene            15446..17228
                      /note="*Name HCEG_08047"
                      /note="*end_range: 395621,."
@@ -372,6 +374,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ABRJ|mrna_HCEG_08048T0"
                      /product="NIF domain-containing protein"
                      /protein_id="EGC48833.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGGTGTTG CGCTGGTGAT TGCGGCTGGT GGTGGTAGCG GTGGAAACAG CAGCAGAGCC
        61 AACAGCAGAA TGTCCATCCA TATGATTACT ATCATTTTCA CCATCTTCAC CATCATTACC

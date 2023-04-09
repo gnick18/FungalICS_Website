@@ -59,6 +59,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v003993.t1_mrna"
                      /product="alcohol dehydrogenase"
                      /protein_id="KAF4876726.1"
+                     /gene_kind="biosynthetic"
      gene            2476..3477
                      /note="*Name aclN-2"
                      /note="*gbkey: Gene"
@@ -143,6 +144,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v003995.t1_mrna"
                      /product="Glucan endo-1,3-beta-glucosidase A1"
                      /protein_id="KAF4876724.1"
+                     /gene_kind="biosynthetic"
      gene            7468..8688
                      /note="*Name CGCSCA1_v003996"
                      /note="*gbkey: Gene"
@@ -295,6 +297,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v003998.t1_mrna"
                      /product="Amidase 1"
                      /protein_id="KAF4876719.1"
+                     /gene_kind="biosynthetic"
      gene            13384..14686
                      /note="*Name DIT1-2"
                      /note="*gbkey: Gene"
@@ -348,6 +351,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v003999.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4876720.1"
+                     /gene_kind="biosynthetic"
      gene            15484..16925
                      /note="*Name DIT1-3"
                      /note="*gbkey: Gene"
@@ -400,6 +404,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v004000.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4876875.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATTCAAAC ACAACCACgt tcttcccctc ccccttgCCC CCAAGATACT CCTGCCTcat
        61 ctcctccgcc tgctcAATCT TCCACTCCTT CATCTTCACC TCGACCCCGT GCTCCGCCAC

@@ -118,6 +118,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPXD|B0T11DRAFT_mRNA225288"
                      /product="multicopper oxidase"
                      /protein_id="KAH7363513.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2914..4300)
                      /note="*Name B0T11DRAFT_224287"
                      /note="*end_range: 6056431,."
@@ -228,6 +229,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPXD|B0T11DRAFT_mRNA257312"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="KAH7363515.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7379..8741)
                      /note="*Name B0T11DRAFT_257315"
                      /note="*end_range: 6060872,."
@@ -381,6 +383,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPXD|B0T11DRAFT_mRNA353804"
                      /product="killer toxin subunits alpha/beta"
                      /protein_id="KAH7363518.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACAGACCG CTGTCGAAGG GAAGAGCATT CTGCCCGTTC AACTGACGAT ACTCTTCCCA
        61 TACCCTGCAA GTCTCCCGTA CATCGTCGGG TATTTTTGTG CCCCTGAGCT CCTTTGGCTT

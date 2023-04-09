@@ -257,6 +257,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NRSZ|TCAP_00472-RA"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="PNY29604.1"
+                     /gene_kind="biosynthetic"
      gene            7488..9849
                      /note="*Name TCAP_00473"
                      /note="*gbkey: Gene"
@@ -353,6 +354,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NRSZ|TCAP_00473-RA"
                      /product="FAD binding domain containing protein"
                      /protein_id="PNY29605.1"
+                     /gene_kind="biosynthetic"
      gene            10171..10734
                      /note="*Name TCAP_00474"
                      /note="*gbkey: Gene"
@@ -500,6 +502,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NRSZ|TCAP_00476-RA"
                      /product="Uncharacterized protein"
                      /protein_id="PNY29606.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14212..15128)
                      /note="*Name TCAP_00477"
                      /note="*gbkey: Gene"
@@ -680,6 +683,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:NRSZ|TCAP_00479-RA"
                      /product="AB hydrolase superfamily protein"
                      /protein_id="PNY29611.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18479..21960)
                      /note="*Name TCAP_00480"
                      /note="*end_range: 22519,."
@@ -1092,6 +1096,7 @@ FEATURES             Location/Qualifiers
                      /product="Lipoamide acyltransferase component of
                      branched-cha in alpha-keto acid dehydrogenase complex"
                      /protein_id="PNY25967.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 acgggggtCA GCTCCTGCGG GCTGTTttcc gccatggcga ggcggATCAC CCACGTGAAG
        61 CCGTCCTCGG GGGGAGCCCA GTCCTTGTAC tgcgcatcgc cctcggcctt gcgcctcatg

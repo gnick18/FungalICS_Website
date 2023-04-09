@@ -201,6 +201,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAQ|mrna.FPHYL_3936"
                      /product="amidohydrolase ytcJ-like"
                      /protein_id="KAF5566023.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14097..15471)
                      /note="*Name FPHYL_3937"
                      /note="*gbkey: Gene"
@@ -314,6 +315,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAQ|mrna.FPHYL_3938"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KAF5566025.1"
+                     /gene_kind="biosynthetic"
      gene            18895..20972
                      /note="*Name FPHYL_3939"
                      /note="*gbkey: Gene"
@@ -370,6 +372,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAQ|mrna.FPHYL_3939"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF5566026.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATATCAGA AGAGCACAAA TACCCATATC CTCCATCGAT TGCCTTGCAC TCCAAACTCT
        61 ACTCGGATCT CGCCGTCGTT GCTTCCATGC ATTTTGCATC ACACTATAAA CCGTACCGCA

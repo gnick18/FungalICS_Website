@@ -87,6 +87,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AFXC|MBM_mRNA08679"
                      /product="monooxygenase"
                      /protein_id="EKD13236.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3397..4277)
                      /note="*Name MBM_08680"
                      /note="*gbkey: Gene"
@@ -205,6 +206,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AFXC|MBM_mRNA08681"
                      /product="hypothetical protein"
                      /protein_id="EKD13238.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9802..11560)
                      /note="*Name MBM_08682"
                      /note="*gbkey: Gene"
@@ -488,6 +490,7 @@ FEATURES             Location/Qualifiers
                      /product="dual specificity
                      tyrosine-phosphorylation-regulated kinase"
                      /protein_id="EKD13242.1"
+                     /gene_kind="biosynthetic"
      gene            complement(28448..29958)
                      /note="*Name MBM_08686"
                      /note="*gbkey: Gene"
@@ -531,6 +534,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AFXC|MBM_mRNA08686"
                      /product="Ran1-like protein kinase"
                      /protein_id="EKD13243.1"
+                     /gene_kind="biosynthetic"
      gene            34667..35350
                      /note="*Name MBM_08687"
                      /note="*gbkey: Gene"
@@ -692,6 +696,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AFXC|MBM_mRNA08690"
                      /product="short chain dehydrogenase"
                      /protein_id="EKD13247.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACAACACA AAACCCTTGA AATATCCAAG AACATCGGTA CCAACATAGC CTGTGTACAG
        61 ATCAGGGCGA ATTACAATCG CGCTGGTTAG ATCTTGTCCC AGATCAAATG ATGTGGTCAA

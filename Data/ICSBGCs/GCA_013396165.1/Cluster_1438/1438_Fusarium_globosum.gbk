@@ -72,6 +72,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6884"
                      /product="nonribosomal peptide synthetase"
                      /protein_id="KAF5707538.1"
+                     /gene_kind="biosynthetic"
      gene            4809..6294
                      /note="*Name FGLOB1_6885"
                      /note="*gbkey: Gene"
@@ -110,6 +111,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6885"
                      /product="putative ABC1 transport"
                      /protein_id="KAF5707539.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6599..7657)
                      /note="*Name FGLOB1_6886"
                      /note="*gbkey: Gene"
@@ -138,6 +140,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6886"
                      /product="lipase esterase"
                      /protein_id="KAF5707540.1"
+                     /gene_kind="biosynthetic"
      gene            8272..9731
                      /note="*Name FGLOB1_6887"
                      /note="*gbkey: Gene"
@@ -175,6 +178,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6887"
                      /product="hypothetical protein"
                      /protein_id="KAF5707541.1"
+                     /gene_kind="biosynthetic"
      gene            10740..12926
                      /note="*Name FGLOB1_6888"
                      /note="*gbkey: Gene"
@@ -267,6 +271,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6888"
                      /product="alcohol oxidase"
                      /protein_id="KAF5707542.1"
+                     /gene_kind="biosynthetic"
      gene            13571..14953
                      /note="*Name FGLOB1_6889"
                      /note="*gbkey: Gene"
@@ -341,6 +346,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6890"
                      /product="acetyltransferase"
                      /protein_id="KAF5707544.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16878..17376)
                      /note="*Name FGLOB1_6891"
                      /note="*gbkey: Gene"
@@ -499,6 +505,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6893"
                      /product="phenylacetate 2-hydroxylase"
                      /protein_id="KAF5707547.1"
+                     /gene_kind="biosynthetic"
      gene            22883..25264
                      /note="*Name FGLOB1_6894"
                      /note="*gbkey: Gene"
@@ -527,6 +534,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAQPF|mrna.FGLOB1_6894"
                      /product="cellobiose dehydrogenase"
                      /protein_id="KAF5707548.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGCTCGC TTATGATCCA ACAAGACTGC GTACTTGGTG AACTCTTGAT CACTCATGAG
        61 CATGTTTAAT TCCTCCGGCA AAGTTCCGAA CACGAGCTCC ACGCCACCAT CCTTTCGCAT

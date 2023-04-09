@@ -81,6 +81,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LFZN|AC578_5081-2_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT02248.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(1..3974)
                      /note="*gbkey: mRNA"
                      /locus_tag="AC578_5081"
@@ -151,6 +152,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LFZN|AC578_5081-1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT02249.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5278..12288)
                      /note="*Name AC578_5083"
                      /note="*gbkey: Gene"
@@ -360,6 +362,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LFZN|AC578_5083-2_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT02246.1"
+                     /gene_kind="biosynthetic"
      gene            13481..16484
                      /note="*Name AC578_5045"
                      /note="*gbkey: Gene"
@@ -393,6 +396,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_5045_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT02272.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16529..18456)
                      /note="*Name AC578_5078"
                      /note="*gbkey: Gene"
@@ -426,6 +430,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LFZN|AC578_5078_mrna"
                      /product="hypothetical protein"
                      /protein_id="KXT02234.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TGCTAACGTT ATTAACATTT GTTGTTTTAC TATATAACAA AATGACACCC CTACGAGTCG
        61 ACAGACAGAA TCTAACCCCG AACAATCTAG CAATCTATTA ACTGCGCATA TTTTATAACC

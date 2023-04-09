@@ -63,6 +63,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_09665T0"
                      /product="hypothetical protein"
                      /protein_id="EXL75329.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(1329..3389)
                      /note="*gbkey: mRNA"
                      /locus_tag="FOPG_09665"
@@ -105,6 +106,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_09665T1"
                      /product="hypothetical protein"
                      /protein_id="EXL75330.1"
+                     /gene_kind="biosynthetic"
      gene            3806..8267
                      /note="*Name FOPG_09666"
                      /note="*gbkey: Gene"
@@ -170,6 +172,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_09666T0"
                      /product="hypothetical protein"
                      /protein_id="EXL75331.1"
+                     /gene_kind="biosynthetic"
      mRNA            3981..8267
                      /note="*gbkey: mRNA"
                      /locus_tag="FOPG_09666"
@@ -237,6 +240,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_09666T1"
                      /product="hypothetical protein"
                      /protein_id="EXL75332.1"
+                     /gene_kind="biosynthetic"
      gene            8819..10546
                      /note="*Name FOPG_09667"
                      /note="*end_range: 51239,."
@@ -368,6 +372,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_09669T0"
                      /product="hypothetical protein"
                      /protein_id="EXL75335.1"
+                     /gene_kind="biosynthetic"
      gene            14090..15547
                      /note="*Name FOPG_09670"
                      /note="*gbkey: Gene"
@@ -423,6 +428,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_09670T0"
                      /product="hypothetical protein"
                      /protein_id="EXL75336.1"
+                     /gene_kind="biosynthetic"
      gene            16187..18040
                      /note="*Name FOPG_09671"
                      /note="*end_range: 58733,."
@@ -558,6 +564,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_09672T0"
                      /product="hypothetical protein"
                      /protein_id="EXL75338.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20569..21726)
                      /note="*Name FOPG_09673"
                      /note="*end_range: 62419,."
@@ -616,6 +623,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNF|mrna_FOPG_09673T0"
                      /product="hypothetical protein"
                      /protein_id="EXL75339.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAAGTTCG AATTGAACTA AGGGGCACCC ATCGTTCGAA AAAGGCGACT TCTGGAAGAT
        61 GAGTGCTCGA GAACAAGAAC ACCGCGGGCA TATACGCACC TCTTTCTGCA CGTATCTTCT

@@ -66,6 +66,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ADAH|BBA_mRNA09587"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="EJP61451.1"
+                     /gene_kind="biosynthetic"
      gene            2701..4349
                      /note="*Name BBA_09588"
                      /note="*gbkey: Gene"
@@ -124,6 +125,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ADAH|BBA_mRNA09588"
                      /product="Cytochrome P450 CYP56C1"
                      /protein_id="EJP61452.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4720..6608)
                      /note="*Name BBA_09589"
                      /note="*end_range: 39878,."
@@ -202,6 +204,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ADAH|BBA_mRNA09589"
                      /product="autophagy-related protein 22"
                      /protein_id="EJP61453.1"
+                     /gene_kind="biosynthetic"
      gene            7310..9196
                      /note="*Name BBA_09590"
                      /note="*gbkey: Gene"
@@ -310,6 +313,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ADAH|BBA_mRNA09591"
                      /product="aspergillopepsin, putative"
                      /protein_id="EJP61455.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACTGCGGC GTGATATGTG CGTAAAGGCC TTCCACTGGT GAATCCACAA TGCCTCCACG
        61 AAATTTCCCT GATGCCAGAG CTTCTCGTAC AATGTTTGAC TTTGTGACAA TAACTGAAGG

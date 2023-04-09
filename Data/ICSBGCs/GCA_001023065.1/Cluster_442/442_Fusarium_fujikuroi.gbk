@@ -105,6 +105,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna10094"
                      /product="P-type ATPase"
                      /protein_id="KLP20255.1"
+                     /gene_kind="biosynthetic"
      gene            9006..10417
                      /note="*Name LW94_10095"
                      /note="*gbkey: Gene"
@@ -139,6 +140,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna10095"
                      /product="ABC1 transport protein"
                      /protein_id="KLP20256.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11242..13202)
                      /note="*Name LW94_10096"
                      /note="*gbkey: Gene"
@@ -206,6 +208,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna10096"
                      /product="trichodiene oxygenase cytochrome P450"
                      /protein_id="KLP20257.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGAAAAG TGACGAAATG ACAAGGAGAT GAGCAGTTTG TTAGATCTCT TCCGTAGAGC
        61 CTGGACTAGC CTCTCATGCC AAGGCCATGC ATTTGCACTT ATTGTCCCCT CGGCCATGGT

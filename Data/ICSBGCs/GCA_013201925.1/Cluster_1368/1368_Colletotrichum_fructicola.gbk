@@ -38,6 +38,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v012706.t1_mrna"
                      /product="putative FAD-dependent monooxygenase kojA"
                      /protein_id="KAF4928405.1"
+                     /gene_kind="biosynthetic"
      gene            2465..3055
                      /note="*Name CGCF245_v012707"
                      /note="*gbkey: Gene"
@@ -150,6 +151,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v012708.t1_mrna"
                      /product="Secondary metabolism regulator LAE1"
                      /protein_id="KAF4928407.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7277..8746)
                      /note="*Name stcS-2"
                      /note="*gbkey: Gene"
@@ -185,6 +187,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sterigmatocystin biosynthesis P450
                      monooxygenase stcS"
                      /protein_id="KAF4928408.1"
+                     /gene_kind="biosynthetic"
      gene            10465..10939
                      /note="*Name CGCF245_v012710"
                      /note="*gbkey: Gene"
@@ -621,6 +624,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v012717.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4928379.1"
+                     /gene_kind="biosynthetic"
      gene            28883..31336
                      /note="*Name LIP-0"
                      /note="*gbkey: Gene"
@@ -683,6 +687,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v012718.t1_mrna"
                      /product="Lipase"
                      /protein_id="KAF4928384.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31885..33971)
                      /note="*Name ptaK-0"
                      /note="*gbkey: Gene"
@@ -757,6 +762,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v012719.t1_mrna"
                      /product="oxidoreductase ptaK"
                      /protein_id="KAF4928383.1"
+                     /gene_kind="biosynthetic"
      gene            complement(35284..36763)
                      /note="*Name CGCF245_v012720"
                      /note="*Note Fujikurins efflux protein"
@@ -848,6 +854,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v012721.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4928411.1"
+                     /gene_kind="biosynthetic"
      gene            complement(40608..42119)
                      /note="*Name abfB"
                      /note="*gbkey: Gene"
@@ -880,6 +887,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v012722.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="KAF4928409.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGAGCCAA CATCCATCCC CAAGTCTGCG CCGTTCCATT TACCCCGCCA ATATGGTTTG
        61 AAGCCATTCA GCTTCGGCAT CATTGGAGGC GGTTGGTATG GCTGTCACAT TGCAACCTCT

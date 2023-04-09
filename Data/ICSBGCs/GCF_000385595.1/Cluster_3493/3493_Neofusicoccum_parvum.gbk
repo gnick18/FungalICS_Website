@@ -217,6 +217,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="putative zinc-binding oxidoreductase protein"
                      /protein_id="XP_007589465.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10432..11778)
                      /db_xref="GeneID:19019749"
                      /note="*Name UCRNP2_10238"
@@ -244,6 +245,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="putative lactonohydrolase protein"
                      /protein_id="XP_007589466.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12620..13988)
                      /db_xref="GeneID:19019750"
                      /note="*Name UCRNP2_10239"
@@ -344,6 +346,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine dityrosine biosynthesis
                      protein"
                      /protein_id="XP_007589469.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACGCGGGC ATATACGCCC TGACGGCAAT GCCGTACTCG GCCAGCGCGA CGCGGGCGTC
        61 GGCGAGGGCG GCGGGCGAGC GGCGGCGGCG CGCGATGATG CGGGCGGTCT CGGCGGCGAG

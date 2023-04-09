@@ -287,6 +287,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PVEM|FCULG_00001893_1_mrna"
                      /product="hypothetical protein"
                      /protein_id="PTD05777.1"
+                     /gene_kind="biosynthetic"
      gene            43760..45727
                      /note="*Name FCULG_00001894"
                      /note="*gbkey: Gene"
@@ -361,6 +362,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PVEM|FCULG_00001894_1_mrna"
                      /product="Phenol 2-monooxygenase"
                      /protein_id="PTD05775.1"
+                     /gene_kind="biosynthetic"
      gene            complement(49588..50284)
                      /note="*Name FCULG_00001897"
                      /note="*gbkey: Gene"

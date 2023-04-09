@@ -70,6 +70,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AMCV|Cob_v004510.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ22547.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7966..8616)
                      /note="*Name Cob_v004511"
                      /note="*gbkey: Gene"
@@ -324,6 +325,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AMCV|Cob_v004514.t1_mrna"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="TDZ22592.1"
+                     /gene_kind="biosynthetic"
      gene            29162..31112
                      /note="*Name DTR1"
                      /note="*gbkey: Gene"

@@ -112,6 +112,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA373412"
                      /product="hypothetical protein"
                      /protein_id="PYH83391.1"
+                     /gene_kind="biosynthetic"
      gene            3937..5750
                      /note="*Name BO82DRAFT_373413"
                      /note="*end_range: 501729,."
@@ -193,6 +194,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA373413"
                      /product="putative cytochrome P450 oxidoreductase"
                      /protein_id="PYH83392.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6480..8325)
                      /note="*Name BO82DRAFT_411965"
                      /note="*end_range: 504304,."
@@ -274,6 +276,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA411965"
                      /product="hypothetical protein"
                      /protein_id="PYH83393.1"
+                     /gene_kind="biosynthetic"
      gene            9010..10841
                      /note="*Name BO82DRAFT_411972"
                      /note="*gbkey: Gene"
@@ -588,6 +591,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA431099"
                      /product="putative beta-galactosidase B"
                      /protein_id="PYH83050.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCGTCAGA TCACCTTAAG CCCAACGGTC CTTGTGGGAG GCTACTTCAC CACGTCCAGC
        61 ACCCCAAGAC GATCCTTCCC CTTGACCTCC ATGCGGAGCG CGCACGGGCG ATCTGACTCC

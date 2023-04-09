@@ -105,6 +105,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFI|BDV25DRAFT_mRNA155396"
                      /product="monooxygenase"
                      /protein_id="KAE8149944.1"
+                     /gene_kind="biosynthetic"
      gene            3228..5957
                      /note="*Name BDV25DRAFT_155400"
                      /note="*gbkey: Gene"
@@ -189,6 +190,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAE8149945.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6593..8839)
                      /note="*Name BDV25DRAFT_119694"
                      /note="*gbkey: Gene"
@@ -472,6 +474,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFI|BDV25DRAFT_mRNA172519"
                      /product="thioredoxin-like protein"
                      /protein_id="KAE8149948.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TGAAGGACCA TTATATTGCA TTCTGAAAAC GAAGCTCGCT TAGAAAAGGT TGTTCATAAA
        61 CTACAAACTT TGTATTTTCC CACTATCAAA CACGCCATCC AGATAATCCT GCCACTCCGC

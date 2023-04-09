@@ -221,6 +221,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QOBI|E0198_003494-T1_mrna"
                      /product="dityrosine synthesis enzyme"
                      /protein_id="KAF5210614.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            complement(9671..10876)
                      /note="*Name E0198_003495"
@@ -263,6 +264,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QOBI|E0198_003495-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF5210615.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            11884..14970
                      /note="*Name E0198_003496"
@@ -339,6 +341,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QOBI|E0198_003497-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF5210617.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            complement(16830..20060)
                      /note="*Name PKC1"
@@ -408,6 +411,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QOBI|E0198_003498-T1_mrna"
                      /product="Serine/threonine kinase"
                      /protein_id="KAF5210618.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            complement(20685..23261)
                      /note="*Name E0198_003499"
@@ -540,6 +544,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QOBI|E0198_003501-T1_mrna"
                      /product="Rho GTPase"
                      /protein_id="KAF5210621.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
 ORIGIN
         1 TTAGTTGTGG GAGCTAGAAA CCATACGTAT GTTCTTGTCT TCGTGAAGCA TGTAAGGATA

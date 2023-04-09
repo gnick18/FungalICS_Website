@@ -153,6 +153,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEVI|DER44DRAFT_mRNA874572"
                      /product="hypothetical protein"
                      /protein_id="KAH7195718.1"
+                     /gene_kind="biosynthetic"
      gene            7630..9145
                      /note="*Name DER44DRAFT_814402"
                      /note="*end_range: 1605041,."
@@ -209,6 +210,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7195719.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9370..10546)
                      /note="*Name DER44DRAFT_888883"
                      /note="*gbkey: Gene"
@@ -243,6 +245,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEVI|DER44DRAFT_mRNA888883"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAH7195720.1"
+                     /gene_kind="biosynthetic"
      gene            10888..12833
                      /note="*Name DER44DRAFT_791797"
                      /note="*gbkey: Gene"
@@ -291,6 +294,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHEVI|DER44DRAFT_mRNA791797"
                      /product="hypothetical protein"
                      /protein_id="KAH7195721.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ACTCGTGAGC GATTTGTCAG CATCGAGAAT GAGTCAATTA AAATCCGATG TCAGGCGGAT
        61 ATCTGACTGT ATTGCCAGAT TGATATGATA TGCATAAATA TCTTGATTTC TACAGGAACA

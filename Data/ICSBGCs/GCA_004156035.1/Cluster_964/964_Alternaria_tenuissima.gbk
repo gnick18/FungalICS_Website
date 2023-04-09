@@ -68,6 +68,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXC|AA0116_g12310.t1"
                      /product="hypothetical protein"
                      /protein_id="RYO48569.1"
+                     /gene_kind="biosynthetic"
      gene            3400..4994
                      /note="*Name AA0116_g12311"
                      /note="*end_range: 18297,."
@@ -172,6 +173,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXC|AA0116_g12312.t1"
                      /product="Homoisocitrate dehydrogenase"
                      /protein_id="RYO48592.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6665..7903)
                      /note="*Name AA0116_g12313"
                      /note="*end_range: 21206,."
@@ -359,6 +361,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXC|AA0116_g12314.t1"
                      /product="hypothetical protein"
                      /protein_id="RYO48595.1"
+                     /gene_kind="biosynthetic"
      gene            15425..16465
                      /note="*Name AA0116_g12315"
                      /note="*end_range: 29768,."
@@ -396,6 +399,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXC|AA0116_g12315.t1"
                      /product="hypothetical protein"
                      /protein_id="RYO48570.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAATGCTTG GTGCTTGAGA AAGACAGGAC TGTCACGGCT GCCCTAGAGG ATATGCTGTA
        61 CCCGAAAGCT TCCTGCCCAT CATTCGTGAT CTTAAACGAC AGTGTCTTGT GCGAGAACTC

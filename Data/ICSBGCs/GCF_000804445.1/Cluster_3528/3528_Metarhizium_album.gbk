@@ -484,6 +484,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHE|MAM_mRNA06274"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="XP_040676978.1"
+                     /gene_kind="biosynthetic"
      gene            30499..30750
                      /db_xref="GeneID:63740730"
                      /note="*Name MAM_06275"
@@ -725,6 +726,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHE|MAM_mRNA06279"
                      /product="Glycoside hydrolase, family 31"
                      /protein_id="XP_040676983.1"
+                     /gene_kind="biosynthetic"
      gene            44764..45873
                      /db_xref="GeneID:63740735"
                      /note="*Name MAM_06280"
@@ -768,6 +770,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZHE|MAM_mRNA06280"
                      /product="aspartylglucosaminidase"
                      /protein_id="XP_040676984.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTGAGTA GCCTCGCTTC CCGTCGCGGC AGACATGTCT ACATCTCGGC ACAGTTGCAA
        61 CAGCCTCTCC CGAGTTCCCT CTACGCAGTG CTTCTCGACC ACCTCGGCAA ATTGGCCGTC

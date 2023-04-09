@@ -69,6 +69,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QLYQ|CFRS1_v002007.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4411882.1"
+                     /gene_kind="biosynthetic"
      gene            2543..3792
                      /note="*Name inhA 2"
                      /note="*gbkey: Gene"
@@ -619,6 +620,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QLYQ|CFRS1_v002016.t1_mrna"
                      /product="putative esterase"
                      /protein_id="KAF4411955.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGAGTTCT CAAATGATGG AAATTCCATC TTTCACCGCT TCCAGGCCGC CTTCGTCCAC
        61 GATGGACAGG GACAGCTGCT GTACTGCAGC GGGCCGCAAA AGGCCAGGGT CCAAGAGCAT

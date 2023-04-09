@@ -183,6 +183,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEFD|SEPMUDRAFT_mRNA69643"
                      /product="molybdopterin binding oxidoreductase"
                      /protein_id="EMF10479.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6105..7502)
                      /note="*Name SEPMUDRAFT_143154"
                      /note="*end_range: 503382,."
@@ -294,6 +295,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEFD|SEPMUDRAFT_mRNA48906"
                      /product="DIT1_PvcA-domain-containing protein"
                      /protein_id="EMF10481.1"
+                     /gene_kind="biosynthetic"
      gene            12051..13307
                      /note="*Name SEPMUDRAFT_119032"
                      /note="*end_range: 509187,."
@@ -382,6 +384,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEFD|SEPMUDRAFT_mRNA150576"
                      /product="magnesium-dependent phosphatase-1"
                      /protein_id="EMF10483.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGAACCG AAGCGAGTCA GGTGATCGCT CAACTGAGGC GCAAAAGGCA TCCTAGTAAA
        61 CGCACGAATC AGTCAGTCAG TCAGTCAAAT CAAATCCAAC TAAACCAAAA ACTCCCCCCA

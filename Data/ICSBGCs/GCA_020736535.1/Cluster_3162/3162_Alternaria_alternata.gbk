@@ -40,6 +40,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA413497"
                      /product="Alpha/beta hydrolase fold-3"
                      /protein_id="KAH6851609.1"
+                     /gene_kind="biosynthetic"
      gene            3184..8015
                      /note="*Name B0T12DRAFT_439009"
                      /note="*gbkey: Gene"
@@ -120,6 +121,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6851610.1"
+                     /gene_kind="biosynthetic"
      gene            8700..9937
                      /note="*Name B0T12DRAFT_354123"
                      /note="*end_range: 20196,."
@@ -238,6 +240,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA165575"
                      /product="hypothetical protein"
                      /protein_id="KAH6851612.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11608..13202)
                      /note="*Name B0T12DRAFT_354773"
                      /note="*end_range: 23461,."
@@ -361,6 +364,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA165596"
                      /product="kinase-like domain-containing protein"
                      /protein_id="KAH6851614.1"
+                     /gene_kind="biosynthetic"
      gene            18905..20697
                      /note="*Name B0T12DRAFT_484124"
                      /note="*end_range: 30956,."
@@ -471,6 +475,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA501265"
                      /product="hypothetical protein"
                      /protein_id="KAH6851616.1"
+                     /gene_kind="biosynthetic"
      gene            25901..26401
                      /note="*Name B0T12DRAFT_484126"
                      /note="*end_range: 36660,."
@@ -601,6 +606,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA354880"
                      /product="amine oxidase"
                      /protein_id="KAH6851619.1"
+                     /gene_kind="biosynthetic"
      gene            31121..32301
                      /note="*Name B0T12DRAFT_455476"
                      /note="*end_range: 42560,."
@@ -986,6 +992,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNJ|B0T12DRAFT_mRNA355021"
                      /product="arabinofuranosidase/B-xylosidase precursor"
                      /protein_id="KAH6851623.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GTTCCATTGA ATGACTTGGA GCTATCGTAC ATGATTTAGA AACGTAGTTT GGTGATCCTG
        61 CATGAATGAC ATGTGGGCGA CCCGTCATAT CAGTCTCGGT TCACGGCATG CCACCAACAG

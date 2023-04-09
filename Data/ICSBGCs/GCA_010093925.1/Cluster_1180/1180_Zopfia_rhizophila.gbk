@@ -100,6 +100,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAF2195908.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20938..21432)
                      /note="*Name K469DRAFT_545043"
                      /note="*end_range: 5633489,."
@@ -342,6 +343,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIT|K469DRAFT_mRNA545377"
                      /product="putative O-methyltransferase"
                      /protein_id="KAF2195912.1"
+                     /gene_kind="biosynthetic"
      gene            complement(67784..70181)
                      /note="*Name K469DRAFT_20762"
                      /note="*gbkey: Gene"
@@ -605,6 +607,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sporulation-specific N-formyltyrosine
                      oxidase Dit2"
                      /protein_id="KAF2195915.1"
+                     /gene_kind="biosynthetic"
      gene            75860..76896
                      /note="*Name K469DRAFT_682149"
                      /note="*end_range: 5688953,."
@@ -1024,6 +1027,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIT|K469DRAFT_mRNA699544"
                      /product="purine and uridine phosphorylase"
                      /protein_id="KAF2195923.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTCCTCC CATTTGCCGT TATACTCCAT GACGCGTGAC ACGAACTTTG CCATATCTCC
        61 TCCTACTTGG TTGGCGACCA CCCATAGCGT CGCGTCTAGT CCGCTACTAA TGCCTCCTGC

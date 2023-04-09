@@ -121,6 +121,7 @@ FEATURES             Location/Qualifiers
                      /product="beta-ketoacyl synthase domain-containing
                      protein"
                      /protein_id="KKO98470.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13592..14365)
                      /note="*Name THAR02_09421"
                      /note="*gbkey: Gene"
@@ -177,6 +178,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JOKZ|mrna.THAR02_09422"
                      /product="hypothetical protein"
                      /protein_id="KKO98472.1"
+                     /gene_kind="biosynthetic"
      gene            18752..19809
                      /note="*Name THAR02_09423"
                      /note="*gbkey: Gene"
@@ -289,6 +291,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JOKZ|mrna.THAR02_09425"
                      /product="glutamyl-tRNA(Gln) amidotransferase"
                      /protein_id="KKO98475.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25896..26979)
                      /note="*Name THAR02_09426"
                      /note="*gbkey: Gene"
@@ -363,6 +366,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JOKZ|mrna.THAR02_09427"
                      /product="hypothetical protein"
                      /protein_id="KKO98457.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATAAGCCT TGTACCGCAT TAATCTCGAT GATGTCTCTC ACAACCTCTG CAGCCGCCTT
        61 GAGATGCTCC ACAAACTCAT CCGactttct ctctccattA ATCACTGTGA ATTGAACTCT

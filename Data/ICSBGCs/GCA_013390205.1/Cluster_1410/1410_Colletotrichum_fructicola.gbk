@@ -59,6 +59,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002240.t1_mrna"
                      /product="rRNA-processing protein FCF1"
                      /protein_id="KAF5508791.1"
+                     /gene_kind="biosynthetic"
      gene            1459..2707
                      /note="*Name aes1-4"
                      /note="*gbkey: Gene"
@@ -121,6 +122,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002241.t1_mrna"
                      /product="Acetylesterase"
                      /protein_id="KAF5508790.1"
+                     /gene_kind="biosynthetic"
      gene            4692..6511
                      /note="*Name STL1-7"
                      /note="*gbkey: Gene"
@@ -236,6 +238,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002243.t1_mrna"
                      /product="Trans-enoyl reductase ACTTS2"
                      /protein_id="KAF5508789.1"
+                     /gene_kind="biosynthetic"
      gene            8487..9466
                      /note="*Name CGCF413_v002244"
                      /note="*gbkey: Gene"
@@ -273,6 +276,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002244.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF5508742.1"
+                     /gene_kind="biosynthetic"
      gene            13084..14931
                      /note="*Name pho-4-2"
                      /note="*gbkey: Gene"
@@ -357,6 +361,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002246.t1_mrna"
                      /product="Arabinoxylan arabinofuranohydrolase"
                      /protein_id="KAF5508740.1"
+                     /gene_kind="biosynthetic"
      gene            17909..20149
                      /note="*Name abfA-1"
                      /note="*gbkey: Gene"
@@ -450,6 +455,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002247.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase A"
                      /protein_id="KAF5508739.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20708..21895)
                      /note="*Name CGCF413_v002248"
                      /note="*gbkey: Gene"
@@ -696,6 +702,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002250.t1_mrna"
                      /product="Highly reducing polyketide synthase alt5"
                      /protein_id="KAF5509784.1"
+                     /gene_kind="biosynthetic"
      gene            complement(38194..39024)
                      /note="*Name CGCF413_v002251"
                      /note="*gbkey: Gene"
@@ -790,6 +797,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002252.t1_mrna"
                      /product="Cytochrome P450 monooxygenase TRI13"
                      /protein_id="KAF5509786.1"
+                     /gene_kind="biosynthetic"
      gene            complement(42153..43781)
                      /note="*Name Ache-2"
                      /note="*gbkey: Gene"
@@ -822,6 +830,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002253.t1_mrna"
                      /product="Acetylcholinesterase"
                      /protein_id="KAF5509787.1"
+                     /gene_kind="biosynthetic"
      gene            complement(44134..46295)
                      /note="*Name aflT-4"
                      /note="*gbkey: Gene"
@@ -979,6 +988,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002255.t1_mrna"
                      /product="Esterase FUS5"
                      /protein_id="KAF5509789.1"
+                     /gene_kind="biosynthetic"
      gene            48838..51215
                      /note="*Name CGCF413_v002256"
                      /note="*Note D-xylose 1-dehydrogenase-0"
@@ -1045,6 +1055,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002256.t1_mrna"
                      /product="D-xylose 1-dehydrogenase"
                      /protein_id="KAF5509790.1"
+                     /gene_kind="biosynthetic"
      gene            52268..55637
                      /note="*Name UGT2A3"
                      /note="*gbkey: Gene"
@@ -1087,6 +1098,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002257.t1_mrna"
                      /product="UDP-glucuronosyltransferase 2A3"
                      /protein_id="KAF5509791.1"
+                     /gene_kind="biosynthetic"
      gene            56887..57477
                      /note="*Name CGCF413_v002258"
                      /note="*gbkey: Gene"
@@ -1208,6 +1220,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002259.t1_mrna"
                      /product="Secondary metabolism regulator LAE1"
                      /protein_id="KAF5509001.1"
+                     /gene_kind="biosynthetic"
      gene            complement(61699..63219)
                      /note="*Name stcS-3"
                      /note="*gbkey: Gene"
@@ -1243,6 +1256,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sterigmatocystin biosynthesis P450
                      monooxygenase stcS"
                      /protein_id="KAF5507987.1"
+                     /gene_kind="biosynthetic"
      gene            complement(65585..67913)
                      /note="*Name CGCF413_v002261"
                      /note="*Note Uncharacterized transcriptional regulatory
@@ -1572,6 +1586,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002265.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF5509202.1"
+                     /gene_kind="biosynthetic"
      gene            83305..85758
                      /note="*Name LIP-0"
                      /note="*gbkey: Gene"
@@ -1634,6 +1649,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002266.t1_mrna"
                      /product="Lipase"
                      /protein_id="KAF5509203.1"
+                     /gene_kind="biosynthetic"
      gene            complement(86307..88393)
                      /note="*Name ptaK-1"
                      /note="*gbkey: Gene"
@@ -1708,6 +1724,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002267.t1_mrna"
                      /product="oxidoreductase ptaK"
                      /protein_id="KAF5508026.1"
+                     /gene_kind="biosynthetic"
      gene            complement(89706..91185)
                      /note="*Name CGCF413_v002268"
                      /note="*Note Fujikurins efflux protein-0"
@@ -1799,6 +1816,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002269.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF5509200.1"
+                     /gene_kind="biosynthetic"
      gene            complement(95030..96541)
                      /note="*Name abfB"
                      /note="*gbkey: Gene"
@@ -1831,6 +1849,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002270.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="KAF5509853.1"
+                     /gene_kind="biosynthetic"
      gene            complement(98723..99361)
                      /note="*Name CGCF413_v002271"
                      /note="*gbkey: Gene"
@@ -1968,6 +1987,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v002274.t1_mrna"
                      /product="putative isochorismatase family protein YddQ"
                      /protein_id="KAF5509857.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAACAGCG ATCTCGGGCA GCCTCTCAAC AGAGTATTTC CCCTTTCCGA CCGCAATTAA
        61 AGGCACACCC GGGACCTTCC TCAGCTTCTG TCTCAGAGCC CTATCGTTCG TTCCAACCAG

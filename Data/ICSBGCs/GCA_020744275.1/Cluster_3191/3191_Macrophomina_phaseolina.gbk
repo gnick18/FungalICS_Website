@@ -119,6 +119,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJR|B0J12DRAFT_mRNA578129"
                      /product="3-oxoacyl-reductase"
                      /protein_id="KAH7043902.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4028..4752)
                      /note="*Name B0J12DRAFT_760148"
                      /note="*end_range: 24015,."
@@ -285,6 +286,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJR|B0J12DRAFT_mRNA578308"
                      /product="Malate/L-lactate dehydrogenase"
                      /protein_id="KAH7043905.1"
+                     /gene_kind="biosynthetic"
      gene            11578..13428
                      /note="*Name B0J12DRAFT_577996"
                      /note="*end_range: 32691,."
@@ -526,6 +528,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJR|B0J12DRAFT_mRNA671104"
                      /product="cytochrome P450"
                      /protein_id="KAH7043908.1"
+                     /gene_kind="biosynthetic"
      gene            24500..26584
                      /note="*Name B0J12DRAFT_185727"
                      /note="*gbkey: Gene"
@@ -584,6 +587,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7043909.1"
+                     /gene_kind="biosynthetic"
      gene            27404..28954
                      /note="*Name B0J12DRAFT_671110"
                      /note="*gbkey: Gene"
@@ -715,6 +719,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJR|B0J12DRAFT_mRNA701654"
                      /product="short chain dehydrogenase"
                      /protein_id="KAH7043911.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACACCAAT CCTCTGCGTG GCGCCAAACC GGGCAATCAT CCAACTAGCC CAGCATTTGC
        61 TTCTGTACCA CCCGCCGCGC ATCCTGCAAC CGCTCCTAGT CCGTTGTGTC ACCATAATTT

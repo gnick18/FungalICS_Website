@@ -147,6 +147,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QMIJ|DPV78_005553-RA_mrna"
                      /product="Cell division control protein 48"
                      /protein_id="KAF3400382.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6031..9369)
                      /note="*Name DPV78_005554"
                      /note="*gbkey: Gene"
@@ -182,6 +183,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QMIJ|DPV78_005554-RA_mrna"
                      /product="putative copper-transporting ATPase HMA5"
                      /protein_id="KAF3400379.1"
+                     /gene_kind="biosynthetic"
      gene            10290..13658
                      /note="*Name DPV78_005555"
                      /note="*gbkey: Gene"
@@ -287,6 +289,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QMIJ|DPV78_005555-RA_mrna"
                      /product="Riboflavin transporter MCH5"
                      /protein_id="KAF3400380.1"
+                     /gene_kind="biosynthetic"
      gene            14806..15813
                      /note="*Name DPV78_005556"
                      /note="*gbkey: Gene"
@@ -427,6 +430,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QMIJ|DPV78_005557-RA_mrna"
                      /product="Amidase 1"
                      /protein_id="KAF3400378.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20841..22247)
                      /note="*Name DPV78_005558"
                      /note="*gbkey: Gene"
@@ -1177,6 +1181,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QMIJ|DPV78_005567-RA_mrna"
                      /product="putative trans-acting enoyl reductase"
                      /protein_id="KAF3400934.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAATCATAC AGGCTGTCGT CATTGCCTGC ATCGCCGAAT CCATTCTGCG CAGCATCACC
        61 ACCAGTAACC TCCTCAGCCG AGGGGAAGCG GAAGAAAGCA CTGCCACCCG AGTTCTTCAT

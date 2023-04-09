@@ -25,6 +25,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FMAN_14889"
                      /product="related to cytochrome P450 3A7"
                      /protein_id="CVL03993.1"
+                     /gene_kind="biosynthetic"
      exon            complement(1..234)
                      /note="*exon_number: 4"
                      /note="*gbkey: exon"
@@ -132,6 +133,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FMAN_14886"
                      /product="related to P-type ATPase"
                      /protein_id="CVL03999.1"
+                     /gene_kind="biosynthetic"
      exon            complement(7524..10698)
                      /note="*exon_number: 2"
                      /note="*gbkey: exon"
@@ -164,6 +166,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FMAN_14885"
                      /product="related to ABC1 transport protein"
                      /protein_id="CVL04001.1"
+                     /gene_kind="biosynthetic"
      exon            11799..12318
                      /note="*exon_number: 1"
                      /note="*gbkey: exon"
@@ -214,6 +217,7 @@ FEATURES             Location/Qualifiers
                      /product="related to trichodiene oxygenase cytochrome
                      P450"
                      /protein_id="CVL04002.1"
+                     /gene_kind="biosynthetic"
      exon            complement(14023..14188)
                      /note="*exon_number: 6"
                      /note="*gbkey: exon"
@@ -526,6 +530,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FMAN_14876"
                      /product="related to proline utilization protein PrnX"
                      /protein_id="CVL04016.1"
+                     /gene_kind="biosynthetic"
      gene            complement(38585..40339)
                      /note="*Name FMAN_14875"
                      /note="*gbkey: Gene"

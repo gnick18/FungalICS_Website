@@ -494,6 +494,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7242825.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20578..22385)
                      /note="*Name BKA59DRAFT_514330"
                      /note="*end_range: 4773679,."
@@ -622,6 +623,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPXF|BKA59DRAFT_mRNA398983"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAH7242827.1"
+                     /gene_kind="biosynthetic"
      gene            24898..26415
                      /note="*Name BKA59DRAFT_402034"
                      /note="*end_range: 4777709,."
@@ -772,6 +774,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPXF|BKA59DRAFT_mRNA481318"
                      /product="hypothetical protein"
                      /protein_id="KAH7242830.1"
+                     /gene_kind="biosynthetic"
      gene            complement(38684..40633)
                      /note="*Name BKA59DRAFT_398821"
                      /note="*end_range: 4791927,."
@@ -814,6 +817,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGPXF|BKA59DRAFT_mRNA398821"
                      /product="indole-3-acetamide hydrolase"
                      /protein_id="KAH7242831.1"
+                     /gene_kind="biosynthetic"
      gene            42267..44141
                      /note="*Name BKA59DRAFT_398948"
                      /note="*end_range: 4795435,."
@@ -860,6 +864,7 @@ FEATURES             Location/Qualifiers
                      /product="flavin-containing amine oxidoreductase-domain
                      containing protein"
                      /protein_id="KAH7242832.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACTGCATG TTGCCGCAGA GAATGCCacc gacaacaaca ccattGCCAA GTATAGCCAT
        61 CGGCGGAGCC ATAGTAGCGG CAGTAACACC TGCAACTGTG ATCAGGTTGC AGAATCCCGC

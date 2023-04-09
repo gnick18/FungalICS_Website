@@ -235,6 +235,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v000988.t1_mrna"
                      /product="Acyl-CoA dehydrogenase family member 11"
                      /protein_id="TDZ74215.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7667..9049)
                      /note="*Name CTRI78_v000989"
                      /note="*Note Arginine biosynthesis bifunctional protein
@@ -265,6 +266,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v000989.t1_mrna"
                      /product="Arginine biosynthesis bifunctional protein ArgJ"
                      /protein_id="TDZ74214.1"
+                     /gene_kind="biosynthetic"
      gene            9735..10401
                      /note="*Name LOC1"
                      /note="*gbkey: Gene"
@@ -397,6 +399,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v000991.t1_mrna"
                      /product="putative esterase"
                      /protein_id="TDZ74106.1"
+                     /gene_kind="biosynthetic"
      gene            13598..20762
                      /note="*Name CTRI78_v000992"
                      /note="*Note mRNA degradation protein pet127"
@@ -871,6 +874,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v001000.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ74291.1"
+                     /gene_kind="biosynthetic"
      gene            61999..62238
                      /note="*Name CTRI78_v001001"
                      /note="*gbkey: Gene"
@@ -1093,6 +1097,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v001004.t1_mrna"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="TDZ74287.1"
+                     /gene_kind="biosynthetic"
      gene            77683..79585
                      /note="*Name DTR1"
                      /note="*gbkey: Gene"
@@ -1229,6 +1234,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v001006.t1_mrna"
                      /product="Ubiquitin-related modifier 1"
                      /protein_id="TDZ74289.1"
+                     /gene_kind="biosynthetic"
      gene            87662..90257
                      /note="*Name ELP2"
                      /note="*gbkey: Gene"
@@ -1685,6 +1691,7 @@ FEATURES             Location/Qualifiers
                      /product="putative
                      6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase"
                      /protein_id="TDZ74179.1"
+                     /gene_kind="biosynthetic"
      gene            108922..110092
                      /note="*Name tom40"
                      /note="*gbkey: Gene"
@@ -1775,6 +1782,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v001017.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="TDZ74177.1"
+                     /gene_kind="biosynthetic"
      gene            114568..116382
                      /note="*Name tap-2"
                      /note="*gbkey: Gene"
@@ -1838,6 +1846,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v001018.t1_mrna"
                      /product="Tripeptidyl aminopeptidase"
                      /protein_id="TDZ74174.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACTCGTCG TCGCTGTCGC TGCCGTATCC GACTAATGGT CCCGCGGACG CGGTGACCTT
        61 TGGCTTCGAC GACACGGCTA CCTTGGCGTT GTTGAGTGCT GCCAGGGTGC TGCTGGAGAA

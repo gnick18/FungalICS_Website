@@ -52,6 +52,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACPE|MYCGRDRAFT_mRNA75360"
                      /product="protein kinase WD40"
                      /protein_id="EGP84770.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5131..5830)
                      /note="*Name MYCGRDRAFT_105672"
                      /note="*end_range: 525265,."
@@ -248,6 +249,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACPE|MYCGRDRAFT_mRNA75366"
                      /product="hypothetical protein"
                      /protein_id="EGP84767.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12052..13200)
                      /note="*Name MYCGRDRAFT_24569"
                      /note="*end_range: 532635,."
@@ -288,6 +290,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="EGP84766.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,531487"
      gene            complement(16127..22651)
                      /note="*Name MgAtr7"
@@ -794,6 +797,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACPE|MYCGRDRAFT_mRNA117820"
                      /product="ABC transporter"
                      /protein_id="EGP84765.1"
+                     /gene_kind="biosynthetic"
      gene            23210..27038
                      /note="*Name MYCGRDRAFT_75370"
                      /note="*end_range: 546473,."
@@ -914,6 +918,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACPE|MYCGRDRAFT_mRNA75370"
                      /product="hypothetical protein"
                      /protein_id="EGP84297.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACAAATGC ACAAAAACCA TCCCTCCTCG ATCCGCACTA ACAACCATCC CCACCGGCCT
        61 CTCCACCACC GCAACATCCG TCACCAAATC CAAATGCCTC CTCATCAAAT TCCTCGCGCT

@@ -279,6 +279,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:QCYV|Lthio_g9277.t1"
                      /product="Flavonol synthase protein"
                      /protein_id="KAF4540181.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16348..18141)
                      /note="*Name LTHEOB_9278"
                      /note="*gbkey: Gene"
@@ -346,6 +347,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:QCYV|Lthio_g9278.t1"
                      /product="FAD binding domain containing protein"
                      /protein_id="KAF4540182.1"
+                     /gene_kind="biosynthetic"
      gene            19871..21887
                      /note="*Name LTHEOB_9279"
                      /note="*gbkey: Gene"
@@ -388,6 +390,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:QCYV|Lthio_g9279.t1"
                      /product="Pyoverdine dityrosine biosynthesis"
                      /protein_id="KAF4540183.1"
+                     /gene_kind="biosynthetic"
      gene            24094..25999
                      /note="*Name LTHEOB_9280"
                      /note="*gbkey: Gene"
@@ -429,6 +432,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:QCYV|Lthio_g9280.t1"
                      /product="Cytochrome p450"
                      /protein_id="KAF4540184.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCCGAGA GCTCGTACCA TGACGAGCGG GAAGACGAAG CACAACAGCC CCTTGTCGTC
        61 ACCCGCAGCC CGGCAATAAA TGAACCCCTT GATCCCGACG AAGCCTCGAT CCCCTCGATG

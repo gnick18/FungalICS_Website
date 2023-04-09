@@ -235,6 +235,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAIM|mrna_FVEG_08718T0"
                      /product="hypothetical protein"
                      /protein_id="EWG49106.1"
+                     /gene_kind="biosynthetic"
      gene            9601..10890
                      /note="*Name FVEG_08717"
                      /note="*end_range: 1124082,."
@@ -282,6 +283,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAIM|mrna_FVEG_08717T0"
                      /product="hypothetical protein"
                      /protein_id="EWG49105.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11391..13446)
                      /note="*Name FVEG_08716"
                      /note="*end_range: 1126638,."
@@ -439,6 +441,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAIM|mrna_FVEG_08715T0"
                      /product="hypothetical protein"
                      /protein_id="EWG49103.1"
+                     /gene_kind="biosynthetic"
      gene            15914..17728
                      /note="*Name FVEG_08714"
                      /note="*end_range: 1130920,."
@@ -486,6 +489,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAIM|mrna_FVEG_08714T0"
                      /product="hypothetical protein"
                      /protein_id="EWG49102.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18152..18830)
                      /note="*Name FVEG_08713"
                      /note="*end_range: 1132022,."
@@ -608,6 +612,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAIM|mrna_FVEG_08710T0"
                      /product="hypothetical protein"
                      /protein_id="EWG49096.1"
+                     /gene_kind="biosynthetic"
      mRNA            21510..28131
                      /note="*gbkey: mRNA"
                      /locus_tag="FVEG_08710"
@@ -647,6 +652,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAIM|mrna_FVEG_08710T2"
                      /product="hypothetical protein"
                      /protein_id="EWG49098.1"
+                     /gene_kind="biosynthetic"
      mRNA            21510..28131
                      /note="*gbkey: mRNA"
                      /locus_tag="FVEG_08710"
@@ -686,6 +692,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAIM|mrna_FVEG_08710T1"
                      /product="hypothetical protein"
                      /protein_id="EWG49097.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21696..25547)
                      /note="*Name FVEG_08711"
                      /note="*end_range: 1138739,."
@@ -765,6 +772,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AAIM|mrna_FVEG_08711T0"
                      /product="hypothetical protein"
                      /protein_id="EWG49099.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CCCTATTTTT GCTGAACCGT ACCTCTACCT GAGGTCACTA GTTGCGAGAC ACGTCACTTG
        61 GAATCAGTAG AAGCCTTCAA ATGGTGGAAA TACCCCTTTT ATCGATAACC CCACGTCAAT

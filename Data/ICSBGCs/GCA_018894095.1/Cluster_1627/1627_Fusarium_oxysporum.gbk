@@ -358,6 +358,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RSAI|FocnCong_v000508.t1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAG7003579.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14445..16690)
                      /note="*Name dur3-1-0"
                      /note="*gbkey: Gene"
@@ -733,6 +734,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RSAI|FocnCong_v000515.t1_mrna"
                      /product="Cyrochrome P450 monooxygenase"
                      /protein_id="KAG7002648.1"
+                     /gene_kind="biosynthetic"
      gene            complement(37086..38515)
                      /note="*Name DIT1-1"
                      /note="*gbkey: Gene"
@@ -787,6 +789,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RSAI|FocnCong_v000516.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAG7002649.1"
+                     /gene_kind="biosynthetic"
      gene            39402..42765
                      /note="*Name FocnCong_v000517"
                      /note="*Note Copper-transporting ATPase"
@@ -825,6 +828,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RSAI|FocnCong_v000517.t1_mrna"
                      /product="Copper-transporting ATPase"
                      /protein_id="KAG7003589.1"
+                     /gene_kind="biosynthetic"
      gene            complement(43222..44492)
                      /note="*Name FocnCong_v000518"
                      /note="*Note (1R"
@@ -970,6 +974,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RSAI|FocnCong_v000520.t1_mrna"
                      /product="Cytochrome P450 4F12"
                      /protein_id="KAG7003609.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCCGATT CGACTCCTCA CCAGGTCACC GAAGGTCACT TGCGGCCGCG TCTCAGCAAG
        61 TTGACCATGG TCGCGATGAC ATTTGCCATT CTCAAGTAAG CAGATCCACA TTGCCCTTAA

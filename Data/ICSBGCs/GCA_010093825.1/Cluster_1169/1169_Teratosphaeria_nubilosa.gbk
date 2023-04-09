@@ -128,6 +128,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEJT|EJ03DRAFT_mRNA378848"
                      /product="acetyl-CoA synthetase-like protein"
                      /protein_id="KAF2764178.1"
+                     /gene_kind="biosynthetic"
      gene            5502..7061
                      /note="*Name EJ03DRAFT_321697"
                      /note="*gbkey: Gene"
@@ -181,6 +182,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEJT|EJ03DRAFT_mRNA321697"
                      /product="hypothetical protein"
                      /protein_id="KAF2764179.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GTTTACGAAA GACCTTGTGA CGTGCGGAAG TGCGAAGACT CTGTATATCA ATTTGGTACT
        61 TTGTACTTTC TGTGGTAGAT CTGCTCTTGG CACATCTGGA AAACTCAGCA AGCCCATATT

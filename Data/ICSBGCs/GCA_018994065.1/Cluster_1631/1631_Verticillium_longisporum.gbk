@@ -66,6 +66,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAFKAH|vl43-au17.g815.t1"
                      /product="Isocyanide synthase xanB like protein"
                      /protein_id="KAG7127004.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4007..4841)
                      /note="*Name HYQ44_000725"
                      /note="*gbkey: Gene"
@@ -123,6 +124,7 @@ FEATURES             Location/Qualifiers
                      /product="Isocyanide synthase-NRPS hybrid crmA like
                      protein"
                      /protein_id="KAG7127005.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCCAACC CTTACGAAAT CAACCTCATG GACGAACTCA CTCTCCGTGG TATCACCCAA
        61 TACTATGCCT ttgtcgagga gaagcaaaAG GTCCACTGCC TCAACACGCT GTTCTCTAAG

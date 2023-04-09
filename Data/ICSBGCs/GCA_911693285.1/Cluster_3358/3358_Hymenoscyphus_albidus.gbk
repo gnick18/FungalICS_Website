@@ -32,6 +32,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="HYALB_00005517"
                      /product="hypothetical protein"
                      /protein_id="CAG8983878.1"
+                     /gene_kind="biosynthetic"
      exon            complement(1..1776)
                      /note="*exon_number: 1"
                      /note="*gbkey: exon"
@@ -57,6 +58,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="HYALB_00005518"
                      /product="hypothetical protein"
                      /protein_id="CAG8983879.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(2077..4139)
                      /note="*Note Similar to DIT1: Spore wall maturation
                      protein DIT1 (Saccharomyces cerevisiae (strain ATCC 204508
@@ -113,6 +115,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="CAG8983880.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(7530..9166)
                      /note="*Note Similar to DIT2: Cytochrome P450-DIT2
                      (Saccharomyces cerevisiae (strain ATCC 204508 / S288c))"

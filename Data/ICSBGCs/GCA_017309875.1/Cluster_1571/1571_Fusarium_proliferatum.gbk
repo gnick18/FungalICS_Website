@@ -173,6 +173,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PKMG|mrna.FPRO03_07149"
                      /product="amidohydrolase ytcJ-like protein"
                      /protein_id="KAG4253189.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14932..16307)
                      /note="*Name FPRO03_07150"
                      /note="*gbkey: Gene"
@@ -286,6 +287,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PKMG|mrna.FPRO03_07151"
                      /product="hypothetical protein"
                      /protein_id="KAG4253191.1"
+                     /gene_kind="biosynthetic"
      gene            19624..21892
                      /note="*Name FPRO03_07152"
                      /note="*gbkey: Gene"
@@ -352,6 +354,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PKMG|mrna.FPRO03_07152"
                      /product="hypothetical protein"
                      /protein_id="KAG4253192.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATATTAGA AGAGCACAGA TACCCATATC CTCCATCGAT TGCCTTGCAC TCCAAAGTCT
        61 ACTTGGGTCT CGCCGTCGTT GCTTCCATGC ATTTTGCATC ACTTTATAAA CCGTACCACA

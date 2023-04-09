@@ -35,6 +35,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FIM1|rna575"
                      /product="putative thiosulfate sulfurtransferase YOR285W"
                      /protein_id="QGN13915.1"
+                     /gene_kind="biosynthetic"
      gene            854..1282
                      /note="*Name RDL2"
                      /note="*gbkey: Gene"
@@ -64,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FIM1|rna576"
                      /product="putative thiosulfate sulfurtransferase FMP31"
                      /protein_id="QGN13916.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1399..2436)
                      /note="*Name RRP36"
                      /note="*gbkey: Gene"
@@ -190,6 +192,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FIM1|rna580"
                      /product="spore wall maturation protein DIT1"
                      /protein_id="QGN13920.1"
+                     /gene_kind="biosynthetic"
      gene            7236..8780
                      /note="*Name DIT2"
                      /note="*gbkey: Gene"
@@ -219,6 +222,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FIM1|rna581"
                      /product="cytochrome P450-DIT2"
                      /protein_id="QGN13921.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8946..9962)
                      /note="*Name URH1"
                      /note="*gbkey: Gene"
@@ -273,6 +277,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FIM1|rna583"
                      /product="UPF0676 protein C1494.01"
                      /protein_id="QGN13923.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGACATTCT GGAACAGAGT TATCGAAGCC TGGAAGGGTG AGAGTGCACc taaaaaagaa
        61 gaacctCATT ATGAGAACCA CGGCAAAAAG TACGACTTTG ACGACATGGT CGAATTAGTC

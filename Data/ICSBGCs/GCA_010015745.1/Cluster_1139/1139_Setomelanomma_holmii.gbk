@@ -184,6 +184,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKM|EK21DRAFT_mRNA59614"
                      /product="carbon-nitrogen hydrolase"
                      /protein_id="KAF2032950.1"
+                     /gene_kind="biosynthetic"
      gene            6400..9386
                      /note="*Name EK21DRAFT_98532"
                      /note="*end_range: 117702,."
@@ -370,6 +371,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKM|EK21DRAFT_mRNA98533"
                      /product="hypothetical protein"
                      /protein_id="KAF2032952.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCCACGA GGGACAACAT TCTACCTATT GCGAAGCTCG ACGGAGTATT CAGCATGGAA
        61 GAGTTCCTCG CGGGGAATTC CGCCTATCAG GCTGCAAAGC TCGAGAACAA GACCGCAAAG

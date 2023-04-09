@@ -108,6 +108,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_6152"
                      /product="hypothetical protein"
                      /protein_id="KAF4467003.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1926..3884)
                      /note="*Name FALBO_6153"
                      /note="*gbkey: Gene"
@@ -274,6 +275,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_6156"
                      /product="Cytochrome P450 4F12"
                      /protein_id="KAF4467007.1"
+                     /gene_kind="biosynthetic"
      gene            14375..18239
                      /note="*Name FALBO_6157"
                      /note="*gbkey: Gene"
@@ -337,6 +339,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_6157"
                      /product="hypothetical protein"
                      /protein_id="KAF4467008.1"
+                     /gene_kind="biosynthetic"
      gene            19426..21112
                      /note="*Name FALBO_6158"
                      /note="*gbkey: Gene"
@@ -384,6 +387,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADYS|mrna.FALBO_6158"
                      /product="ABC1 transport"
                      /protein_id="KAF4467009.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTATTTCTCG GCTTCAGGCT TCCTACCCCA GATGAAGTAG AGAGGAAGAT AAAGATGAAT
        61 AGCCGGATCC GAAATGTCCT TTTGGACTTT GGCCATGAAC Accttgatct cgtcatccGA

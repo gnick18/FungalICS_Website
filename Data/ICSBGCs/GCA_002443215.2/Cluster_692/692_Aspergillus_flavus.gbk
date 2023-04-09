@@ -136,6 +136,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUG|COH21_002541-RA_mrna"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="RAQ77244.1"
+                     /gene_kind="biosynthetic"
      gene            6261..8117
                      /note="*Name COH21_002542"
                      /note="*gbkey: Gene"
@@ -210,6 +211,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUG|COH21_002542-RA_mrna"
                      /product="monooxygenase"
                      /protein_id="RAQ77243.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9277..11952)
                      /note="*Name COH21_002543"
                      /note="*gbkey: Gene"
@@ -312,6 +314,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUG|COH21_002545-RA_mrna"
                      /product="alpha/beta hydrolase"
                      /protein_id="RAQ77240.1"
+                     /gene_kind="biosynthetic"
      gene            19614..20855
                      /note="*Name COH21_002546"
                      /note="*gbkey: Gene"

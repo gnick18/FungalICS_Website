@@ -127,6 +127,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JEMN|mrna.CNYM01_04901"
                      /product="6-phosphofructo-2-kinase"
                      /protein_id="KXH42413.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6297..8991)
                      /note="*Name CNYM01_04902"
                      /note="*gbkey: Gene"
@@ -535,6 +536,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JEMN|mrna.CNYM01_04910"
                      /product="ubiquitin-like modifier 1"
                      /protein_id="KXH42422.1"
+                     /gene_kind="biosynthetic"
      gene            complement(28887..29887)
                      /note="*Name CNYM01_04911"
                      /note="*gbkey: Gene"
@@ -639,6 +641,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JEMN|mrna.CNYM01_04912"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="KXH42424.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGAAGGGG ATGTTGGGGG TTCCCTGAGC ACCCAGAgtc tcctgctgct cctggAGCTC
        61 CTCACCACCG GCCTCGATGG AGATACCGAC ACCGATCTTT GCTTGTTGCT AGAGAATTTG

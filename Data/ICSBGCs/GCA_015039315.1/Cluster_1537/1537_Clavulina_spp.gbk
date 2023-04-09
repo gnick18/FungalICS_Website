@@ -340,6 +340,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIDE|DL93DRAFT_mRNA2084679"
                      /product="hypothetical protein"
                      /protein_id="KAF8310284.1"
+                     /gene_kind="biosynthetic"
      gene            10078..12715
                      /note="*Name DL93DRAFT_2157882"
                      /note="*end_range: 92375,."
@@ -511,6 +512,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIDE|DL93DRAFT_mRNA2157882"
                      /product="hypothetical protein"
                      /protein_id="KAF8310285.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATCAGCTCTC GAAGTAGGAA CAACGATAAA TGAACGCGAT CTGCGAGCCG ACCTTCAGAG
        61 CATTAGCGAG Tcgatgggga tgagaggaaC AACTAATAGG GTCTGAGCGT TACTCACAGT

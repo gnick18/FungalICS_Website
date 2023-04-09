@@ -235,6 +235,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRDB|BFJ72_g9983.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL33467.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15242..16617)
                      /note="*Name BFJ72_g10077"
                      /note="*end_range: 357634,."
@@ -375,6 +376,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRDB|BFJ72_g10076.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL33560.1"
+                     /gene_kind="biosynthetic"
      gene            20120..22207
                      /note="*Name BFJ72_g9942"
                      /note="*end_range: 363224,."
@@ -453,6 +455,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MRDB|BFJ72_g9942.t1"
                      /product="hypothetical protein"
                      /protein_id="RKL33426.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATATTAGA AGAGCACAGA TACCCATATC CTCCATCGAT TGCCTTGCAC TCCAAAGTCT
        61 ACTTGGGTCT CGCCGTCGTT GCTTCCATGC ATTTTGCATC ACTTTATAAA CCGTACCACA

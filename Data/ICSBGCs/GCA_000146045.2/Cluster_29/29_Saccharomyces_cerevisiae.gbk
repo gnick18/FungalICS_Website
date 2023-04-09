@@ -101,6 +101,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="YDR402C"
                      /product="putative cytochrome P450"
                      /protein_id="DAA12244.1"
+                     /gene_kind="biosynthetic"
      gene            3540..5150
                      /note="*Name DIT1"
                      /note="*gbkey: Gene"
@@ -138,6 +139,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="YDR403W"
                      /product="Dit1p"
                      /protein_id="DAA12245.1"
+                     /gene_kind="biosynthetic"
      rep_origin      5163..5390
                      /db_xref="SGD:S000118446"
                      /note="*Note ARS434; Autonomously Replicating Sequence"
@@ -363,6 +365,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="YDR408C"
                      /product="phosphoribosylglycinamide formyltransferase"
                      /protein_id="DAA12250.1"
+                     /gene_kind="biosynthetic"
      misc_feature    17979..18001
                      /db_xref="SGD:S000077072"
                      /note="*Note ETC1; Chromosome-organizing-clamp; tethers
@@ -478,6 +481,7 @@ FEATURES             Location/Qualifiers
                      /product="protein-S-isoprenylcysteine carboxyl
                      O-methyltransferase"
                      /protein_id="DAA12252.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22307..23332)
                      /note="*Name DFM1"
                      /note="*gbkey: Gene"

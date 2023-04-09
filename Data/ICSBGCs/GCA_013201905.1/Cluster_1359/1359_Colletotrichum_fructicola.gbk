@@ -319,6 +319,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v008976.t1_mrna"
                      /product="Glutathione S-transferase"
                      /protein_id="KAF4903502.1"
+                     /gene_kind="biosynthetic"
      gene            16421..17712
                      /note="*Name adh-10"
                      /note="*gbkey: Gene"
@@ -371,6 +372,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v008977.t1_mrna"
                      /product="Alcohol dehydrogenase 1"
                      /protein_id="KAF4903529.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18031..19669)
                      /note="*Name azaI"
                      /note="*gbkey: Gene"
@@ -434,6 +436,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v008978.t1_mrna"
                      /product="Cytochrome P450 monooxygenase azaI"
                      /protein_id="KAF4903531.1"
+                     /gene_kind="biosynthetic"
      gene            21844..25907
                      /note="*Name CGCF415_v008979"
                      /note="*Note Cytochrome P450 monooxygenase TRI13"
@@ -518,6 +521,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v008979.t1_mrna"
                      /product="Cytochrome P450 monooxygenase TRI13"
                      /protein_id="KAF4903530.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25975..27092)
                      /note="*Name DIT1-4"
                      /note="*gbkey: Gene"
@@ -572,6 +576,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v008980.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4903447.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACACATCT TCGGTGTGCT CACTTCGCTT CGCCTTGTCG ATATCGTCGA AAGCAgtgtc
        61 gacgaccttg gtCGATGGTT CCGGACGGGC GTCGTGTGCG TAGCCACTGC GGGGAAAGGA

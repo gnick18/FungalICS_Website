@@ -94,6 +94,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MQTW|BFJ63_vAg13186.t1"
                      /product="hypothetical protein"
                      /protein_id="RYC83958.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2812..4585)
                      /note="*Name BFJ63_vAg13181"
                      /note="*end_range: 63287,."
@@ -277,6 +278,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MQTW|BFJ63_vAg13179.t1"
                      /product="Copper-transporting ATPase ccc2"
                      /protein_id="RYC83951.1"
+                     /gene_kind="biosynthetic"
      gene            11797..13226
                      /note="*Name BFJ63_vAg13178"
                      /note="*end_range: 71928,."
@@ -338,6 +340,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MQTW|BFJ63_vAg13178.t1"
                      /product="hypothetical protein"
                      /protein_id="RYC83950.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGCGCCTG ATGAAGCGCA GATCGTACGC TGGAGGTGTC AACATGAACT GTTCCGAGCC
        61 GGTAGAAGCC CTCACTTTCG CCTGCTCCTG GGTCTCGCCC GGCTCGGGCA CGACCTCCCA

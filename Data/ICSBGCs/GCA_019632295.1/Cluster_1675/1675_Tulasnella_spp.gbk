@@ -293,6 +293,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WSTZ|FRC02_008473-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG8927082.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8722..9419)
                      /note="*Name MOCS2"
                      /note="*gbkey: Gene"
@@ -339,6 +340,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WSTZ|FRC02_008474-T1_mrna"
                      /product="Molybdopterin synthase catalytic subunit"
                      /protein_id="KAG8927083.1"
+                     /gene_kind="biosynthetic"
      gene            11018..13574
                      /note="*Name FRC02_008475"
                      /note="*gbkey: Gene"
@@ -456,6 +458,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WSTZ|FRC02_008475-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG8927084.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGCGGTGA GTTCTCATCG GACTGATCTG CGGAGAAGTA CCTGAGAAAA GGCTGATGAG
        61 AGTGATACCA GGTCTGCCAT TATGAATAAC GCTACCCCCA TCTGAGGTAC CTCCAGCTCC

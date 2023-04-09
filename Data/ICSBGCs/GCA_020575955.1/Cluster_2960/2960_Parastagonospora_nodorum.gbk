@@ -262,6 +262,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIO|mrna.HBI20_152470A"
                      /product="hypothetical protein"
                      /protein_id="KAH5714243.1"
+                     /gene_kind="biosynthetic"
      misc_feature    8483..8536
                      /note="*Type SO:0000658 dispersed_repeat"
                      /note="*Note Match to RepeatModeler de-novo family
@@ -330,6 +331,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIO|mrna.HBI20_152490A"
                      /product="cutinase"
                      /protein_id="KAH5714139.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11244..11549)
                      /note="*Name HBI20_152500"
                      /note="*gbkey: Gene"
@@ -482,6 +484,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRIO|mrna.HBI20_152520A"
                      /product="hypothetical protein"
                      /protein_id="KAH5714043.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTCTTCA GCCTCAGTGT TCCAGATCTC CACCTCCCTG CTCTCAAGCT CTCGCATtct
        61 ctcttcctcg aagatGCTCT CGGTAGGCAG GCCCGTCTTT CCGTAGTTGA CGACAGGGCC

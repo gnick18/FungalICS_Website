@@ -213,6 +213,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna12035"
                      /product="amidohydrolase family protein"
                      /protein_id="KLO92461.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15001..16376)
                      /note="*Name LW93_12036"
                      /note="*gbkey: Gene"
@@ -314,6 +315,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna12037"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KLO92463.1"
+                     /gene_kind="biosynthetic"
      gene            19876..21968
                      /note="*Name LW93_12038"
                      /note="*gbkey: Gene"
@@ -364,6 +366,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVG|LW93_mrna12038"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KLO92464.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATATTAGA AGAGCACAGA TACCCATATC CTCCATTGAT TGCCTTGCAC TCCAAAGTCT
        61 ACTTGGGTCT CGCCGTCGTT GCTTCCATGC ATTTTGCATC ACTTTATAAA CCGTACCACA

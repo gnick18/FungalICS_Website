@@ -123,6 +123,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LHQR|mrna.PGRI_094160"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KXG51404.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6980..7681)
                      /note="*Name PGRI_094170"
                      /note="*gbkey: Gene"
@@ -272,6 +273,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LHQR|mrna.PGRI_094200"
                      /product="ATPase-like, ParA/MinD"
                      /protein_id="KXG51408.1"
+                     /gene_kind="biosynthetic"
      gene            17373..19094
                      /note="*Name PGRI_094210"
                      /note="*gbkey: Gene"

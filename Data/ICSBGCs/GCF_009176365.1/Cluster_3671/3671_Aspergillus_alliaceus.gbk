@@ -784,6 +784,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWAS|BDW43DRAFT_mRNA313329"
                      /product="autophagy-related protein 22-like protein"
                      /protein_id="XP_031898091.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22164..24147)
                      /db_xref="GeneID:43629116"
                      /note="*Name BDW43DRAFT_301914"
@@ -914,6 +915,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWAS|BDW43DRAFT_mRNA301914"
                      /product="cytochrome P450"
                      /protein_id="XP_031898092.1"
+                     /gene_kind="biosynthetic"
      gene            24640..26270
                      /db_xref="GeneID:43631549"
                      /note="*Name BDW43DRAFT_313331"
@@ -983,6 +985,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="XP_031898093.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCTTGATCAT CGAACTGAAC AACAAACCAC CATTGTGTCG ATCGGCAATA TATGAACTAA
        61 GAGGACCAAA ATCACCCATT TCCAATACAG TAATCTATCC ACAATGGACA CAAACCCACC

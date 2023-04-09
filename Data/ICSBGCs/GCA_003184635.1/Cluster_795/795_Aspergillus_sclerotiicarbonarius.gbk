@@ -159,6 +159,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSSZ|BO78DRAFT_mRNA417202"
                      /product="general amidase"
                      /protein_id="PYI07908.1"
+                     /gene_kind="biosynthetic"
      gene            3184..4274
                      /note="*Name BO78DRAFT_442399"
                      /note="*gbkey: Gene"
@@ -310,6 +311,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSSZ|BO78DRAFT_mRNA385574"
                      /product="hypothetical protein"
                      /protein_id="PYI07911.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7143..8500)
                      /note="*Name BO78DRAFT_442414"
                      /note="*end_range: 113258,."
@@ -466,6 +468,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="PYI07913.1"
+                     /gene_kind="biosynthetic"
      gene            12149..13974
                      /note="*Name BO78DRAFT_442417"
                      /note="*end_range: 118732,."
@@ -581,6 +584,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSSZ|BO78DRAFT_mRNA442417"
                      /product="monooxygenase"
                      /protein_id="PYI07914.1"
+                     /gene_kind="biosynthetic"
      gene            complement(30146..30242)
                      /note="*Name BO78DRAFT_t124"
                      /note="*gbkey: Gene"

@@ -170,6 +170,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFI|BDV25DRAFT_mRNA169455"
                      /product="hypothetical protein"
                      /protein_id="KAE8153090.1"
+                     /gene_kind="biosynthetic"
      gene            2388..5749
                      /note="*Name BDV25DRAFT_127436"
                      /note="*end_range: 16261,."
@@ -338,6 +339,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFI|BDV25DRAFT_mRNA127436"
                      /product="beta-galactosidase"
                      /protein_id="KAE8153091.1"
+                     /gene_kind="biosynthetic"
      gene            6299..7920
                      /note="*Name BDV25DRAFT_137162"
                      /note="*end_range: 18432,."
@@ -394,6 +396,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAE8153092.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8344..11369)
                      /note="*Name BDV25DRAFT_149964"
                      /note="*gbkey: Gene"
@@ -538,6 +541,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="glycoside hydrolase superfamily"
                      /protein_id="KAE8153093.1"
+                     /gene_kind="biosynthetic"
      gene            11849..13417
                      /note="*Name BDV25DRAFT_42159"
                      /note="*gbkey: Gene"
@@ -582,6 +586,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFI|BDV25DRAFT_mRNA42159"
                      /product="hypothetical protein"
                      /protein_id="KAE8153094.1"
+                     /gene_kind="biosynthetic"
      gene            13707..15694
                      /note="*Name BDV25DRAFT_137165"
                      /note="*end_range: 26206,."
@@ -642,6 +647,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFI|BDV25DRAFT_mRNA137165"
                      /product="hypothetical protein"
                      /protein_id="KAE8153095.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15749..17252)
                      /note="*Name BDV25DRAFT_169467"
                      /note="*end_range: 27764,."
@@ -684,6 +690,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFI|BDV25DRAFT_mRNA169467"
                      /product="luciferase-like domain-containing protein"
                      /protein_id="KAE8153096.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCACTAT ATGAAATCGA ACACGGCCTA CCTCTAGACC AAATCCAACG GGATGAGCTA
        61 GCACAGGCCA TCACTCACAC TCACAGTCGC AAATTTGCCA CTCCCAGTCT CTTTGTGAAT

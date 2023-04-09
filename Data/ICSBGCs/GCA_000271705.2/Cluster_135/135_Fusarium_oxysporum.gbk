@@ -91,6 +91,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_13239T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ33517.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3459..4888)
                      /note="*Name FOZG_13240"
                      /note="*end_range: 846829,."
@@ -150,6 +151,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_13240T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ33518.1"
+                     /gene_kind="biosynthetic"
      gene            5458..9438
                      /note="*Name FOZG_13241"
                      /note="*gbkey: Gene"
@@ -187,6 +189,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_13241T0"
                      /product="Cu2+-exporting ATPase"
                      /protein_id="EWZ33519.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGACAACT TCAATTCAAT CGCTCTCGAG CGTTTGCTGA GTCCCTCGGC GCTCTTTGGC
        61 CTCACTGGTC TTTGGCTTGG TTATCGTGTC GCGCTCGCAC TTTACAACGT TTCCTCTCTC

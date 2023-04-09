@@ -57,6 +57,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MBGH|M441DRAFT_mRNA152856"
                      /product="hypothetical protein"
                      /protein_id="PTB35641.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2954..4276)
                      /note="*Name M441DRAFT_74132"
                      /note="*end_range: 296820,."
@@ -160,6 +161,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MBGH|M441DRAFT_mRNA152991"
                      /product="hypothetical protein"
                      /protein_id="PTB35643.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9767..10531)
                      /note="*Name M441DRAFT_153004"
                      /note="*end_range: 303075,."
@@ -198,6 +200,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MBGH|M441DRAFT_mRNA153004"
                      /product="glycoside hydrolase family 128 protein"
                      /protein_id="PTB35644.1"
+                     /gene_kind="biosynthetic"
      gene            11613..13346
                      /note="*Name M441DRAFT_179187"
                      /note="*gbkey: Gene"
@@ -273,6 +276,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MBGH|M441DRAFT_mRNA179187"
                      /product="glycoside hydrolase family 5 protein"
                      /protein_id="PTB35645.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACAGTCGA TATCTAAATC CCACCGTTTT CCAGTCTGTC ACATCTTCGT AATCCTCTGG
        61 TCGTAATTGA ATACCTGTAA CTGTTTCCGC AACATCTTTT CCATCTAAAA CATCCGATAC

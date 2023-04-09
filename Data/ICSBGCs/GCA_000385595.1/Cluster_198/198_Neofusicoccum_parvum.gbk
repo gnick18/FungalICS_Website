@@ -65,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AORE|UCRNP2_7368"
                      /product="putative 6-hydroxy-d-nicotine oxidase protein"
                      /protein_id="EOD45898.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2990..6567)
                      /note="*Name UCRNP2_7369"
                      /note="*gbkey: Gene"
@@ -115,6 +116,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AORE|UCRNP2_7369"
                      /product="putative ribosome biogenesis protein"
                      /protein_id="EOD45902.1"
+                     /gene_kind="biosynthetic"
      gene            7168..8733
                      /note="*Name UCRNP2_7370"
                      /note="*gbkey: Gene"
@@ -256,6 +258,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AORE|UCRNP2_7372"
                      /product="putative laccase-1 precursor protein"
                      /protein_id="EOD45903.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20486..22206)
                      /note="*Name UCRNP2_7373"
                      /note="*gbkey: Gene"
@@ -304,6 +307,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine dityrosine biosynthesis
                      protein"
                      /protein_id="EOD45897.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACGATTGG TCTGCCGGCT TGATCTCAAT ATTCTTATTG AAAACGTTCT CCGGGTCGTA
        61 CTTGGCCTTC AGCTCTATCA ATCTCTTGTA ATTCGGTCCA TAAACCTTTT CAGGGCCAGA

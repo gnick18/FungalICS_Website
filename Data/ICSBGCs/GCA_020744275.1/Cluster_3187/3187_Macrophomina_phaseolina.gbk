@@ -168,6 +168,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7063741.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3573..4875)
                      /note="*Name B0J12DRAFT_707497"
                      /note="*end_range: 2361892,."
@@ -251,6 +252,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7063742.1"
+                     /gene_kind="biosynthetic"
      gene            5865..7238
                      /note="*Name B0J12DRAFT_562647"
                      /note="*end_range: 2364255,."
@@ -383,6 +385,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJR|B0J12DRAFT_mRNA716070"
                      /product="hypothetical protein"
                      /protein_id="KAH7063744.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTACAGCC TCACTACCAC CTCCGCGGCA TTCCTGGGGC TGGCCCTGcg ggccgctgct
        61 gcagacTATT CGGCCTGGGC TTTCGGCAAC ATGTTCACGC TCGGTCCCAC GAAAGGTGAC

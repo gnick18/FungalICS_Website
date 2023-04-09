@@ -82,6 +82,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v005250.t1_mrna"
                      /product="putative esterase"
                      /protein_id="KAF5503062.1"
+                     /gene_kind="biosynthetic"
      gene            2612..5579
                      /note="*Name CGCF413_v005251"
                      /note="*Note MAU2 chromatid cohesion factor-like protein"
@@ -645,6 +646,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v005260.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF5504057.1"
+                     /gene_kind="biosynthetic"
      gene            complement(46641..48902)
                      /note="*Name DIT2"
                      /note="*gbkey: Gene"
@@ -750,6 +752,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v005261.t1_mrna"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="KAF5504058.1"
+                     /gene_kind="biosynthetic"
      gene            49568..51406
                      /note="*Name DTR1-2"
                      /note="*gbkey: Gene"

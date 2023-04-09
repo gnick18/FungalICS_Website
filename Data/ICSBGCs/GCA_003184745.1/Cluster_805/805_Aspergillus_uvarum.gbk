@@ -38,6 +38,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA139899"
                      /product="hypothetical protein"
                      /protein_id="PYH85781.1"
+                     /gene_kind="biosynthetic"
      gene            1694..3525
                      /note="*Name BO82DRAFT_139900"
                      /note="*gbkey: Gene"
@@ -100,6 +101,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA139900"
                      /product="glycosyl hydrolase"
                      /protein_id="PYH85782.1"
+                     /gene_kind="biosynthetic"
      gene            3922..6448
                      /note="*Name BO82DRAFT_139919"
                      /note="*gbkey: Gene"
@@ -347,6 +349,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA301360"
                      /product="monooxygenase"
                      /protein_id="PYH85784.1"
+                     /gene_kind="biosynthetic"
      gene            9468..11653
                      /note="*Name BO82DRAFT_301364"
                      /note="*gbkey: Gene"
@@ -426,6 +429,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="PYH85785.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12024..12976)
                      /note="*Name BO82DRAFT_350602"
                      /note="*gbkey: Gene"
@@ -461,6 +465,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFT|BO82DRAFT_mRNA350602"
                      /product="acyl-CoA N-acyltransferase"
                      /protein_id="PYH85786.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CAGGGATTAG CATCCCAGCA CCGTGCACAC ATCCACTCCG ACCGAAAAGT TGAGATTTCC
        61 ATTGGGGTGG GTGTGAATGG TCATGATCCC TGCATGGCCG AGAGGGGAAA TGCAACCCCC

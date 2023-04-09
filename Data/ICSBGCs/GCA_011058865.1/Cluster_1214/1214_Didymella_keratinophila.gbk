@@ -120,6 +120,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKW|E8E11_005764-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3040587.1"
+                     /gene_kind="biosynthetic"
      gene            9134..10693
                      /note="*Name E8E11_006043"
                      /note="*gbkey: Gene"
@@ -299,6 +300,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKW|E8E11_006162-T1_mrna"
                      /product="GTP-binding nuclear protein gsp1/Ran"
                      /protein_id="KAF3040589.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGGTATC AAGCCATCCC CCTTCTCAAC CAGCCCAGGT GTCGGTGGGT CGATCCTCGG
        61 CGTTGTGACT TGCGGCAACA GACTCTTCAT CATGTAGACC AGGTCAGCAG CCTTGAACGG

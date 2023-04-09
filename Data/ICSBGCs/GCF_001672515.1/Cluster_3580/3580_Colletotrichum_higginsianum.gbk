@@ -383,6 +383,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LTAN|mrna.CH63R_09510"
                      /product="Serin endopeptidase"
                      /protein_id="XP_018156507.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12589..13536)
                      /db_xref="GeneID:28868592"
                      /note="*Name CH63R_09511"
@@ -680,6 +681,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LTAN|mrna.CH63R_09515"
                      /product="Glutamyl-tRNA(Gln) amidotransferase"
                      /protein_id="XP_018156512.1"
+                     /gene_kind="biosynthetic"
      gene            27640..29198
                      /db_xref="GeneID:28868597"
                      /note="*Name CH63R_09516"
@@ -750,6 +752,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LTAN|mrna.CH63R_09516"
                      /product="Pyoverdine dityrosine biosynthesis"
                      /protein_id="XP_018156513.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTGGCCA ACCTTGCCAC CGGCGGCAGG GTCGTCGGTG AAGATGTAGT CCGTAGACAC
        61 CTCTCCACTC TCGCGCTTCT TCTTCTGACC GACCTTGCCA CCGGCGGCAG GGTCGTCGGT

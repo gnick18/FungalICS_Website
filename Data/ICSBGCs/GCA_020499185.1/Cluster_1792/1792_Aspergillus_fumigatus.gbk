@@ -36,6 +36,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBQL|KXX52_003097-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1494208.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2355..3185)
                      /note="*Name KXX52_003098"
                      /note="*gbkey: Gene"
@@ -227,6 +228,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBQL|KXX52_003101-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1494212.1"
+                     /gene_kind="biosynthetic"
      gene            11829..13742
                      /note="*Name KXX52_003102"
                      /note="*gbkey: Gene"
@@ -280,6 +282,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBQL|KXX52_003102-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH1494213.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTTGTCCA ACACCATCAC GATCGTTCCC AGCATCGAAA CCCGGGTCGT TGAGCCCCTC
        61 CCGCAATTTG ATACCTCGCG CCGGTTGAGC TTCCCCGTGA GCCTTCCCCT CGATTCGCTG

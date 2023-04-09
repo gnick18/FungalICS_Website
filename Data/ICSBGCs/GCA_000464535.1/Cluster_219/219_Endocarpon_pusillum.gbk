@@ -190,6 +190,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:APWS|EPUS_07662_T0"
                      /product="hypothetical protein"
                      /protein_id="ERF77121.1"
+                     /gene_kind="biosynthetic"
      gene            13004..14837
                      /note="*Name EPUS_07663"
                      /note="*gbkey: Gene"
@@ -249,6 +250,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:APWS|EPUS_07663_T0"
                      /product="hypothetical protein"
                      /protein_id="ERF77122.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15164..16019)
                      /note="*Name EPUS_07664"
                      /note="*gbkey: Gene"
@@ -497,6 +499,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:APWS|EPUS_07669_T0"
                      /product="Geranylgeranyl transferase type-2 subunit beta"
                      /protein_id="ERF77128.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGCTGGCT CTTTTGCTCA CTCTCCTACG ATCTCTTTCT GCACCCTCGT TCGTATACAT
        61 TTCTATCCAC TCTTCTGCCC AGTCTTTCGA ACAGTCTTCT GGTGTCTGTT CTGCTTGTAC

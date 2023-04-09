@@ -66,6 +66,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFN|P175DRAFT_0mRNA442901"
                      /product="hypothetical protein"
                      /protein_id="PTU19034.1"
+                     /gene_kind="biosynthetic"
      gene            1800..2759
                      /note="*Name P175DRAFT_0503851"
                      /note="*gbkey: Gene"
@@ -183,6 +184,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFN|P175DRAFT_0mRNA343449"
                      /product="hypothetical protein"
                      /protein_id="PTU19036.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5401..7285)
                      /note="*Name P175DRAFT_0534832"
                      /note="*end_range: 1827972,."
@@ -449,6 +451,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFN|P175DRAFT_0mRNA518401"
                      /product="hypothetical protein"
                      /protein_id="PTU19038.1"
+                     /gene_kind="biosynthetic"
      gene            16463..18339
                      /note="*Name P175DRAFT_0518402"
                      /note="*gbkey: Gene"
@@ -495,6 +498,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFN|P175DRAFT_0mRNA518402"
                      /product="hypothetical protein"
                      /protein_id="PTU19039.1"
+                     /gene_kind="biosynthetic"
      gene            18597..19658
                      /note="*Name P175DRAFT_0495363"
                      /note="*end_range: 1840345,."
@@ -538,6 +542,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFN|P175DRAFT_0mRNA495363"
                      /product="hypothetical protein"
                      /protein_id="PTU19040.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGTCAGGA GCACGAGTAG CAGTTTTAAG CTGAGTGATG GCACTGAATT ATATTCGCGA
        61 GTGTGGGAAG TGAGTAACAA GTGAAGCCCG GACAGAACAG TCGGACGCCC CTGGGGCTCC

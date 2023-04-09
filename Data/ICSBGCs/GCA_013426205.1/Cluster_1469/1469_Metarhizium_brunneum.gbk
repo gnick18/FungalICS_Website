@@ -104,6 +104,7 @@ FEATURES             Location/Qualifiers
                      gnl|ncbi|G6M90_00g106010.m01_mrna"
                      /product="Citrinin polyketide synthase"
                      /protein_id="QLI74122.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9504..10304)
                      /note="*Name atmB"
                      /note="*gbkey: Gene"
@@ -213,6 +214,7 @@ FEATURES             Location/Qualifiers
                      gnl|ncbi|G6M90_00g106030.m01_mrna"
                      /product="Polyprenyl transferase pyr6"
                      /protein_id="QLI74153.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13448..14638)
                      /note="*Name atmG"
                      /note="*gbkey: Gene"
@@ -288,6 +290,7 @@ FEATURES             Location/Qualifiers
                      gnl|ncbi|G6M90_00g106040.m01_mrna"
                      /product="Geranylgeranyl pyrophosphate synthase atmG"
                      /protein_id="QLI74497.1"
+                     /gene_kind="biosynthetic"
      gene            19724..21369
                      /note="*Name sorD_1"
                      /note="*gbkey: Gene"
@@ -373,6 +376,7 @@ FEATURES             Location/Qualifiers
                      gnl|ncbi|G6M90_00g106050.m01_mrna"
                      /product="FAD-linked oxidoreductase sorD"
                      /protein_id="QLI74064.1"
+                     /gene_kind="biosynthetic"
      gene            complement(22916..23200)
                      /note="*Name orsA"
                      /note="*gbkey: Gene"
@@ -667,6 +671,7 @@ FEATURES             Location/Qualifiers
                      gnl|ncbi|G6M90_00g106090.m01_mrna"
                      /product="Nitrate reductase"
                      /protein_id="QLI74239.1"
+                     /gene_kind="biosynthetic"
      gene            36141..36246
                      /note="*Name G6M90_tRNA00000123"
                      /note="*gbkey: Gene"
@@ -809,6 +814,7 @@ FEATURES             Location/Qualifiers
                      gnl|ncbi|G6M90_00g106120.m01_mrna"
                      /product="Aldehyde dehydrogenase"
                      /protein_id="QLI74328.1"
+                     /gene_kind="biosynthetic"
      gene            44570..46425
                      /note="*Name xanB_2"
                      /note="*gbkey: Gene"
@@ -868,6 +874,7 @@ FEATURES             Location/Qualifiers
                      gnl|ncbi|G6M90_00g106130.m01_mrna"
                      /product="Isocyanide synthase xanB"
                      /protein_id="QLI74763.1"
+                     /gene_kind="biosynthetic"
      gene            complement(46969..48273)
                      /note="*Name apdF_6"
                      /note="*gbkey: Gene"
@@ -942,6 +949,7 @@ FEATURES             Location/Qualifiers
                      gnl|ncbi|G6M90_00g106150.m01_mrna"
                      /product="Gamma-glutamylputrescine oxidoreductase"
                      /protein_id="QLI74024.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGCGCCAT GCCGTAATTA GTCTCAGCTG CTGGGCTTCG CGTGAGCCAT CATCAGTCCA
        61 ATCAATATGG CCAAAGCCCG ACTGTAGTAG AATTGTCTTC CAATCCCGCT CCCCCGCTAG

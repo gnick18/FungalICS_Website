@@ -123,6 +123,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WMJW|g1032.t1"
                      /product="Protein-S-isoprenylcysteine O-methyltransferase"
                      /protein_id="KAF4006301.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3488..5989)
                      /note="*Name SIZ1"
                      /note="*gbkey: Gene"
@@ -199,6 +200,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WMJW|g1034.t1"
                      /product="phosphoribosylglycinamide formyltransferase"
                      /protein_id="KAF4006303.1"
+                     /gene_kind="biosynthetic"
      gene            7457..11326
                      /note="*Name TRS120"
                      /note="*gbkey: Gene"
@@ -409,6 +411,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WMJW|g1039.t1"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4006308.1"
+                     /gene_kind="biosynthetic"
      gene            21689..23158
                      /note="*Name DIT2"
                      /note="*gbkey: Gene"
@@ -450,6 +453,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WMJW|g1040.t1"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="KAF4006309.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23306..24328)
                      /note="*Name URH1"
                      /note="*gbkey: Gene"
@@ -552,6 +556,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WMJW|g1042.t1"
                      /product="Hypoxanthine-guanine phosphoribosyltransferase"
                      /protein_id="KAF4006311.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25993..27924)
                      /note="*Name UTP5"
                      /note="*gbkey: Gene"

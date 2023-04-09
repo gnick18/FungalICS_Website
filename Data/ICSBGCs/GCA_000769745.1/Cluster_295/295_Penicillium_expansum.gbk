@@ -62,6 +62,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEX2_052990"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KGO59988.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1743..2066)
                      /note="*Name PEX2_053000"
                      /note="*gbkey: Gene"
@@ -417,6 +418,7 @@ FEATURES             Location/Qualifiers
                      gnl|GabaldonCRG|mrna.PEX2_053070"
                      /product="Helicase, C-terminal"
                      /protein_id="KGO59729.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCTAGCGA CAACGGTAGT CGAAGTCTCT GCCCATCTAA ACATAATCCC TTTGGATGGT
        61 ATCACCCCCG CCTCAAAGAC ACGagttttc ctcttcccca aaCCGCACCC AGTCTCCCCA

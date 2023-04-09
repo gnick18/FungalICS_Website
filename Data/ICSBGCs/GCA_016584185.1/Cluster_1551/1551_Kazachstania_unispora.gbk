@@ -196,6 +196,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHS|C6P44_001600-T1_mrna"
                      /product="dityrosine synthesis enzyme"
                      /protein_id="KAG0663595.1"
+                     /gene_kind="biosynthetic"
      gene            13055..14569
                      /note="*Name DIT2"
                      /note="*gbkey: Gene"
@@ -244,6 +245,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHS|C6P44_001601-T1_mrna"
                      /product="cytochrome P450-dit2"
                      /protein_id="KAG0663596.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAGATGAT TTCTCAGCCA TCTTACCGGA GTGCTTTGGA ACTCTTGCTA ACCAGTAAAA
        61 GAATATACCG GCACAATAGT TAAACACAAT ATAAGCACAG AAAATACCGT AATTTCTCCA

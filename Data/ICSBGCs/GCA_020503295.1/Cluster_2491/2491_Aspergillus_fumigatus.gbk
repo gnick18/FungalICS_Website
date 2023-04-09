@@ -108,6 +108,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXX|KXV52_006639-T1_mrna"
                      /product="serine/threonine protein kinase"
                      /protein_id="KAH3377175.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7976..9188)
                      /note="*Name KXV52_006640"
                      /note="*gbkey: Gene"
@@ -258,6 +259,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXX|KXV52_006641-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3377177.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12652..13113)
                      /note="*Name URM1"
                      /note="*gbkey: Gene"
@@ -317,6 +319,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXX|KXV52_006642-T1_mrna"
                      /product="Ubiquitin- modifier 1"
                      /protein_id="KAH3377178.1"
+                     /gene_kind="biosynthetic"
      gene            13424..15938
                      /note="*Name KXV52_006643"
                      /note="*gbkey: Gene"
@@ -560,6 +563,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXX|KXV52_006647-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3356813.1"
+                     /gene_kind="biosynthetic"
      gene            24680..26593
                      /note="*Name KXV52_006648"
                      /note="*gbkey: Gene"
@@ -613,6 +617,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBXX|KXV52_006648-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3356814.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGTCGAGA CGtgccatca tctcctcctt cgtGAGAGGA GTGAAGTTGT CAATGTCTAG
        61 CCCCCGGGCC TCGAGAGCGG CGCGTGCATG AGGGGGAACC AGCCGGCTGT TCAATGCAGG

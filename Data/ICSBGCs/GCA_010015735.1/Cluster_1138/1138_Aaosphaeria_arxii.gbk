@@ -69,6 +69,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKL|BU24DRAFT_mRNA477057"
                      /product="GroES-like protein"
                      /protein_id="KAF2019978.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2104..3143)
                      /note="*Name BU24DRAFT_439879"
                      /note="*gbkey: Gene"
@@ -574,6 +575,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKL|BU24DRAFT_mRNA387164"
                      /product="hypothetical protein"
                      /protein_id="KAF2019986.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20180..21400)
                      /note="*Name BU24DRAFT_419585"
                      /note="*gbkey: Gene"
@@ -603,6 +605,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKL|BU24DRAFT_mRNA419585"
                      /product="PEP phosphonomutase-like protein"
                      /protein_id="KAF2019987.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21790..24042)
                      /note="*Name BU24DRAFT_419586"
                      /note="*gbkey: Gene"
@@ -705,6 +708,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAADKL|BU24DRAFT_mRNA419586"
                      /product="hypothetical protein"
                      /protein_id="KAF2019988.1"
+                     /gene_kind="biosynthetic"
      gene            complement(24803..26566)
                      /note="*Name BU24DRAFT_448359"
                      /note="*gbkey: Gene"
@@ -821,6 +825,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Clavaminate synthase-like protein"
                      /protein_id="KAF2019990.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTGCAAGTCT GCGGAATTGA GCCAGCGGGA AATATTCACA AATGATGTAC GAGCCCTACA
        61 AAACCCCGCA GAAGCCCTTT TCGCACTACA ATAAGTACTT CCATGATTTG CGCTTGGCCG

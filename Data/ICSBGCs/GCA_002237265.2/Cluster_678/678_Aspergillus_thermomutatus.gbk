@@ -43,6 +43,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHU|CDV56_106575-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RHZ57237.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1806..3288)
                      /note="*Name CDV56_106683"
                      /note="*gbkey: Gene"
@@ -80,6 +81,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHU|CDV56_106683-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RHZ57238.1"
+                     /gene_kind="biosynthetic"
      gene            3646..4465
                      /note="*Name CDV56_106781"
                      /note="*gbkey: Gene"
@@ -191,6 +193,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHU|CDV56_106861-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RHZ57240.1"
+                     /gene_kind="biosynthetic"
      gene            9836..10567
                      /note="*Name CDV56_107102"
                      /note="*gbkey: Gene"
@@ -257,6 +260,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NKHU|CDV56_107170-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="RHZ57242.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCGACTC CCATTCCTCA ACCGCCAGGT CTTCCGATCT TGGGAAATCT GTTTGATATT
        61 AAGCCAGGCA ATACTTGGGG TTCTTTCAAT AAACTAGCGG TGAATTATCG TGGGTTTCCC

@@ -51,6 +51,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJM|BKA66DRAFT_mRNA422979"
                      /product="chaperonin 10-like protein"
                      /protein_id="KAH7372289.1"
+                     /gene_kind="biosynthetic"
      gene            2485..4688
                      /note="*Name BKA66DRAFT_551269"
                      /note="*end_range: 179827,."
@@ -284,6 +285,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJM|BKA66DRAFT_mRNA497066"
                      /product="autophagy-related protein 22-like protein"
                      /protein_id="KAH7372292.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12077..13679)
                      /note="*Name BKA66DRAFT_513853"
                      /note="*end_range: 188818,."
@@ -461,6 +463,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7372294.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18571..20291)
                      /note="*Name BKA66DRAFT_422987"
                      /note="*end_range: 195430,."
@@ -579,6 +582,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGTJM|BKA66DRAFT_mRNA422987"
                      /product="Dit2 protein"
                      /protein_id="KAH7372295.1"
+                     /gene_kind="biosynthetic"
      gene            21497..23614
                      /note="*Name BKA66DRAFT_423185"
                      /note="*end_range: 198753,."
@@ -642,6 +646,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAH7372296.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAATTTTGA AGTACATATC GATACCTAGG CAGACCCTTC TCAAAGTCAA CAATTACCTG
        61 ATTCGCATCC TCCATTGGTC GAACCTGTAC CCAAGCCTGT AGATTTGTCT CCTTTGCCAA

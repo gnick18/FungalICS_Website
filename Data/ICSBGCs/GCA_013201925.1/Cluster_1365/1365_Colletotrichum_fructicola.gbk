@@ -481,6 +481,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v011915.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4930031.1"
+                     /gene_kind="biosynthetic"
      gene            32853..36685
                      /note="*Name FUB8-3"
                      /note="*gbkey: Gene"
@@ -572,6 +573,7 @@ FEATURES             Location/Qualifiers
                      /product="Non-canonical non-ribosomal peptide synthetase
                      FUB8"
                      /protein_id="KAF4930048.1"
+                     /gene_kind="biosynthetic"
      gene            37614..39383
                      /note="*Name MFS2-1"
                      /note="*gbkey: Gene"
@@ -646,6 +648,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v011918.t1_mrna"
                      /product="Acetyltransferase BOT5"
                      /protein_id="KAF4930029.1"
+                     /gene_kind="biosynthetic"
      gene            41475..42562
                      /note="*Name tfdA-0"
                      /note="*gbkey: Gene"
@@ -703,6 +706,7 @@ FEATURES             Location/Qualifiers
                      /product="Alpha-ketoglutarate-dependent
                      2,4-dichlorophenoxyacetate dioxygenase"
                      /protein_id="KAF4930030.1"
+                     /gene_kind="biosynthetic"
      gene            complement(42670..45354)
                      /note="*Name MRR1"
                      /note="*gbkey: Gene"
@@ -809,6 +813,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v011921.t1_mrna"
                      /product="Deoxyribose-phosphate aldolase"
                      /protein_id="KAF4930072.1"
+                     /gene_kind="biosynthetic"
      gene            complement(49374..50211)
                      /note="*Name CGCF245_v011922"
                      /note="*Note NADPH-dependent alkenal/one oxidoreductase"
@@ -857,6 +862,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v011922.t1_mrna"
                      /product="NADPH-dependent alkenal/one oxidoreductase"
                      /protein_id="KAF4930074.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGAGTTCAC CGCCATGGAC ATACAACACC CCGCCGGGGA CGGATACTGA TGGACCCAAG
        61 ATTGCGACTA TTGCAATTGT GTTCAcggcc ttgtcgttgg tCATTATGGC CTTGCGGCTG

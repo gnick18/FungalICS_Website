@@ -245,6 +245,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ABQE|mrna_MGYG_08840T0"
                      /product="hypothetical protein"
                      /protein_id="XP_003169292.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9978..11352)
                      /db_xref="GeneID:10024544"
                      /note="*Name MGYG_08841"
@@ -309,6 +310,7 @@ FEATURES             Location/Qualifiers
                      /product="multifunctional cyclase-dehydratase-3-O-methyl
                      transferase tcmN"
                      /protein_id="XP_003169293.1"
+                     /gene_kind="biosynthetic"
      gene            11787..18471
                      /db_xref="GeneID:10024471"
                      /note="*Name MGYG_08842"
@@ -383,6 +385,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ABQE|mrna_MGYG_08842T0"
                      /product="gramicidin S synthetase 1"
                      /protein_id="XP_003169294.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACCAGACA TGCCCCTTGT TTTGTTTAAT CCCGATTACA TTGATGTCCC GCCAGACAAA
        61 AACAGAGAGG AAGCCAACCA CCCAAACTGC AGTGCCGACC GCCAGCATGC TCGCCTGGGC

@@ -66,6 +66,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="putative cytochrome P450"
                      /protein_id="KAF1910467.1"
+                     /gene_kind="biosynthetic"
      gene            2369..3979
                      /db_xref="GeneID:852012"
                      /note="*Name DIT1"
@@ -121,6 +122,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="Dit1p"
                      /protein_id="KAF1910468.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,1280530"
      gene            complement(4279..5132)
                      /db_xref="GeneID:852013"
@@ -421,6 +423,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="phosphoribosylglycinamide formyltransferase"
                      /protein_id="KAF1910473.1"
+                     /gene_kind="biosynthetic"
      gene            17173..19887
                      /db_xref="GeneID:852018"
                      /note="*Name SIZ1"

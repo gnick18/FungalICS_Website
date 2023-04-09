@@ -78,6 +78,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VCHE|g2728_t1_mrna"
                      /product="Cytochrome P450-DIT2"
                      /protein_id="KAB2578598.1"
+                     /gene_kind="biosynthetic"
      gene            2578..4420
                      /note="*Name DIT1_0"
                      /note="*gbkey: Gene"
@@ -132,6 +133,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VCHE|g2729_t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAB2578597.1"
+                     /gene_kind="biosynthetic"
      gene            5335..6460
                      /note="*Name ctr4_1"
                      /note="*gbkey: Gene"
@@ -312,6 +314,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:VCHE|g2731_t1_mrna"
                      /product="Endochitinase B"
                      /protein_id="KAB2578501.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10297..10770)
                      /note="*Name DBV05_g2732"
                      /note="*gbkey: Gene"

@@ -78,6 +78,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIWV|PECM_003127-T1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAF7712287.1"
+                     /gene_kind="biosynthetic"
      gene            2503..3658
                      /note="*Name PECM_003128"
                      /note="*gbkey: Gene"
@@ -153,6 +154,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIWV|PECM_003128-T1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAF7712288.1"
+                     /gene_kind="biosynthetic"
      gene            5157..8028
                      /note="*Name PECM_003129"
                      /note="*gbkey: Gene"
@@ -377,6 +379,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIWV|PECM_003132-T1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAF7712292.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGCTGACG TGCACACGCC AGTGCTCACG GTGGCCGTCC TCGAATGCAG TCCGAGTGTG
        61 ATGGGTCATG GCGTtgtcat tgaagatgaa aTCGCCCGCC TGCCATTGGT GACGGTAGGC

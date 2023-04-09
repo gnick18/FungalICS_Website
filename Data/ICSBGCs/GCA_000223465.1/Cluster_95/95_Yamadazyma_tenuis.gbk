@@ -200,6 +200,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="EGV66765.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,224460"
                      /transl_table=12
      mRNA            complement(4815..6377)
@@ -235,6 +236,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEIM|CANTEDRAFT_mRNA112173B"
                      /product="hypothetical protein"
                      /protein_id="EGV66766.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            complement(6377..8172)
                      /note="*Name CANTEDRAFT_128854"
@@ -321,6 +323,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEIM|CANTEDRAFT_mRNA117301"
                      /product="cytochrome P450"
                      /protein_id="EGV66438.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
      gene            10109..11422
                      /note="*Name CANTEDRAFT_100455"
@@ -362,6 +365,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AEIM|CANTEDRAFT_mRNA100455"
                      /product="hypothetical protein"
                      /protein_id="EGV66439.1"
+                     /gene_kind="biosynthetic"
                      /transl_table=12
 ORIGIN
         1 CAGACCTAAC ATACTCTATA TCATGAATAG AACCAGGTTT TTCAGTACTG TGTCGAGGTT

@@ -30,6 +30,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="HYALB_00009841"
                      /product="hypothetical protein"
                      /protein_id="CAG8983745.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(1..1847)
                      /note="*Note Similar to CYP503A1: Ent-kaurene oxidase
                      (Gibberella intermedia)"
@@ -211,6 +212,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="HYALB_00009845"
                      /product="hypothetical protein"
                      /protein_id="CAG8983749.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(12474..15245)
                      /note="*Note Protein of unknown function"
                      /note="*gbkey: mRNA"
@@ -264,6 +266,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="HYALB_00009846"
                      /product="hypothetical protein"
                      /protein_id="CAG8983750.1"
+                     /gene_kind="biosynthetic"
      mRNA            18620..20533
                      /note="*Note Similar to yhjG: Uncharacterized aromatic
                      compound monooxygenase YhjG (Bacillus subtilis (strain

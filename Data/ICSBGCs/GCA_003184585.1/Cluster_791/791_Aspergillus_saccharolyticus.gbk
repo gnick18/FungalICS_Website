@@ -90,6 +90,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFQ|BP01DRAFT_mRNA301654"
                      /product="cation transport ATPase"
                      /protein_id="PYH43109.1"
+                     /gene_kind="biosynthetic"
      gene            7227..8566
                      /note="*Name BP01DRAFT_393681"
                      /note="*end_range: 134322,."
@@ -464,6 +465,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFQ|BP01DRAFT_mRNA358874"
                      /product="dihydrofolate reductase"
                      /protein_id="PYH43114.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13975..17418)
                      /note="*Name BP01DRAFT_358875"
                      /note="*gbkey: Gene"
@@ -605,6 +607,7 @@ FEATURES             Location/Qualifiers
                      /product="taurine catabolism dioxygenase TauD, TfdA family
                      protein"
                      /protein_id="PYH43116.1"
+                     /gene_kind="biosynthetic"
      gene            20465..22013
                      /note="*Name BP01DRAFT_403093"
                      /note="*end_range: 147769,."
@@ -673,6 +676,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFQ|BP01DRAFT_mRNA403093"
                      /product="putative 4-nitrophenylphosphatase"
                      /protein_id="PYH43117.1"
+                     /gene_kind="biosynthetic"
      gene            23850..26820
                      /note="*Name BP01DRAFT_345460"
                      /note="*gbkey: Gene"
@@ -892,6 +896,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFQ|BP01DRAFT_mRNA403107"
                      /product="putative spore wall assembly protein Dit1"
                      /protein_id="PYH43121.1"
+                     /gene_kind="biosynthetic"
      gene            complement(35943..37127)
                      /note="*Name BP01DRAFT_358884"
                      /note="*gbkey: Gene"
@@ -948,6 +953,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MSFQ|BP01DRAFT_mRNA358884"
                      /product="glutathione S-transferase family protein"
                      /protein_id="PYH43122.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACACTAGT GCCCGCGAGC TGGTCATTTC ACCATATCGT CCTCTTGCTC TCGTGGTATC
        61 GTAAGCATTT ACAACTCTCA TCTGCCCGCC CTCGTCCGCC TGGCTGAACG CGTACCCGCG

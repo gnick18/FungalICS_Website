@@ -50,6 +50,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAASLF|G6514_008059-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG9205417.1"
+                     /gene_kind="biosynthetic"
      gene            4159..6336
                      /note="*Name G6514_008060"
                      /note="*gbkey: Gene"
@@ -199,6 +200,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAASLF|G6514_008061-T1_mrna"
                      /product="GTP-binding nuclear protein gsp1/Ran"
                      /protein_id="KAG9205419.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8517..9363)
                      /note="*Name NAS2"
                      /note="*gbkey: Gene"

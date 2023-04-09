@@ -164,6 +164,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003765.t1_mrna"
                      /product="Tyrosinase-like protein orsC"
                      /protein_id="XP_037183243.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4579..5985)
                      /db_xref="GeneID:59242713"
                      /note="*Name ordL-4"
@@ -214,6 +215,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003766.t1_mrna"
                      /product="putative oxidoreductase OrdL"
                      /protein_id="XP_037183242.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7790..11563)
                      /db_xref="GeneID:59242714"
                      /note="*Name warA-0"
@@ -407,6 +409,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003769.t1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="XP_037183239.1"
+                     /gene_kind="biosynthetic"
      gene            25377..26227
                      /db_xref="GeneID:59242717"
                      /note="*Name CGCA056_v003770"
@@ -578,6 +581,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003772.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="XP_037184237.1"
+                     /gene_kind="biosynthetic"
      gene            complement(31641..33407)
                      /db_xref="GeneID:59242720"
                      /note="*Name DIT1-3"
@@ -660,6 +664,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003773.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="XP_037184238.1"
+                     /gene_kind="biosynthetic"
      gene            35160..36639
                      /db_xref="GeneID:59242721"
                      /note="*Name CGCA056_v003774"
@@ -832,6 +837,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003775.t1_mrna"
                      /product="oxidoreductase ptaK"
                      /protein_id="XP_037184232.1"
+                     /gene_kind="biosynthetic"
      gene            complement(40588..43041)
                      /db_xref="GeneID:59242723"
                      /note="*Name LIP-1"
@@ -928,6 +934,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003776.t1_mrna"
                      /product="Lipase"
                      /protein_id="XP_037184233.1"
+                     /gene_kind="biosynthetic"
      gene            44218..45167
                      /db_xref="GeneID:59242724"
                      /note="*Name CGCA056_v003777"
@@ -1002,6 +1009,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003777.t1_mrna"
                      /product="uncharacterized protein"
                      /protein_id="XP_037184234.1"
+                     /gene_kind="biosynthetic"
      gene            complement(45330..46866)
                      /db_xref="GeneID:59242725"
                      /note="*Name CGCA056_v003778"
@@ -1539,6 +1547,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sterigmatocystin biosynthesis P450
                      monooxygenase stcS"
                      /protein_id="XP_037183730.1"
+                     /gene_kind="biosynthetic"
      gene            62878..64392
                      /db_xref="GeneID:59242732"
                      /note="*Name CGCA056_v003785"
@@ -1685,6 +1694,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPNB|CGCA056_v003785.t1_mrna"
                      /product="Secondary metabolism regulator LAE1"
                      /protein_id="XP_037183729.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTAATTA GTGCGGCTCC CAATTGGGAT CACTGATACT CGTAACAAAA CGGCCCACCC
        61 CTGATATCCA TCACGTCGCT CACCACCATG TCCTTGCCAA AGTTGGGGAA GCTCAGCGGG

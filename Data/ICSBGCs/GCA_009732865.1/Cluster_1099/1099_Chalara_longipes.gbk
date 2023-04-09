@@ -371,6 +371,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VKGA|N431DRAFT_mRNA497877"
                      /product="putative zinc binding dehydrogenase"
                      /protein_id="KAE9379911.1"
+                     /gene_kind="biosynthetic"
      gene            complement(18187..19671)
                      /note="*Name N431DRAFT_394322"
                      /note="*end_range: 294796,."
@@ -574,6 +575,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:VKGA|N431DRAFT_mRNA458901"
                      /product="multicopper oxidase"
                      /protein_id="KAE9379913.1"
+                     /gene_kind="biosynthetic"
      gene            24156..25449
                      /note="*Name N431DRAFT_324377"
                      /note="*end_range: 300574,."
@@ -664,6 +666,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="KAE9379914.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,299281"
 ORIGIN
         1 GCTAGGGGAC AGATCATGAC AAGCATCCAG TTTTCTTCTT TACTCGCCTA TTTTTCCTTT

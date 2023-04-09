@@ -95,6 +95,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNE|mrna_FOMG_14744T0"
                      /product="hypothetical protein"
                      /protein_id="EXK28855.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5636..7712)
                      /note="*Name FOMG_14745"
                      /note="*gbkey: Gene"
@@ -160,6 +161,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNE|mrna_FOMG_14745T0"
                      /product="hypothetical protein"
                      /protein_id="EXK28856.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8446..10219)
                      /note="*Name FOMG_14746"
                      /note="*end_range: 233816,."
@@ -288,6 +290,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNE|mrna_FOMG_14748T0"
                      /product="Cu2+-exporting ATPase"
                      /protein_id="EXK28859.1"
+                     /gene_kind="biosynthetic"
      gene            17431..18860
                      /note="*Name FOMG_14749"
                      /note="*end_range: 242457,."
@@ -346,6 +349,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNE|mrna_FOMG_14749T0"
                      /product="hypothetical protein"
                      /protein_id="EXK28860.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATCCCAGA AACTCAGCAA ACTGCATAAA TTCGTGATCA TTCTTCATCG CATCCAGTTC
        61 CTCAGGTAGA GTCCCCAGCA GCAACTCGAC ACCGCCATCC TTTCTCATCG GCAAAATGAA

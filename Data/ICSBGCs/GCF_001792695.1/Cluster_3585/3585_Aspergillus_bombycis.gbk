@@ -457,6 +457,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYCR|ABOM_003219-RA_mrna"
                      /product="monooxygenase"
                      /protein_id="XP_022391519.1"
+                     /gene_kind="biosynthetic"
      gene            38268..40407
                      /db_xref="GeneID:34446610"
                      /note="*Name ABOM_003220"
@@ -546,6 +547,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYCR|ABOM_003220-RA_mrna"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="XP_022391564.1"
+                     /gene_kind="biosynthetic"
      gene            complement(40526..43151)
                      /db_xref="GeneID:34446611"
                      /note="*Name ABOM_003221"
@@ -725,6 +727,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYCR|ABOM_003222-RA_mrna"
                      /product="xylanase 13"
                      /protein_id="XP_022391556.1"
+                     /gene_kind="biosynthetic"
      gene            45340..47105
                      /db_xref="GeneID:34446613"
                      /note="*Name ABOM_003223"
@@ -813,6 +816,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYCR|ABOM_003223-RA_mrna"
                      /product="putative phytoene dehydrogenase"
                      /protein_id="XP_022391557.1"
+                     /gene_kind="biosynthetic"
      gene            complement(47294..49253)
                      /db_xref="GeneID:34446614"
                      /note="*Name ABOM_003224"
@@ -931,6 +935,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYCR|ABOM_003224-RA_mrna"
                      /product="phytoene synthase"
                      /protein_id="XP_022391555.1"
+                     /gene_kind="biosynthetic"
      gene            49735..51630
                      /db_xref="GeneID:34446615"
                      /note="*Name ABOM_003225"
@@ -1212,6 +1217,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYCR|ABOM_003227-RA_mrna"
                      /product="isoamyl alcohol oxidase"
                      /protein_id="XP_022391600.1"
+                     /gene_kind="biosynthetic"
      gene            complement(56737..59702)
                      /db_xref="GeneID:34446618"
                      /note="*Name ABOM_003228"
@@ -1602,6 +1608,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYCR|ABOM_003233-RA_mrna"
                      /product="protein kinase"
                      /protein_id="XP_022391490.1"
+                     /gene_kind="biosynthetic"
      gene            complement(73066..76371)
                      /db_xref="GeneID:34446624"
                      /note="*Name ABOM_003234"
@@ -1706,6 +1713,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LYCR|ABOM_003234-RA_mrna"
                      /product="tetratricopeptide repeat domain protein"
                      /protein_id="XP_022391493.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACCCTTGT GCACCCAGTG CTCGAAGTGT CGTCTGGTTG CATCTCtcca agaaggccat
        61 tgcCTCGTCC TTGTCATGCC ATGCATCGTT ATATGCTACA CTCAAACTCA ACCTGCCCTT

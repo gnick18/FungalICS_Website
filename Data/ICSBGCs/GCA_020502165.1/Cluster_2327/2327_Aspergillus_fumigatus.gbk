@@ -34,6 +34,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBWE|KXW25_003915-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2909636.1"
+                     /gene_kind="biosynthetic"
      gene            2135..7168
                      /note="*Name KXW25_003916"
                      /note="*end_range: 38844,."
@@ -139,6 +140,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="hypothetical protein"
                      /protein_id="KAH2909637.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACGATTGA TACTTCTCAA AGTACTTCCA CACCCCCTGT CGGACCCTGT GCATGAAGCC
        61 ATCCTCGACA ACACCCTCCT GCCAGCTGAA ACCAAGCGCC ATAGTCCCAT CCCTACTAGT

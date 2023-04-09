@@ -258,6 +258,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043650"
                      /product="dimethylallyl tryptophan synthase, putative"
                      /protein_id="EAW25546.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13890..15284)
                      /note="*Name NFIA_043660"
                      /note="*end_range: 34572,."
@@ -291,6 +292,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043660"
                      /product="conserved hypothetical protein"
                      /protein_id="EAW25547.1"
+                     /gene_kind="biosynthetic"
      gene            16431..24416
                      /note="*Name NFIA_043670"
                      /note="*end_range: 43704,."
@@ -327,6 +329,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043670"
                      /product="nonribosomal peptide synthase, putative"
                      /protein_id="EAW25548.1"
+                     /gene_kind="biosynthetic"
      gene            27762..30167
                      /note="*Name NFIA_043680"
                      /note="*end_range: 49455,."
@@ -430,6 +433,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043690"
                      /product="conserved hypothetical protein"
                      /protein_id="EAW25550.1"
+                     /gene_kind="biosynthetic"
      gene            33217..34549
                      /note="*Name NFIA_043700"
                      /note="*end_range: 53837,."
@@ -493,6 +497,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043700"
                      /product="phospho-2-dehydro-3-deoxyheptonate aldolase"
                      /protein_id="EAW25551.1"
+                     /gene_kind="biosynthetic"
      misc_feature    35004..35037
                      /note="*Type SO:0000289 microsatellite"
                      /note="*gbkey: repeat_region"
@@ -558,6 +563,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043710"
                      /product="glutathione S-transferase family protein"
                      /protein_id="EAW25552.1"
+                     /gene_kind="biosynthetic"
      gene            37283..38923
                      /note="*Name NFIA_043720"
                      /note="*end_range: 58211,."
@@ -592,6 +598,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="NFIA_043720"
                      /product="spore wall assembly protein Dit1, putative"
                      /protein_id="EAW25553.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CGTCAGCGAT AGGACTCGAA CCTATGCGGC CGAAGCCAAG TGATTTCTAA TCACTCCCCT
        61 TAACCACTCG GGCACACTGA CTAATGATGT AAGATACGAC TTTTTGATTG CTTTTTAAGG

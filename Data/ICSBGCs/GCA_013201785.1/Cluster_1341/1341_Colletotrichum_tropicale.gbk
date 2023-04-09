@@ -192,6 +192,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v012011.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4818126.1"
+                     /gene_kind="biosynthetic"
      gene            25399..29226
                      /note="*Name FUB8-1"
                      /note="*gbkey: Gene"
@@ -283,6 +284,7 @@ FEATURES             Location/Qualifiers
                      /product="Non-canonical non-ribosomal peptide synthetase
                      FUB8"
                      /protein_id="KAF4818153.1"
+                     /gene_kind="biosynthetic"
      gene            30150..31919
                      /note="*Name MFS2-0"
                      /note="*gbkey: Gene"
@@ -368,6 +370,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v012014.t1_mrna"
                      /product="Acetyltransferase BOT5"
                      /protein_id="KAF4818157.1"
+                     /gene_kind="biosynthetic"
      gene            34008..35085
                      /note="*Name tfdA-2"
                      /note="*gbkey: Gene"
@@ -425,6 +428,7 @@ FEATURES             Location/Qualifiers
                      /product="Alpha-ketoglutarate-dependent
                      2,4-dichlorophenoxyacetate dioxygenase"
                      /protein_id="KAF4818123.1"
+                     /gene_kind="biosynthetic"
      gene            complement(35151..35765)
                      /note="*Name CGCTS75_v012016"
                      /note="*gbkey: Gene"
@@ -504,6 +508,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v012017.t1_mrna"
                      /product="Deoxyribose-phosphate aldolase"
                      /protein_id="KAF4818156.1"
+                     /gene_kind="biosynthetic"
      gene            complement(41871..43180)
                      /note="*Name CGCTS75_v012018"
                      /note="*Note Reticulon-4-interacting protein 1"
@@ -571,6 +576,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v012018.t1_mrna"
                      /product="Reticulon-4-interacting protein 1"
                      /protein_id="KAF4818158.1"
+                     /gene_kind="biosynthetic"
      gene            complement(43724..44905)
                      /note="*Name CGCTS75_v012019"
                      /note="*Note Uncharacterized protein"
@@ -609,6 +615,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v012019.t1_mrna"
                      /product="hypotheticall protein"
                      /protein_id="KAF4818159.1"
+                     /gene_kind="biosynthetic"
      gene            complement(46454..48068)
                      /note="*Name CGCTS75_v012020"
                      /note="*gbkey: Gene"
@@ -775,6 +782,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v012022.t1_mrna"
                      /product="Monooxygenase aurF"
                      /protein_id="KAF4818114.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGTCGCC AATGGTTGGA TACCCAGAAC CTTCATTCCG TTTTCCAACA CCTGCTTCGC
        61 ATTCTCATAC AACACGGCCC TCGCAAGGTC CACTTCCGGA CCCTCAggcg cttcttcatc

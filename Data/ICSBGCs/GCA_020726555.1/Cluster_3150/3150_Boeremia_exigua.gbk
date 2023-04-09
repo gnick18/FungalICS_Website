@@ -484,6 +484,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNH|C7974DRAFT_mRNA372799"
                      /product="GTP-binding nuclear protein-like protein Ran"
                      /protein_id="KAH6642952.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17184..19316)
                      /note="*Name C7974DRAFT_409460"
                      /note="*end_range: 2632794,."
@@ -604,6 +605,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAH6642954.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GCTTCAGTGG TTTAGTGGTA AAATTAGCCG TTGCCAAGCC TGTCTTTAAA GTAATAAAAC
        61 ACTCTAAAGT GACAGCTCAG TTTCGGCTAG CCCCGTGTTC GATTCACGGC TGATGCATTT

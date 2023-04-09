@@ -62,6 +62,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14008T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ32456.1"
+                     /gene_kind="biosynthetic"
      gene            2027..3842
                      /note="*Name FOZG_14009"
                      /note="*end_range: 631647,."
@@ -109,6 +110,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14009T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ32457.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4065..4743)
                      /note="*Name FOZG_14010"
                      /note="*end_range: 632548,."
@@ -259,6 +261,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14012T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ32460.1"
+                     /gene_kind="biosynthetic"
      mRNA            complement(7278..11564)
                      /note="*gbkey: mRNA"
                      /locus_tag="FOZG_14012"
@@ -327,6 +330,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14012T1"
                      /product="hypothetical protein"
                      /protein_id="EWZ32461.1"
+                     /gene_kind="biosynthetic"
      gene            12054..14220
                      /note="*Name FOZG_14013"
                      /note="*gbkey: Gene"
@@ -365,6 +369,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14013T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ32462.1"
+                     /gene_kind="biosynthetic"
      mRNA            12155..14215
                      /note="*gbkey: mRNA"
                      /locus_tag="FOZG_14013"
@@ -406,6 +411,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14013T1"
                      /product="hypothetical protein"
                      /protein_id="EWZ32463.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14039..15544)
                      /note="*Name FOZG_14014"
                      /note="*gbkey: Gene"
@@ -434,6 +440,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14014T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ32464.1"
+                     /gene_kind="biosynthetic"
      gene            15705..17897
                      /note="*Name FOZG_14015"
                      /note="*gbkey: Gene"
@@ -471,6 +478,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14015T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ32465.1"
+                     /gene_kind="biosynthetic"
      gene            18016..20828
                      /note="*Name FOZG_14016"
                      /note="*gbkey: Gene"
@@ -563,6 +571,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14016T0"
                      /product="hypothetical protein"
                      /protein_id="EWZ32466.1"
+                     /gene_kind="biosynthetic"
      mRNA            18016..20828
                      /note="*gbkey: mRNA"
                      /locus_tag="FOZG_14016"
@@ -657,6 +666,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AFMM|mrna_FOZG_14016T1"
                      /product="hypothetical protein"
                      /protein_id="EWZ32467.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TGCAGAAAAA ACTGTATTGC GAAAAGTCTT AGATACTGTA ACAAGATGAT CTAGGCTGCC
        61 ATTCTCCCCC ACGACCCATT CCCAATATTT TCCATCACTC ATCATAAGAC TTAACACCTG

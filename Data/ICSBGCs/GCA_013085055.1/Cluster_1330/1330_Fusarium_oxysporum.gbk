@@ -230,6 +230,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FOBCCGS|t1.FOBC_17004"
                      /product="hypothetical protein"
                      /protein_id="QKD62738.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10024..11453)
                      /note="*Name FOBC_17005"
                      /note="*gbkey: Gene"
@@ -280,6 +281,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FOBCCGS|t1.FOBC_17005"
                      /product="hypothetical protein"
                      /protein_id="QKD62739.1"
+                     /gene_kind="biosynthetic"
      gene            12342..15705
                      /note="*Name FOBC_17006"
                      /note="*gbkey: Gene"
@@ -318,6 +320,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FOBCCGS|t1.FOBC_17006"
                      /product="cu2+-exporting ATPase"
                      /protein_id="QKD62740.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16162..17432)
                      /note="*Name FOBC_17007"
                      /note="*gbkey: Gene"
@@ -452,6 +455,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|FOBCCGS|t1.FOBC_17009"
                      /product="hypothetical protein"
                      /protein_id="QKD62743.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACCCTTGG AGCTCTTGTA CTGTAGGAGG AGACTTGGTG CTTCTTTGGT CACCGACTTC
        61 AGGATAGTGC CCATATGCCT GAGGATATTG TTGCTGGTAT AGATGTGCCT GGGAGACGTC

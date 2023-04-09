@@ -48,6 +48,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009718.t1_mrna"
                      /product="Glucan endo-1,3-beta-glucosidase A1"
                      /protein_id="KAF4933417.1"
+                     /gene_kind="biosynthetic"
      gene            3724..5070
                      /note="*Name CGCF245_v009719"
                      /note="*gbkey: Gene"
@@ -190,6 +191,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009721.t1_mrna"
                      /product="Amidase 1"
                      /protein_id="KAF4933317.1"
+                     /gene_kind="biosynthetic"
      gene            9641..10946
                      /note="*Name DIT1-3"
                      /note="*gbkey: Gene"
@@ -243,6 +245,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009722.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4933418.1"
+                     /gene_kind="biosynthetic"
      gene            12058..13175
                      /note="*Name DIT1-4"
                      /note="*gbkey: Gene"
@@ -295,6 +298,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009723.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4933419.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13243..17306)
                      /note="*Name CGCF245_v009724"
                      /note="*Note Cytochrome P450 monooxygenase TRI13"
@@ -381,6 +385,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009724.t1_mrna"
                      /product="Cytochrome P450 monooxygenase TRI13"
                      /protein_id="KAF4933314.1"
+                     /gene_kind="biosynthetic"
      gene            19481..21119
                      /note="*Name azaI"
                      /note="*gbkey: Gene"
@@ -443,6 +448,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009725.t1_mrna"
                      /product="Cytochrome P450 monooxygenase azaI"
                      /protein_id="KAF4933315.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21438..22729)
                      /note="*Name adh-2"
                      /note="*gbkey: Gene"
@@ -496,6 +502,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009726.t1_mrna"
                      /product="alcohol dehydrogenase"
                      /protein_id="KAF4933312.1"
+                     /gene_kind="biosynthetic"
      gene            24655..25508
                      /note="*Name GST"
                      /note="*gbkey: Gene"
@@ -538,6 +545,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMY|CGCF245_v009727.t1_mrna"
                      /product="Glutathione S-transferase"
                      /protein_id="KAF4933313.1"
+                     /gene_kind="biosynthetic"
      gene            25844..26747
                      /note="*Name CGCF245_v009728"
                      /note="*gbkey: Gene"

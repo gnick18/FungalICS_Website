@@ -56,6 +56,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MVGC|mRNA.PHISCL_08926"
                      /product="pyoverdine dityrosine biosynthesis protein"
                      /protein_id="RJE18739.1"
+                     /gene_kind="biosynthetic"
      gene            2978..3552
                      /note="*Name PHISCL_08927"
                      /note="*gbkey: Gene"
@@ -203,6 +204,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MVGC|mRNA.PHISCL_08928"
                      /product="O-methyltransferase"
                      /protein_id="RJE18741.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGATTGCCA TCCTCGACAA CCAAGAACCC TCATACCCTA CCACCCAGGA GAATGGTGTG
        61 ACTTTATATC CCACCAAGCC TATCGATGTG AAGGAGGCGA CCGTCCAGAC TGCGGAAATC

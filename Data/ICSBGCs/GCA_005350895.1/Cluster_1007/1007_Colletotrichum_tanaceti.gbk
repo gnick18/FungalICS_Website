@@ -238,6 +238,7 @@ FEATURES             Location/Qualifiers
                      /product="Dihydroorotate dehydrogenase (quinone),
                      mitochondrial"
                      /protein_id="TKW59565.1"
+                     /gene_kind="biosynthetic"
      gene            complement(21879..24276)
                      /note="*Name DIT1"
                      /note="*gbkey: Gene"
@@ -296,6 +297,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PJEX|CTA1_7862s_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TKW59576.1"
+                     /gene_kind="biosynthetic"
      gene            24488..26831
                      /note="*Name MCH5"
                      /note="*gbkey: Gene"
@@ -472,6 +474,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PJEX|CTA1_7851s_mrna"
                      /product="Laccase-2"
                      /protein_id="TKW59585.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATAGGGCC TGCTCCATCT CGGTGATGTA AAGTTTGATG TGGGAGTCCA TCTTGAGAAA
        61 CTCGTCGTAG GCGCTGTGGA TCTCGTTCTC GATGTTCTCC TTAAGGTCCA GCATCTATGC

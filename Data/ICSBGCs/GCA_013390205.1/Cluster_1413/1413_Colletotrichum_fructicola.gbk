@@ -38,6 +38,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v015195.t1_mrna"
                      /product="Deoxyribose-phosphate aldolase"
                      /protein_id="KAF5483941.1"
+                     /gene_kind="biosynthetic"
      gene            1804..2374
                      /note="*Name CGCF413_v015196"
                      /note="*gbkey: Gene"
@@ -153,6 +154,7 @@ FEATURES             Location/Qualifiers
                      /product="Alpha-ketoglutarate-dependent
                      2,4-dichlorophenoxyacetate dioxygenase"
                      /protein_id="KAF5483938.1"
+                     /gene_kind="biosynthetic"
      gene            5631..7203
                      /note="*Name BOT5-0"
                      /note="*gbkey: Gene"
@@ -195,6 +197,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v015198.t1_mrna"
                      /product="Acetyltransferase BOT5"
                      /protein_id="KAF5483824.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7252..9021)
                      /note="*Name MFS2-2"
                      /note="*gbkey: Gene"
@@ -319,6 +322,7 @@ FEATURES             Location/Qualifiers
                      /product="Non-canonical non-ribosomal peptide synthetase
                      FUB8"
                      /protein_id="KAF5484049.1"
+                     /gene_kind="biosynthetic"
      gene            14818..16020
                      /note="*Name DIT1-0"
                      /note="*gbkey: Gene"
@@ -372,6 +376,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMX|CGCF413_v015201.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF5484048.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGGCAGCA CAGAAGCCTC ACACACGATC ACCGTGACCC TTGGTCAGGT GGCCAAGATG
        61 ATTGACCACT CACTCCTCCA CCCGACCATG ACCGATACCG ACATCCTGGA GGGTCTTCGC

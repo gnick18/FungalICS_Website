@@ -65,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JACTAD|FUN_004471-T1"
                      /product="hypothetical protein"
                      /protein_id="KAG6354454.1"
+                     /gene_kind="biosynthetic"
      gene            3133..5244
                      /note="*Name INS49_004472"
                      /note="*gbkey: Gene"
@@ -124,6 +125,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JACTAD|FUN_004472-T1"
                      /product="hypothetical protein"
                      /protein_id="KAG6354455.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTATGCAAAG ACAGTGGCCA AGTAGTCCTT CCAGCCGTTT CCAGTCCCCA CATAGCCAAT
        61 GTACATGTCC GGCCGGATGA CGACAGTGAA TGACTCGTCG GCCCCGATCA GCTCCGACCT

@@ -66,6 +66,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ANOV|OCS_mRNA04544"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="EQK99744.1"
+                     /gene_kind="biosynthetic"
      gene            3295..5410
                      /note="*Name OCS_04545"
                      /note="*gbkey: Gene"
@@ -132,6 +133,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ANOV|OCS_mRNA04545"
                      /product="FAD binding domain containing protein"
                      /protein_id="EQK99745.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGTCAAAG TGGATGCGCC AGAGCTCGCG ATCGCTGCCG GCGGTAAAGT CGCTCCTGGT
        61 GTGCATCATC AACGTGTTGT CGCTGACAAC CACGTCGCCC TTGGCCCAGA CGTGATAGTA

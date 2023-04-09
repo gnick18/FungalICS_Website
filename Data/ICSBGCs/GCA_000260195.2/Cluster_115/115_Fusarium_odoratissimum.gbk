@@ -63,6 +63,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_14224T0"
                      /product="hypothetical protein"
                      /protein_id="EXL92739.1"
+                     /gene_kind="biosynthetic"
      gene            3806..8267
                      /note="*Name FOIG_14225"
                      /note="*gbkey: Gene"
@@ -128,6 +129,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_14225T0"
                      /product="hypothetical protein"
                      /protein_id="EXL92740.1"
+                     /gene_kind="biosynthetic"
      mRNA            3981..8267
                      /note="*gbkey: mRNA"
                      /locus_tag="FOIG_14225"
@@ -195,6 +197,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_14225T1"
                      /product="hypothetical protein"
                      /protein_id="EXL92741.1"
+                     /gene_kind="biosynthetic"
      gene            8812..10539
                      /note="*Name FOIG_14226"
                      /note="*end_range: 149235,."
@@ -326,6 +329,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_14228T0"
                      /product="hypothetical protein"
                      /protein_id="EXL92744.1"
+                     /gene_kind="biosynthetic"
      gene            13949..15537
                      /note="*Name FOIG_14229"
                      /note="*gbkey: Gene"
@@ -381,6 +385,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_14229T0"
                      /product="hypothetical protein"
                      /protein_id="EXL92745.1"
+                     /gene_kind="biosynthetic"
      gene            16186..18040
                      /note="*Name FOIG_14230"
                      /note="*end_range: 156736,."
@@ -516,6 +521,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_14231T0"
                      /product="hypothetical protein"
                      /protein_id="EXL92747.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20594..21748)
                      /note="*Name FOIG_14232"
                      /note="*end_range: 160444,."
@@ -574,6 +580,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGND|mrna_FOIG_14232T0"
                      /product="hypothetical protein"
                      /protein_id="EXL92748.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAAATTCG AATTGAACTG AGGGGCACCC ATCGTTCGCA AAAGGCGACT TCTGGAAGAT
        61 GTGTGCTCGA GAACGAGAAC ACTGCGGGCA TATACGCACC TCTTTCTGCA CGTATCTTCT

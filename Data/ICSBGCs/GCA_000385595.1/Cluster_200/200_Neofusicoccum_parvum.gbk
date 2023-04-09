@@ -198,6 +198,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AORE|UCRNP2_10237"
                      /product="putative zinc-binding oxidoreductase protein"
                      /protein_id="EOD43062.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10432..11778)
                      /note="*Name UCRNP2_10238"
                      /note="*gbkey: Gene"
@@ -223,6 +224,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AORE|UCRNP2_10238"
                      /product="putative lactonohydrolase protein"
                      /protein_id="EOD43063.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12620..13988)
                      /note="*Name UCRNP2_10239"
                      /note="*gbkey: Gene"
@@ -316,6 +318,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine dityrosine biosynthesis
                      protein"
                      /protein_id="EOD43066.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCACGCGGGC ATATACGCCC TGACGGCAAT GCCGTACTCG GCCAGCGCGA CGCGGGCGTC
        61 GGCGAGGGCG GCGGGCGAGC GGCGGCGGCG CGCGATGATG CGGGCGGTCT CGGCGGCGAG

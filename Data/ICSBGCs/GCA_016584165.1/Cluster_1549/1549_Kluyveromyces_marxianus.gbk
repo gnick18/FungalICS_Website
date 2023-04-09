@@ -98,6 +98,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHT|C6P43_003641-T1_mrna"
                      /product="meiotic recombination"
                      /protein_id="KAG0676997.1"
+                     /gene_kind="biosynthetic"
      gene            3524..4216
                      /note="*Name C6P43_003642"
                      /note="*gbkey: Gene"
@@ -133,6 +134,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHT|C6P43_003642-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG0676998.1"
+                     /gene_kind="biosynthetic"
      gene            4462..4899
                      /note="*Name C6P43_003643"
                      /note="*gbkey: Gene"
@@ -165,6 +167,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHT|C6P43_003643-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG0676999.1"
+                     /gene_kind="biosynthetic"
      gene            5311..5739
                      /note="*Name C6P43_003644"
                      /note="*gbkey: Gene"
@@ -197,6 +200,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHT|C6P43_003644-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG0677000.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5856..6893)
                      /note="*Name RRP36"
                      /note="*gbkey: Gene"
@@ -365,6 +369,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHT|C6P43_003648-T1_mrna"
                      /product="dityrosine synthesis enzyme"
                      /protein_id="KAG0677004.1"
+                     /gene_kind="biosynthetic"
      gene            11689..13233
                      /note="*Name DIT2"
                      /note="*gbkey: Gene"
@@ -413,6 +418,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHT|C6P43_003649-T1_mrna"
                      /product="cytochrome P450-dit2"
                      /protein_id="KAG0677005.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13399..14415)
                      /note="*Name URH1"
                      /note="*gbkey: Gene"
@@ -493,6 +499,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PUHT|C6P43_003651-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG0677007.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 Ctaatcaaag aaatcatcgt cgtcattATC GTCGTTCCTA CCCACGCCAA CATTGAACTT
        61 ACCCACAATC CCCGATCTTA TACCACTTTT TCCGTACCTC AAATGTTTTT CCTCCTTAGT

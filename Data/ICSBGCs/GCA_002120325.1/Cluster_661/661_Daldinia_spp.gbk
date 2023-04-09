@@ -318,6 +318,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDGZ|K445DRAFT_mRNA74008"
                      /product="hypothetical protein"
                      /protein_id="OTB17462.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16232..18671)
                      /note="*Name K445DRAFT_316074"
                      /note="*gbkey: Gene"
@@ -860,6 +861,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDGZ|K445DRAFT_mRNA316084"
                      /product="hypothetical protein"
                      /protein_id="OTB17470.1"
+                     /gene_kind="biosynthetic"
      gene            42094..43595
                      /note="*Name K445DRAFT_316086"
                      /note="*gbkey: Gene"
@@ -1072,6 +1074,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDGZ|K445DRAFT_mRNA57010"
                      /product="hypothetical protein"
                      /protein_id="OTB17473.1"
+                     /gene_kind="biosynthetic"
      gene            51069..51717
                      /note="*Name K445DRAFT_57242"
                      /note="*end_range: 866886,."

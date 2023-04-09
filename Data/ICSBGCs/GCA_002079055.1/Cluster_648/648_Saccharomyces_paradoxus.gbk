@@ -74,6 +74,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|wl|mrna.SPAR_D05900"
                      /product="Dit2"
                      /protein_id="QHS72591.1"
+                     /gene_kind="biosynthetic"
      gene            3580..5190
                      /note="*Name SPAR_D05910"
                      /note="*gbkey: Gene"
@@ -108,6 +109,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|wl|mrna.SPAR_D05910"
                      /product="Dit1"
                      /protein_id="QHS72592.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5700..6215)
                      /note="*Name SPAR_D05920"
                      /note="*end_range: 1224493,."

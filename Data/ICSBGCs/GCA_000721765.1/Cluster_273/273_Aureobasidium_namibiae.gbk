@@ -66,6 +66,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|M436DRAFT_mRNA86586"
                      /product="hypothetical protein"
                      /protein_id="KEQ68216.1"
+                     /gene_kind="biosynthetic"
      gene            1975..3111
                      /note="*Name M436DRAFT_58936"
                      /note="*end_range: 33416,."
@@ -104,6 +105,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|M436DRAFT_mRNA58936"
                      /product="DAO-domain-containing protein"
                      /protein_id="KEQ68217.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATACGCCA GGGCGCTTGC ACTGGTCTGC AGTGCAGTCG GCCTTGGATT CCTCCGACTG
        61 CATGTTCGGG TTTCTGCCAG GGTGTCCTGC TTCTTCTTTG TCCTGCCAAA CATCAGCCGG

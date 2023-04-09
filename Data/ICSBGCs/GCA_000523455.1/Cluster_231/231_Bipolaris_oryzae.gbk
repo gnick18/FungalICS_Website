@@ -48,6 +48,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCMIDRAFT_mRNA25500"
                      /product="glycoside hydrolase family 18 protein"
                      /protein_id="EUC46410.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1474..1932)
                      /note="*Name COCMIDRAFT_25501"
                      /note="*end_range: 9174,."
@@ -244,6 +245,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCMIDRAFT_mRNA92895"
                      /product="hypothetical protein"
                      /protein_id="EUC46414.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6387..7753)
                      /note="*Name COCMIDRAFT_92860"
                      /note="*end_range: 14995,."
@@ -366,6 +368,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCMIDRAFT_mRNA92801"
                      /product="hypothetical protein"
                      /protein_id="EUC46416.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11232..12616)
                      /note="*Name COCMIDRAFT_92867"
                      /note="*end_range: 19858,."
@@ -426,6 +429,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCMIDRAFT_mRNA92867"
                      /product="hypothetical protein"
                      /protein_id="EUC46417.1"
+                     /gene_kind="biosynthetic"
      gene            17130..18074
                      /note="*Name COCMIDRAFT_4455"
                      /note="*end_range: 25316,."
@@ -462,6 +466,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCMIDRAFT_mRNA4455"
                      /product="glycosyltransferase family 32 protein"
                      /protein_id="EUC46418.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGATGGAA ACCAGATTCC TACCTCACTG AAGCGCAACG GTCTCCAGAC CTGCATTGCA
        61 ATTGGAGGTT GGTCTTTTAA CGATCCTGGT ACCCTAAAAT GCAATGCCCA CAGTGACATG

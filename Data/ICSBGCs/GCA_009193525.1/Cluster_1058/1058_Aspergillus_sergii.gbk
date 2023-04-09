@@ -62,6 +62,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAE8325966.1"
+                     /gene_kind="biosynthetic"
      gene            2090..3981
                      /note="*Name BDV39DRAFT_193926"
                      /note="*end_range: 110333,."
@@ -169,6 +170,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFL|BDV39DRAFT_mRNA193926"
                      /product="cytochrome P450"
                      /protein_id="KAE8325967.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4701..6735)
                      /note="*Name BDV39DRAFT_216150"
                      /note="*end_range: 113087,."
@@ -258,6 +260,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFL|BDV39DRAFT_mRNA216150"
                      /product="autophagy-related protein 22-like protein"
                      /protein_id="KAE8325968.1"
+                     /gene_kind="biosynthetic"
      gene            7012..11156
                      /note="*Name BDV39DRAFT_216152"
                      /note="*end_range: 117508,."

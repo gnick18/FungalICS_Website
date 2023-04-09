@@ -60,6 +60,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBWP|KXW60_003591-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3006784.1"
+                     /gene_kind="biosynthetic"
      gene            2529..3629
                      /note="*Name KXW60_003592"
                      /note="*gbkey: Gene"
@@ -112,6 +113,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBWP|KXW60_003592-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3006785.1"
+                     /gene_kind="biosynthetic"
      gene            4279..4647
                      /note="*Name KXW60_003593"
                      /note="*gbkey: Gene"
@@ -315,6 +317,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBWP|KXW60_003597-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH3006745.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAATTCACA TGCACACGCC AGTGCTCGCG GTGGCCGTCC TCGAAGGCTG TGCGAGTGTG
        61 GTGGGTCATG GCGTTGTCGT TGAAGATGAA ATCTCCCGCC TTCCACTGGT GACGGTAGGC

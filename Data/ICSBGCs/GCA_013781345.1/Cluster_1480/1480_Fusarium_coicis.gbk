@@ -43,6 +43,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAJ|mrna.FCOIX_6259"
                      /product="hypothetical protein"
                      /protein_id="KAF5977927.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1301..6106)
                      /note="*Name FCOIX_6260"
                      /note="*gbkey: Gene"
@@ -137,6 +138,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAJ|mrna.FCOIX_6260"
                      /product="serine threonine kinase"
                      /protein_id="KAF5977928.1"
+                     /gene_kind="biosynthetic"
      gene            6446..8266
                      /note="*Name FCOIX_6261"
                      /note="*gbkey: Gene"
@@ -240,6 +242,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAJ|mrna.FCOIX_6263"
                      /product="hypothetical protein"
                      /protein_id="KAF5977931.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12799..14012)
                      /note="*Name FCOIX_6264"
                      /note="*gbkey: Gene"
@@ -342,6 +345,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAJ|mrna.FCOIX_6265"
                      /product="levodione reductase"
                      /protein_id="KAF5977933.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16111..17433)
                      /note="*Name FCOIX_6266"
                      /note="*gbkey: Gene"
@@ -564,6 +568,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAJ|mrna.FCOIX_6271"
                      /product="yjlB"
                      /protein_id="KAF5977939.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26071..28152)
                      /note="*Name FCOIX_6272"
                      /note="*gbkey: Gene"
@@ -621,6 +626,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAJ|mrna.FCOIX_6272"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KAF5977940.1"
+                     /gene_kind="biosynthetic"
      gene            28964..30680
                      /note="*Name FCOIX_6273"
                      /note="*gbkey: Gene"
@@ -686,6 +692,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAJ|mrna.FCOIX_6273"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KAF5977941.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAATGTTGA GAGGCAAATG CATCAGCATA GATATCCATA TCACCGACAA AGCCATTCAG
        61 TCTCGTTGGT ACCCAGCCAA GTAACTGCTT CGCCCGGTCA GAAGACCCTC GCAGACTAGT

@@ -131,6 +131,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIU|GQ43DRAFT_mRNA440781"
                      /product="putative UDP-galactose 4-epimerase"
                      /protein_id="KAF2201218.1"
+                     /gene_kind="biosynthetic"
      gene            11094..13380
                      /note="*Name GQ43DRAFT_471972"
                      /note="*end_range: 16553,."
@@ -249,6 +250,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIU|GQ43DRAFT_mRNA471972"
                      /product="hypothetical protein"
                      /protein_id="KAF2201219.1"
+                     /gene_kind="biosynthetic"
      gene            17843..18295
                      /note="*Name GQ43DRAFT_371960"
                      /note="*end_range: 21468,."
@@ -288,6 +290,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIU|GQ43DRAFT_mRNA371960"
                      /product="cupin family protein"
                      /protein_id="KAF2201220.1"
+                     /gene_kind="biosynthetic"
      gene            18620..19755
                      /note="*Name GQ43DRAFT_487779"
                      /note="*gbkey: Gene"
@@ -389,6 +392,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIU|GQ43DRAFT_mRNA440786"
                      /product="cytochrome P450 monooxygenase-like protein"
                      /protein_id="KAF2201222.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25020..25625)
                      /note="*Name GQ43DRAFT_440787"
                      /note="*gbkey: Gene"
@@ -517,6 +521,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIU|GQ43DRAFT_mRNA440788"
                      /product="cytochrome P450"
                      /protein_id="KAF2201224.1"
+                     /gene_kind="biosynthetic"
      gene            28736..30054
                      /note="*Name GQ43DRAFT_471976"
                      /note="*end_range: 33227,."
@@ -1045,6 +1050,7 @@ FEATURES             Location/Qualifiers
                      /product="P450 family sporulation-specific
                      N-formyltyrosine oxidase Dit2"
                      /protein_id="KAF2201232.1"
+                     /gene_kind="biosynthetic"
      gene            51708..54188
                      /note="*Name GQ43DRAFT_440797"
                      /note="*gbkey: Gene"
@@ -1169,6 +1175,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAEIU|GQ43DRAFT_mRNA440798"
                      /product="Clavaminate synthase-like protein"
                      /protein_id="KAF2201234.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTTGTTAAGG GGGAAAGATA TAGCCGTGTG ATAACTGCAC TTTGAACTTG TGAGGTGAAT
        61 ACAAGATTGA ATTCTACCGA GTTATCTCTG TACTGAGAGG AGTTTATATA TGACTAAGTC

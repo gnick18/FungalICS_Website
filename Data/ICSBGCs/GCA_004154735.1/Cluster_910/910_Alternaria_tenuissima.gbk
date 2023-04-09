@@ -137,6 +137,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXE|AA0118_g6351.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN60188.1"
+                     /gene_kind="biosynthetic"
      gene            3583..4247
                      /note="*Name AA0118_g6352"
                      /note="*end_range: 95545,."
@@ -186,6 +187,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXE|AA0118_g6352.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN60147.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6065..7328)
                      /note="*Name AA0118_g6353"
                      /note="*end_range: 98626,."
@@ -293,6 +295,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXE|AA0118_g6353.t1"
                      /product="Mitogen-activated protein kinase"
                      /protein_id="RYN60148.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9759..9972)
                      /note="*Name AA0118_g6354"
                      /note="*end_range: 101270,."
@@ -578,6 +581,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXE|AA0118_g6359.t1"
                      /product="hypothetical protein"
                      /protein_id="RYN60177.1"
+                     /gene_kind="biosynthetic"
      gene            23927..25507
                      /note="*Name AA0118_g6360"
                      /note="*end_range: 116805,."
@@ -635,6 +639,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDXE|AA0118_g6360.t1"
                      /product="Cytochrome"
                      /protein_id="RYN60238.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCGTCGG CAACCTCCCA ATCACACCCT CTCTTGCAGG CTTCCTCGGC TGCCTACGCC
        61 ATCTTGGCAA TTGGCCATAC AGTAGGCGCA GAGCTCCCTA TGAATAACAG TATGCTAACA

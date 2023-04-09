@@ -69,6 +69,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MTQA|mrna.FNYG_05180"
                      /product="hypothetical protein"
                      /protein_id="PNP81505.1"
+                     /gene_kind="biosynthetic"
      gene            2895..4630
                      /note="*Name FNYG_05181"
                      /note="*end_range: 90858,."
@@ -140,6 +141,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MTQA|mrna.FNYG_05181"
                      /product="hypothetical protein"
                      /protein_id="PNP81506.1"
+                     /gene_kind="biosynthetic"
      gene            5512..6887
                      /note="*Name FNYG_05182"
                      /note="*end_range: 93115,."
@@ -235,6 +237,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MTQA|mrna.FNYG_05183"
                      /product="hypothetical protein"
                      /protein_id="PNP81508.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9149..13222)
                      /note="*Name FNYG_05184"
                      /note="*end_range: 99450,."
@@ -407,6 +410,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MTQA|mrna.FNYG_05187"
                      /product="hypothetical protein"
                      /protein_id="PNP81512.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23773..24720)
                      /note="*Name FNYG_05188"
                      /note="*end_range: 110948,."
@@ -441,6 +445,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MTQA|mrna.FNYG_05188"
                      /product="hypothetical protein"
                      /protein_id="PNP81513.1"
+                     /gene_kind="biosynthetic"
      gene            26923..27731
                      /note="*Name FNYG_05189"
                      /note="*end_range: 113959,."
@@ -484,6 +489,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MTQA|mrna.FNYG_05189"
                      /product="hypothetical protein"
                      /protein_id="PNP81514.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGTCAAAG TGAATTCGCC ACAGCTCACG ATCAACGCCC GCGGTGAAAT CACTCCTGGT
        61 ATGCATCATC AAGATGTTAT CGCTGACCAG AATATCGCCC TTATCCCAAG CATAGTACAA

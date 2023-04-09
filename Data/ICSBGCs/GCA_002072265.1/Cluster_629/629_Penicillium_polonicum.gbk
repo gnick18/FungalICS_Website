@@ -100,6 +100,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDYM|PENPOL_c007T08762_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQD64761.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3051..4115)
                      /note="*Name PENPOL_c007G00130"
                      /note="*Note atp19"
@@ -269,6 +270,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDYM|PENPOL_c007T07631_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQD64464.1"
+                     /gene_kind="biosynthetic"
      gene            8833..10294
                      /note="*Name PENPOL_c007G04271"
                      /note="*Note MCH5_12"
@@ -428,6 +430,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:MDYM|PENPOL_c007T03147_mrna"
                      /product="hypothetical protein"
                      /protein_id="OQD64752.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGAGTGCCA CATGGAACAT GGAGTGgtta gaatctctta gttCTGATGT ACAAGATCAG
        61 ACCACTGAGA GCCCTTTCGC TCAGACCAGA GAAAGGGTCA ATCCTATTTG TTCCCTCAAT

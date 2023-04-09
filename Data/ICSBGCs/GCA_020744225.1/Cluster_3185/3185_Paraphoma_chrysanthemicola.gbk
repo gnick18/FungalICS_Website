@@ -146,6 +146,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMWG|BKA63DRAFT_mRNA550728"
                      /product="hypothetical protein"
                      /protein_id="KAH7080040.1"
+                     /gene_kind="biosynthetic"
      gene            8691..10169
                      /note="*Name BKA63DRAFT_550729"
                      /note="*gbkey: Gene"
@@ -192,6 +193,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7080041.1"
+                     /gene_kind="biosynthetic"
      gene            complement(50921..51407)
                      /note="*Name BKA63DRAFT_398429"
                      /note="*end_range: 629495,."
@@ -330,6 +332,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMWG|BKA63DRAFT_mRNA590379"
                      /product="cutinase-domain-containing protein"
                      /protein_id="KAH7080043.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 agatgaTTAG ATATATTCAA TTTGATGGAC TCGCATCGAC AGTGCATGCC ATAAGATGCT
        61 TCCAAGTAGT CGCCTGAATG AGGAGACACC ATTCGACATG CATCGAACCA GTAGAGTTCA

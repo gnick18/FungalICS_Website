@@ -32,6 +32,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0001329_T"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="OMP83946.1"
+                     /gene_kind="biosynthetic"
      gene            3140..3958
                      /note="*Name BK809_0001330"
                      /note="*gbkey: Gene"
@@ -111,6 +112,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:MSZU|BK809_0001331_T"
                      /product="Endochitinase 1"
                      /protein_id="OMP83948.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23459..24337)
                      /note="*Name BK809_0001332"
                      /note="*gbkey: Gene"
@@ -196,6 +198,7 @@ FEATURES             Location/Qualifiers
                      /product="putative 1-acyl-sn-glycerol-3-phosphate
                      acyltransferase"
                      /protein_id="OMP83950.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTCTTCTC TCAACAGCGG TTCTTCCATC TACCACGGCG TCCAGGGCTT CTACTGGCGC
        61 CGGCCTGACT TCACTCTGGT CTCTACGcac ggcagcaacg gcgctAATCT GGAAGCTGCC

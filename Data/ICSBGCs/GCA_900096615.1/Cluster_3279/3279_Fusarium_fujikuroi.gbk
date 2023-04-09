@@ -24,6 +24,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FFM5_10741"
                      /product="related to ABC1 transport protein"
                      /protein_id="SCO14058.1"
+                     /gene_kind="biosynthetic"
      exon            complement(1..345)
                      /note="*exon_number: 3"
                      /note="*gbkey: exon"
@@ -63,6 +64,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FFM5_10742"
                      /product="related to P-type ATPase"
                      /protein_id="SCO14064.1"
+                     /gene_kind="biosynthetic"
      exon            2334..2455
                      /note="*exon_number: 1"
                      /note="*gbkey: exon"
@@ -154,6 +156,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FFM5_10745"
                      /product="related to cytochrome P450 3A7"
                      /protein_id="SCO14075.1"
+                     /gene_kind="biosynthetic"
      exon            11235..11501
                      /note="*exon_number: 1"
                      /note="*gbkey: exon"
@@ -213,6 +216,7 @@ FEATURES             Location/Qualifiers
                      /product="related to nonribosomal peptide synthetase MxcG
                      (component of the myxochelin iron transport regulon)"
                      /protein_id="SCO14079.1"
+                     /gene_kind="biosynthetic"
      exon            14632..14878
                      /note="*exon_number: 1"
                      /note="*gbkey: exon"
@@ -291,6 +295,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FFM5_10747"
                      /product="related to cytochrome P450 monooxygenase (lovA)"
                      /protein_id="SCO14084.1"
+                     /gene_kind="biosynthetic"
      exon            19626..19844
                      /note="*exon_number: 1"
                      /note="*gbkey: exon"
@@ -401,6 +406,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FFM5_10750"
                      /product="cellulose 1,4-beta-cellobiosidase"
                      /protein_id="SCO14098.1"
+                     /gene_kind="biosynthetic"
      exon            complement(26332..26562)
                      /note="*exon_number: 2"
                      /note="*gbkey: exon"
@@ -511,6 +517,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="FFM5_10754"
                      /product="related to feruloyl esterase B precursor"
                      /protein_id="SCO14108.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGGACGCA CGTATCCTGG GCCTATGGGC CTGTGGCTCC TGTTGAATAA CTATACGCGG
        61 CTTCGCGTTC TCTATCAGGT ATGGTCTCTG ACGGAGGACC TCCCTGAAGT AGCTCGGCCG

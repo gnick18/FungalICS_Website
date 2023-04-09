@@ -52,6 +52,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDUP|AA0111_g5069.t1"
                      /product="hypothetical protein"
                      /protein_id="RYO31012.1"
+                     /gene_kind="biosynthetic"
      gene            3048..4365
                      /note="*Name AA0111_g5070"
                      /note="*end_range: 101713,."
@@ -138,6 +139,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDUP|AA0111_g5070.t1"
                      /product="hypothetical protein"
                      /protein_id="RYO30825.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4519..5234)
                      /note="*Name AA0111_g5071"
                      /note="*end_range: 102582,."
@@ -342,6 +344,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PDUP|AA0111_g5074.t1"
                      /product="hypothetical protein"
                      /protein_id="RYO30829.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAAGCAGCC ACCGCCTTGC GATCTCGAAT CGTGAGACCA GAGGGATACA GTTGTTCGAA
        61 TGTTTTATTC GAatcgtctt cgccttctaG CTTGGCGCGG AAACAGTACG GTCTGTCATC

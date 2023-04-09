@@ -60,6 +60,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v007758.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4827926.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1675..3684)
                      /note="*Name AMI1-6"
                      /note="*gbkey: Gene"
@@ -113,6 +114,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMP|CGCTS75_v007759.t1_mrna"
                      /product="Amidase 1"
                      /protein_id="KAF4827925.1"
+                     /gene_kind="biosynthetic"
      gene            4234..5564
                      /note="*Name apdF-17"
                      /note="*gbkey: Gene"

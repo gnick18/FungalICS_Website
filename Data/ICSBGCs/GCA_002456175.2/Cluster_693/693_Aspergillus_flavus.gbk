@@ -391,6 +391,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUH|COH20_003757-RA_mrna"
                      /product="autophagy-related protein 22"
                      /protein_id="RAQ61578.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12931..14823)
                      /note="*Name COH20_003758"
                      /note="*gbkey: Gene"
@@ -447,6 +448,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUH|COH20_003758-RA_mrna"
                      /product="cytochrome P450 oxidoreductase"
                      /protein_id="RAQ61430.1"
+                     /gene_kind="biosynthetic"
      gene            15303..16906
                      /note="*Name COH20_003759"
                      /note="*gbkey: Gene"
@@ -485,6 +487,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:NWUH|COH20_003759-RA_mrna"
                      /product="spore wall maturation protein DIT1"
                      /protein_id="RAQ61429.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 atgcagaaga gaaaacaatA TCTAGGAGCT GAAGACTTCT ACAATGGCAA GAGATCAGCA
        61 CCCTTTCTCA ATACAATGAA AGTTTCTGTC CCTAACCCTA TGCTAGGTCT CAGATTGTTG

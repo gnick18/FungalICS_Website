@@ -35,6 +35,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBTE|KXV74_000626-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2170481.1"
+                     /gene_kind="biosynthetic"
      gene            2135..7199
                      /note="*Name KXV74_000627"
                      /note="*gbkey: Gene"
@@ -128,6 +129,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBTE|KXV74_000627-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2170482.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8255..9125)
                      /note="*Name KXV74_000628"
                      /note="*gbkey: Gene"
@@ -178,6 +180,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBTE|KXV74_000628-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2170483.1"
+                     /gene_kind="biosynthetic"
      gene            9205..9603
                      /note="*Name KXV74_000629"
                      /note="*gbkey: Gene"
@@ -259,6 +262,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBTE|KXV74_000630-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2170485.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11838..13013)
                      /note="*Name KXV74_000631"
                      /note="*gbkey: Gene"
@@ -312,6 +316,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBTE|KXV74_000631-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAH2170486.1"
+                     /gene_kind="biosynthetic"
      gene            13649..17502
                      /note="*Name NRPS6"
                      /note="*gbkey: Gene"
@@ -358,6 +363,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIBTE|KXV74_000632-T1_mrna"
                      /product="Nonribosomal peptide synthetase 6"
                      /protein_id="KAH2170487.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACGATTGA TACTTCTCAA AGTACTTCCA CACCCCCTGT CGGACCCTGT GCATGAAGCC
        61 ATCCTCGACA ACACCCTCCT GCCAGCTGAA ACCAAGCGCC ATAGTCCCAT CCCTACTAGT

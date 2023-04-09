@@ -39,6 +39,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1797"
                      /product="hypothetical protein"
                      /protein_id="RGP80026.1"
+                     /gene_kind="biosynthetic"
      gene            2167..3213
                      /note="*Name FLONG3_1798"
                      /note="*gbkey: Gene"
@@ -65,6 +66,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1798"
                      /product="hypothetical protein"
                      /protein_id="RGP80027.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3694..5495)
                      /note="*Name FLONG3_1799"
                      /note="*gbkey: Gene"
@@ -171,6 +173,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1800"
                      /product="hypothetical protein"
                      /protein_id="RGP80029.1"
+                     /gene_kind="biosynthetic"
      gene            12222..13576
                      /note="*Name FLONG3_1801"
                      /note="*gbkey: Gene"
@@ -213,6 +216,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1801"
                      /product="spore wall maturation dit1"
                      /protein_id="RGP80030.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14389..14643)
                      /note="*Name FLONG3_1802"
                      /note="*gbkey: Gene"
@@ -315,6 +319,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1804"
                      /product="cocaine esterase"
                      /protein_id="RGP80033.1"
+                     /gene_kind="biosynthetic"
      gene            18721..19221
                      /note="*Name FLONG3_1805"
                      /note="*gbkey: Gene"
@@ -373,6 +378,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1806"
                      /product="hypothetical protein"
                      /protein_id="RGP80035.1"
+                     /gene_kind="biosynthetic"
      gene            20679..22598
                      /note="*Name FLONG3_1807"
                      /note="*gbkey: Gene"
@@ -487,6 +493,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1808"
                      /product="3-hydroxybenzoate 6-hydroxylase 1"
                      /protein_id="RGP80037.1"
+                     /gene_kind="biosynthetic"
      gene            complement(25167..26275)
                      /note="*Name FLONG3_1809"
                      /note="*gbkey: Gene"
@@ -520,6 +527,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1809"
                      /product="phytanoyl- dioxygenase"
                      /protein_id="RGP80038.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26868..28016)
                      /note="*Name FLONG3_1810"
                      /note="*gbkey: Gene"
@@ -727,6 +735,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOG|mrna.FLONG3_1814"
                      /product="mixed-linked glucanase precursor mlg1"
                      /protein_id="RGP80043.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAGAAATG AAGTAGTGCT TCAATCCATT AATCACACTT TCAacaatgt catcatctcc
        61 aacGTCGGCT TGCCACGTGA ATCCCACTCC GACAGAATCC TCATTGTCAA TGACACAAAT

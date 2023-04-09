@@ -82,6 +82,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIGM|mrna.CMUS01_05820"
                      /product="pyoverdine dityrosine biosynthesis"
                      /protein_id="KAF6835369.1"
+                     /gene_kind="biosynthetic"
      gene            5710..7207
                      /note="*Name CMUS01_05821"
                      /note="*gbkey: Gene"
@@ -174,6 +175,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="laccase-1 precursor"
                      /protein_id="KAF6835371.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,47482"
      gene            12015..14852
                      /note="*Name CMUS01_05823"

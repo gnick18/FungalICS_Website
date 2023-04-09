@@ -173,6 +173,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SPUL|mrna.IF2G_06555"
                      /product="aldehyde reductase"
                      /protein_id="TQW06272.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5594..7414)
                      /note="*Name IF2G_06556"
                      /note="*end_range: 1283491,."
@@ -213,6 +214,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SPUL|mrna.IF2G_06556"
                      /product="amidase signature enzyme"
                      /protein_id="TQW06273.1"
+                     /gene_kind="biosynthetic"
      gene            9597..11177
                      /note="*Name IF2G_06557"
                      /note="*end_range: 1287254,."
@@ -253,6 +255,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SPUL|mrna.IF2G_06557"
                      /product="tricarballylate dehydrogenase"
                      /protein_id="TQW06274.1"
+                     /gene_kind="biosynthetic"
      gene            12111..14003
                      /note="*Name IF2G_06558"
                      /note="*end_range: 1290080,."
@@ -294,6 +297,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:SPUL|mrna.IF2G_06558"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="TQW06275.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCCTATCA GAGGCTTCCC CTTAGATTCG GTATCGTCCG ACTTCCAATA TCACCCTCAC
        61 GCCTTTGGAT ACCTGCACCC GCGCCCCCGC CTCAGCCAGC CGCCAGAGTC GCCcgtccgc

@@ -127,6 +127,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKV|E8E12_004136-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF3033091.1"
+                     /gene_kind="biosynthetic"
      gene            13569..15354
                      /note="*Name E8E12_004276"
                      /note="*gbkey: Gene"
@@ -325,6 +326,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKV|E8E12_004358-T1_mrna"
                      /product="GTP-binding nuclear protein gsp1/Ran"
                      /protein_id="KAF3033093.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17492..18394)
                      /note="*Name NAS2"
                      /note="*gbkey: Gene"

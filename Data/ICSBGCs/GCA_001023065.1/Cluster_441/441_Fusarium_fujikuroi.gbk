@@ -72,6 +72,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4954"
                      /product="uncharacterized protein"
                      /protein_id="KLP15516.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1659..3749)
                      /note="*Name LW94_4955"
                      /note="*gbkey: Gene"
@@ -123,6 +124,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4955"
                      /product="taurine catabolism dioxygenase"
                      /protein_id="KLP15517.1"
+                     /gene_kind="biosynthetic"
      gene            4590..6307
                      /note="*Name LW94_4956"
                      /note="*gbkey: Gene"
@@ -181,6 +183,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JRVH|LW94_mrna4956"
                      /product="phenol 2-monooxygenase"
                      /protein_id="KLP15518.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCAGTTCT CACTCGCTAT CGTTGCCCTC CTGGCTACCG CCGTCTCTGC TCTCCCCACT
        61 GAGGAGAAGC GCCAGGCTTA CATCCCTTGC TCTGGTCTCT ACGGCACTTC TCAATGCTGT

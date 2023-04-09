@@ -57,6 +57,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPUM|HIM_03823_T0"
                      /product="hypothetical protein"
                      /protein_id="KJZ76946.1"
+                     /gene_kind="biosynthetic"
      gene            4890..6787
                      /note="*Name HIM_03824"
                      /note="*gbkey: Gene"
@@ -115,6 +116,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPUM|HIM_03824_T0"
                      /product="hypothetical protein"
                      /protein_id="KJZ76947.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7072..8292)
                      /note="*Name HIM_03825"
                      /note="*gbkey: Gene"
@@ -143,6 +145,7 @@ FEATURES             Location/Qualifiers
                      /product="Alpha-pyrone synthesis polyketide synthase-like
                      Pks18"
                      /protein_id="KJZ76948.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10170..11445)
                      /note="*Name HIM_03826"
                      /note="*gbkey: Gene"

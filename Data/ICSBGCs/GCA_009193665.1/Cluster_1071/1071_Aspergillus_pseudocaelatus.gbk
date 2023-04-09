@@ -103,6 +103,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFS|BDV36DRAFT_mRNA311238"
                      /product="hypothetical protein"
                      /protein_id="KAE8415080.1"
+                     /gene_kind="biosynthetic"
      gene            3414..4993
                      /note="*Name BDV36DRAFT_311240"
                      /note="*end_range: 52455,."
@@ -400,6 +401,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFS|BDV36DRAFT_mRNA311246"
                      /product="Lycopene beta-cyclase"
                      /protein_id="KAE8415083.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10383..12164)
                      /note="*Name BDV36DRAFT_298383"
                      /note="*end_range: 59626,."
@@ -472,6 +474,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFS|BDV36DRAFT_mRNA298383"
                      /product="hypothetical protein"
                      /protein_id="KAE8415084.1"
+                     /gene_kind="biosynthetic"
      gene            13233..14191
                      /note="*Name BDV36DRAFT_263557"
                      /note="*gbkey: Gene"
@@ -734,6 +737,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAE8415087.1"
+                     /gene_kind="biosynthetic"
      gene            19836..22375
                      /note="*Name BDV36DRAFT_263563"
                      /note="*gbkey: Gene"
@@ -820,6 +824,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFS|BDV36DRAFT_mRNA263563"
                      /product="monooxygenase"
                      /protein_id="KAE8415088.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTTTCTC CCATGGCAAA GAGGACCGTA AGTCTCGCCG GGGAGGCTAT CCTGATGCCA
        61 GGCCTCACTA CCCACACAGG CTGGACAGTA GAAAAGGCTC TCCGGGTCAT ACTTTTGCTT

@@ -431,6 +431,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHU|mrna.HBH76_143890A"
                      /product="hypothetical protein"
                      /protein_id="KAH5183750.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11981..12230)
                      /note="*Name HBH76_143900"
                      /note="*gbkey: Gene"
@@ -604,6 +605,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHU|mrna.HBH76_143920A"
                      /product="hypothetical protein"
                      /protein_id="KAH5183970.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17496..19031)
                      /note="*Name HBH76_143930"
                      /note="*gbkey: Gene"
@@ -777,6 +779,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHU|mrna.HBH76_143950A"
                      /product="cutinase"
                      /protein_id="KAH5184026.1"
+                     /gene_kind="biosynthetic"
      misc_feature    complement(22514..22567)
                      /note="*Type SO:0000658 dispersed_repeat"
                      /note="*Note Match to RepeatModeler de-novo family
@@ -833,6 +836,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHU|mrna.HBH76_143970A"
                      /product="hypothetical protein"
                      /protein_id="KAH5183791.1"
+                     /gene_kind="biosynthetic"
      repeat_region   25013..25050
                      /note="*gbkey: repeat_region"
                      /inference="nucleotide motif:RepeatMasker:4.0.9p2"
@@ -1166,6 +1170,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAIRHU|mrna.HBH76_144200A"
                      /product="hypothetical protein"
                      /protein_id="KAH5183243.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACCAGACT ACCTGCCACA CCGTCCCACT AAACCCTAGA ATCTGGCTAA ACGCCTCGTC
        61 CCTCTGCCGC ATATCCCCTA GTACGTACTC ATTCCCATCG GACAAGACAA GCTTCAAATC

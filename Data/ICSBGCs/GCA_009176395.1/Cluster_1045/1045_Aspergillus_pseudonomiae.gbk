@@ -103,6 +103,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAB8258125.1"
+                     /gene_kind="biosynthetic"
      gene            4004..5846
                      /note="*Name BDV32DRAFT_139818"
                      /note="*end_range: 35613,."
@@ -203,6 +204,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWDY|BDV32DRAFT_mRNA139818"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAB8258126.1"
+                     /gene_kind="biosynthetic"
      gene            6642..7979
                      /note="*Name BDV32DRAFT_160064"
                      /note="*end_range: 37746,."
@@ -531,6 +533,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWDY|BDV32DRAFT_mRNA126157"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAB8258131.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14821..15786)
                      /note="*Name BDV32DRAFT_126158"
                      /note="*gbkey: Gene"
@@ -788,6 +791,7 @@ FEATURES             Location/Qualifiers
                      /product="ergosterol biosynthesis ERG4/ERG24
                      family-domain-containing protein"
                      /protein_id="KAB8258135.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAATCAACA TGAATCCTCC TCAAACACCG ATCCGACTTG GCTGTAAACG AGCTCCGCGT
        61 ATGCATCATG GTCACATTAT CGCTGATCAC CCAATCGCCC TCCTCCCACG AATGCCAATA

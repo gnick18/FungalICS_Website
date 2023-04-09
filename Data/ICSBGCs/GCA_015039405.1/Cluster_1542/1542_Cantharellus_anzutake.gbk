@@ -135,6 +135,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WJDU|EI90DRAFT_mRNA2375177"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAF8323621.1"
+                     /gene_kind="biosynthetic"
      gene            3840..6343
                      /note="*Name EI90DRAFT_3130267"
                      /note="*end_range: 302396,."
@@ -312,6 +313,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAF8323622.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8112..9393)
                      /note="*Name EI90DRAFT_2375451"
                      /note="*gbkey: Gene"
@@ -399,6 +401,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WJDU|EI90DRAFT_mRNA2375451"
                      /product="FAD-binding monooxygenase"
                      /protein_id="KAF8323623.1"
+                     /gene_kind="biosynthetic"
      gene            10647..12978
                      /note="*Name EI90DRAFT_3130269"
                      /note="*end_range: 309031,."
@@ -577,6 +580,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAF8323624.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTGGCGCAGC GTCTAATTAA ATTGATTAAA TTACCAAAAT ATTTACGTTG CAATGACCGT
        61 CAAAGATTCC AGgtctattc caatagaggg TGGTAACCTC ACAGTGCTCA AGCCTTTTGT

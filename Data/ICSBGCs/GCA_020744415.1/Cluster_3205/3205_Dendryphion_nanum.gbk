@@ -73,6 +73,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7115222.1"
+                     /gene_kind="biosynthetic"
      gene            3142..5121
                      /note="*Name B0J11DRAFT_540132"
                      /note="*gbkey: Gene"
@@ -112,6 +113,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMWT|B0J11DRAFT_mRNA540132"
                      /product="putative cytochrome P450"
                      /protein_id="KAH7115223.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ACCTCACTAA AGTTCATTTG GGCGACCGAT GATGTGTAGA GTAATTAAGA AGTATGATAT
        61 TGTTACAGTC TAGCTGTGAA TGAAGAGCAA TGATGATGCT GCGGGCAATG TCCAACTGTA

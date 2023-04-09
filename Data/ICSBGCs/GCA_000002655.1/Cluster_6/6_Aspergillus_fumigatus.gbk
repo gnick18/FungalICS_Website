@@ -67,6 +67,7 @@ FEATURES             Location/Qualifiers
                      /product="pyoverdine/dityrosine biosynthesis family
                      protein"
                      /protein_id="EAL84283.1"
+                     /gene_kind="biosynthetic"
      repeat_region   complement(1970..2049)
                      /note="*Note microsatellite"
                      /note="*gbkey: repeat_region"
@@ -159,6 +160,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01380"
                      /product="4-nitrophenylphosphatase, putative"
                      /protein_id="EAL84282.1"
+                     /gene_kind="biosynthetic"
      repeat_region   complement(3925..3980)
                      /note="*Note microsatellite"
                      /note="*gbkey: repeat_region"
@@ -368,6 +370,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01420"
                      /product="spore wall assembly protein Dit1, putative"
                      /protein_id="EAL84277.1"
+                     /gene_kind="biosynthetic"
      gene            13923..14269
                      /note="*Name AFUA_4G01430"
                      /note="*end_range: 375326,."
@@ -476,6 +479,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01440"
                      /product="glutathione S-transferase family protein"
                      /protein_id="EAL84275.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16577..17903)
                      /note="*Name AFUA_4G01450"
                      /note="*end_range: 378960,."
@@ -559,6 +563,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01450"
                      /product="phospho-2-dehydro-3-deoxyheptonate aldolase"
                      /protein_id="EAL84274.1"
+                     /gene_kind="biosynthetic"
      gene            18540..20708
                      /note="*Name AFUA_4G01460"
                      /note="*end_range: 381765,."
@@ -592,6 +597,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01460"
                      /product="conserved hypothetical protein"
                      /protein_id="EAL84273.1"
+                     /gene_kind="biosynthetic"
      repeat_region   complement(20848..20905)
                      /note="*Note microsatellite"
                      /note="*gbkey: repeat_region"
@@ -831,6 +837,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="AFUA_4G01490"
                      /product="fumarylacetoacetate hydrolase family protein"
                      /protein_id="EAL84270.1"
+                     /gene_kind="biosynthetic"
      gene            33235..34967
                      /note="*Name AFUA_4G01500"
                      /note="*end_range: 396024,."

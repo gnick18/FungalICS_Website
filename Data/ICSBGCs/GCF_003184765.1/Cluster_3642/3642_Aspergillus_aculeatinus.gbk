@@ -45,6 +45,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA55795"
                      /product="PAF acetylhydrolase family protein"
                      /protein_id="XP_025505111.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1582..2491)
                      /db_xref="GeneID:37156475"
                      /note="*Name BO66DRAFT_55796"
@@ -231,6 +232,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA448468"
                      /product="Clavaminate synthase-like protein"
                      /protein_id="XP_025505114.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8481..10265)
                      /db_xref="GeneID:37148538"
                      /note="*Name BO66DRAFT_371736"
@@ -402,6 +404,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="XP_025505116.1"
+                     /gene_kind="biosynthetic"
      gene            13141..13979
                      /db_xref="GeneID:37152316"
                      /note="*Name BO66DRAFT_410467"
@@ -518,6 +521,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA470483"
                      /product="Rieske [2Fe-2S] domain protein"
                      /protein_id="XP_025505118.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15415..15486)
                      /db_xref="GeneID:37156878"
                      /note="*Name BO66DRAFT_t132"
@@ -897,6 +901,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA448494"
                      /product="Aldo/keto reductase"
                      /protein_id="XP_025505124.1"
+                     /gene_kind="biosynthetic"
      gene            complement(26011..33241)
                      /db_xref="GeneID:37155867"
                      /note="*Name BO66DRAFT_470489"
@@ -964,6 +969,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA470489"
                      /product="amino acid adenylation"
                      /protein_id="XP_025505125.1"
+                     /gene_kind="biosynthetic"
      gene            35170..36466
                      /db_xref="GeneID:37154054"
                      /note="*Name BO66DRAFT_437326"
@@ -1044,6 +1050,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTE|BO66DRAFT_mRNA437326"
                      /product="phospho-2-dehydro-3-deoxyheptonate aldolase"
                      /protein_id="XP_025505126.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GTGCACAGAC AACATTAATT CACTTAGTCT GTCAAATATC TACTATATGG CATCGAACTA
        61 CACCGCAAGC GCCTCGAACT ATTCAAGTAT AAATCCATGA TGGCTTGCTG CTGGATTCGG

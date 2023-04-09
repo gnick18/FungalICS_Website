@@ -280,6 +280,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMWT|B0J11DRAFT_mRNA339358"
                      /product="cytochrome P450"
                      /protein_id="KAH7122444.1"
+                     /gene_kind="biosynthetic"
      gene            17006..17085
                      /note="*Name B0J11DRAFT_t47"
                      /note="*gbkey: Gene"
@@ -350,6 +351,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAH7122445.1"
+                     /gene_kind="biosynthetic"
      gene            20434..22963
                      /note="*Name B0J11DRAFT_489486"
                      /note="*gbkey: Gene"
@@ -454,6 +456,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMWT|B0J11DRAFT_mRNA489486"
                      /product="putative cytochrome P450"
                      /protein_id="KAH7122446.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23927..26305)
                      /note="*Name B0J11DRAFT_339399"
                      /note="*gbkey: Gene"
@@ -500,6 +503,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7122447.1"
+                     /gene_kind="biosynthetic"
      gene            27238..29421
                      /note="*Name B0J11DRAFT_531513"
                      /note="*gbkey: Gene"
@@ -775,6 +779,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="KAH7122450.1"
+                     /gene_kind="biosynthetic"
      gene            37674..39305
                      /note="*Name B0J11DRAFT_437099"
                      /note="*end_range: 726336,."
@@ -1059,6 +1064,7 @@ FEATURES             Location/Qualifiers
                      /product="SNF2 family N-terminal domain-containing
                      protein"
                      /protein_id="KAH7122455.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGCCCCAA CACCCGCAAG CGTTGAAATT CCCGGCTGGA GTGAGAGCAG CAGAACAGAC
        61 GCAGCGCAGC GCCAGAGACG CACCAAAGAA GCCCGTCCAA CAGGGCTTTC CAGGGCTTTT

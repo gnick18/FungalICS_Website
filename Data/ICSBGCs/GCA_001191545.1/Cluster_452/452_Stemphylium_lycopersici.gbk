@@ -158,6 +158,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LGLR|mrna.TW65_07065"
                      /product="pyoverdine dityrosine biosynthesis"
                      /protein_id="KNG46259.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5518..9036)
                      /note="*Name TW65_07066"
                      /note="*gbkey: Gene"
@@ -271,6 +272,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LGLR|mrna.TW65_07066"
                      /product="plasma membrane calcium-transporting atpase 2"
                      /protein_id="KNG46260.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10736..11988)
                      /note="*Name TW65_07067"
                      /note="*gbkey: Gene"
@@ -311,6 +313,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LGLR|mrna.TW65_07067"
                      /product="capsule polysaccharide biosynthesis protein"
                      /protein_id="KNG46261.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13669..14294)
                      /note="*Name TW65_07068"
                      /note="*gbkey: Gene"
@@ -379,6 +382,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LGLR|mrna.TW65_07068"
                      /product="fk506-binding protein 2 precursor"
                      /protein_id="KNG46262.1"
+                     /gene_kind="biosynthetic"
      gene            14728..15402
                      /note="*Name TW65_07069"
                      /note="*gbkey: Gene"
@@ -491,6 +495,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LGLR|mrna.TW65_07070"
                      /product="folylpolyglutamate synthase"
                      /protein_id="KNG46264.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAGGCATTG CGCGCACGGG GATGGTACAC GAGCTGCGGA ATCTCCGCAC CGCCACTCGG
        61 CGCATTTGAA TCCTTTGTGA CATCAGTGTT ACAGTCGTGA AAATAGCTAA GTCCGTACCT

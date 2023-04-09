@@ -257,6 +257,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v005651.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4875341.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7446..9110)
                      /note="*Name apdF-13"
                      /note="*gbkey: Gene"
@@ -404,6 +405,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v005653.t1_mrna"
                      /product="3-hydroxybenzoate 4-monooxygenase"
                      /protein_id="KAF4875340.1"
+                     /gene_kind="biosynthetic"
      gene            14621..16664
                      /note="*Name DIT1-5"
                      /note="*gbkey: Gene"
@@ -457,6 +459,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMU|CGCSCA1_v005654.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4875339.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCGGAAC GAAGGCCTTC GGACTCTGTG CCGAGAGATG TGGACGTGGA GAAGGGAATC
        61 AGCCCCAACG CCTCCGACCT CGAGGGCGCA ACTATCAGAC CCGAATCTGG CCGCGAAGCC

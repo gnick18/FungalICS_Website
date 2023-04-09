@@ -91,6 +91,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_16120T0"
                      /product="hypothetical protein"
                      /protein_id="EXM15513.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3460..4889)
                      /note="*Name FOTG_16121"
                      /note="*end_range: 14741,."
@@ -150,6 +151,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_16121T0"
                      /product="hypothetical protein"
                      /protein_id="EXM15514.1"
+                     /gene_kind="biosynthetic"
      gene            5458..9445
                      /note="*Name FOTG_16122"
                      /note="*gbkey: Gene"
@@ -187,6 +189,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_16122T0"
                      /product="Cu2+-exporting ATPase"
                      /protein_id="EXM15515.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9604..11256)
                      /note="*Name FOTG_16123"
                      /note="*gbkey: Gene"
@@ -342,6 +345,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_16125T0"
                      /product="hypothetical protein"
                      /protein_id="EXM15518.1"
+                     /gene_kind="biosynthetic"
      gene            18180..22328
                      /note="*Name FOTG_16126"
                      /note="*end_range: 32180,."
@@ -430,6 +434,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_16126T0"
                      /product="hypothetical protein"
                      /protein_id="EXM15519.1"
+                     /gene_kind="biosynthetic"
      gene            23131..24922
                      /note="*Name FOTG_16127"
                      /note="*end_range: 34774,."
@@ -518,6 +523,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:AGNC|mrna_FOTG_16127T0"
                      /product="hypothetical protein"
                      /protein_id="EXM15520.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGACAACT TCAATTCAAT CGCTCTCGAG CGTTTGCTGA GTCCCTCGGC GCTGTTTGGC
        61 CTCACTGGTC TTTGGCTTGG TTATCGTGTC GCGCTCGCAC TTTACAACGT TTCCCCTCTC

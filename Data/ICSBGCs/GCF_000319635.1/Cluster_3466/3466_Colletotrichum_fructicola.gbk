@@ -62,6 +62,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="pyoverdine dityrosine biosynthesis protein"
                      /protein_id="XP_007282841.1"
+                     /gene_kind="biosynthetic"
      gene            2094..3535
                      /db_xref="GeneID:18737926"
                      /note="*Name CGGC5_1425"
@@ -118,6 +119,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="pyoverdine dityrosine biosynthesis"
                      /protein_id="XP_007282842.1"
+                     /gene_kind="biosynthetic"
      gene            complement(3603..5415)
                      /db_xref="GeneID:18737937"
                      /note="*Name CGGC5_1426"
@@ -164,6 +166,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="cytochrome p450 monooxygenase"
                      /protein_id="XP_007282843.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5911..7668)
                      /db_xref="GeneID:18737948"
                      /note="*Name CGGC5_1427"
@@ -297,6 +300,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="benzoate 4-monooxygenase cytochrome"
                      /protein_id="XP_007282845.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11800..12941)
                      /db_xref="GeneID:18737970"
                      /note="*Name CGGC5_1429"
@@ -359,6 +363,7 @@ FEATURES             Location/Qualifiers
                      /product="alcohol dehydrogenase, zinc-containing,
                      putative"
                      /protein_id="XP_007282846.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCATCAT TATCTCAGCC CGAAGTCGAT TCCATCCTCG CCGTTCTTCG ACAATTTTCC
        61 CAGCATGAGG CACAGCCCGC CACCAATGAG CGCCCTGCAT ATGAAGCAGT GGTAGCAAAC

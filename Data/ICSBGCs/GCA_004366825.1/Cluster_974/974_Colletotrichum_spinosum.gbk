@@ -71,6 +71,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010421.t1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="TDZ27472.1"
+                     /gene_kind="biosynthetic"
      gene            2256..3888
                      /note="*Name C8035_v010422"
                      /note="*Note Putative aldehyde dehydrogenase-like protein"
@@ -118,6 +119,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010422.t1_mrna"
                      /product="putative aldehyde dehydrogenase-like protein"
                      /protein_id="TDZ27413.1"
+                     /gene_kind="biosynthetic"
      gene            4418..5202
                      /note="*Name inhA-1"
                      /note="*gbkey: Gene"
@@ -275,6 +277,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010425.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ27412.1"
+                     /gene_kind="biosynthetic"
      gene            11191..12291
                      /note="*Name DIT1-0"
                      /note="*gbkey: Gene"
@@ -328,6 +331,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QAPG|C8035_v010426.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ27410.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCGAAGA TTTTCTTGTA AGTTGGCAGC TCCAGCGGGC TCGTAGGCGG CAAGCTAGCG
        61 CCTCATGGCG GTGCAGGCTG TGTTCCAGCC ACTAACTCGC CGCCCAGGAC GGGAGCCACA

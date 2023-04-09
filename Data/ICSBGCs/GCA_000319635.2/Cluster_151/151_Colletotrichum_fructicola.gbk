@@ -95,6 +95,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ANPB|CGGC5_v002456.t1_mrna"
                      /product="putative alpha-L-arabinofuranosidase B"
                      /protein_id="KAF4492104.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6913..8679)
                      /note="*Name DIT1-1"
                      /note="*gbkey: Gene"
@@ -149,6 +150,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ANPB|CGGC5_v002457.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4492105.1"
+                     /gene_kind="biosynthetic"
      gene            10425..11904
                      /note="*Name CGGC5_v002458"
                      /note="*Note Fujikurins efflux protein-1"
@@ -270,6 +272,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ANPB|CGGC5_v002459.t1_mrna"
                      /product="oxidoreductase ptaK"
                      /protein_id="KAF4492109.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15852..18305)
                      /note="*Name LIP-1"
                      /note="*gbkey: Gene"
@@ -333,6 +336,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ANPB|CGGC5_v002460.t1_mrna"
                      /product="Lipase"
                      /protein_id="KAF4490846.1"
+                     /gene_kind="biosynthetic"
      gene            19480..20429
                      /note="*Name CGGC5_v002461"
                      /note="*gbkey: Gene"
@@ -379,6 +383,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ANPB|CGGC5_v002461.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4490845.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20591..22154)
                      /note="*Name CGGC5_v002462"
                      /note="*gbkey: Gene"
@@ -812,6 +817,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sterigmatocystin biosynthesis P450
                      monooxygenase stcS"
                      /protein_id="KAF4490837.1"
+                     /gene_kind="biosynthetic"
      gene            complement(40234..41653)
                      /note="*Name CGGC5_v002470"
                      /note="*Note Secondary metabolism regulator LAE1-9"
@@ -907,6 +913,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ANPB|CGGC5_v002470.t1_mrna"
                      /product="Secondary metabolism regulator LAE1"
                      /protein_id="KAF4492190.1"
+                     /gene_kind="biosynthetic"
      gene            complement(44133..44723)
                      /note="*Name CGGC5_v002471"
                      /note="*gbkey: Gene"

@@ -82,6 +82,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAFMPF|BJ875DRAFT_mRNA485005"
                      /product="hypothetical protein"
                      /protein_id="KAG9233563.1"
+                     /gene_kind="biosynthetic"
      gene            complement(13135..15574)
                      /note="*Name BJ875DRAFT_463822"
                      /note="*gbkey: Gene"
@@ -119,6 +120,7 @@ FEATURES             Location/Qualifiers
                      /product="putative Phosphoribosylaminoimidazole
                      carboxylase"
                      /protein_id="KAG9233564.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15717..17877)
                      /note="*Name BJ875DRAFT_535296"
                      /note="*end_range: 21395,."
@@ -201,6 +203,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAFMPF|BJ875DRAFT_mRNA535296"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="KAG9233565.1"
+                     /gene_kind="biosynthetic"
      gene            18840..20779
                      /note="*Name BJ875DRAFT_41799"
                      /note="*gbkey: Gene"
@@ -294,6 +297,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAFMPF|BJ875DRAFT_mRNA41799"
                      /product="cytochrome P450"
                      /protein_id="KAG9233566.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAATATGAG ACCATACGTC GTGCATGGCC GTAATTCAGA CAAGGTGAAC TGGTCATCCG
        61 GGGGGAGGCG TTCATCCCCA TCATCACCCA ATCACCCCCA CCGGTCGTGC GGGATCGATT

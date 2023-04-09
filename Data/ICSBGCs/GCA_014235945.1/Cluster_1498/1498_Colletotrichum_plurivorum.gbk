@@ -54,6 +54,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIGO|mrna.CPLU01_13418"
                      /product="pyoverdine dityrosine biosynthesis"
                      /protein_id="KAF6818053.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2398..6206)
                      /note="*Name CPLU01_13419"
                      /note="*gbkey: Gene"
@@ -129,6 +130,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIGO|mrna.CPLU01_13419"
                      /product="glutamyl-tRNA(Gln) amidotransferase"
                      /protein_id="KAF6818054.1"
+                     /gene_kind="biosynthetic"
      gene            6837..8212
                      /note="*Name CPLU01_13420"
                      /note="*gbkey: Gene"
@@ -249,6 +251,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIGO|mrna.CPLU01_13422"
                      /product="nonribosomal peptide synthetase"
                      /protein_id="KAF6818057.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15882..17307)
                      /note="*Name CPLU01_13423"
                      /note="*gbkey: Gene"
@@ -352,6 +355,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIGO|mrna.CPLU01_13424"
                      /product="O-methylsterigmatocystin oxidoreductase"
                      /protein_id="KAF6818059.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACACGAAC CCTCTGAACA CGATCCTGCC CTGCAATACA GCAAGAACAC CCGCTTTCCG
        61 TTTATCAGAG TCTGATAGAG AGCTCTTCGT CTGATCTACG CCCCCAGAAT TGTGAACTAC

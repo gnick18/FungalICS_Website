@@ -61,6 +61,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNI|BKA58DRAFT_mRNA427212"
                      /product="hypothetical protein"
                      /protein_id="KAH6878523.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2243..3286)
                      /note="*Name BKA58DRAFT_308502"
                      /note="*end_range: 2827111,."
@@ -104,6 +105,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNI|BKA58DRAFT_mRNA308502"
                      /product="lipase"
                      /protein_id="KAH6878524.1"
+                     /gene_kind="biosynthetic"
      gene            5220..13542
                      /note="*Name BKA58DRAFT_418033"
                      /note="*end_range: 2837367,."
@@ -281,6 +283,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNI|BKA58DRAFT_mRNA418033"
                      /product="transferase family protein"
                      /protein_id="KAH6878525.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAAACCCA CAGCCCTCAA CCCCCTCCCT GCACCTCTTC ATAACCTGCT CAATCACACG
        61 ACCCTCTACA ACACCCTCCT GCCAACAGAT CCCCACACTC AATCCCCCAT TCACTCCCGT

@@ -154,6 +154,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="XP_007594738.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7529..10494)
                      /db_xref="GeneID:19033681"
                      /note="*Name CFIO01_03831"
@@ -211,6 +212,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="dihydroorotate dehydrogenase"
                      /protein_id="XP_007594739.1"
+                     /gene_kind="biosynthetic"
      gene            11320..12753
                      /db_xref="GeneID:19033682"
                      /note="*Name CFIO01_03832"

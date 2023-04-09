@@ -58,6 +58,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ABBB|mrna_CPAT_07738"
                      /product="pyoverdine biosynthesis protein PvcA"
                      /protein_id="KMM71384.1"
+                     /gene_kind="biosynthetic"
      gene            2461..10256
                      /note="*Name CPAG_07692"
                      /note="*end_range: 1023756,."
@@ -323,6 +324,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ABBB|mrna_CPAT_07743"
                      /product="transporter"
                      /protein_id="KMM71389.1"
+                     /gene_kind="biosynthetic"
      gene            complement(23370..23957)
                      /note="*Name CPAG_07697"
                      /note="*end_range: 1037457,."
@@ -568,6 +570,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:ABBB|mrna_CPAT_07748"
                      /product="general amidase-B"
                      /protein_id="KMM71394.1"
+                     /gene_kind="biosynthetic"
      gene            32601..33852
                      /note="*Name CPAG_07702"
                      /note="*end_range: 1047352,."

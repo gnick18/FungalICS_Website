@@ -71,6 +71,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCSADRAFT_mRNA39282"
                      /product="uncharacterized protein"
                      /protein_id="XP_007702614.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1620..3739)
                      /db_xref="GeneID:19130556"
                      /note="*Name COCSADRAFT_123388"
@@ -136,6 +137,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCSADRAFT_mRNA123388"
                      /product="uncharacterized protein"
                      /protein_id="XP_007702880.1"
+                     /gene_kind="biosynthetic"
      gene            5169..6502
                      /db_xref="GeneID:19141660"
                      /note="*Name COCSADRAFT_96100"
@@ -289,6 +291,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|jgi|COCSADRAFT_mRNA96868"
                      /product="uncharacterized protein"
                      /protein_id="XP_007702882.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ACATTACCTT CTCATCACTT AGTTTGTAAT ATATATACCC ATTAACACAT TTCACGATAT
        61 ATCTTTCTCT ACATAATACA CTTCGAAAAT AAGTCTTTTA TACATACCCA AAGATGTCCC

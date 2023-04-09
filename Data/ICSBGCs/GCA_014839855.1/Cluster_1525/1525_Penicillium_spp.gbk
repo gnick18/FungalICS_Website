@@ -78,6 +78,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIWU|PECH_003735-T1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAF7729196.1"
+                     /gene_kind="biosynthetic"
      gene            2503..3658
                      /note="*Name PECH_003736"
                      /note="*gbkey: Gene"
@@ -153,6 +154,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIWU|PECH_003736-T1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAF7729197.1"
+                     /gene_kind="biosynthetic"
      gene            5157..8028
                      /note="*Name PECH_003737"
                      /note="*gbkey: Gene"
@@ -377,6 +379,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:WIWU|PECH_003740-T1_mrna"
                      /product="Uncharacterized protein"
                      /protein_id="KAF7729201.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTAGCTGACG TGCACACGCC AGTGCTCACG GTGGCCGTCC TCGAATGCAG TCCGAGTGTG
        61 ATGGGTCATG GCGTtgtcat tgaagatgaa aTCGCCCGCC TGCCATTGGT GACGGTAGGC

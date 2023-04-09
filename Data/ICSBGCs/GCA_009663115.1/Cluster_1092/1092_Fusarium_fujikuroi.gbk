@@ -131,6 +131,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|CEK25|Chr8_84-mRNA-1"
                      /product="hypothetical protein"
                      /protein_id="QGI84887.1"
+                     /gene_kind="biosynthetic"
      gene            4590..6307
                      /note="*Name CEK25_011617"
                      /note="*end_range: 226585,."
@@ -202,6 +203,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|CEK25|Chr8_85-mRNA-1"
                      /product="hypothetical protein"
                      /protein_id="QGI84888.1"
+                     /gene_kind="biosynthetic"
      gene            7248..8623
                      /note="*Name CEK25_011618"
                      /note="*end_range: 228901,."
@@ -297,6 +299,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|CEK25|Chr8_87-mRNA-1"
                      /product="hypothetical protein"
                      /protein_id="QGI84890.1"
+                     /gene_kind="biosynthetic"
      gene            complement(11305..15971)
                      /note="*Name CEK25_011620"
                      /note="*end_range: 236249,."
@@ -540,6 +543,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|CEK25|Chr8_92-mRNA-1"
                      /product="hypothetical protein"
                      /protein_id="QGI84895.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGCAGTTCT CACTCGCTAT CGTTGCCCTC CTGGCTACCG CCGTCTCTGC TCTCCCCACT
        61 GAGGAGAAGC GCCAGGCTTA CATCCCTTGC TCTGGTCTCT ACGGCACTTC TCAATGCTGT

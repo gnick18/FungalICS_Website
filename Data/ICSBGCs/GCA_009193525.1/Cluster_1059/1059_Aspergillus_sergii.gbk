@@ -234,6 +234,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:STFL|BDV39DRAFT_mRNA67126"
                      /product="monooxygenase"
                      /protein_id="KAE8328415.1"
+                     /gene_kind="biosynthetic"
      gene            11861..14273
                      /note="*Name BDV39DRAFT_67144"
                      /note="*gbkey: Gene"
@@ -318,6 +319,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAE8328416.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCACCGC ATGGAAGTTG CAAAAACCTC CTCTTGGGCG TTTTCAAACG ACCGAAGCGA
        61 AAGGAGAGCA GACATGTTGA CCATACCCCG GTTTCTGTCC CCACGATTCC TCCTGCGAAA

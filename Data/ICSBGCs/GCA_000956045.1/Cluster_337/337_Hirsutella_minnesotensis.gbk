@@ -189,6 +189,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPUM|HIM_11602_T0"
                      /product="hypothetical protein"
                      /protein_id="KJZ69000.1"
+                     /gene_kind="biosynthetic"
      gene            31280..33144
                      /note="*Name HIM_11603"
                      /note="*gbkey: Gene"
@@ -271,6 +272,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPUM|HIM_11604_T0"
                      /product="hypothetical protein"
                      /protein_id="KJZ69002.1"
+                     /gene_kind="biosynthetic"
      gene            complement(37380..38282)
                      /note="*Name HIM_11605"
                      /note="*gbkey: Gene"
@@ -445,6 +447,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JPUM|HIM_11609_T0"
                      /product="hypothetical protein"
                      /protein_id="KJZ69007.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGATACGC GAGAAGGCTC TTCTCAGCCG AATTTCGGTA TGATTTCGGG CAGCTTTGAT
        61 GCCCTGTCAC AACAGTTTGC ACTTTGTGGC AATCTTCCAG CTGTAGACAG CGGCACCCGT

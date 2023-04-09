@@ -55,6 +55,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACPE|MYCGRDRAFT_mRNA75360"
                      /product="protein kinase WD40"
                      /protein_id="XP_003849794.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5131..5830)
                      /db_xref="GeneID:13402590"
                      /note="*Name MYCGRDRAFT_105672"
@@ -298,6 +299,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACPE|MYCGRDRAFT_mRNA75366"
                      /product="uncharacterized protein"
                      /protein_id="XP_003849791.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12052..13200)
                      /db_xref="GeneID:13402587"
                      /note="*Name MYCGRDRAFT_24569"
@@ -347,6 +349,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="uncharacterized protein"
                      /protein_id="XP_003849790.1"
+                     /gene_kind="biosynthetic"
                      /note="*start_range: .,531487"
      gene            complement(16127..22651)
                      /db_xref="GeneID:13402586"
@@ -874,6 +877,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACPE|MYCGRDRAFT_mRNA117820"
                      /product="ATP-binding cassette multidrug transporter"
                      /protein_id="XP_003849789.1"
+                     /gene_kind="biosynthetic"
      gene            23210..27038
                      /db_xref="GeneID:13402585"
                      /note="*Name MYCGRDRAFT_75370"
@@ -1009,6 +1013,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ACPE|MYCGRDRAFT_mRNA75370"
                      /product="uncharacterized protein"
                      /protein_id="XP_003849321.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACAAATGC ACAAAAACCA TCCCTCCTCG ATCCGCACTA ACAACCATCC CCACCGGCCT
        61 CTCCACCACC GCAACATCCG TCACCAAATC CAAATGCCTC CTCATCAAAT TCCTCGCGCT

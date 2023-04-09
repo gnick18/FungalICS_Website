@@ -97,6 +97,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JXCE|mRNA.FLAG1_09337"
                      /product="pyoverdine dityrosine biosynthesis"
                      /protein_id="KPA37845.1"
+                     /gene_kind="biosynthetic"
      gene            5102..6708
                      /note="*Name FLAG1_09338"
                      /note="*gbkey: Gene"
@@ -138,6 +139,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:JXCE|mRNA.FLAG1_09338"
                      /product="aldehyde dehydrogenase"
                      /protein_id="KPA37846.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGGCAGTGC AATCAAAGCA TCTCAACGAC GAGGGTATGG CCGCGTACCG CGGGCCTTCA
        61 TTGCAGCAGC CTCATCGGGC CCGGCAGGCC CTCAAAGATG CGTATGCTGG GCTGATCCCT

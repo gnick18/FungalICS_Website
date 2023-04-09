@@ -167,6 +167,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAV|mrna.FSUBG_1570"
                      /product="trichodiene oxygenase"
                      /protein_id="KAF5612251.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6701..8126)
                      /note="*Name FSUBG_1571"
                      /note="*gbkey: Gene"
@@ -215,6 +216,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAV|mrna.FSUBG_1571"
                      /product="ABC1 transport"
                      /protein_id="KAF5612252.1"
+                     /gene_kind="biosynthetic"
      gene            9043..12401
                      /note="*Name FSUBG_1572"
                      /note="*gbkey: Gene"
@@ -252,6 +254,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAV|mrna.FSUBG_1572"
                      /product="Cu2+-exporting ATPase"
                      /protein_id="KAF5612253.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12821..14077)
                      /note="*Name FSUBG_1573"
                      /note="*gbkey: Gene"
@@ -372,6 +375,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAOAV|mrna.FSUBG_1574"
                      /product="cytochrome P450 monooxygenase 3A7"
                      /protein_id="KAF5612255.1"
+                     /gene_kind="biosynthetic"
      gene            21160..25309
                      /note="*Name FSUBG_1575"
                      /note="*gbkey: Gene"
@@ -444,6 +448,7 @@ FEATURES             Location/Qualifiers
                      /product="nonribosomal peptide synthetase (component of
                      the myxochelin iron transport regulon)"
                      /protein_id="KAF5612256.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAGCCTTGG AGCTCTTGTA TGGTTACAGG Ggactttgtt cttctttggt cGCCAACTTC
        61 AGGATAGTGC CCATATGCCT GAGGATATTG TTGCTGGTAT AAGTGCGCCT GGGAAAGGTC

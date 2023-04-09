@@ -47,6 +47,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_5772"
                      /product="polyketide synthase, enoylreductase"
                      /protein_id="RFU76472.1"
+                     /gene_kind="biosynthetic"
      gene            2054..4351
                      /note="*Name TARUN_5773"
                      /note="*gbkey: Gene"
@@ -213,6 +214,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_5776"
                      /product="carbon-nitrogen hydrolase"
                      /protein_id="RFU76420.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14645..18393)
                      /note="*Name TARUN_5777"
                      /note="*gbkey: Gene"
@@ -280,6 +282,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_5777"
                      /product="transferase family"
                      /protein_id="RFU76421.1"
+                     /gene_kind="biosynthetic"
      gene            19537..20515
                      /note="*Name TARUN_5778"
                      /note="*gbkey: Gene"
@@ -322,6 +325,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_5778"
                      /product="transferase family"
                      /protein_id="RFU76422.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGAGCAGCC AAGTTACTTT CGACGTTTAC CGCGGTGCTG AGGGCGATGC TCCGGTTCGC
        61 AAGACTGTCA CCAGGCAACT CCGCCCCAAC GATGTCTTCA TCGAGATAAC CCACTCCGGT

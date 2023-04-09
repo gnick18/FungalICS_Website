@@ -64,6 +64,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWDA|BDV33DRAFT_mRNA230483"
                      /product="hypothetical protein"
                      /protein_id="KAB8221221.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2206..2998)
                      /note="*Name BDV33DRAFT_202703"
                      /note="*end_range: 187101,."
@@ -130,6 +131,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="KAB8221222.1"
+                     /gene_kind="biosynthetic"
      gene            3692..4208
                      /note="*Name BDV33DRAFT_202704"
                      /note="*end_range: 188311,."
@@ -382,6 +384,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="KAB8221225.1"
+                     /gene_kind="biosynthetic"
      gene            10495..12467
                      /note="*Name BDV33DRAFT_190617"
                      /note="*end_range: 196570,."
@@ -494,6 +497,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWDA|BDV33DRAFT_mRNA190617"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAB8221226.1"
+                     /gene_kind="biosynthetic"
      gene            complement(14253..15528)
                      /note="*Name BDV33DRAFT_190618"
                      /note="*end_range: 199631,."
@@ -750,6 +754,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWDA|BDV33DRAFT_mRNA170916"
                      /product="Alpha/Beta hydrolase protein"
                      /protein_id="KAB8221229.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TATGGAATAC CTTTCCTACT AAGATCTCGG CGTATGGACT TGGAGCTGGT ATCTAGAAGG
        61 GTCTCTGGCT GGGAGGCCTT ATTCAGGTCC TGAAATTGTG TTGCTATTGT CATCGTTGTA

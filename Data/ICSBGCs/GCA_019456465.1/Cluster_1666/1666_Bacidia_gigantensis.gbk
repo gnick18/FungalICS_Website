@@ -59,6 +59,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHXPR|KY384_008841-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAG8525197.1"
+                     /gene_kind="biosynthetic"
      gene            complement(1957..3980)
                      /note="*Name KY384_008842"
                      /note="*gbkey: Gene"
@@ -440,6 +441,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHXPR|KY384_008847-T1_mrna"
                      /product="putative NRPS-like protein biosynthetic cluster"
                      /protein_id="KAG8525203.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15045..23857)
                      /note="*Name KY384_008848"
                      /note="*gbkey: Gene"

@@ -59,6 +59,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v010677.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="TDZ39015.1"
+                     /gene_kind="biosynthetic"
      gene            3635..4880
                      /note="*Name CTRI78_v010678"
                      /note="*Note Neutral protease 2-like protein"
@@ -125,6 +126,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v010678.t1_mrna"
                      /product="Neutral protease 2-like protein"
                      /protein_id="TDZ39013.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5620..7148)
                      /note="*Name LAE1-3"
                      /note="*gbkey: Gene"
@@ -241,6 +243,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:RYZW|CTRI78_v010679.t1_mrna"
                      /product="Secondary metabolism regulator LAE1"
                      /protein_id="TDZ39014.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7827..8198)
                      /note="*Name CTRI78_v010680"
                      /note="*gbkey: Gene"

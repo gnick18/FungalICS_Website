@@ -90,6 +90,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:LFIW|CI238_12512-mRNA-1_mrna"
                      /product="pyoverdine dityrosine biosynthesis protein"
                      /protein_id="KZL78855.1"
+                     /gene_kind="biosynthetic"
      gene            complement(5850..9910)
                      /note="*Name CI238_12513"
                      /note="*end_range: 18622,."
@@ -147,6 +148,7 @@ FEATURES             Location/Qualifiers
                      /partial
                      /product="dihydroorotate dehydrogenase"
                      /protein_id="KZL78856.1"
+                     /gene_kind="biosynthetic"
      gene            9641..11029
                      /note="*Name CI238_12514"
                      /note="*gbkey: Gene"

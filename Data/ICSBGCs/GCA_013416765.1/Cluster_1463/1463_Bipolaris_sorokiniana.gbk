@@ -33,6 +33,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WNKQ|BSOR_00004009-RA"
                      /product="hypothetical protein"
                      /protein_id="KAF5851336.1"
+                     /gene_kind="biosynthetic"
      gene            4949..6589
                      /note="*Name GGP41_004169"
                      /note="*gbkey: Gene"
@@ -79,6 +80,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WNKQ|BSOR_00004010-RA"
                      /product="hypothetical protein"
                      /protein_id="KAF5851306.1"
+                     /gene_kind="biosynthetic"
      gene            complement(6601..8701)
                      /note="*Name GGP41_004170"
                      /note="*gbkey: Gene"
@@ -115,6 +117,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WNKQ|BSOR_00004011-RA"
                      /product="hypothetical protein"
                      /protein_id="KAF5851318.1"
+                     /gene_kind="biosynthetic"
      gene            9845..11444
                      /note="*Name GGP41_004171"
                      /note="*gbkey: Gene"
@@ -225,6 +228,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:WNKQ|BSOR_00004013-RA"
                      /product="hypothetical protein"
                      /protein_id="KAF5851305.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATCTTATA CGCTTTGCCT CACCCCCCTT GTCGTTCTTC CAACTTCCAG AGTAGTGATG
        61 GGTCACCAGT TGGGGCGGCA GGACCAACTT TTCTTCCGGT GTATACCTGT TTGTGAGTGC

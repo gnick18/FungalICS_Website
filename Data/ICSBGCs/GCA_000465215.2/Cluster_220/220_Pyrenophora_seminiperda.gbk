@@ -342,6 +342,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ATLS|mrna_GMOD_00009641"
                      /product="trna-dihydrouridine synthase 1"
                      /protein_id="RMZ73124.1"
+                     /gene_kind="biosynthetic"
      gene            8662..9850
                      /note="*Name GMOD_00009642"
                      /note="*gbkey: Gene"
@@ -474,6 +475,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ATLS|mrna_GMOD_00009642"
                      /product="aliphatic nitrilase"
                      /protein_id="RMZ73125.1"
+                     /gene_kind="biosynthetic"
      gene            complement(12169..16598)
                      /note="*Name GMOD_00009643"
                      /note="*gbkey: Gene"
@@ -530,6 +532,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ATLS|mrna_GMOD_00009643"
                      /product="molybdopterin cofactor biosynthetic"
                      /protein_id="RMZ73126.1"
+                     /gene_kind="biosynthetic"
      gene            complement(16807..17922)
                      /note="*Name GMOD_00009644"
                      /note="*gbkey: Gene"
@@ -640,6 +643,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ATLS|mrna_GMOD_00009644"
                      /product="3-phytase a"
                      /protein_id="RMZ73127.1"
+                     /gene_kind="biosynthetic"
      gene            18953..20817
                      /note="*Name GMOD_00009645"
                      /note="*gbkey: Gene"
@@ -881,6 +885,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:ATLS|mrna_GMOD_00009647"
                      /product="transferase family"
                      /protein_id="RMZ73130.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 AACTTCAAGT CTACCGACCC ACCACCATCT CCCAACCTCG ACCGACCACA CACTACCACT
        61 AGCCACCATG GCCACCACCT TTTCCACCGC GACGGCCATC CCGCAACAAC ACCAGCACGC

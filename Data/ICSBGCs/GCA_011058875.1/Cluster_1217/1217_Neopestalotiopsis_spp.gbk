@@ -81,6 +81,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKT|E8E14_003588-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF2995300.1"
+                     /gene_kind="biosynthetic"
      gene            3297..5427
                      /note="*Name E8E14_003716"
                      /note="*gbkey: Gene"
@@ -137,6 +138,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKT|E8E14_003716-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF2995301.1"
+                     /gene_kind="biosynthetic"
      gene            5928..6491
                      /note="*Name E8E14_003829"
                      /note="*gbkey: Gene"
@@ -318,6 +320,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:SWKT|E8E14_004016-T1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF2995304.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCATGCCAAG AAACCGGCTA TATACTCGTC CGCCCCAGTC TCACTACCCA CATAACCAAT
        61 GTACATATCC GGACGCACAA CGACGACATA GGCGTCAAgt tcattgacaa ggtctGACTG

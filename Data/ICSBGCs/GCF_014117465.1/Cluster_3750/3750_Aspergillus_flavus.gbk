@@ -100,6 +100,7 @@ FEATURES             Location/Qualifiers
                      gnl|G4B84|Chr5-processed-gene-12.49-mRNA-1"
                      /product="uncharacterized protein"
                      /protein_id="XP_041147416.1"
+                     /gene_kind="biosynthetic"
      gene            2373..3982
                      /db_xref="GeneID:64850077"
                      /note="*Name G4B84_007845"
@@ -164,6 +165,7 @@ FEATURES             Location/Qualifiers
                      gnl|G4B84|maker-Chr5-gene-12.82-mRNA-1"
                      /product="uncharacterized protein"
                      /protein_id="XP_041147417.1"
+                     /gene_kind="biosynthetic"
      gene            complement(4366..5826)
                      /db_xref="GeneID:64850078"
                      /note="*Name G4B84_007846"
@@ -356,6 +358,7 @@ FEATURES             Location/Qualifiers
                      gnl|G4B84|Chr5-processed-gene-12.17-mRNA-1"
                      /product="uncharacterized protein"
                      /protein_id="XP_041147421.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACTTGCGT TCGGTGAAAA TTAAACGAAG AGCTCGCGGG TACAGCGGAC CAACCTGAAA
        61 TACTACGAGT CAGCGTCTGt tcctgtcttt cttccctcga GTATGGTTCG TTTTCAGCCT

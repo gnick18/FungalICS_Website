@@ -48,6 +48,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_913"
                      /product="cytochrome p450"
                      /protein_id="RFU81258.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2816..5027)
                      /note="*Name TARUN_914"
                      /note="*gbkey: Gene"
@@ -184,6 +185,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_915"
                      /product="pyoverdine biosynthesis"
                      /protein_id="RFU81260.1"
+                     /gene_kind="biosynthetic"
      gene            8547..10725
                      /note="*Name TARUN_916"
                      /note="*gbkey: Gene"
@@ -233,6 +235,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:PXOA|mrna.TARUN_916"
                      /product="hypothetical protein"
                      /protein_id="RFU81261.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TTACACCTGC ACCTTTTTCC GCCGGATCTG AATCTCTGCT TTTAGATGAG GCATGATGGT
        61 CCCACCTATC CATTGTTTTT CGGGGATCTT GTCGGCCAAT TTGACATCGT aattgagaag

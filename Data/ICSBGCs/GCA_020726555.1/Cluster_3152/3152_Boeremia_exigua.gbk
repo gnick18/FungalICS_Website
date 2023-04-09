@@ -70,6 +70,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH6616647.1"
+                     /gene_kind="biosynthetic"
      gene            2620..4235
                      /note="*Name C7974DRAFT_48764"
                      /note="*gbkey: Gene"
@@ -190,6 +191,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAHBNH|C7974DRAFT_mRNA442442"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAH6616649.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7132..12159)
                      /note="*Name C7974DRAFT_48747"
                      /note="*end_range: 1053619,."
@@ -265,6 +267,7 @@ FEATURES             Location/Qualifiers
                      /product="histidine phosphatase
                      superfamily-domain-containing protein"
                      /protein_id="KAH6616650.1"
+                     /gene_kind="biosynthetic"
      gene            12637..15933
                      /note="*Name C7974DRAFT_402183"
                      /note="*gbkey: Gene"

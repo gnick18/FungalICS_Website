@@ -71,6 +71,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="putative 6-hydroxy-d-nicotine oxidase protein"
                      /protein_id="XP_007586623.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2990..6567)
                      /db_xref="GeneID:19026958"
                      /note="*Name UCRNP2_7369"
@@ -126,6 +127,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="putative ribosome biogenesis protein"
                      /protein_id="XP_007586627.1"
+                     /gene_kind="biosynthetic"
      gene            7168..8733
                      /db_xref="GeneID:19026960"
                      /note="*Name UCRNP2_7370"
@@ -281,6 +283,7 @@ FEATURES             Location/Qualifiers
                      /note="*gbkey: CDS"
                      /product="putative laccase-1 precursor protein"
                      /protein_id="XP_007586628.1"
+                     /gene_kind="biosynthetic"
      gene            complement(20486..22206)
                      /db_xref="GeneID:19026963"
                      /note="*Name UCRNP2_7373"
@@ -332,6 +335,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine dityrosine biosynthesis
                      protein"
                      /protein_id="XP_007586622.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACGATTGG TCTGCCGGCT TGATCTCAAT ATTCTTATTG AAAACGTTCT CCGGGTCGTA
        61 CTTGGCCTTC AGCTCTATCA ATCTCTTGTA ATTCGGTCCA TAAACCTTTT CAGGGCCAGA

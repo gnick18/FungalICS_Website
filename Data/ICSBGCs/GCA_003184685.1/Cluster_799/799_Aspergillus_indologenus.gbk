@@ -80,6 +80,7 @@ FEATURES             Location/Qualifiers
                      /product="S-adenosyl-L-methionine-dependent
                      methyltransferase"
                      /protein_id="PYI27884.1"
+                     /gene_kind="biosynthetic"
      gene            1442..3212
                      /note="*Name BP00DRAFT_404098"
                      /note="*end_range: 106962,."
@@ -233,6 +234,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTB|BP00DRAFT_mRNA497748"
                      /product="Clavaminate synthase-like protein"
                      /protein_id="PYI27886.1"
+                     /gene_kind="biosynthetic"
      gene            6465..8479
                      /note="*Name BP00DRAFT_404103"
                      /note="*gbkey: Gene"
@@ -308,6 +310,7 @@ FEATURES             Location/Qualifiers
                      /product="putative sporulation-specific N-formyltyrosine
                      oxidase Dit2"
                      /protein_id="PYI27887.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACTGGGCA ACCAGTTGAG CAATGTCAAC ATCCTGCATG TGAAGTTAGC ATACGGCAGC
        61 TTGACTGTAA GAGCAACGCC ACCATACCTT CTCGTTGAAA TCCTCTCGTC CCGTGTAATA

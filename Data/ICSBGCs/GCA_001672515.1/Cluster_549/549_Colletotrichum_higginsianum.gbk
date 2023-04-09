@@ -65,6 +65,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LTAN|mrna.CH63R_10729"
                      /product="FAD monooxygenase"
                      /protein_id="OBR06609.1"
+                     /gene_kind="biosynthetic"
      gene            4708..7006
                      /note="*Name CH63R_10730"
                      /note="*gbkey: Gene"
@@ -115,6 +116,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LTAN|mrna.CH63R_10730"
                      /product="Taurine catabolism dioxygenase TauD"
                      /protein_id="OBR06610.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9628..10428)
                      /note="*Name CH63R_10731"
                      /note="*gbkey: Gene"
@@ -165,6 +167,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LTAN|mrna.CH63R_10732"
                      /product="hypothetical protein"
                      /protein_id="OBR06612.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTACGACTGA CTCAGGTACG ATAGGTAATC TCTCCATCCG TCGTCGCCCT GGCCGACGTA
        61 GCCAATGTAC ATGTCCGGCC TGACGACAAC GGTGAAGTTG TCATCGTCAG CCGCCCACTC

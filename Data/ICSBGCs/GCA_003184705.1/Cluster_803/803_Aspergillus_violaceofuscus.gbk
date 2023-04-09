@@ -127,6 +127,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTA|BO99DRAFT_mRNA404963"
                      /product="monooxygenase"
                      /protein_id="PYI16559.1"
+                     /gene_kind="biosynthetic"
      gene            5494..8021
                      /note="*Name BO99DRAFT_404966"
                      /note="*gbkey: Gene"
@@ -214,6 +215,7 @@ FEATURES             Location/Qualifiers
                      /product="putative pyoverdine/dityrosine biosynthesis
                      protein"
                      /protein_id="PYI16560.1"
+                     /gene_kind="biosynthetic"
      gene            complement(8052..9033)
                      /note="*Name BO99DRAFT_404967"
                      /note="*gbkey: Gene"
@@ -249,6 +251,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PSTA|BO99DRAFT_mRNA404967"
                      /product="acyl-CoA N-acyltransferase"
                      /protein_id="PYI16561.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ACTTCTATCA CAACACACTC AACACAACTC ACTTCATGCG AGGGACCCCT CCTGTTAAGG
        61 CAGCCTGTCT GGCCTGGTGT GTCTTTCCTG CGCCCGCGGT ATAAACTGTC TGACTGTACC

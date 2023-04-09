@@ -433,6 +433,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0004616.1"
                      /product="acyl-CoA dehydrogenase"
                      /protein_id="KAF4779519.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15739..17459)
                      /note="*Name HER10_EVM0012512"
                      /note="*gbkey: Gene"
@@ -461,6 +462,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0012512.1"
                      /product="arginine biosynthesis ArgJ"
                      /protein_id="KAF4780515.1"
+                     /gene_kind="biosynthetic"
      gene            17953..18933
                      /note="*Name HER10_EVM0002111"
                      /note="*gbkey: Gene"
@@ -587,6 +589,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0006480.1"
                      /product="hypothetical protein"
                      /protein_id="KAF4779765.1"
+                     /gene_kind="biosynthetic"
      gene            21760..27217
                      /note="*Name HER10_EVM0008840"
                      /note="*gbkey: Gene"
@@ -1042,6 +1045,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0001420.1"
                      /product="FAD dependent oxidoreductase"
                      /protein_id="KAF4779150.1"
+                     /gene_kind="biosynthetic"
      gene            64750..66284
                      /note="*Name HER10_EVM0011161"
                      /note="*gbkey: Gene"
@@ -1079,6 +1083,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0011161.1"
                      /product="haloacid dehalogenase-like hydrolase"
                      /protein_id="KAF4780346.1"
+                     /gene_kind="biosynthetic"
      gene            complement(66386..68610)
                      /note="*Name HER10_EVM0001463"
                      /note="*gbkey: Gene"
@@ -1237,6 +1242,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0010931.1"
                      /product="cytochrome P450"
                      /protein_id="KAF4780302.1"
+                     /gene_kind="biosynthetic"
      gene            73129..75834
                      /note="*Name HER10_EVM0002327"
                      /note="*gbkey: Gene"
@@ -1284,6 +1290,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAAJBS|HER10_EVM0002327.1"
                      /product="pyoverdine/dityrosine biosynthesis protein"
                      /protein_id="KAF4779264.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 CTAAACCCTC TTGGTGTTGA GTGAACGGAA CCGAGCTGGG CCAAGACCCT GTCTGATCTC
        61 GTCCAGTTGC TCAAGACCAG TCTGCGGCCG GTTCTTCTTG TTTGTGCGTT TTCCAGGCTT

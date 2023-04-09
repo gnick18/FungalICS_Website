@@ -91,6 +91,7 @@ FEATURES             Location/Qualifiers
                      /product="Pyoverdine/dityrosine biosynthesis
                      protein-domain-containing protein"
                      /protein_id="KAH7137199.1"
+                     /gene_kind="biosynthetic"
      gene            3860..8197
                      /note="*Name B0J13DRAFT_597012"
                      /note="*gbkey: Gene"
@@ -284,6 +285,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:JAGMUU|B0J13DRAFT_mRNA597012"
                      /product="FAD binding domain-containing protein"
                      /protein_id="KAH7137200.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 GTACTCCTCA TTTTGCCATG TGCGCTAATG TGTAACAAAC TACCTTATCC TGCctacttg
        61 gccttggctc tcGAGGGTCT ATGGAGGAAT TTACAGCCAG AACCCTCTGA GAGCAGTCAC

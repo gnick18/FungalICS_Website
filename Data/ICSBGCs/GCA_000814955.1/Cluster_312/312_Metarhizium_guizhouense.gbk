@@ -44,6 +44,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZNH|MGU_mRNA09920"
                      /product="O-methyl transferase B"
                      /protein_id="KID82751.1"
+                     /gene_kind="biosynthetic"
      gene            2511..3971
                      /note="*Name MGU_09921"
                      /note="*gbkey: Gene"
@@ -102,6 +103,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZNH|MGU_mRNA09922"
                      /product="bassianolide synthetase"
                      /protein_id="KID82753.1"
+                     /gene_kind="biosynthetic"
      gene            8634..9683
                      /note="*Name MGU_09923"
                      /note="*gbkey: Gene"
@@ -140,6 +142,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZNH|MGU_mRNA09923"
                      /product="hydroxypyruvate reductase"
                      /protein_id="KID82754.1"
+                     /gene_kind="biosynthetic"
      gene            10409..12314
                      /note="*Name MGU_09924"
                      /note="*gbkey: Gene"
@@ -281,6 +284,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZNH|MGU_mRNA09926"
                      /product="Alcohol dehydrogenase superfamily, zinc-type"
                      /protein_id="KID82757.1"
+                     /gene_kind="biosynthetic"
      gene            complement(17862..19235)
                      /note="*Name MGU_09927"
                      /note="*gbkey: Gene"
@@ -310,6 +314,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZNH|MGU_mRNA09927"
                      /product="FAD dependent oxidoreductase"
                      /protein_id="KID82758.1"
+                     /gene_kind="biosynthetic"
      gene            20079..21383
                      /note="*Name MGU_09928"
                      /note="*gbkey: Gene"
@@ -391,6 +396,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:AZNH|MGU_mRNA09929"
                      /product="Pyoverdine biosynthesis"
                      /protein_id="KID82760.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ttaacaAGCC AGTGACGCAA GGATTAACGA GTCTTGCAAC GGCTCGCTAT AAGTTCGAAT
        61 ATCCACGACG TTGAACCCCG CAGCCTTAAG AAGAGTATGC CATTGCTGTC GCGTTCGCTT

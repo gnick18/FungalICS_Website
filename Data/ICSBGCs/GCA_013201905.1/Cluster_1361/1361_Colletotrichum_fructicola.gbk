@@ -75,6 +75,7 @@ FEATURES             Location/Qualifiers
                      /product="Succinyl-CoA--L-malate CoA-transferase beta
                      subunit"
                      /protein_id="KAF4908610.1"
+                     /gene_kind="biosynthetic"
      gene            3371..5623
                      /note="*Name CGCF415_v006492"
                      /note="*Note Filamentous growth regulator 27"
@@ -142,6 +143,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v006493.t1_mrna"
                      /product="putative methylesterase 11"
                      /protein_id="KAF4908612.1"
+                     /gene_kind="biosynthetic"
      gene            7758..9095
                      /note="*Name atA-2"
                      /note="*gbkey: Gene"
@@ -184,6 +186,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v006494.t1_mrna"
                      /product="6-methylsalicylic acid decarboxylase atA"
                      /protein_id="KAF4908605.1"
+                     /gene_kind="biosynthetic"
      gene            complement(9536..11579)
                      /note="*Name DIT1-3"
                      /note="*gbkey: Gene"
@@ -238,6 +241,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v006495.t1_mrna"
                      /product="Spore wall maturation protein DIT1"
                      /protein_id="KAF4908606.1"
+                     /gene_kind="biosynthetic"
      gene            13451..15525
                      /note="*Name mobA-2"
                      /note="*gbkey: Gene"
@@ -321,6 +325,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v006496.t1_mrna"
                      /product="3-hydroxybenzoate 4-monooxygenase"
                      /protein_id="KAF4908607.1"
+                     /gene_kind="biosynthetic"
      gene            17090..18691
                      /note="*Name apdF-14"
                      /note="*gbkey: Gene"
@@ -467,6 +472,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v006498.t1_mrna"
                      /product="hypothetical protein"
                      /protein_id="KAF4908613.1"
+                     /gene_kind="biosynthetic"
      gene            21544..24083
                      /note="*Name CGCF415_v006499"
                      /note="*gbkey: Gene"
@@ -908,6 +914,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v006507.t1_mrna"
                      /product="Delta(6)-protoilludene synthase"
                      /protein_id="KAF4908572.1"
+                     /gene_kind="biosynthetic"
      gene            complement(45505..46066)
                      /note="*Name CGCF415_v006508"
                      /note="*gbkey: Gene"
@@ -1205,6 +1212,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:QPMW|CGCF415_v006514.t1_mrna"
                      /product="L-saccharopine oxidase"
                      /protein_id="KAF4908567.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAACCTTTC ACAACGCCAT TCGTGCCGTT GATACCGTTG GTGTGACCTT CTATCAGATG
        61 ATCCTCTTCC GGTCCGAAAT CCCAACTTGC TGGATCTGTG CCGTTTGGCC TGCTCGCTCT

@@ -78,6 +78,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LKCW|AK830_g6620.t1"
                      /product="hypothetical protein"
                      /protein_id="KPM39939.1"
+                     /gene_kind="biosynthetic"
      gene            complement(7536..8592)
                      /note="*Name AK830_g6621"
                      /note="*end_range: 115445,."
@@ -280,6 +281,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LKCW|AK830_g6623.t1"
                      /product="Autophagy-related protein 22"
                      /protein_id="KPM39942.1"
+                     /gene_kind="biosynthetic"
      gene            complement(15127..15598)
                      /note="*Name AK830_g6624"
                      /note="*end_range: 122451,."
@@ -422,6 +424,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LKCW|AK830_g6625.t1"
                      /product="hypothetical protein"
                      /protein_id="KPM39944.1"
+                     /gene_kind="biosynthetic"
      gene            20288..22116
                      /note="*Name AK830_g6626"
                      /note="*end_range: 128969,."
@@ -509,6 +512,7 @@ FEATURES             Location/Qualifiers
                      /note="*orig_transcript_id: gnl|WGS:LKCW|AK830_g6626.t1"
                      /product="hypothetical protein"
                      /protein_id="KPM39945.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 TCAAGGCCAC CAGTTCATCC TCTTGTAACT CTCAATCACC TCCTGCATAT TTTCCTTCGT
        61 AAGCGCGGGC CTCGAGTACT CGAACCCAAG CAGCTTCTCC AGCCGGCTTC CATCCATGCT

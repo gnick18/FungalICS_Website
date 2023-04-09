@@ -61,6 +61,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PQXJ|BNAR_0408g00010.1"
                      /product="hypothetical protein"
                      /protein_id="TGO50025.1"
+                     /gene_kind="biosynthetic"
      gene            complement(2135..3747)
                      /note="*Name BOTNAR_0408g00020"
                      /note="*gbkey: Gene"
@@ -192,6 +193,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PQXJ|BNAR_0408g00040.1"
                      /product="hypothetical protein"
                      /protein_id="TGO50028.1"
+                     /gene_kind="biosynthetic"
      gene            complement(10399..11075)
                      /note="*Name BOTNAR_0408g00050"
                      /note="*gbkey: Gene"
@@ -313,6 +315,7 @@ FEATURES             Location/Qualifiers
                      gnl|WGS:PQXJ|BNAR_0408g00070.1"
                      /product="hypothetical protein"
                      /protein_id="TGO50031.1"
+                     /gene_kind="biosynthetic"
 ORIGIN
         1 ATGTTCGATT TCACAGAACC TAATCTGTCT TCGACATTGC TGTTGACTTT TGCAGCGATC
        61 AGCTTGGTGC GTCTCTTGGA ATTACTTGAT TTTTAAAACT CTGATGCTAA CACATAGATA
