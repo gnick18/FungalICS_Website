@@ -182,6 +182,7 @@
 
                     var div = document.createElement("div");
                     div.setAttribute("class", "bgcDiv");
+                    div.setAttribute("style", "display:flex; flex-direction: row; justify-content: center; align-items: center");
 
                     let clusterNum = cluster.split('_')[1];
                     var p = document.createElement("p");
@@ -196,13 +197,16 @@
 
                     div.appendChild(iframe);
 
+                    // div for the right side
+                    var rightDiv = document.createElement("div");
+
                     // add the gcf if there is any
                     if (clusterNum in clusterToGCF) {
                       let gcf = clusterToGCF[clusterNum];
-                      var aGCF = document.createElement("a");
-                      aGCF.setAttribute("href", "gcfs.html?gcf=" + gcf);
-                      aGCF.innerText = "GCF: " + gcf;
-                      div.appendChild(aGCF);
+                      var pGCF = document.createElement("p");
+                      pGCF.innerHTML = "GCF: <a href=gcfs.html?gcf=" + gcf
+                                          + ">" + gcf + "</a>";
+                      rightDiv.appendChild(pGCF);
                     }
 
                     // add the download button
@@ -215,7 +219,8 @@
                     button.setAttribute("class", "button");
                     a.appendChild(button);
 
-                    div.appendChild(a);
+                    rightDiv.appendChild(a);
+                    div.appendChild(rightDiv);
 
                     document.body.appendChild(div);
                 }
