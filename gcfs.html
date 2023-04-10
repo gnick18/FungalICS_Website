@@ -235,8 +235,8 @@
                     let speciesName = bgcFilenames[accession][cluster][i].slice(0, -5)
                                             .split("_").slice(1).join(" ");
                     speciesAccessionP.innerHTML = speciesName +
-                            ": <a href=bgcs.html?accession=" + accession
-                            + "&species=" + speciesName.split(" ").join("_")
+                            ": <a href=bgcs.html?accession=" + encodeURIComponent(accession)
+                            + "&species=" + encodeURIComponent(speciesName.split(" ").join("_"))
                             + ">" + accession + "</a>";
                     rightDiv.appendChild(speciesAccessionP);
 
