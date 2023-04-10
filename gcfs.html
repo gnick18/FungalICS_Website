@@ -212,6 +212,7 @@
 
                     var div = document.createElement("div");
                     div.setAttribute("class", "bgcDiv");
+                    div.setAttribute("style", "display:flex; flex-direction: row; justify-content: center; align-items: center");
 
                     let clusterNum = cluster.split('_')[1];
                     var p = document.createElement("p");
@@ -226,15 +227,18 @@
 
                     div.appendChild(iframe);
 
+                    // div for the right side
+                    var rightDiv = document.createElement("div");
+
                     // add the species and accession
                     var speciesAccessionP = document.createElement("p");
                     let speciesName = bgcFilenames[accession][cluster][i].slice(0, -5)
                                             .split("_").slice(1).join(" ");
                     speciesAccessionP.innerHTML = speciesName +
-                            ": <a href=bgcs.html?accession=" + accession
-                            + "&species=" + speciesName.split(" ").join("_")
+                            ": <a href=bgcs.html?accession=" + encodeURIComponent(accession)
+                            + "&species=" + encodeURIComponent(speciesName.split(" ").join("_"))
                             + ">" + accession + "</a>";
-                    div.appendChild(speciesAccessionP);
+                    rightDiv.appendChild(speciesAccessionP);
 
                     // add the download button
                     var a = document.createElement("a");
@@ -246,7 +250,9 @@
                     button.setAttribute("class", "button");
                     a.appendChild(button);
 
-                    div.appendChild(a);
+                    rightDiv.appendChild(a);
+
+                    div.appendChild(rightDiv);
 
                     document.body.appendChild(div);
                 }
