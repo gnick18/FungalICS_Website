@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
-<title>Caveats</title>
 <style>
 h1, h3, h2, p {
   font-family: 'Nunito Sans', sans-serif;
   text-align: center;
 }
 h1 {
-  color: #295135;
+  color: #173b71;
   font-family: 'Nunito Sans', sans-serif;
   font-weight: 900;
 }
@@ -17,22 +16,137 @@ h1 {
   margin-right: auto;
   /* width: 20%; */
 }
+.accordion {
+  --accordion-border-width: w-50;
+}
+/* Navegation bar things */
+.nav-link_custom {
+  font-size: 2.0em;
+}
+.no-bold {
+  font-weight: normal;
+  font-size: 0.8em;
+  color: #ffffff;
+}
+.nav-link_header {
+  color: #ffffff;
+  /* font-weight: bold; */
+}
+.nav-bar_color {
+  --bs-navbar-color: #262c7c;
+}
+.currentPath_color {
+  color: #ffffff;
+}
+.otherPage_color{
+  color: #cbcbcb;
+}
+
+.centerfr {
+  text-align: center;
+}
 </style>
 <head>
+  <title>Caveats</title>
   <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
-</head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script></head>
 <body>
-<h1>Limitations of predictions</h1>
- 
-<!-- <img src = "Images/ICS_FungalTreeFigure.png" align = "center" class = "center" width="900" height="900"> -->
+<!-- Navegation bar -->
+<nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+  <div class="container-fluid nav-link_custom nav-link_header">
+    <a class="nav-link" href="index.html"> 
+      <img src="./Images/house-fill.svg" alt="Logo" width="50" height="40" class="d-inline-block align-text-top">
+    </a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item no-bold currentPath_color">
+          <a class="nav-link active" aria-current="page" href="species_accession.html">Species Search</a>
+        </li>
+        <li class="nav-item no-bold otherPage_color">
+          <a class="nav-link" href="gcf_search.html">GCF Search</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- Accordion with the information on FAQ stuff -->
+<div class="accordion w-75 center" id="accordionExample">
+  <div class="accordion-item text-bg-info p-3">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+        <h3>Slideshow explaination of promoter motif-based genome mining</h3>
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="Images/CassisExplanation/Slide1.png" class="d-block w-100 center" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="Images/CassisExplanation/Slide2.png" class="d-block w-100 center" alt="...">
+            </div> 
+            <div class="carousel-item">
+              <img src="Images/CassisExplanation/Slide3.png" class="d-block w-100 center" alt="...">
+            </div>       
+            <div class="carousel-item">
+              <img src="Images/CassisExplanation/Slide4.png" class="d-block w-100 center" alt="...">
+            </div>    
+            <div class="carousel-item">
+              <img src="Images/CassisExplanation/Slide5.png" class="d-block w-100 center" alt="...">
+            </div>    
+            <div class="carousel-item">
+              <img src="Images/CassisExplanation/Slide6.png" class="d-block w-100 center" alt="...">
+            </div>   
+            <div class="carousel-item">
+              <img src="Images/CassisExplanation/Slide7.png" class="d-block w-100 center" alt="...">
+            </div>     
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Tips for interpreting data -->
+  <div class="accordion-item text-bg-info p-3">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="true" aria-controls="panelsStayOpen-collapseTwo">
+        <h3>Tips for using</h3>
+      </button>
+    </h2>
 
-<p>asdflkjasdf</p>
-
-
+</div>
 </body>
 
 </html>
