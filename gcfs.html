@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<head>
+    <script src="../assets/js/color-modes.js"></script>
+    <meta charset="utf-8">
+    <style>
+    h2, h1, p {
+        font-family: 'Nunito Sans', sans-serif;
+        text-align: center;
+    }
+    h1:hover {
+        animation-name: artshadow;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: both;
+        animation-duration: 0.5s;
+        animation-delay: 0.1s;
+    }
+      html, body {
+        box-sizing: border-box;
+        height: 100%;
+        /* margin: 0;
+        padding: 0; */
+      }
+      .bgc_map {
+        width: 75%;
+        height: 30%;
+        margin: 10px;
+      }
+      .button, .allButton {
+        display: inline-block;
+        padding: 15px 25px;
+        font-size: 18px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #406E8E;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        margin-bottom: 20px;
+      }
+
+    .button:hover, .allButton:hover {
+        background-color: #23395B
+      }
+
+    .button:active, .allButton:active {
+        background-color: #23395B;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+    .allDiv, .bgcDiv {
+      text-align: center;
+    }
+
+    .nav-link_custom {
+      font-size: 2.0em;
+    }
+    .no-bold {
+      font-weight: normal;
+      font-size: 0.8em;
+      color: #ffffff;
+    }
+    .nav-link_header {
+      color: #ffffff;
+      /* font-weight: bold; */
+    }
+    .nav-bar_color {
+      --bs-navbar-color: #262c7c;
+    }
+    .currentPath_color {
+      color: #ffffff;
+    }
+    .otherPage_color{
+      color: #cbcbcb;
+    }
+    </style>
+    <i class="bi bi-house-fill"></i>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.1.0.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+  rel="stylesheet"
+/>
+<link
+  href="https://getbootstrap.com/docs/5.3/assets/css/docs.css"
+  rel="stylesheet"
+/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+  </head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+        <div class="container-fluid nav-link_custom nav-link_header">
+          <a class="nav-link" href="index.html"> 
+            <img src="./Images/house-fill.svg" alt="Logo" width="50" height="40" class="d-inline-block align-text-top">
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item no-bold otherPage_color">
+                <a class="nav-link" aria-current="page" href="species_accession.html">Species Search</a>
+              </li>
+              <li class="nav-item no-bold currentPath_color">
+                <a class="nav-link active" href="gcf_search.html">GCF Search</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+</body>
+<script>
+    var queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    var gcf = urlParams.get('gcf');
+    var resultsPage = 1;
+    if (urlParams.has("results_page")) {
+        resultsPage = parseInt(urlParams.get('results_page'));
+    }
+
+    var title = document.createElement("title");
+    title.innerHTML = "GCF " + gcf;
+    document.head.appendChild(title);
+
+    var h1 = document.createElement("h1");
+    h1.innerHTML = "GCF: " + gcf;
+    document.body.appendChild(h1);
+
+    var promises = []
+    var urls = ["Data/GCF_Keys.json", "Data/bgc_filenames.json"]
+
+    const fetchExternalData = () => {
+        return Promise.all([
+            fetch(urls[0]),
+            fetch(urls[1])
+        ])
+        .then(
+            results => Promise.all(
+            results.map(result => result.json())
+            )
+        )
+    }
+
+    fetchExternalData().then(function(response) {
+        // button to download all
+        let gcfFilename = gcf.replace("*", "_Refined");
+        var  divAll = document.createElement("div");
+        divAll.setAttribute("class", "allDiv");
+
+        var aAll = document.createElement("a");
+        aAll.setAttribute("href", "Data/GCF_zips/" + gcfFilename + ".zip");
+        aAll.setAttribute("download", gcfFilename + ".zip");
+        
+        var buttonAll = document.createElement("button");
+        buttonAll.innerText = "Download All";
+        buttonAll.setAttribute("class", "allButton");
+        aAll.appendChild(buttonAll);
+        divAll.appendChild(aAll)
+        document.body.appendChild(divAll);
+
+        gcfKeys = response[0];
+        bgcFilenames = response[1];
+        let resultsStart =  (resultsPage - 1) *  10;
+        console.log(resultsStart);
+
+        // Filtering out GCF Accessions
+        thisGcf = gcfKeys[gcf].filter(function(entry) {
+            return !entry["NCBI_Acession"].startsWith("GCF");
+        }).sort(function(a, b) {
+            // sort by species name
+            let speciesA = a["Cluster_Name"].split("_").slice(1).join(" ");
+            let speciesB = b["Cluster_Name"].split("_").slice(1).join(" ");
+            if (speciesA < speciesB) {
+                return -1;
+            }
+            if (speciesA > speciesB) {
+                return 1;
+            }
+            return 0;
+        });
+
+        for (var j = resultsStart; j < thisGcf.length && j < resultsStart +  10; j++) {
+            clusterAccession = thisGcf[j];
+            let cluster = "Cluster_" + clusterAccession["Cluster_Name"].split("_")[0];
+            let accession = clusterAccession["NCBI_Acession"];
+
+            // should be unnecessary
+            if (accession.startsWith("GCF")) {
+                continue;
+            }
+
+            for (var i = 0; i < bgcFilenames[accession][cluster].length; i++) {
+                if (bgcFilenames[accession][cluster][i].endsWith("html")) {
+                    let url = "Data/ICSBGCs/" + accession + "/" + cluster
+                        + "/" + bgcFilenames[accession][cluster][i];
+                    let zipUrl = "Data/ICSBGCs/" + accession + "/" + cluster + ".zip";
+
+                    var div = document.createElement("div");
+                    div.setAttribute("class", "bgcDiv");
+                    div.setAttribute("style", "display:flex; flex-direction: row; justify-content: center; align-items: center");
+
+                    let clusterNum = cluster.split('_')[1];
+                    var p = document.createElement("p");
+                    p.innerText = "Cluster: " + clusterNum;
+                    div.appendChild(p);
+
+                    var iframe =  document.createElement("iframe");
+
+                    iframe.setAttribute("class", "bgc_map");
+                    iframe.setAttribute("style", "height:190px;width:1010px");
+                    iframe.src = url;
+
+                    div.appendChild(iframe);
+
+                    // div for the right side
+                    var rightDiv = document.createElement("div");
+
+                    // add the species and accession
+                    var speciesAccessionP = document.createElement("p");
+                    let speciesName = bgcFilenames[accession][cluster][i].slice(0, -5)
+                                            .split("_").slice(1).join(" ");
+                    speciesAccessionP.innerHTML = speciesName +
+                            ": <a href=bgcs.html?accession=" + encodeURIComponent(accession)
+                            + "&species=" + encodeURIComponent(speciesName.split(" ").join("_"))
+                            + ">" + accession + "</a>";
+                    rightDiv.appendChild(speciesAccessionP);
+
+                    // add the download button
+                    var a = document.createElement("a");
+                    a.setAttribute("href", zipUrl);
+                    a.setAttribute("download", cluster + ".zip");
+                    
+                    var button = document.createElement("button");
+                    button.innerText = "Download";
+                    button.setAttribute("class", "button");
+                    a.appendChild(button);
+
+                    rightDiv.appendChild(a);
+
+                    div.appendChild(rightDiv);
+
+                    document.body.appendChild(div);
+                }
+            }
+        }
+
+        console.log(thisGcf.length);
+        if (thisGcf.length > 10) {
+            // var div = document.createElement("div");
+            // var p = document.createElement("p");
+            // p.innerHTML = "Showing results " + resultsStart + " through "
+            //     + (resultsStart + 10 > thisGcf.length ? thisGcf.length : resultsStart + 10)
+            //     + ". <a href=gcfs.html?gcf=" +  gcf + "&results_start=" + resultsStart
+            var nav =  document.createElement("nav");
+            nav.setAttribute("aria-label", "...");
+
+            var ul = document.createElement("ul");
+            ul.setAttribute("class", "pagination");
+
+            var liPrev = document.createElement("li");
+            var aPrev = document.createElement("a");
+            aPrev.setAttribute("class", "page-link");
+            aPrev.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(resultsPage - 1));
+            aPrev.innerText = "Prev";
+            liPrev.appendChild(aPrev);
+            if (resultsPage == 1) {
+                liPrev.setAttribute("class", "page-item disabled");
+            } else {
+                liPrev.setAttribute("class", "page-item");
+            }
+            ul.appendChild(liPrev);
+
+            let numPages = Math.ceil(thisGcf.length / 10);
+            for (var i = 0; i < numPages; i++) {
+                var li = document.createElement("li");
+                var a = document.createElement("a");
+                a.setAttribute("class", "page-link");
+                a.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(i +  1));
+                a.innerText = String(i + 1);
+                li.appendChild(a);
+                if (resultsPage == i + 1) {
+                    li.setAttribute("class", "page-item active");
+                } else {
+                    li.setAttribute("class", "page-item");
+                }
+                ul.appendChild(li);
+            }
+
+            var liNext = document.createElement("li");
+            var aNext = document.createElement("a");
+            aNext.setAttribute("class", "page-link");
+            aNext.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(resultsPage + 1));
+            aNext.innerText = "Next";
+            liNext.appendChild(aNext);
+            if (resultsPage == numPages) {
+                liNext.setAttribute("class", "page-item disabled");
+            } else {
+                liNext.setAttribute("class", "page-item");
+            }
+            ul.appendChild(liNext);
+
+            nav.appendChild(ul);
+            document.body.appendChild(nav);
+        }
+    });    
+</script>
+</html>

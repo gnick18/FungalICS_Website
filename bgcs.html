@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<head><script src="../assets/js/color-modes.js"></script>
+<head>
+    <meta charset="utf-8">
+    <style>
+    h2, h1, p {
+        font-family: 'Nunito Sans', sans-serif;
+        text-align: center;
+    }
+    h1:hover {
+        animation-name: artshadow;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: both;
+        animation-duration: 0.5s;
+        animation-delay: 0.1s;
+    }
+      html, body {
+        box-sizing: border-box;
+        height: 100%;
+        /* margin: 0;
+        padding: 0; */
+      }
+      .bgc_map {
+        width: 75%;
+        height: 30%;
+        margin: 10px;
+      }
+      .button, .allButton {
+        display: inline-block;
+        padding: 15px 25px;
+        font-size: 18px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #406E8E;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        margin-bottom: 20px;
+      }
+
+    .button:hover, .allButton:hover {
+        background-color: #23395B
+      }
+
+    .button:active, .allButton:active {
+        background-color: #23395B;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+
+    .allDiv, .bgcDiv {
+      text-align: center;
+    }
+    .nav-link_custom {
+      font-size: 2.0em;
+    }
+    .no-bold {
+      font-weight: normal;
+      font-size: 0.8em;
+      color: #ffffff;
+    }
+    .nav-link_header {
+      color: #ffffff;
+      /* font-weight: bold; */
+    }
+    .nav-bar_color {
+      --bs-navbar-color: #262c7c;
+    }
+    .currentPath_color {
+      color: #ffffff;
+    }
+    .otherPage_color{
+      color: #cbcbcb;
+    }
+
+    </style>
+    <i class="bi bi-house-fill"></i>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.1.0.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://getbootstrap.com/docs/5.3/assets/css/docs.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+  
+  </head>
+<body>
+  <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+    <div class="container-fluid nav-link_custom nav-link_header">
+      <a class="nav-link" href="index.html"> 
+        <img src="./Images/house-fill.svg" alt="Logo" width="50" height="40" class="d-inline-block align-text-top">
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item no-bold currentPath_color">
+            <a class="nav-link active" aria-current="page" href="species_accession.html">Species Search</a>
+          </li>
+          <li class="nav-item no-bold otherPage_color">
+            <a class="nav-link" href="gcf_search.html">GCF Search</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</body>
+<script>
+    var queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    var accession = urlParams.get('accession');
+    let species = urlParams.get('species');
+
+    var title = document.createElement("title");
+    titleText = species.replace('_', ' ') + ": " + accession;
+    title.innerHTML = titleText;
+    document.head.appendChild(title);
+
+    var h1 = document.createElement("h1");
+    h1.innerHTML = titleText;
+    document.body.appendChild(h1);
+
+    var urls = ["Data/bgc_filenames.json", "Data/ClusterToGCF.json"]
+    const fetchExternalData = () => {
+        return Promise.all([
+            fetch(urls[0]),
+            fetch(urls[1])
+        ])
+        .then(
+            results => Promise.all(
+            results.map(result => result.json())
+            )
+        )
+    }
+
+    fetchExternalData().then(function (response) {
+        var data =  response[0];
+        var clusterToGCF = response[1];
+
+        // button to download all
+        var  divAll = document.createElement("div");
+        divAll.setAttribute("class", "allDiv");
+
+        var aAll = document.createElement("a");
+        aAll.setAttribute("href", "Data/ICSBGCs/" + accession + "/" + accession + ".zip");
+        aAll.setAttribute("download", accession + ".zip");
+        
+        var buttonAll = document.createElement("button");
+        buttonAll.innerText = "Download All";
+        buttonAll.setAttribute("class", "allButton");
+        aAll.appendChild(buttonAll);
+        divAll.appendChild(aAll)
+        document.body.appendChild(divAll);
+
+        for (cluster  in data[accession]) {
+            for (var i = 0; i < data[accession][cluster].length; i++) {
+                if (data[accession][cluster][i].endsWith("html")) {
+                    // console.log(data[accession][cluster][i]);
+                    var url = "Data/ICSBGCs/" + accession + "/" + cluster + "/" + data[accession][cluster][i];
+                    let zipUrl = "Data/ICSBGCs/" + accession + "/" + cluster + ".zip";
+
+                    var div = document.createElement("div");
+                    div.setAttribute("class", "bgcDiv");
+                    div.setAttribute("style", "display:flex; flex-direction: row; justify-content: center; align-items: center");
+
+                    let clusterNum = cluster.split('_')[1];
+                    var p = document.createElement("p");
+                    p.innerText = "Cluster: " + clusterNum;
+                    div.appendChild(p);
+
+                    var iframe = document.createElement("iframe");
+
+                    iframe.setAttribute("class", "bgc_map");
+                    iframe.setAttribute("style", "height:190px;width:1010px");
+                    iframe.src = url;
+
+                    div.appendChild(iframe);
+
+                    // div for the right side
+                    var rightDiv = document.createElement("div");
+
+                    // add the gcf if there is any
+                    if (clusterNum in clusterToGCF) {
+                      let gcf = clusterToGCF[clusterNum];
+                      var pGCF = document.createElement("p");
+                      pGCF.innerHTML = "GCF: <a href=gcfs.html?gcf=" + encodeURIComponent(gcf)
+                                          + ">" + gcf + "</a>";
+                      rightDiv.appendChild(pGCF);
+                    }
+
+                    // add the download button
+                    var a = document.createElement("a");
+                    a.setAttribute("href", zipUrl);
+                    a.setAttribute("download", cluster + ".zip");
+                    
+                    var button = document.createElement("button");
+                    button.innerText = "Download";
+                    button.setAttribute("class", "button");
+                    a.appendChild(button);
+
+                    rightDiv.appendChild(a);
+                    div.appendChild(rightDiv);
+
+                    document.body.appendChild(div);
+                }
+            }
+        }
+    })
+    
+</script>
+</html>
