@@ -178,13 +178,28 @@ h1:hover {
 <h1 id="header" class="centerfr"><a href="index.html"><b>Fungal ICS BGCs</b></a></h1>
 <h2 id="subheader" class="centerfr">Search by Species or Accession</h2>
 <div class="centerenter centerfr">
-<input type="text" id="icsInput" onkeyup="icsFunction()" placeholder="Species or Accession" title="ICS search">
+<input type="text" id="icsInput" onkeyup="searchWithDebounce()" placeholder="Species or Accession" title="ICS search">
 </div>
 <div class="centerfr"><button class="button button1" onclick="downloadTsv()">Download the displayed results (tsv)</button></div>
 
 <!-- <div><button onclick="downloadTsv()">Download filtered results as tsv</button></div> -->
 <script>
   const downloadTsv = () => {
+    var currentVisibleData = [];
+    var table = document.getElementById("icsTable");
+    var trs = table.getElementsByTagName("tr");
+
+    for (var i = 1; i < trs.length; i++) {
+      if (trs[i].style.display == "") {
+        var tds = trs[i].getElementsByTagName("td");
+        currentVisibleData.push({
+          "Species": tds[0].innerText, 
+          "Accession": tds[1].innerText,
+          "Number_of_ICS_BGCs": tds[2].innerText,
+        });
+      }
+    }
+
     // convert current visible data to tsv
     var currentVisibleTsv =  "Species\tAccession\tNumber_of_ICS_BGCs\n";
     for (var i = 0; i < currentVisibleData.length; i ++) {
@@ -205,7 +220,7 @@ h1:hover {
 <div class="tablesearch">
 <script>
 
-var currentVisibleData;
+var allData;
 
 fetch("Data/SupTable2.json").then(function (response) {
     return response.json();
@@ -220,7 +235,7 @@ fetch("Data/SupTable2.json").then(function (response) {
     return 0;
   });
 
-  currentVisibleData  = data;
+  allData = data;
 
   appendData(data);
 }).catch(function (err) {
@@ -241,6 +256,7 @@ function appendData(data) {
 
     var div = document.createElement("tr");
     div.setAttribute("class", "centerfr");
+    div.setAttribute("id", accession);
 
     var rowHtml = '<td>' + data[i].Species.replace('_', ' ') + '</td>';
     if (parseInt(data[i].Number_of_ICS_BGCs) > 0) {
@@ -263,39 +279,36 @@ function appendData(data) {
         <th style="width:33%">ICS BGCs</th>
     </tr>
 </table>
-<script>function icsFunction() {
-  // Clear currentVisibleData
-  currentVisibleData = [];
+<script>
 
-  // Declare starting variables
+const searchWithDebounce = debounce(() => icsFunction());
+
+function debounce(func, timeout = 300){
+  let timer;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => { func.apply(this, args); }, timeout);
+  };
+}
+
+function icsFunction() {
   var input = document.getElementById("icsInput");
   var filter = input.value.toUpperCase();
-  var table = document.getElementById("icsTable");
-  var trs = table.getElementsByTagName("tr");
-  // Loop through rows
-  for (var i = 1; i < trs.length; i++) {
-    // Define the cells
-    var tds = trs[i].getElementsByTagName("td");
-    // show the row
-    trs[i].style.display = "";
-    // loop through row cells
-    var match = false
-    for (var i2 = 0; i2 < tds.length; i2++) {
-      if (tds[i2].innerHTML.toUpperCase().indexOf(filter) > -1) {
-        match = true
-      }
+  for (var i = 0; i < allData.length; i ++) {
+    let accession = allData[i].Accession;
+    let species = allData[i].Species;
+
+    if (accession.startsWith("GCF")) {
+      continue;
     }
-    // if there's no match hide the row
-    if (!match && i > 0) {
-      trs[i].style.display = "none";
+
+    if (species.toUpperCase().indexOf(filter) > -1 ||
+      accession.toUpperCase().indexOf(filter) > -1) {
+      document.getElementById(accession).style.display = "";
     } else {
-      // if there is a match make sure it's stored in currentVisibleData
-      currentVisibleData.push({
-        "Species": tds[0].innerText, 
-        "Accession": tds[1].innerText,
-        "Number_of_ICS_BGCs": tds[2].innerText,
-      });
+      document.getElementById(accession).style.display = "none";
     }
+
   }
 }
 </script>
