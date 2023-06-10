@@ -194,6 +194,12 @@ h1:hover {
 </div>
 <div class="centerfr"><button class="button button1" onclick="downloadTsv()">Download the displayed results (tsv)</button></div>
 
+<div class="centerfr">
+  <button class="button button1" onclick="downloadVisibleAccessionData()">
+    Download visible BGC data
+  </button>
+</div>
+
 <!-- <div><button onclick="downloadTsv()">Download filtered results as tsv</button></div> -->
 <script>
   const downloadTsv = () => {
@@ -228,6 +234,50 @@ h1:hover {
     link.click();
     URL.revokeObjectURL(link.href);
   };
+</script>
+<script type="text/javascript" src="/lib/zip-full.min.js"></script>
+<script>
+  function downloadVisibleAccessionData() {
+    getZipFileBlob().then(downloadFile);
+  }
+
+  async function getZipFileBlob() {
+    var currentVisibleAccessions = []
+    var table = document.getElementById("icsTable");
+    var trs = table.getElementsByTagName("tr");
+
+    const zipWriter  = new zip.ZipWriter(new zip.BlobWriter("application/zip"));
+
+    for (var i = 1; i < trs.length; i++) {
+      if (trs[i].style.display == "") {
+        var tds = trs[i].getElementsByTagName("td");
+
+        // skip any accessions that have no BGCs
+        let numBGCs = parseInt(tds[2].innerText);
+        if (numBGCs < 1) {
+          continue;
+        }
+        
+        let accessionName = tds[1].innerText;
+        let url = "Data/ICSBGCs/" + accessionName + "/" + accessionName + ".zip";
+        currentVisibleAccessions.push(zipWriter.add(accessionName + ".zip",
+                                        new zip.HttpReader(url)));
+      }
+    }
+
+    await Promise.all(currentVisibleAccessions);
+    return zipWriter.close();
+  }
+
+  function downloadFile(blob) {
+    // make and click a temporary link to download the Blob
+    const link = document.createElement("a")
+    link.href = URL.createObjectURL(blob)
+    link.download = "BGCs.zip"
+    link.click()
+    link.remove()
+  }
+  
 </script>
 <div class="tablesearch">
 <script>
