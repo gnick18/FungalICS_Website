@@ -231,6 +231,9 @@ h1:hover {
                     opt.value = data[taxon][i];
                     taxaSelect.appendChild(opt);
                 }
+
+                let taxonChoice = document.getElementById("taxaNames").value;
+                refreshTable(taxonChoice);
             })
         }
 
