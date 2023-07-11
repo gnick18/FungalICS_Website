@@ -196,12 +196,14 @@
     document.body.appendChild(h1);
 
     var promises = []
-    var urls = ["Data/GCF_Keys.json", "Data/bgc_filenames.json"]
+    var urls = ["Data/GCF_Keys.json", "Data/bgc_filenames.json",
+                "Data/ReferenceTable.json"];
 
     const fetchExternalData = () => {
         return Promise.all([
             fetch(urls[0]),
-            fetch(urls[1])
+            fetch(urls[1]),
+            fetch(urls[2])
         ])
         .then(
             results => Promise.all(
@@ -210,25 +212,42 @@
         )
     }
 
+    function addButton(url, filename, title) {
+      var div = document.createElement("div");
+      div.setAttribute("class", "allDiv");
+
+      var a = document.createElement("a");
+      a.setAttribute("href", url);
+      a.setAttribute("download", filename);
+
+      var button = document.createElement("button");
+      button.innerText = title;
+      button.setAttribute("class", "allButton");
+      a.appendChild(button);
+      div.appendChild(a);
+      document.body.appendChild(div);
+    }
+
     fetchExternalData().then(function(response) {
         // button to download all
         let gcfFilename = gcf.replace("*", "_Refined");
-        var  divAll = document.createElement("div");
-        divAll.setAttribute("class", "allDiv");
 
-        var aAll = document.createElement("a");
-        aAll.setAttribute("href", "Data/GCF_zips/" + gcfFilename + ".zip");
-        aAll.setAttribute("download", gcfFilename + ".zip");
+        addButton("Data/GCF_zips/" + gcfFilename + ".zip",
+                    gcfFilename + ".zip",
+                    "Download All");
         
-        var buttonAll = document.createElement("button");
-        buttonAll.innerText = "Download All";
-        buttonAll.setAttribute("class", "allButton");
-        aAll.appendChild(buttonAll);
-        divAll.appendChild(aAll)
-        document.body.appendChild(divAll);
 
         gcfKeys = response[0];
         bgcFilenames = response[1];
+        referenceTable = response[2];
+
+        // button to download reference(s)
+        if (gcfFilename in referenceTable) {
+          addButton("Data/GCF_References/" + gcfFilename + "_Ref.zip",
+                    gcfFilename + "_Ref.zip",
+                    "Download Reference(s)")
+        }
+
         let resultsStart =  (resultsPage - 1) *  10;
         console.log(resultsStart);
 
