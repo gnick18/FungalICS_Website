@@ -383,7 +383,7 @@ function icsFunction() {
   var filter = input.value.toUpperCase();
   for (var i = 0; i < allData.length; i ++) {
     let accession = allData[i].Accession;
-    let species = allData[i].Species;
+    let species = allData[i].Species.replace('_', ' ');
 
     if (accession.startsWith("GCF")) {
       continue;
