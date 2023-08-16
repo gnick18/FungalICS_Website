@@ -25,6 +25,11 @@
         height: 30%;
         margin: 10px;
       }
+      .cblaster {
+        width: 75%;
+        height: 75%;
+        margin: 10px;
+      }
       .button, .allButton {
         display: inline-block;
         padding: 15px 25px;
@@ -139,42 +144,9 @@
         </div>
       </nav>
 
-      <!-- Button trigger modal -->
-<button type="button" class="btn btn-lg btn-primary allButton" data-bs-toggle="modal" data-bs-target="#exampleModal" style="margin:10px">
-  Gene Map Key
-</button>
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <img src="Images/Keys_Annotations.svg">
-      </div>
-    </div>
-  </div>
-</div>
-
-      <!-- <ul class="nav nav-tabs">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Active</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
-      </ul> -->
 </body>
 <script>
-  const gcfToClusters = {
+    const gcfToClusters = {
         "1_Refined": ["639", "166"],
         "crm_Refined": ["318", "930", "330"],
         "5": ["52"],
@@ -238,22 +210,6 @@
         )
     }
 
-    function addButton(url, filename, title) {
-      var div = document.createElement("div");
-      div.setAttribute("class", "allDiv");
-
-      var a = document.createElement("a");
-      a.setAttribute("href", url);
-      a.setAttribute("download", filename);
-
-      var button = document.createElement("button");
-      button.innerText = title;
-      button.setAttribute("class", "allButton");
-      a.appendChild(button);
-      div.appendChild(a);
-      document.body.appendChild(div);
-    }
-
     function addLink(url, title) {
       var div = document.createElement("div");
       div.setAttribute("class", "allDiv");
@@ -269,117 +225,109 @@
       document.body.appendChild(div);
     }
 
-    fetchExternalData().then(function(response) {
-        // button to download all
-        let gcfFilename = gcf.replace("*", "_Refined");
-
-        addButton("Data/GCF_zips/" + gcfFilename + ".zip",
-                    gcfFilename + ".zip",
-                    "Download All");
-        
+    fetchExternalData().then(function(response) {   
+        // button linking back to gcf
+        addLink("gcfs.html?gcf=" + gcf, "Back to GCF");
 
         gcfKeys = response[0];
         bgcFilenames = response[1];
         referenceTable = response[2];
 
-        // button to download reference(s)
-        if (gcfFilename in referenceTable) {
-          addButton("Data/GCF_References/" + gcfFilename + "_Ref.zip",
-                    gcfFilename + "_Ref.zip",
-                    "Download Reference BGC(s) for GCF")
-        }
-
-        // button linking to cblaster results
-        if (gcfFilename in gcfToClusters) {
-          addLink("cblaster.html?gcf=" + gcf, "Conservation of Cluster");
-        }
-
         let resultsStart =  (resultsPage - 1) *  10;
         console.log(resultsStart);
 
-        // Filtering out GCF Accessions
-        thisGcf = gcfKeys[gcf].filter(function(entry) {
-            return !entry["NCBI_Acession"].startsWith("GCF");
-        }).sort(function(a, b) {
-            // sort by species name
-            let speciesA = a["Cluster_Name"].split("_").slice(1).join(" ");
-            let speciesB = b["Cluster_Name"].split("_").slice(1).join(" ");
-            if (speciesA < speciesB) {
-                return -1;
-            }
-            if (speciesA > speciesB) {
-                return 1;
-            }
-            return 0;
-        });
+        // find the cluster/accession we want
+        let gcfRefined = gcf.replace("*", "_Refined");
+        thisGcfClusters = gcfToClusters[gcfRefined];
+        clusterAccession = gcfKeys[gcf].filter(function(entry) {
+            return entry["Cluster_Name"].split("_")[0] == 
+            thisGcfClusters[resultsPage - 1];
+        })[0];
+        console.log(clusterAccession);
+        
 
-        for (var j = resultsStart; j < thisGcf.length && j < resultsStart +  10; j++) {
-            clusterAccession = thisGcf[j];
-            let cluster = "Cluster_" + clusterAccession["Cluster_Name"].split("_")[0];
-            let accession = clusterAccession["NCBI_Acession"];
+        // change this to  not be a for loop... just need the one html for this ref
+        // clusterAccession = thisGcf[j];
+        let cluster = "Cluster_" + clusterAccession["Cluster_Name"].split("_")[0];
+        let accession = clusterAccession["NCBI_Acession"];
 
-            // should be unnecessary
-            if (accession.startsWith("GCF")) {
-                continue;
-            }
+        // should be unnecessary
+        // if (accession.startsWith("GCF")) {
+        //     continue;
+        // }
 
-            for (var i = 0; i < bgcFilenames[accession][cluster].length; i++) {
-                if (bgcFilenames[accession][cluster][i].endsWith("html")) {
-                    let url = "Data/ICSBGCs/" + accession + "/" + cluster
-                        + "/" + bgcFilenames[accession][cluster][i];
-                    let zipUrl = "Data/ICSBGCs/" + accession + "/" + cluster + ".zip";
+        for (var i = 0; i < bgcFilenames[accession][cluster].length; i++) {
+            if (bgcFilenames[accession][cluster][i].endsWith("html")) {
+                let url = "Data/ICSBGCs/" + accession + "/" + cluster
+                    + "/" + bgcFilenames[accession][cluster][i];
+                let zipUrl = "Data/ICSBGCs/" + accession + "/" + cluster + ".zip";
 
-                    var div = document.createElement("div");
-                    div.setAttribute("class", "bgcDiv");
-                    div.setAttribute("style", "display:flex; flex-direction: row; justify-content: center; align-items: center");
+                var div = document.createElement("div");
+                div.setAttribute("class", "bgcDiv");
+                div.setAttribute("style", "display:flex; flex-direction: row; justify-content: center; align-items: center");
 
-                    let clusterNum = cluster.split('_')[1];
-                    var p = document.createElement("p");
-                    p.innerText = "Cluster: " + clusterNum;
-                    div.appendChild(p);
+                let clusterNum = cluster.split('_')[1];
+                var p = document.createElement("p");
+                p.innerText = "Cluster: " + clusterNum;
+                div.appendChild(p);
 
-                    var iframe =  document.createElement("iframe");
+                var iframe =  document.createElement("iframe");
 
-                    iframe.setAttribute("class", "bgc_map");
-                    iframe.setAttribute("style", "height:190px;width:1010px");
-                    iframe.src = url;
+                iframe.setAttribute("class", "bgc_map");
+                iframe.setAttribute("style", "height:190px;width:1010px");
+                iframe.src = url;
 
-                    div.appendChild(iframe);
+                div.appendChild(iframe);
 
-                    // div for the right side
-                    var rightDiv = document.createElement("div");
+                // div for the right side
+                var rightDiv = document.createElement("div");
 
-                    // add the species and accession
-                    var speciesAccessionP = document.createElement("p");
-                    let speciesName = bgcFilenames[accession][cluster][i].slice(0, -5)
-                                            .split("_").slice(1).join(" ");
-                    speciesAccessionP.innerHTML = speciesName +
-                            ": <a href=bgcs.html?accession=" + encodeURIComponent(accession)
-                            + "&species=" + encodeURIComponent(speciesName.split(" ").join("_"))
-                            + ">" + accession + "</a>";
-                    rightDiv.appendChild(speciesAccessionP);
+                // add the species and accession
+                var speciesAccessionP = document.createElement("p");
+                let speciesName = bgcFilenames[accession][cluster][i].slice(0, -5)
+                                        .split("_").slice(1).join(" ");
+                speciesAccessionP.innerHTML = speciesName +
+                        ": <a href=bgcs.html?accession=" + encodeURIComponent(accession)
+                        + "&species=" + encodeURIComponent(speciesName.split(" ").join("_"))
+                        + ">" + accession + "</a>";
+                rightDiv.appendChild(speciesAccessionP);
 
-                    // add the download button
-                    var a = document.createElement("a");
-                    a.setAttribute("href", zipUrl);
-                    a.setAttribute("download", cluster + ".zip");
-                    
-                    var button = document.createElement("button");
-                    button.innerText = "Download";
-                    button.setAttribute("class", "button");
-                    a.appendChild(button);
+                // add the download button
+                var a = document.createElement("a");
+                a.setAttribute("href", zipUrl);
+                a.setAttribute("download", cluster + ".zip");
+                
+                var button = document.createElement("button");
+                button.innerText = "Download";
+                button.setAttribute("class", "button");
+                a.appendChild(button);
 
-                    rightDiv.appendChild(a);
+                rightDiv.appendChild(a);
 
-                    div.appendChild(rightDiv);
+                div.appendChild(rightDiv);
 
-                    document.body.appendChild(div);
-                }
+                document.body.appendChild(div);
             }
         }
 
-        console.log(thisGcf.length);
-        if (thisGcf.length > 10) {
+        var cBlasterIframe = document.createElement("iframe");
+
+        cBlasterIframe.setAttribute("class", "cblaster");
+        cBlasterIframe.setAttribute("style", "height:700px");
+
+        cblasterUrl = "Data/cBlasters/" + gcfRefined;
+        if (thisGcfClusters.length > 1) {
+            cblasterUrl += "_" + resultsPage;
+        }
+        cBlasterIframe.src = cblasterUrl + ".html";
+
+        var cblasterDiv = document.createElement("div");
+        cblasterDiv.setAttribute("class", "bgcDiv");
+        cblasterDiv.appendChild(cBlasterIframe);
+        document.body.appendChild(cblasterDiv);
+
+        console.log(thisGcfClusters.length);
+        if (thisGcfClusters.length > 1) {
             // var div = document.createElement("div");
             // var p = document.createElement("p");
             // p.innerHTML = "Showing results " + resultsStart + " through "
@@ -394,7 +342,7 @@
             var liPrev = document.createElement("li");
             var aPrev = document.createElement("a");
             aPrev.setAttribute("class", "page-link");
-            aPrev.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(resultsPage - 1));
+            aPrev.setAttribute("href", "cblaster.html?gcf=" + gcf + "&results_page=" + String(resultsPage - 1));
             aPrev.innerText = "Prev";
             liPrev.appendChild(aPrev);
             if (resultsPage == 1) {
@@ -404,12 +352,12 @@
             }
             ul.appendChild(liPrev);
 
-            let numPages = Math.ceil(thisGcf.length / 10);
+            let numPages = thisGcfClusters.length;
             for (var i = 0; i < numPages; i++) {
                 var li = document.createElement("li");
                 var a = document.createElement("a");
                 a.setAttribute("class", "page-link");
-                a.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(i +  1));
+                a.setAttribute("href", "cblaster.html?gcf=" + gcf + "&results_page=" + String(i +  1));
                 a.innerText = String(i + 1);
                 li.appendChild(a);
                 if (resultsPage == i + 1) {
@@ -423,7 +371,7 @@
             var liNext = document.createElement("li");
             var aNext = document.createElement("a");
             aNext.setAttribute("class", "page-link");
-            aNext.setAttribute("href", "gcfs.html?gcf=" + gcf + "&results_page=" + String(resultsPage + 1));
+            aNext.setAttribute("href", "cblaster.html?gcf=" + gcf + "&results_page=" + String(resultsPage + 1));
             aNext.innerText = "Next";
             liNext.appendChild(aNext);
             if (resultsPage == numPages) {
