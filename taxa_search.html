@@ -135,6 +135,81 @@ h1:hover {
   text-align: center;
 }
 
+.paper-nav-btn {
+  position: fixed;
+  top: 70px;
+  right: 10px;
+  z-index: 1000;
+  background-color: #406E8E;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
+  box-shadow: 0 4px #23395B;
+  transition: all 0.2s ease;
+}
+
+.paper-nav-btn:hover {
+  background-color: #23395B;
+}
+
+.paper-nav-btn:active {
+  box-shadow: 0 2px #1a2a44;
+  transform: translateY(2px);
+}
+
+.crma-warning-btn {
+  position: fixed;
+  top: 120px;
+  right: 10px;
+  z-index: 1000;
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
+  box-shadow: 0 4px #a71d2a;
+  transition: all 0.2s ease;
+  animation: pulse 2s infinite;
+}
+
+.crma-warning-btn:hover {
+  background-color: #a71d2a;
+}
+
+.crma-warning-btn:active {
+  box-shadow: 0 2px #6d1219;
+  transform: translateY(2px);
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 4px #a71d2a, 0 0 0 0 rgba(220, 53, 69, 0.7); }
+  70% { box-shadow: 0 4px #a71d2a, 0 0 0 10px rgba(220, 53, 69, 0); }
+  100% { box-shadow: 0 4px #a71d2a, 0 0 0 0 rgba(220, 53, 69, 0); }
+}
+
+.crma-warning-image {
+  max-width: 100%;
+  height: auto;
+  margin: 15px 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.crma-caption {
+  font-size: 0.9em;
+  color: #666;
+  font-style: italic;
+  text-align: justify;
+  margin-top: 10px;
+}
+
 /* .button1:hover {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 } */
@@ -164,9 +239,73 @@ h1:hover {
 
 </script>
 <body>
+  <!-- Paper Navigation Button -->
+  <button class="paper-nav-btn" data-bs-toggle="modal" data-bs-target="#paperNavModal">
+    📚 Switch Paper
+  </button>
+
+  <!-- Paper Navigation Modal -->
+  <div class="modal fade" id="paperNavModal" tabindex="-1" aria-labelledby="paperNavModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="paperNavModalLabel">Switch Publication</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="d-grid gap-3">
+            <a href="nar_2023_home.html" class="btn btn-lg btn-primary">
+              Go to 2023 ICS BGC paper<br>
+              <small>(Nucleic Acids Research)</small>
+            </a>
+            <a href="lichen_landing.html" class="btn btn-lg btn-success">
+              Go to updated lichen and crmA ICS BGC paper<br>
+              <small>(Current Biology, 2026)</small>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- crmA Warning Button -->
+  <button class="crma-warning-btn" data-bs-toggle="modal" data-bs-target="#crmaWarningModal">
+    ⚠️ CLICK HERE IF LOOKING INTO crmA
+  </button>
+
+  <!-- crmA Warning Modal -->
+  <div class="modal fade" id="crmaWarningModal" tabindex="-1" aria-labelledby="crmaWarningModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header" style="background-color: #dc3545; color: white;">
+          <h5 class="modal-title" id="crmaWarningModalLabel">⚠️ Important Update on crmA Data</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="alert alert-warning" role="alert">
+            <strong>Note:</strong> The list of species with crmA on this page is outdated and does not reflect the updated list of fungal species with crmA (~1/3 of all Ascomycetes). Please click the link below to see the updated list of species with crmA.
+          </div>
+          
+          <div class="text-center">
+            <img src="Data/LichenPaper/crmA/CrmDistribution.png" alt="crmA Distribution" class="crma-warning-image">
+            <p class="crma-caption">
+              <strong>Supplemental Fig. 5 from Nickles et al. (2026).</strong> Number of non-Saccharomycotina Ascomycetes species predicted to encode crmA-type pathways. The counts differentiate between species containing a full predicted crmA BGC (as defined by the reference BGC in <em>A. fumigatus</em>) and those containing only the core signature genes (crmA ICS and associated NRPS-like gene, either split or fused).
+            </p>
+          </div>
+          
+          <div class="d-grid gap-2 mt-4">
+            <a href="lichen_crma.html" class="btn btn-lg btn-danger">
+              View Updated crmA Data →
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
     <div class="container-fluid nav-link_custom nav-link_header">
-      <a class="nav-link" href="index.html"> 
+      <a class="nav-link" href="nar_2023_home.html">
         <img src="./Images/house-fill.svg" alt="Logo" width="50" height="40" class="d-inline-block align-text-top">
       </a>
       <button
@@ -218,7 +357,7 @@ h1:hover {
   </div>
 </div>
 
-<h1 id="header" class="centerfr"><a href="index.html"><b>Gene Cluster Families (GCFs)</b></a></h1>
+<h1 id="header" class="centerfr"><a href="nar_2023_home.html"><b>Gene Cluster Families (GCFs)</b></a></h1>
 <h2 id="subheader" class="centerfr">Search by Taxa</h2>
 
 <div class="centerfr">

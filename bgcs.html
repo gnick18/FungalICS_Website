@@ -76,6 +76,31 @@
       color: #cbcbcb;
     }
 
+    .paper-nav-btn {
+      position: fixed;
+      top: 70px;
+      right: 10px;
+      z-index: 1000;
+      background-color: #406E8E;
+      color: white;
+      border: none;
+      border-radius: 15px;
+      padding: 10px 15px;
+      cursor: pointer;
+      font-family: 'Nunito Sans', sans-serif;
+      font-size: 14px;
+      box-shadow: 0 4px #23395B;
+      transition: all 0.2s ease;
+    }
+
+    .paper-nav-btn:hover {
+      background-color: #23395B;
+    }
+
+    .paper-nav-btn:active {
+      box-shadow: 0 2px #1a2a44;
+      transform: translateY(2px);
+    }
     </style>
     <i class="bi bi-house-fill"></i>
     <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.1.0.min.js"></script>
@@ -109,9 +134,37 @@
 
 </script>
 <body>
+  <!-- Paper Navigation Button -->
+  <button class="paper-nav-btn" data-bs-toggle="modal" data-bs-target="#paperNavModal">
+    📚 Switch Paper
+  </button>
+
+  <!-- Paper Navigation Modal -->
+  <div class="modal fade" id="paperNavModal" tabindex="-1" aria-labelledby="paperNavModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header" style="background-color: #295135; color: white;">
+          <h5 class="modal-title" id="paperNavModalLabel">Select Publication</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body text-center">
+          <p>Choose which publication's data you'd like to explore:</p>
+          <div class="d-grid gap-3">
+            <a href="nar_2023_home.html" class="btn btn-lg" style="background-color: #406E8E; color: white;">
+              Go to 2023 ICS BGC paper
+            </a>
+            <a href="lichen_landing.html" class="btn btn-lg" style="background-color: #295135; color: white;">
+              Go to updated lichen and crmA ICS BGC paper
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
     <div class="container-fluid nav-link_custom nav-link_header">
-      <a class="nav-link" href="index.html"> 
+      <a class="nav-link" href="nar_2023_home.html">
         <img src="./Images/house-fill.svg" alt="Logo" width="50" height="40" class="d-inline-block align-text-top">
       </a>
       <button

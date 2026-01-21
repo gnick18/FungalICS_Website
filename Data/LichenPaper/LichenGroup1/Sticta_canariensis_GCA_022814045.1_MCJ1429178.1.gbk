@@ -1,0 +1,76 @@
+LOCUS       MCJ1429178.1_flanking   2328 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Region around MCJ1429178.1 with 10 flanking CDSs.
+ACCESSION   MCJ1429178.1_flanking
+VERSION     MCJ1429178.1_flanking
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..2328
+                     /locus_tag="MMC29_007091"
+                     /note="EggNog:ENOG410PVSI; COG:Q; GO_function: GO:0016491 -
+                     oxidoreductase activity [Evidence IEA]; GO_process:
+                     GO:0055114 - oxidation-reduction process [Evidence IEA]"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="MCJ1429178.1"
+                     /db_xref="InterPro:IPR003819"
+                     /db_xref="InterPro:IPR007817"
+                     /db_xref="InterPro:IPR042098"
+                     /db_xref="PFAM:PF02668"
+                     /db_xref="PFAM:PF05141"
+                     /translation="MAHTLQSMQTTTAPSTVDQNRFAALEKQVELLVNHVKQFGPFVPT
+                     ETKPSYPNTSNLFPLHPNINPPDTPQLSSTESPQPSSPGTPAIQSEQTIIEHFEKPSAK
+                     LALRILDIIQGYGQNVTPSDVPWAGKTKFLPIVEAHVIKNESIPMVLPAFPFKSPNRKD
+                     KVIGSLPDLGEELGLMHLNGLCESIAEIYEPGANVAITSDGLVYNDLMTIDDSEVWDYS
+                     SAVRDIINDKGLHHVSALRIVDLLDYPHTEGLGREEYLAHAGCYRRELVARYGVPDFDS
+                     REAVRNDKDTRMTYRGYIKFLTKDLKYTRLATDSQSKRKYKDTIEELALKMIHRGKIFA
+                     AAIEQKCKGFVRLSIHPSVGQTKLSVPLIPQPNGGAIMTPWHSSIAVGIDGSFKTVHAE
+                     DVRDTHDLVLRNGRPYCFREKSDLYDFSKIKVEFEHLYPCGLVIRPAGESGLQPSLRDV
+                     HMQKVRKLAELQSPVVLRGFAETTERELFISKAYELGEVLPWTFGILQEVKDSGRTDKL
+                     GNNVVSNEAMPMHFDGMFKFVAQKDENGNPILDEEGKEVKVQKAPKFQYFTSIATAPKG
+                     SGFTLFAASRLFFQYLPAPYTVERFEAAKWAMDNNGFWDAKIKDLNLVVRHPIHNTPCM
+                     RWHQPWDATKTKFSTCDVTIQNDSQEIVEVVDRLLYDRRVCLRFTWEQGDILVSDNIAM
+                     LHTRTEFTGDCDRELWRIHFD"
+ORIGIN
+        1 atggctcata cgttgcaatc aatgcagacg acaactgcac catcaaccgt ggatcaaaat
+       61 cgtttcgcag ctctcgaaaa acaagtcgaa cttctggtca accatgtgaa gcagttcgga
+      121 cctttcgtcc caaccgaaac caagccgtcg tacccgaaca catccaatct cttccctctc
+      181 catccgaata tcaatccgcc agatactccg cagctcagct cgacagaatc accacagccc
+      241 agttcgccag gaaccccagc catacagtct gagcaaacga ttatcgaaca tttcgagaaa
+      301 ccgtcagcaa agctcgcgct tcggattctt gacattattc agggatatgg gcagaacgtc
+      361 acccccagtg atgttccctg ggctggaaag accaaatttc tgcctatcgt agaggcgcat
+      421 gtcatcaaaa acgagtccat tcctatggtt ctgcctgcct ttcctttcaa gtctccaaac
+      481 aggaaagata aagtcatcgg atcacttccc gacttgggtg aagagctggg gctgatgcat
+      541 ttgaatggac tgtgtgagag cattgccgag atatatgaac ccggagctaa tgtggctatc
+      601 acgtctgatg ggctggttta taacggtaag tcaaagttga aaaatatctg atgtcgaggc
+      661 cgaatcgcta aaaattccac aagatttgat gacgatcgat gactcggaag tctgggacta
+      721 ttcctcagcg gttcgcgaca ttattaacga caaggggcta catcacgtta gcgcgcttcg
+      781 tattgttgac cttcttgatt acccccatac tgaaggccta ggaagagagg aatatcttgc
+      841 ccatgctggc tgttatcgtc gcgagcttgt tgcacggtac ggtgtaccag actttgacag
+      901 ccgtgaagca gtgcggaatg acaaagatac tcgtatgaca taccgaggat atatcaaatt
+      961 cttaacaaag gatctcaaat atactcgact ggccacggat tctcaaagta agagaaagta
+     1021 caaggacacc atcgaggagc ttgcattgaa aatgattcat cgaggcaagg taagctcttc
+     1081 gtcatggtct cgcacctgaa ttggtagcca ttcatctcac atcaaacctt agatttttgc
+     1141 ggcggccatc gagcaaaagt gtaagggttt tgttcgactc tcaatccatc cttcggttgg
+     1201 acaaactaaa ctctcggtgc ctctgattcc gcaaccaaat ggaggcgcca ttatgactcc
+     1261 atggcactca tcaattgccg ttggaattga tggttctttc aagacggtcc acgcagaaga
+     1321 cgttcgagac actcacgatc tcgttttacg caatgggcgg ccttactgct tccgagagaa
+     1381 atcggatctc tacgacttta gcaagatcaa agtcgaattc gagcatttgt atccttgcgg
+     1441 actggtcatt cgcccagctg gcgaatctgg ccttcagcca tcacttcgcg acgtccacat
+     1501 gcaaaaggtt cgtaagctgg cagagcttca atcgcccgtg gtcttgcgtg gttttgccga
+     1561 aacgaccgag cgggaactgt ttattagcaa agcatatgag cttggagaag tgcttccgtg
+     1621 gacatttgga attctgcagg aggtgaaaga cagcgggagg accgacaaac tcggcaataa
+     1681 tgtcgtgagc aatgaagcca tgccgatgca tttcgatggc atgttcaaat tcgttgccca
+     1741 gaaggacgaa aacggtaatc ccatcctcga tgaggagggc aaagaagtca aagtgcaaaa
+     1801 agcccccaag tgagtgaagt ttctaccccg caggtcgttc ccaacacttg atcgctaata
+     1861 ccctatagat tccagtactt tacttccatc gccacggccc ccaaagggtc ggggttcacc
+     1921 cttttcgccg cgtcacgcct ctttttccag taccttcctg ccccatacac cgtcgagcgg
+     1981 ttcgaggcgg ccaagtgggc catggacaac aacggattct gggacgccaa aatcaaggat
+     2041 ctgaacctgg tcgtccgaca tcccatccac aacacgccct gcatgcgatg gcatcagccg
+     2101 tgggatgcca ccaagacgaa attctccacg tgcgacgtca ccatccagaa cgacagccaa
+     2161 gagattgtcg aggtcgtcga ccggctgctc tatgatcgcc gggtgtgcct gcggttcacg
+     2221 tgggaacagg gagatatctt ggtctcggat aacatcgcca tgctgcacac caggaccgag
+     2281 tttacggggg attgcgatcg tgagttgtgg cgcattcatt tcgattaa
+//

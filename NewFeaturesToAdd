@@ -1,0 +1,38 @@
+# New features to add: Jan 2026
+This existing website was released in 2023 and was based on the findings of the 2023 paper. I want to update the website to reflect the new findings.
+
+I am about to publish a new paper on the isocyanide BGCs that does a deeper dive into the clusters found in the Lecanoromycetes specifically. As a part of the new findings we deeply characterized the clades of ICS enzymes found heavily in the Lecanoromycetes in addition to redefining which set of species does or doesn't have a unique ICS enzyme called the crmA pathway.
+
+Aesthetically I want the new pages to match closely the existing HTML website that I made years ago. Please look over the existing website and take in the color schene, button sizes, and overall layout. All new pages should be in the same style and re-use as many of the pre-built HTML functions for buttons and other elements as possible.
+
+## Features to add:
+1. Create a new launch page that asks the user which publication they are interested in exploring the results of, the 2023 NAR paper or the new paper to be published in current biology ("in press right now"). If the user clicks on the 2023 button it should take them to what is the current home page. If they click on the other paper it should take them to a new to be created loading page
+2. Add a new popup button to the top right of the website on every page BUT the new loading page. If the user clicks on the popup icon two buttons should be presented to the user--> 'Go to 2023 ICS BGC paper', 'Go to updated lichen and crmA ICS BGC paper'
+   1. If the user clicks the popup it should give the user 
+3. New red warning popup on several of the original 2023 paper pages in the top right that states "CLICK HERE IS LOOKING INTO crmA" and the popup if clicked on should should say "Note: The list of species with crmA on this page is outdated and does not reflect the updated list of fungal species with crmA (~1/3 of all Ascomycetes). Please click here to see the updated list of species with crmA" 
+   1. I would also like the popup to include an embdedded image under the text with the plot stored in Data/LichenPaper/crmA/CrmDistribution.png. This plot visualized the increase in number of species predicted to have crmA in the updated paper. The caption under the plot can be:
+      1. Caption: Supplemental Fig. 5 from Nickles et al. (2026). Number of non-Saccharomycotina Ascomycetes species predicted to encode crmA-type pathways. The counts differentiate between species containing a full predicted crmA BGC (as defined by the reference BGC in A. fumigatus) and those containing only the core signature genes (crmA ICS and associated NRPS-like gene, either split or fused).
+   2. There needs to be a clickable link that takes them to the new crmA page for the new paper (see below)
+4. New loading page(s) for the new paper.
+   1. Title: Isocyanide Synthase (ICS) Biosynthetic Gene Clusters (BGCs) heavily assoicated with lichenized fungi
+   2. Five buttons for each of the deeply characterized types of ICS BGCs in Lichen (LFF = Lichen Forming Fungi)
+      1. LFF1; LFF2; LFF3; LFF4; crmA
+   3. A subpage for each of the four LFF1-4 ICS BGCs in Lichen that includes the following content:
+      1. Navigation bar to click around to the other four types of ICS BGCs from the paper
+      2. Title of the LFF (or crmA) page open
+      3. Image of the edited tree for this LFF. 
+         1. Those tree plots (svg format) can be found in Data/LichenPaper/LichenGroup1/lff1_Tree.svg; Data/LichenPaper/LichenGroup2/lff2_Tree.svg; Data/LichenPaper/LichenGroup3/lff3_Tree.svg; and Data/LichenPaper/LichenGroup4/lff4_Tree.svg respectively
+      4. Button to download the raw gbks for said type of ICS BGC for LFF1-4 but NOT the crmA page
+         1. The gbk files for each LFF can be found in Data/LichenPaper/LichenGroup1; Data/LichenPaper/LichenGroup2; Data/LichenPaper/LichenGroup3; and Data/LichenPaper/LichenGroup4
+      5. Embedded html plot of the clinker alignment. This embedded HTML subplot should be able to be "collapsed" or "opened" by the user with a drop down button.
+         1. The path to each html can be found in Data/LichenPaper/LichenGroup1/clinker_lff1.html; Data/LichenPaper/LichenGroup2/clinker_lff2.html; Data/LichenPaper/LichenGroup3/clinker_lff3.html; and Data/LichenPaper/LichenGroup4/clinker_lff4.html respectively 
+      6. Embedded html plot of the cgcg analysis done with Zol. This embedded HTML subplot should be able to be "collapsed" or "opened" by the user with a drop down button.
+         1. The path to each html can be found in Data/LichenPaper/LichenGroup1/cgcg_lff1.html; Data/LichenPaper/LichenGroup2/cgcg_lff2.html; Data/LichenPaper/LichenGroup3/cgcg_lff3.html; and Data/LichenPaper/LichenGroup4/cgcg_lff4.html respectively
+   4. A subpage for the crmA page that includes the following content:
+      1. two different images each with captions. They should be in the following order:
+         1. /Data/LichenPaper/crmA/FusariumMetabolites_pathwayOnly.png
+            1. Caption: Fig. 3b from Nickles et al. (2026). Proposed fumicicolin A biosynthetic pathway, based in part on the proposed pinocicolin A pathway from Kishimoto et al. (2025)25 (recreated with permission) in addition to the findings from Chen et al. (2025)26.
+         2. Data/LichenPaper/crmA/ProposedEvolutionaryNRPSSteps.png
+            1. Caption: Fig. 5 from Nickles et al. (2026). Proposed evolutionary model for the CrmA metabolic pathway, with supporting structural alignments of CrmA domains. (a) Protein structures are colored with the per-residue model confidence score. The evolutionary model depicts three stages. The proposed ancestral 'basal' state, Type C, consists of separate ICS and NRPS-like proteins and notably has a thioester reductase (TR) domain on the C-terminus. The split Type A architecture has a C-terminal transferase and is hypothesized to have evolved from Type C via full replacement of the TR domain for the transferase. Finally, the fused Type A architecture is hypothesized to have arisen via a gene fusion event within an ancestral split Type A lineage. (b) Pairwise structural alignments of individual CrmA domains (ICS, A, T, and the C-terminal TR or Transferase domains). Each domain was extracted from the full-length protein models shown in ‘a’ and aligned separately. TM-scores, quantifying structural similarity, are provided for each indicated pairwise alignment (e.g., 'fused/split' compares the domain from the fused CrmA with that from the split Type A form). The aligned structures are colored as follows: basal-red; split-blue; fused-green.
+      2. Embedded display of a tsv table that can be found at Data/LichenPaper/crmA/NRPS_CRM_FinalTable.tsv
+         1. The table should be able to be "collapsed" or "opened" by the user with a drop down button.

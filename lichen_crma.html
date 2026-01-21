@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <title>crmA - Lichen ICS BGCs</title>
+  <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,900&display=swap" rel="stylesheet">
+  
+  <meta charset="utf-8">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      padding-bottom: 40px;
+    }
+
+    h1, h2, h3, p {
+      font-family: 'Nunito Sans', sans-serif;
+      text-align: center;
+    }
+
+    h1 {
+      color: #295135;
+      font-weight: 900;
+      margin: 20px 0;
+    }
+
+    h1:hover {
+      animation-name: artshadow;
+      animation-timing-function: ease-in-out;
+      animation-fill-mode: both;
+      animation-duration: 0.5s;
+      animation-delay: 0.1s;
+    }
+
+    @keyframes artshadow {
+      from {}
+      to {text-shadow: 2px 2px 5px black;}
+    }
+
+    .nav-link_custom {
+      font-size: 1.5em;
+    }
+
+    .no-bold {
+      font-weight: normal;
+      font-size: 0.8em;
+      color: #ffffff;
+    }
+
+    .nav-link_header {
+      color: #ffffff;
+    }
+
+    .currentPath_color {
+      color: #ffffff;
+      font-weight: bold;
+    }
+
+    .otherPage_color {
+      color: #cbcbcb;
+    }
+
+    .figure-container {
+      text-align: center;
+      margin: 40px auto;
+      max-width: 900px;
+      padding: 0 20px;
+    }
+
+    .figure-container img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .figure-caption {
+      text-align: justify;
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 15px;
+      padding: 15px;
+      background: #f8f9fa;
+      border-radius: 10px;
+      line-height: 1.6;
+    }
+
+    .section-title {
+      color: #406E8E;
+      font-weight: 700;
+      margin: 40px 0 20px 0;
+    }
+
+    .accordion-section {
+      max-width: 95%;
+      margin: 20px auto;
+    }
+
+    .accordion-button {
+      font-family: 'Nunito Sans', sans-serif;
+      font-weight: 700;
+    }
+
+    .accordion-body {
+      padding: 0;
+      overflow-x: auto;
+    }
+
+    .paper-nav-btn {
+      position: fixed;
+      top: 70px;
+      right: 10px;
+      z-index: 1000;
+      background-color: #406E8E;
+      color: white;
+      border: none;
+      border-radius: 15px;
+      padding: 10px 15px;
+      cursor: pointer;
+      font-family: 'Nunito Sans', sans-serif;
+      font-size: 14px;
+      box-shadow: 0 4px #23395B;
+      transition: all 0.2s ease;
+    }
+
+    .paper-nav-btn:hover {
+      background-color: #23395B;
+    }
+
+    .paper-nav-btn:active {
+      box-shadow: 0 2px #1a2a44;
+      transform: translateY(2px);
+    }
+
+    .video-btn {
+      position: fixed;
+      top: 70px;
+      left: 10px;
+      z-index: 1000;
+      background-color: #295135;
+      color: white;
+      border: none;
+      border-radius: 15px;
+      padding: 10px 15px;
+      cursor: pointer;
+      font-family: 'Nunito Sans', sans-serif;
+      font-size: 14px;
+      box-shadow: 0 4px #1a331f;
+      transition: all 0.2s ease;
+    }
+
+    .video-btn:hover {
+      background-color: #1a331f;
+    }
+
+    .video-btn:active {
+      box-shadow: 0 2px #0f1f12;
+      transform: translateY(2px);
+    }
+
+    .video-container {
+      max-width: 90%;
+      margin: 20px auto;
+    }
+
+    .video-container video {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    .video-caption {
+      text-align: justify;
+      font-size: 0.95em;
+      color: #333;
+      margin-top: 15px;
+      line-height: 1.6;
+      padding: 15px;
+      background: #f8f9fa;
+      border-radius: 8px;
+    }
+
+    /* Table styles */
+    #crmTable {
+      border-collapse: collapse;
+      width: 100%;
+      border: 1px solid #ddd;
+      font-size: 14px;
+      margin-bottom: 40px;
+    }
+
+    #crmTable th, #crmTable td {
+      text-align: left;
+      padding: 10px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    #crmTable tr:nth-child(even) {
+      background-color: #f8f9fa;
+    }
+
+    #crmTable tr:hover {
+      background-color: #e9ecef;
+    }
+
+    #crmTable th {
+      background-color: #406E8E;
+      color: white;
+      position: sticky;
+      top: 0;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    #crmTable th:hover {
+      background-color: #2a4a5e;
+    }
+
+    #crmTable th::after {
+      content: ' ⇅';
+      font-size: 0.8em;
+      opacity: 0.5;
+    }
+
+    #crmTable th.sort-asc::after {
+      content: ' ↑';
+      opacity: 1;
+    }
+
+    #crmTable th.sort-desc::after {
+      content: ' ↓';
+      opacity: 1;
+    }
+
+    .table-container {
+      max-height: 600px;
+      overflow: auto;
+    }
+
+    .table-search {
+      margin-bottom: 15px;
+      padding: 10px;
+    }
+
+    .table-search input {
+      width: 100%;
+      max-width: 400px;
+      padding: 10px 15px;
+      border: 1px solid #ddd;
+      border-radius: 25px;
+      font-size: 14px;
+    }
+
+    .table-search input:focus {
+      outline: none;
+      border-color: #406E8E;
+    }
+  </style>
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6NSJQRS3EW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-6NSJQRS3EW');
+</script>
+
+<body>
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+    <div class="container-fluid nav-link_custom nav-link_header">
+      <a class="nav-link" href="lichen_landing.html">
+        <img src="./Images/house-fill.svg" alt="Home" width="50" height="40" class="d-inline-block align-text-top">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item no-bold otherPage_color">
+            <a class="nav-link" href="lichen_lff1.html">LFF1</a>
+          </li>
+          <li class="nav-item no-bold otherPage_color">
+            <a class="nav-link" href="lichen_lff2.html">LFF2</a>
+          </li>
+          <li class="nav-item no-bold otherPage_color">
+            <a class="nav-link" href="lichen_lff3.html">LFF3</a>
+          </li>
+          <li class="nav-item no-bold otherPage_color">
+            <a class="nav-link" href="lichen_lff4.html">LFF4</a>
+          </li>
+          <li class="nav-item no-bold currentPath_color">
+            <a class="nav-link active" href="lichen_crma.html">crmA</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Paper Navigation Button -->
+  <button class="paper-nav-btn" data-bs-toggle="modal" data-bs-target="#paperNavModal">
+    📚 Switch Paper
+  </button>
+
+  <!-- Video Button -->
+  <button class="video-btn" data-bs-toggle="modal" data-bs-target="#videoModal">
+    🎬 Supplemental Video
+  </button>
+
+  <!-- Paper Navigation Modal -->
+  <div class="modal fade" id="paperNavModal" tabindex="-1" aria-labelledby="paperNavModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="paperNavModalLabel">Switch Publication</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="d-grid gap-3">
+            <a href="nar_2023_home.html" class="btn btn-lg btn-primary">
+              Go to 2023 ICS BGC paper<br>
+              <small>(Nucleic Acids Research)</small>
+            </a>
+            <a href="lichen_landing.html" class="btn btn-lg btn-success">
+              Go to updated lichen and crmA ICS BGC paper<br>
+              <small>(Current Biology, 2026)</small>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Video Modal -->
+  <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header" style="background-color: #295135; color: white;">
+          <h5 class="modal-title" id="videoModalLabel">Supplemental Video 1: crmA Fusion Event Model</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="video-container">
+            <video controls>
+              <source src="Images/SupVideo1.mov" type="video/quicktime">
+              <source src="Images/SupVideo1.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <p class="video-caption">
+              <strong>Supplemental Video 1.</strong> Phylogenetic reconstruction of both the ICS and NRPS-like domains strongly indicates that the fused <em>crmA</em> megasynthase originated via a single fusion event from a split ancestral lineage, rather than the split form arising from a gene fission event. This evolutionary trajectory, where functionally related, co-localized genes are fused into a single ORF, is a recurring theme in the evolution of metabolic pathways, thought to be driven by selection for improved regulation or catalytic efficiency<sup>41</sup>. The genomic architecture of the ancestral split genes, often oriented head-to-head, suggests a plausible molecular path to fusion involving a domain swap followed by gene deletion of the separating DNA. Our model is consistent with our structural modeling and our structure predictions of a flexible linker joining the two formerly separate proteins.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h1>crmA ICS BGC Pathway</h1>
+  <p style="color: #666;">Updated analysis of the crmA metabolic pathway</p>
+
+  <!-- Figure 1: Biosynthetic Pathway -->
+  <h3 class="section-title">Proposed Biosynthetic Pathway</h3>
+  <div class="figure-container">
+    <img src="Data/LichenPaper/crmA/FusariumMetabolites_pathwayOnly.png" alt="Proposed fumicicolin A biosynthetic pathway">
+    <p class="figure-caption">
+      <strong>Fig. 3b from Nickles et al. (2026).</strong> Proposed fumicicolin A biosynthetic pathway, based in part on the proposed pinocicolin A pathway from Kishimoto et al. (2025)<sup>25</sup> (recreated with permission) in addition to the findings from Chen et al. (2025)<sup>26</sup>.
+    </p>
+  </div>
+
+  <!-- Figure 2: Evolutionary Model -->
+  <h3 class="section-title">Evolutionary Model</h3>
+  <div class="figure-container">
+    <img src="Data/LichenPaper/crmA/ProposedEvolutionaryNRPSSteps.png" alt="Proposed evolutionary model for CrmA pathway">
+    <p class="figure-caption">
+      <strong>Fig. 5 from Nickles et al. (2026).</strong> Proposed evolutionary model for the CrmA metabolic pathway, with supporting structural alignments of CrmA domains. (a) Protein structures are colored with the per-residue model confidence score. The evolutionary model depicts three stages. The proposed ancestral 'basal' state, Type C, consists of separate ICS and NRPS-like proteins and notably has a thioester reductase (TR) domain on the C-terminus. The split Type A architecture has a C-terminal transferase and is hypothesized to have evolved from Type C via full replacement of the TR domain for the transferase. Finally, the fused Type A architecture is hypothesized to have arisen via a gene fusion event within an ancestral split Type A lineage. (b) Pairwise structural alignments of individual CrmA domains (ICS, A, T, and the C-terminal TR or Transferase domains). Each domain was extracted from the full-length protein models shown in 'a' and aligned separately. TM-scores, quantifying structural similarity, are provided for each indicated pairwise alignment (e.g., 'fused/split' compares the domain from the fused CrmA with that from the split Type A form). The aligned structures are colored as follows: basal-red; split-blue; fused-green.
+    </p>
+  </div>
+
+  <!-- Species Table Accordion -->
+  <h3 class="section-title">Species with crmA Pathway</h3>
+  <div class="accordion-section">
+    <div class="accordion" id="accordionTable">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingTable">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTable" aria-expanded="false" aria-controls="collapseTable">
+            📋 crmA Species Table (Click to expand)
+          </button>
+        </h2>
+        <div id="collapseTable" class="accordion-collapse collapse" aria-labelledby="headingTable" data-bs-parent="#accordionTable">
+          <div class="accordion-body">
+            <div class="table-search">
+              <input type="text" id="tableSearch" placeholder="Search species or accession..." onkeyup="filterTable()">
+            </div>
+            <div class="table-container">
+              <table id="crmTable">
+                <thead>
+                  <tr id="tableHeader"></tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <p style="margin-top: 30px; text-align: center;">
+    <a href="lichen_landing.html" style="color: #406E8E;">← Back to Lichen Paper Home</a>
+  </p>
+
+  <script>
+    // Global variables for sorting
+    let currentSortColumn = 1; // Species column (default)
+    let currentSortDirection = 'asc';
+    let tableData = [];
+    let headers = [];
+    let columnIndices = [];
+    
+    // Load TSV table
+    async function loadTSVTable() {
+      try {
+        const response = await fetch('Data/LichenPaper/crmA/NRPS_CRM_FinalTable.tsv');
+        const text = await response.text();
+        const rows = text.trim().split('\n');
+        
+        // Header row
+        headers = rows[0].split('\t');
+        const headerRow = document.getElementById('tableHeader');
+        
+        // Only show a subset of columns for readability
+        const columnsToShow = ['Accession', 'Species', 'Lichen', 'crm_protein', 'nrps_protein', 'bp_separating', 'NRPS_attached_ICS?'];
+        columnIndices = columnsToShow.map(col => headers.indexOf(col)).filter(idx => idx !== -1);
+        
+        // Build header with click handlers
+        columnIndices.forEach((idx, colIndex) => {
+          const th = document.createElement('th');
+          th.textContent = headers[idx].replace(/_/g, ' ');
+          th.dataset.colIndex = colIndex;
+          th.addEventListener('click', () => sortTable(colIndex));
+          headerRow.appendChild(th);
+        });
+        
+        // Parse data
+        for (let i = 1; i < rows.length; i++) {
+          if (rows[i].trim() === '') continue;
+          const cells = rows[i].split('\t');
+          tableData.push(cells);
+        }
+        
+        // Render table with default sort (Species column)
+        sortTable(1);
+      } catch (error) {
+        console.error('Error loading TSV:', error);
+        document.getElementById('tableBody').innerHTML = '<tr><td colspan="7">Error loading table data</td></tr>';
+      }
+    }
+
+    // Sort table by column
+    function sortTable(colIndex) {
+      const actualColIdx = columnIndices[colIndex];
+      
+      // Toggle direction if same column, otherwise ascending
+      if (currentSortColumn === colIndex) {
+        currentSortDirection = currentSortDirection === 'asc' ? 'desc' : 'asc';
+      } else {
+        currentSortDirection = 'asc';
+      }
+      currentSortColumn = colIndex;
+      
+      // Sort data
+      tableData.sort((a, b) => {
+        let aVal = a[actualColIdx] || '';
+        let bVal = b[actualColIdx] || '';
+        
+        // Try to parse as numbers for numeric columns
+        const aNum = parseFloat(aVal);
+        const bNum = parseFloat(bVal);
+        
+        if (!isNaN(aNum) && !isNaN(bNum)) {
+          return currentSortDirection === 'asc' ? aNum - bNum : bNum - aNum;
+        }
+        
+        // String comparison
+        aVal = aVal.toLowerCase();
+        bVal = bVal.toLowerCase();
+        
+        if (currentSortDirection === 'asc') {
+          return aVal < bVal ? -1 : aVal > bVal ? 1 : 0;
+        } else {
+          return aVal > bVal ? -1 : aVal < bVal ? 1 : 0;
+        }
+      });
+      
+      // Update header indicators
+      const ths = document.querySelectorAll('#crmTable th');
+      ths.forEach(th => {
+        th.classList.remove('sort-asc', 'sort-desc');
+      });
+      ths[colIndex].classList.add(currentSortDirection === 'asc' ? 'sort-asc' : 'sort-desc');
+      
+      // Render table
+      renderTable();
+    }
+    
+    // Render table from sorted data
+    function renderTable() {
+      const tableBody = document.getElementById('tableBody');
+      tableBody.innerHTML = '';
+      
+      tableData.forEach(cells => {
+        const tr = document.createElement('tr');
+        
+        columnIndices.forEach(idx => {
+          const td = document.createElement('td');
+          let cellValue = cells[idx] || '';
+          
+          // Format species names (italicize and replace underscores)
+          if (headers[idx] === 'Species') {
+            cellValue = cellValue.replace(/_/g, ' ');
+            td.innerHTML = '<em>' + cellValue + '</em>';
+          } else {
+            td.textContent = cellValue;
+          }
+          
+          tr.appendChild(td);
+        });
+        
+        tableBody.appendChild(tr);
+      });
+    }
+    
+    // Filter table function
+    function filterTable() {
+      const input = document.getElementById('tableSearch');
+      const filter = input.value.toUpperCase();
+      const table = document.getElementById('crmTable');
+      const trs = table.getElementsByTagName('tr');
+      
+      for (let i = 1; i < trs.length; i++) {
+        const tds = trs[i].getElementsByTagName('td');
+        let match = false;
+        
+        for (let j = 0; j < tds.length; j++) {
+          if (tds[j].textContent.toUpperCase().indexOf(filter) > -1) {
+            match = true;
+            break;
+          }
+        }
+        
+        trs[i].style.display = match ? '' : 'none';
+      }
+    }
+    
+    // Load table on page load
+    document.addEventListener('DOMContentLoaded', loadTSVTable);
+  </script>
+
+</body>
+</html>
