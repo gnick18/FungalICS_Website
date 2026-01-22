@@ -307,12 +307,12 @@
 
   <!-- Paper Navigation Button -->
   <button class="paper-nav-btn" data-bs-toggle="modal" data-bs-target="#paperNavModal">
-    📚 Switch Paper
+    Switch Paper
   </button>
 
   <!-- Video Button -->
   <button class="video-btn" data-bs-toggle="modal" data-bs-target="#videoModal">
-    🎬 Supplemental Video
+    Supplemental Video
   </button>
 
   <!-- Paper Navigation Modal -->
@@ -349,10 +349,9 @@
         </div>
         <div class="modal-body">
           <div class="video-container">
-            <video controls>
-              <source src="Images/SupVideo1.mov" type="video/quicktime">
-              <source src="Images/SupVideo1.mp4" type="video/mp4">
-              Your browser does not support the video tag.
+            <video controls preload="metadata">
+              <source src="Images/SupVideo1.mov" type="video/mp4">
+              Your browser does not support the video tag or the video format. Please download the video to view it.
             </video>
             <p class="video-caption">
               <strong>Supplemental Video 1.</strong> Phylogenetic reconstruction of both the ICS and NRPS-like domains strongly indicates that the fused <em>crmA</em> megasynthase originated via a single fusion event from a split ancestral lineage, rather than the split form arising from a gene fission event. This evolutionary trajectory, where functionally related, co-localized genes are fused into a single ORF, is a recurring theme in the evolution of metabolic pathways, thought to be driven by selection for improved regulation or catalytic efficiency<sup>41</sup>. The genomic architecture of the ancestral split genes, often oriented head-to-head, suggests a plausible molecular path to fusion involving a domain swap followed by gene deletion of the separating DNA. Our model is consistent with our structural modeling and our structure predictions of a flexible linker joining the two formerly separate proteins.
@@ -391,7 +390,7 @@
       <div class="accordion-item">
         <h2 class="accordion-header" id="headingTable">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTable" aria-expanded="false" aria-controls="collapseTable">
-            📋 crmA Species Table (Click to expand)
+            crmA Species Table (Click to expand)
           </button>
         </h2>
         <div id="collapseTable" class="accordion-collapse collapse" aria-labelledby="headingTable" data-bs-parent="#accordionTable">
