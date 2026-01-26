@@ -239,18 +239,27 @@
     }
 
     .table-container {
-      max-height: 600px;
+      max-height: 800px;
       overflow: auto;
     }
 
-    .table-search {
+    .table-controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       margin-bottom: 15px;
       padding: 10px;
+      gap: 15px;
+      flex-wrap: wrap;
+    }
+
+    .table-search {
+      flex-grow: 1;
+      max-width: 400px;
     }
 
     .table-search input {
       width: 100%;
-      max-width: 400px;
       padding: 10px 15px;
       border: 1px solid #ddd;
       border-radius: 25px;
@@ -260,6 +269,91 @@
     .table-search input:focus {
       outline: none;
       border-color: #406E8E;
+    }
+
+    .download-btn {
+      padding: 10px 20px;
+      background-color: #295135;
+      color: white;
+      border: none;
+      border-radius: 25px;
+      cursor: pointer;
+      font-size: 14px;
+      font-family: 'Nunito Sans', sans-serif;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .download-btn:hover {
+      background-color: #1a331f;
+    }
+
+    .download-btn:active {
+      transform: scale(0.98);
+    }
+
+    /* Protein sequence cell styles */
+    .protein-cell {
+      cursor: pointer;
+      position: relative;
+      padding: 10px;
+      transition: background-color 0.2s ease;
+      color: #dc3545;
+      font-weight: bold;
+      font-family: 'Nunito Sans', sans-serif;
+    }
+
+    .protein-cell:hover {
+      background-color: #d1e7dd !important;
+    }
+
+    .protein-cell:active {
+      background-color: #c3e0cd !important;
+    }
+
+    /* Copy notification popup */
+    .copy-notification {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: #295135;
+      color: white;
+      padding: 25px 40px;
+      border-radius: 15px;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+      z-index: 9999;
+      animation: popupFade 2s ease-in-out;
+      max-width: 90%;
+      word-break: break-all;
+      font-family: 'Nunito Sans', sans-serif;
+    }
+
+    .copy-notification-title {
+      font-weight: 700;
+      font-size: 1.2em;
+      margin-bottom: 10px;
+    }
+
+    .copy-notification-sequence {
+      font-family: monospace;
+      font-size: 0.9em;
+      background-color: rgba(255, 255, 255, 0.15);
+      padding: 10px;
+      border-radius: 5px;
+      margin-top: 10px;
+      max-height: 150px;
+      overflow-y: auto;
+      line-height: 1.4;
+    }
+
+    @keyframes popupFade {
+      0%, 100% {
+        opacity: 0;
+      }
+      10%, 90% {
+        opacity: 1;
+      }
     }
   </style>
 </head>
@@ -354,7 +448,7 @@
               Your browser does not support the video tag or the video format. Please download the video to view it.
             </video>
             <p class="video-caption">
-              <strong>Supplemental Video 1.</strong> Phylogenetic reconstruction of both the ICS and NRPS-like domains strongly indicates that the fused <em>crmA</em> megasynthase originated via a single fusion event from a split ancestral lineage, rather than the split form arising from a gene fission event. This evolutionary trajectory, where functionally related, co-localized genes are fused into a single ORF, is a recurring theme in the evolution of metabolic pathways, thought to be driven by selection for improved regulation or catalytic efficiency<sup>41</sup>. The genomic architecture of the ancestral split genes, often oriented head-to-head, suggests a plausible molecular path to fusion involving a domain swap followed by gene deletion of the separating DNA. Our model is consistent with our structural modeling and our structure predictions of a flexible linker joining the two formerly separate proteins.
+              <strong>Supplemental Video 1.</strong> Phylogenetic reconstruction of both the ICS and NRPS-like domains strongly indicates that the fused <em>crmA</em> megasynthase originated via a single fusion event from a split ancestral lineage, rather than the split form arising from a gene fission event. This evolutionary trajectory, where functionally related, co-localized genes are fused into a single ORF, is a recurring theme in the evolution of metabolic pathways, thought to be driven by selection for improved regulation or catalytic efficiency. The genomic architecture of the ancestral split genes, often oriented head-to-head, suggests a plausible molecular path to fusion involving a domain swap followed by gene deletion of the separating DNA. Our model is consistent with our structural modeling and our structure predictions of a flexible linker joining the two formerly separate proteins.
             </p>
           </div>
         </div>
@@ -370,7 +464,7 @@
   <div class="figure-container">
     <img src="Data/LichenPaper/crmA/FusariumMetabolites_pathwayOnly.png" alt="Proposed fumicicolin A biosynthetic pathway">
     <p class="figure-caption">
-      <strong>Fig. 3b from Nickles et al. (2026).</strong> Proposed fumicicolin A biosynthetic pathway, based in part on the proposed pinocicolin A pathway from Kishimoto et al. (2025)<sup>25</sup> (recreated with permission) in addition to the findings from Chen et al. (2025)<sup>26</sup>.
+      <strong>Fig. 3b from Nickles et al. (2026).</strong> Proposed fumicicolin A biosynthetic pathway, based in part on the proposed pinocicolin A pathway from Kishimoto et al. (2025) (recreated with permission) in addition to the findings from Chen et al. (2025).
     </p>
   </div>
 
@@ -395,8 +489,13 @@
         </h2>
         <div id="collapseTable" class="accordion-collapse collapse" aria-labelledby="headingTable" data-bs-parent="#accordionTable">
           <div class="accordion-body">
-            <div class="table-search">
-              <input type="text" id="tableSearch" placeholder="Search species or accession..." onkeyup="filterTable()">
+            <div class="table-controls">
+              <div class="table-search">
+                <input type="text" id="tableSearch" placeholder="Search species or accession..." onkeyup="filterTable()">
+              </div>
+              <button class="download-btn" onclick="downloadTableAsTSV()">
+                ⬇️ Download as TSV
+              </button>
             </div>
             <div class="table-container">
               <table id="crmTable">
@@ -436,7 +535,7 @@
         const headerRow = document.getElementById('tableHeader');
         
         // Only show a subset of columns for readability
-        const columnsToShow = ['Accession', 'Species', 'Lichen', 'crm_protein', 'nrps_protein', 'bp_separating', 'NRPS_attached_ICS?'];
+        const columnsToShow = ['NCBI_Accession', 'Species', 'Lichen', 'crm_protein', 'nrps_protein', 'bp_separating', 'NRPS_attached_ICS?', 'nrps_direction', 'crm_proteinSeq', 'nrps_proteinSeq'];
         columnIndices = columnsToShow.map(col => headers.indexOf(col)).filter(idx => idx !== -1);
         
         // Build header with click handlers
@@ -526,7 +625,33 @@
           if (headers[idx] === 'Species') {
             cellValue = cellValue.replace(/_/g, ' ');
             td.innerHTML = '<em>' + cellValue + '</em>';
-          } else {
+          }
+          // Handle crm_proteinSeq column with click-to-copy (always shows button if has data)
+          else if (headers[idx] === 'crm_proteinSeq') {
+            if (cellValue && cellValue.trim() !== '' && cellValue.trim() !== '-') {
+              td.className = 'protein-cell';
+              td.textContent = 'Click to copy';
+              td.title = 'Click to copy protein sequence to clipboard';
+              td.onclick = () => copyProteinSequence(cellValue, headers[idx]);
+            } else {
+              td.textContent = '-';
+            }
+          }
+          // Handle nrps_proteinSeq column (only show button for actual sequences, not special values)
+          else if (headers[idx] === 'nrps_proteinSeq') {
+            const trimmedValue = cellValue.trim();
+            // Check if it's a special value (not a protein sequence)
+            if (trimmedValue === 'SameAs_crm' || trimmedValue === 'None' || trimmedValue === '' || trimmedValue === '-') {
+              td.textContent = trimmedValue || '-';
+            } else {
+              // It's an actual protein sequence - show click to copy button
+              td.className = 'protein-cell';
+              td.textContent = 'Click to copy';
+              td.title = 'Click to copy protein sequence to clipboard';
+              td.onclick = () => copyProteinSequence(cellValue, headers[idx]);
+            }
+          }
+          else {
             td.textContent = cellValue;
           }
           
@@ -534,6 +659,35 @@
         });
         
         tableBody.appendChild(tr);
+      });
+    }
+    
+    // Copy protein sequence to clipboard and show notification
+    function copyProteinSequence(sequence, columnName) {
+      // Copy to clipboard
+      navigator.clipboard.writeText(sequence).then(() => {
+        // Create notification popup
+        const notification = document.createElement('div');
+        notification.className = 'copy-notification';
+        
+        const title = document.createElement('div');
+        title.className = 'copy-notification-title';
+        title.textContent = '✓ Protein Sequence Copied!';
+        
+        const seqDisplay = document.createElement('div');
+        seqDisplay.className = 'copy-notification-sequence';
+        seqDisplay.textContent = sequence;
+        
+        notification.appendChild(title);
+        notification.appendChild(seqDisplay);
+        document.body.appendChild(notification);
+        
+        // Remove notification after 2 seconds
+        setTimeout(() => {
+          notification.remove();
+        }, 2000);
+      }).catch(err => {
+        alert('Failed to copy sequence to clipboard: ' + err);
       });
     }
     
@@ -557,6 +711,33 @@
         
         trs[i].style.display = match ? '' : 'none';
       }
+    }
+    
+    // Download table as TSV
+    function downloadTableAsTSV() {
+      // Build TSV content from visible columns
+      let tsvContent = '';
+      
+      // Add headers (visible columns only)
+      const headerCells = columnIndices.map(idx => headers[idx]);
+      tsvContent += headerCells.join('\t') + '\n';
+      
+      // Add data rows (visible columns only)
+      tableData.forEach(row => {
+        const rowData = columnIndices.map(idx => row[idx] || '');
+        tsvContent += rowData.join('\t') + '\n';
+      });
+      
+      // Create download link
+      const blob = new Blob([tsvContent], { type: 'text/tab-separated-values' });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'crmA_species_table.tsv';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      window.URL.revokeObjectURL(url);
     }
     
     // Load table on page load
