@@ -192,6 +192,18 @@
     .otherPage_color {
       color: #cbcbcb;
     }
+
+    .offcanvas-body h4 {
+      color: #295135;
+      font-weight: 700;
+      margin-top: 15px;
+      margin-bottom: 10px;
+    }
+
+    .offcanvas-body p {
+      text-align: left;
+      margin-bottom: 10px;
+    }
   </style>
 </head>
 
@@ -244,6 +256,28 @@
     <a href="lichen_lff3.html" class="lff-btn">LFF3</a>
     <a href="lichen_lff4.html" class="lff-btn">LFF4</a>
     <a href="lichen_crma.html" class="lff-btn crma">crmA</a>
+  </div>
+
+  <button class="btn btn-outline-primary btn-lg" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">Click for download options</button>
+  <div class="offcanvas offcanvas-start" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
+    <div class="offcanvas-header">
+      <h3 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">Download Options</h3>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <h4>Supplementary Tables</h4>
+      <p>Download the supplementary tables from the publication:</p>
+      <p><a href="Data/LichenPaper/SupTables/SupTables.xlsx" download class="btn btn-sm btn-primary">Download SupTables.xlsx</a></p>
+      <p class="text-muted" style="font-size: 0.85em; text-align: left;">Contains all supplementary tables included with the published manuscript.</p>
+      <hr>
+      <h4>Extra Supplementary Tables</h4>
+      <p>Additional tables from the supplementary repository (not included in the main paper due to journal limits):</p>
+      <p><a href="Data/LichenPaper/SupTables/SupRepository_ExtraTables.xlsx" download class="btn btn-sm btn-success">Download ExtraTables.xlsx</a></p>
+      <p class="text-muted" style="font-size: 0.85em; text-align: left;">Contains five additional supplementary tables providing extended data and analysis.</p>
+      <hr>
+      <h4>Alternative Access</h4>
+      <p style="text-align: left;">These tables are also available through the <a href="https://zenodo.org/records/20026166" target="_blank">Zenodo repository</a> for programmatic access and version control.</p>
+    </div>
   </div>
 
   <div class="figure-container">
